@@ -1,0 +1,14 @@
+{
+  "$schema": "./node_modules/@stryker-mutator/core/schema/stryker-schema.json",
+  "_comment": "Mutation score of the finding validator (validateFindings in server/review.js): would any test notice if one of its checks were weakened? Command runner: every mutant runs the whole node:test suite. Run with `npm run test:mutation`; the score is recorded in ../CONSTRAINTS.md.",
+  "testRunner": "command",
+  "commandRunner": { "command": "node --test tests/*.test.js" },
+  "mutate": ["server/review.js:61-126"],
+  "ignorePatterns": ["dist", ".local", "test-results", "playwright-report", "reports", "tests/e2e"],
+  "reporters": ["clear-text", "progress", "json"],
+  "jsonReporter": { "fileName": "reports/mutation/validator.json" },
+  "concurrency": 4,
+  "timeoutMS": 20000,
+  "tempDirName": ".stryker-tmp",
+  "cleanTempDir": "always"
+}

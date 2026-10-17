@@ -1,0 +1,101 @@
+{
+ "id": "N123",
+ "revision": 1,
+ "title": "for-41-supplier-confidentiality-agreement-and-non-disclosure-agreement.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 123,
+  "type": "search-pdf",
+  "url": "https://www.gov.mb.ca/housing/pubs/procurement/for-41-supplier-confidentiality-agreement-and-non-disclosure-agreement.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s1",
+   "text": "SUPPLIER CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s2",
+   "text": "WHEREAS, Manitoba "
+  },
+  {
+   "id": "s3",
+   "text": "Housing may be furnishing "
+  },
+  {
+   "id": "s4",
+   "text": "________________________ "
+  },
+  {
+   "id": "s5",
+   "text": "(the “Recipient”) certain confidential information relating to _________________ "
+  },
+  {
+   "id": "s6",
+   "text": "(Project No/ Reference) "
+  },
+  {
+   "id": "s7",
+   "text": "___________________________________________________________________ "
+  },
+  {
+   "id": "s8",
+   "text": "(Project Title & Address)"
+  },
+  {
+   "id": "s9",
+   "text": "WHEREAS, the recipient agrees to review, examine, inspect or obtain such confidential information only for the purposes described above, and to otherwise hold such information confidential pursuant to the terms of this Agreement."
+  },
+  {
+   "id": "s10",
+   "text": "BE IT KNOWN, that Manitoba Housing has or may furnish to the Recipient certain confidential information on the following conditions:"
+  },
+  {
+   "id": "s11",
+   "text": "1. The recipient agrees to hold all information provided by Manitoba Housing (“Confidential Information”) in trust and confidence and agrees that it shall be used only for the contemplated purposes, shall not be used for any other purpose or disclosed to any third part."
+  },
+  {
+   "id": "s12",
+   "text": "2. Manitoba "
+  },
+  {
+   "id": "s13",
+   "text": "Housing grants no rights to the confidential information. "
+  },
+  {
+   "id": "s14",
+   "text": "All confidential information shall remain the sole property of Manitoba Housing."
+  },
+  {
+   "id": "s15",
+   "text": "3. No copies will be made or retained of any written information without the permission of Manitoba Housing."
+  },
+  {
+   "id": "s16",
+   "text": "4. At the conclusion of any discussions or upon demand by Manitoba Housing, all confidential information or written notes taken shall be returned to Manitoba Housing."
+  },
+  {
+   "id": "s17",
+   "text": "5. Confidential information shall not be disclosed to any employee, consultant or third party unless they have executed and agreed to be bound by the terms of the Agreement, and have been approved by Manitoba Housing."
+  },
+  {
+   "id": "s18",
+   "text": "6. This Agreement and its validity, construction and effect shall be governed by the laws of Manitoba."
+  },
+  {
+   "id": "s19",
+   "text": "AGREED AND ACCEPTED BY:"
+  },
+  {
+   "id": "s20",
+   "text": "Date:"
+  },
+  {
+   "id": "s21",
+   "text": "Name of Representative (Please Print) Signature of Representative"
+  },
+  {
+   "id": "s22",
+   "text": "On behalf of the Recipient (Company Name) E-mail address"
+  }
+ ]
+}

@@ -1,0 +1,325 @@
+{
+ "id": "N183",
+ "revision": 1,
+ "title": "nda_1.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 183,
+  "type": "search-pdf",
+  "url": "https://www.sanmina.com/wp-content/uploads/2016/04/nda.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "Supplier Non-Disclosure "
+  },
+  {
+   "id": "s1",
+   "text": "Agreement"
+  },
+  {
+   "id": "s2",
+   "text": "This Nondisclosure Agreement (“Agreement”) is made and entered into as of this ____ day of __________ 20__ (“Effective Date”) by and between Sanmina Corporation a Delaware corporation having a principal place of business at 2700 N. First Street, San Jose, California 95134 and its subsidiaries and affiliates (collectively “Sanmina”) and "
+  },
+  {
+   "id": "s3",
+   "text": "____________________________ "
+  },
+  {
+   "id": "s4",
+   "text": "a __________________ company/corporation (“Recipient”) having a principal place of business at "
+  },
+  {
+   "id": "s5",
+   "text": "_________________________________."
+  },
+  {
+   "id": "s6",
+   "text": "1. Purpose of Disclosure."
+  },
+  {
+   "id": "s7",
+   "text": "The purpose of this Agreement is to permit the parties to evaluate whether to enter into a business relationship and related projects (the “Purpose”). "
+  },
+  {
+   "id": "s8",
+   "text": "In connection with such discussions, Sanmina may disclose Confidential Informa-tion (defined below) to Recipient."
+  },
+  {
+   "id": "s9",
+   "text": "2. Confidential Information Defined."
+  },
+  {
+   "id": "s10",
+   "text": "“Confidential Information” shall mean and include "
+  },
+  {
+   "id": "s11",
+   "text": "(i) samples and prototypes, "
+  },
+  {
+   "id": "s12",
+   "text": "(ii) all information disclosed in any form or medium (e.g., written, verbal, electronic, visual) which "
+  },
+  {
+   "id": "s13",
+   "text": "(a) has been identified by Sanmina as “Confidential,” “Proprietary” or other appropriate legend indicating the confidential nature of the information or "
+  },
+  {
+   "id": "s14",
+   "text": "(b) would reasonably be understood to be confidential. "
+  },
+  {
+   "id": "s15",
+   "text": "Confidential Information includes, but is not limited to, information regarding pricing, customers and prospective customers, vendors and vendor lists, costed bills of materials, processes (including but not limited to manufacturing processes), know-how, designs (including but not limited to designs of enclosures and printed circuit boards), formulae, computer programs, databases, methods of operation, sales techniques, business methods or plans, marketing plans and strategies, finances, management, plant and equipment, and any other business information relating to Sanmina, whether constituting a trade secret, proprietary information or otherwise, which has value to Sanmina and is treated by Sanmina as being confidential."
+  },
+  {
+   "id": "s16",
+   "text": "3. Information That Is Not Confidential."
+  },
+  {
+   "id": "s17",
+   "text": "Information in the following categories shall not be considered Confidential Information under this Agreement: "
+  },
+  {
+   "id": "s18",
+   "text": "(a) information which is in the public domain at the time of the receipt under this Agreement; "
+  },
+  {
+   "id": "s19",
+   "text": "(b)"
+  },
+  {
+   "id": "s20",
+   "text": "information which comes into the public domain after receipt under this Agreement without a breach of this Agreement by the Recipient; "
+  },
+  {
+   "id": "s21",
+   "text": "(c) information which the Recipient can show was in the Recipient’s possession before the date of disclosure under this Agreement; "
+  },
+  {
+   "id": "s22",
+   "text": "(d) information that the Recipient can show was acquired by the Recipient from a third party who was not known by the Recipient to be under an obligation of confidence to Sanmina; and "
+  },
+  {
+   "id": "s23",
+   "text": "(e) information which the Recipient can show was independently developed by the Recipient without reference to Sanmina’s Confidential Information."
+  },
+  {
+   "id": "s24",
+   "text": "4. Disclosure Period and Termination."
+  },
+  {
+   "id": "s25",
+   "text": "This Agreement controls Confidential Information which is disclosed from the Effective Date until terminated. "
+  },
+  {
+   "id": "s26",
+   "text": "Recipient’s duty of non-disclosure under this Agreement shall extend beyond the term of this Agreement for a period of three (3) years from the date of last disclosure. "
+  },
+  {
+   "id": "s27",
+   "text": "This Agreement may be terminated by either party upon thirty (30) days written notice to the other party. "
+  },
+  {
+   "id": "s28",
+   "text": "The parties agree that Confidential Information constituting a trade secret shall remain subject to the confidentiality obligations of this Agreement for so long as such Confidential Information qualifies as a trade secret under applicable law."
+  },
+  {
+   "id": "s29",
+   "text": "5. Duty to Protect."
+  },
+  {
+   "id": "s30",
+   "text": "Recipient shall protect the disclosed Confidential Information by using the same degree of care, but no less than a reasonable degree of care, to prevent the unauthorized use, dissemination or publication of the Confidential Information as the Recipient uses to protect its own Confidential Information of a similar nature. "
+  },
+  {
+   "id": "s31",
+   "text": "Recipient shall "
+  },
+  {
+   "id": "s32",
+   "text": "(i) limit access to all Confidential Information to its employees who shall reasonably require access to the Confidential Information for the purpose set forth above, "
+  },
+  {
+   "id": "s33",
+   "text": "(ii) shall insure that all such employees have signed a nondisclosure agreement in content substantially similar to this Agreement, "
+  },
+  {
+   "id": "s34",
+   "text": "(iii) shall use the Confidential Information solely in connection with the Purpose, and "
+  },
+  {
+   "id": "s35",
+   "text": "(iv) shall use due diligence to insure that all such persons comply with the provisions of this Agreement. "
+  },
+  {
+   "id": "s36",
+   "text": "Recipient shall be liable for any breach of this Agreement by its employees or representatives."
+  },
+  {
+   "id": "s37",
+   "text": "6. Court Orders."
+  },
+  {
+   "id": "s38",
+   "text": "Nothing contained in this Agreement shall restrict "
+  },
+  {
+   "id": "s39",
+   "text": "Recipient from disclosing Confidential Information that is required to be disclosed under any subpoena or court order provided that the Recipient provides Sanmina with prompt notice so that Sanmina may, at its expense, seek a protective order or take other appropriate measures."
+  },
+  {
+   "id": "s40",
+   "text": "7. No Further Rights or Duties Implied."
+  },
+  {
+   "id": "s41",
+   "text": "Sanmina does not warrant that the Confidential Information it discloses, either by itself or when combined with other information or when used in a particular manner, will be sufficient or suitable for the Recipient’s purposes. "
+  },
+  {
+   "id": "s42",
+   "text": "The Confidential Information is provided “AS IS” with all faults. "
+  },
+  {
+   "id": "s43",
+   "text": "Sanmina shall not be liable for the accuracy or completeness of the Confidential Information."
+  },
+  {
+   "id": "s44",
+   "text": "Nothing contained herein shall grant a license under any patent or other intellectual property right, nor shall this Agreement or any transmission of information constitute any representation or warranty to the Recipient with respect to infringement of any intellectual property rights of others."
+  },
+  {
+   "id": "s45",
+   "text": "Sanmina has no obligation under this Agreement to purchase any item or service from the Recipient."
+  },
+  {
+   "id": "s46",
+   "text": "8. Return of Confidential Information."
+  },
+  {
+   "id": "s47",
+   "text": "Within ten (10) days after any written request by Sanmina, the Recipient shall promptly return all copies of the Confidential Information except copies required for backup, disaster recovery, or business continuity and in such case the obligations hereunder shall survive until such copies are destroyed."
+  },
+  {
+   "id": "s48",
+   "text": "9. Governing Law."
+  },
+  {
+   "id": "s49",
+   "text": "This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to its conflicts of law principles. "
+  },
+  {
+   "id": "s50",
+   "text": "The parties agree that the state courts of Santa Clara County, California and the federal courts located in the Northern District of the State of California shall have exclusive jurisdiction and venue to adjudicate any and all disputes arising out of or in connection with this Agreement. "
+  },
+  {
+   "id": "s51",
+   "text": "The parties consent to the exercise by such courts of personal jurisdiction over them and each party waives any objection it might otherwise have to venue, personal jurisdiction, inconvenience of forum, and any similar or related doctrine."
+  },
+  {
+   "id": "s52",
+   "text": "10. Remedies."
+  },
+  {
+   "id": "s53",
+   "text": "Recipient agrees that its obligations hereunder are necessary and reasonable in order to protect Sanmina and Sanmina’s business, and expressly agrees that monetary damages will be inadequate to compensate Sanmina for any breach by either party of any covenants and agreements set forth herein. "
+  },
+  {
+   "id": "s54",
+   "text": "Accordingly, Recipient agrees and acknowledges that any such violation or threatened violation will cause irreparable injury to Sanmina and that, in addition to any other remedies that may be available, in law, in equity or otherwise, Sanmina will be entitled to seek injunctive relief against the threatened breach of this Agreement or the continuation of any such breach, without the necessity of proving actual damages and without the necessity of posting bond."
+  },
+  {
+   "id": "s55",
+   "text": "11. Export Restrictions."
+  },
+  {
+   "id": "s56",
+   "text": "Recipient acknowledges its obligations to control access to technical data under the U.S. export laws and regulations and agrees to adhere to such laws and regulations with regard to any technical data received under this Agreement."
+  },
+  {
+   "id": "s57",
+   "text": "12. Entire Agreement."
+  },
+  {
+   "id": "s58",
+   "text": "This document contains the complete and exclusive Agreement between the parties, and it is intended to be final expression of their agreement. "
+  },
+  {
+   "id": "s59",
+   "text": "No promise, representation, warranty or covenant not included in this document has been or is relied upon by any party. "
+  },
+  {
+   "id": "s60",
+   "text": "Each party has relied upon its own examination of the warranties, representations and covenants expressly contained in the Agreement itself. "
+  },
+  {
+   "id": "s61",
+   "text": "No modification or amendment of this Agreement shall be of any force unless in writing executed by all parties hereto."
+  },
+  {
+   "id": "s62",
+   "text": "13. Notices."
+  },
+  {
+   "id": "s63",
+   "text": "Wherever one party is required or permitted or required to give written notice to the other under this Agreement, such notice will be given by hand, by certified U.S. mail, return receipt requested, by overnight courier, or by fax and addressed to the appropriate officer of such party (with a copy to the Legal Department) at the address set forth in the preamble. "
+  },
+  {
+   "id": "s64",
+   "text": "All such notices shall be effective upon receipt. "
+  },
+  {
+   "id": "s65",
+   "text": "Either party may designate a different notice address from time to time upon giving five (5) days’ prior written notice thereof to the other party."
+  },
+  {
+   "id": "s66",
+   "text": "14. Assignment."
+  },
+  {
+   "id": "s67",
+   "text": "Neither this Agreement nor any rights or obligations hereunder shall be transferred or assigned by either party without the written consent of the other party, which consent shall not be unreasonably withheld or delayed. "
+  },
+  {
+   "id": "s68",
+   "text": "Sanmina Corporation "
+  },
+  {
+   "id": "s69",
+   "text": "__________________________________"
+  },
+  {
+   "id": "s70",
+   "text": "By:______________________________ "
+  },
+  {
+   "id": "s71",
+   "text": "By:_______________________________"
+  },
+  {
+   "id": "s72",
+   "text": "Printed Name:______________________ "
+  },
+  {
+   "id": "s73",
+   "text": "Printed Name:______________________"
+  },
+  {
+   "id": "s74",
+   "text": "Title:_____________________________ "
+  },
+  {
+   "id": "s75",
+   "text": "Title:_____________________________"
+  },
+  {
+   "id": "s76",
+   "text": "Date:_____________________________ "
+  },
+  {
+   "id": "s77",
+   "text": "Date:_____________________________"
+  }
+ ]
+}

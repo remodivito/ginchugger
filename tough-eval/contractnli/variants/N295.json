@@ -1,0 +1,85 @@
+{
+ "id": "N295",
+ "revision": 1,
+ "title": "Non-Disclosure-form.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 295,
+  "type": "search-pdf",
+  "url": "https://careers.state.gov/wp-content/uploads/2016/02/Non-Disclosure-form.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "Department of State"
+  },
+  {
+   "id": "s1",
+   "text": "Washington, DC 20520"
+  },
+  {
+   "id": "s2",
+   "text": "NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s3",
+   "text": "By signing below I agree to the following conditions:"
+  },
+  {
+   "id": "s4",
+   "text": "1) I will hold confidential the content of the Foreign Service Oral Assessment."
+  },
+  {
+   "id": "s5",
+   "text": "2) I will not disclose, publish, reproduce or transmit any examination material or content by any means for any reason."
+  },
+  {
+   "id": "s6",
+   "text": "3) I will not participate in any systematic attempt to recreate the material by memory following the examination."
+  },
+  {
+   "id": "s7",
+   "text": "I understand that conduct that shows poor judgment and/or lack of discretion that may affect the State Department’s ability to carry out its responsibility and mission is grounds to find me unsuitable for employment."
+  },
+  {
+   "id": "s8",
+   "text": "These provisions are consistent with and do not supersede, conflict with, or otherwise alter the employee obligations, rights, or liabilities created by existing statute or Executive order relating to "
+  },
+  {
+   "id": "s9",
+   "text": "(1) classified information, "
+  },
+  {
+   "id": "s10",
+   "text": "(2) communications to Congress, "
+  },
+  {
+   "id": "s11",
+   "text": "(3) the reporting to an Inspector General of a violation of any law, rule, or regulation, or mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety, or "
+  },
+  {
+   "id": "s12",
+   "text": "(4) any other whistleblower protection. "
+  },
+  {
+   "id": "s13",
+   "text": "The definitions, requirements, obligations, rights, sanctions, and liabilities created by controlling Executive orders and statutory provisions are incorporated into this agreement and are controlling."
+  },
+  {
+   "id": "s14",
+   "text": "________________________ "
+  },
+  {
+   "id": "s15",
+   "text": "_________________"
+  },
+  {
+   "id": "s16",
+   "text": "Signature Date"
+  },
+  {
+   "id": "s17",
+   "text": "_____________________________________________"
+  }
+ ]
+}

@@ -1,0 +1,237 @@
+{
+ "id": "N188",
+ "revision": 1,
+ "title": "nda_3.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 188,
+  "type": "search-pdf",
+  "url": "https://www.arin.net/about/corporate/agreements/nda.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "AMERICAN REGISTRY FOR INTERNET NUMBERS (ARIN) NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "This is an Agreement between the American Registry for Internet Numbers (hereinafter referred to as ARIN) and (hereinafter referred to as Applicant). "
+  },
+  {
+   "id": "s2",
+   "text": "It is recognized that it may be desirable for the Applicant to provide ARIN with specific proprietary information for the purpose of ARIN's allocation of IP address space. "
+  },
+  {
+   "id": "s3",
+   "text": "W ith respect to such information the parties agree as follows:"
+  },
+  {
+   "id": "s4",
+   "text": "(1) \"Proprietary Information\" shall be defined as and limited to, "
+  },
+  {
+   "id": "s5",
+   "text": "(a) network engineering plans, including subnets, and host counts, and hosts per subnet with projected utilization rates and associated confidence levels of those projections for one and two years in the future; "
+  },
+  {
+   "id": "s6",
+   "text": "(b) deployment schedules for the network, including major milestones for each subnet; "
+  },
+  {
+   "id": "s7",
+   "text": "(c) network topology diagrams originated by the Applicant, not previously published or otherwise disclosed to the general public, not previously available without restriction to ARIN or others, and not normally furnished to others without compensation; and "
+  },
+  {
+   "id": "s8",
+   "text": "(d) such other information which the Applicant desires to protect against unrestricted disclosure or competitive use, and which the parties mutually agree shall be furnished pursuant to this Non-Disclosure Agreement and which is appropriately identified as being proprietary when initially furnished to ARIN."
+  },
+  {
+   "id": "s9",
+   "text": "(2) In order for Proprietary Information disclosed by the Applicant to ARIN to be protected in accordance with this Non-Disclosure Agreement, it must be: "
+  },
+  {
+   "id": "s10",
+   "text": "(a) in writing; "
+  },
+  {
+   "id": "s11",
+   "text": "(b) clearly identified as Proprietary Information at the time of its disclosure by each page thereof being marked with an appropriate legend, in bold faced print, indicating that the information is deemed proprietary by the Applicant; and "
+  },
+  {
+   "id": "s12",
+   "text": "(c) delivered by electronic mail, ARIN Online ticket, postal or courier service, or facsimile to the individual designated in Paragraph 3 below, or his designee."
+  },
+  {
+   "id": "s13",
+   "text": "Where the Proprietary Information has not been or cannot be reduced to written form at the time of disclosure and such disclosure is made orally and with prior assertion of proprietary rights therein, such orally disclosed proprietary information shall only be protected in accordance with this Non-Disclosure Agreement provided that complete written summaries of all proprietary aspects of any such oral disclosures shall have been delivered by Applicant to the individual identified in Paragraph 3 below, within 20 calendar days of said oral disclosures. "
+  },
+  {
+   "id": "s14",
+   "text": "The Applicant shall not identify information as proprietary which is not in good faith believed to be confidential, privileged, a trade secret, or otherwise entitled to such markings or proprietary claims."
+  },
+  {
+   "id": "s15",
+   "text": "(3) In order for the Applicant's Proprietary Information to be protected as described herein, the Proprietary Information must be delivered in written form as discussed in Paragraph 2 above to:"
+  },
+  {
+   "id": "s16",
+   "text": "American Registry for Internet Numbers"
+  },
+  {
+   "id": "s17",
+   "text": "Attn: Business Office"
+  },
+  {
+   "id": "s18",
+   "text": "PO Box 232290"
+  },
+  {
+   "id": "s19",
+   "text": "Centreville, VA 20120 USA"
+  },
+  {
+   "id": "s20",
+   "text": "(4) ARIN covenants and agrees that it will take reasonable care to prevent the disclosure to any person or persons outside its organization or to any unauthorized person or persons specifically identified by Applicant in writing, any and all Proprietary Information which is received from the Applicant under this Non-Disclosure Agreement and which has been protected in accordance with paragraphs 2 and 3 hereof; provided, however, that ARIN shall not be liable for disclosure of such information if any or all of such information:"
+  },
+  {
+   "id": "s21",
+   "text": "A. W as in the public domain at the time it was disclosed, or"
+  },
+  {
+   "id": "s22",
+   "text": "B. Becomes part of the public domain without breach of this Agreement, or"
+  },
+  {
+   "id": "s23",
+   "text": "C. Is disclosed with the written approval of the Applicant, or"
+  },
+  {
+   "id": "s24",
+   "text": "D. Is disclosed after three years from ARIN's receipt of the information, or"
+  },
+  {
+   "id": "s25",
+   "text": "E. W as independently developed by ARIN, or"
+  },
+  {
+   "id": "s26",
+   "text": "F. Is or was disclosed by the Applicant to a third party without restriction, or"
+  },
+  {
+   "id": "s27",
+   "text": "G. Is disclosed pursuant to the provisions of a court order."
+  },
+  {
+   "id": "s28",
+   "text": "As between the parties hereto, the provisions of this Paragraph 4 shall supersede the provisions of any inconsistent legend that may be affixed to said data by the Applicant, and the inconsistent provisions of any such legend shall be without any force or effect."
+  },
+  {
+   "id": "s29",
+   "text": "Any Protected Information provided by the Applicant to ARIN shall be used only in furtherance of the purposes described in this Agreement, and shall be, upon written request at any time, returned to the Applicant. "
+  },
+  {
+   "id": "s30",
+   "text": "ARIN may discard or destroy any protected information three years after receiving it, provided Applicant has not requested ARIN to return the information before that time."
+  },
+  {
+   "id": "s31",
+   "text": "(5) The standard of care for protecting Proprietary Information imposed on ARIN will be that degree of care ARIN uses to prevent disclosure, publication or dissemination of its own Proprietary Information."
+  },
+  {
+   "id": "s32",
+   "text": "(6) This Non-Disclosure "
+  },
+  {
+   "id": "s33",
+   "text": "Agreement contains the entire agreement relative to the protection of information to be provided to ARIN by the Applicant, and supersedes all prior or contemporaneous oral or written understandings or arguments regarding this issue. "
+  },
+  {
+   "id": "s34",
+   "text": "This Non-Disclosure Agreement shall not be modified or amended, except in a written instrument executed by the parties."
+  },
+  {
+   "id": "s35",
+   "text": "(7) The effective date of this Non-Disclosure Agreement shall be the date upon which the last signatory below executes this Agreement."
+  },
+  {
+   "id": "s36",
+   "text": "(8) This Non-Disclosure "
+  },
+  {
+   "id": "s37",
+   "text": "Agreement shall be governed and construed in accordance with the laws of the State of Virginia, without regard for Virginia's choice of law rules."
+  },
+  {
+   "id": "s38",
+   "text": "(9) This Non-Disclosure "
+  },
+  {
+   "id": "s39",
+   "text": "Agreement may not be assigned or otherwise transferred by either party in whole or in part without the express prior written consent of the other party, which consent shall not unreasonably be withheld. "
+  },
+  {
+   "id": "s40",
+   "text": "This consent requirement shall not apply in the event either party shall change its corporate name or merge with another corporation. "
+  },
+  {
+   "id": "s41",
+   "text": "This Non-Disclosure Agreement shall benefit and be binding upon the successors and assigns of the parties hereto."
+  },
+  {
+   "id": "s42",
+   "text": "(10) Under no circumstances, including negligence, shall ARIN be liable for any indirect, incidental, consequential, punitive or special damages for any breach of this agreement, even if ARIN has been advised of the possibility of such damages."
+  },
+  {
+   "id": "s43",
+   "text": "THE AMERICAN REGISTRY FOR INTERNET NUMBERS (ARIN)"
+  },
+  {
+   "id": "s44",
+   "text": "Name:"
+  },
+  {
+   "id": "s45",
+   "text": "Signed: Date:"
+  },
+  {
+   "id": "s46",
+   "text": "Title:"
+  },
+  {
+   "id": "s47",
+   "text": "Address: PO Box 232290, Centreville, VA 20120 USA"
+  },
+  {
+   "id": "s48",
+   "text": "Fax: "
+  },
+  {
+   "id": "s49",
+   "text": "(703) 997-8708"
+  },
+  {
+   "id": "s50",
+   "text": "APPLICA N T"
+  },
+  {
+   "id": "s51",
+   "text": "Company Name: Org-ID (if known):"
+  },
+  {
+   "id": "s52",
+   "text": "Authorized Signer (print): Ticket No. (if applicable):"
+  },
+  {
+   "id": "s53",
+   "text": "Signed: Date:"
+  },
+  {
+   "id": "s54",
+   "text": "Title: E-Mail:"
+  },
+  {
+   "id": "s55",
+   "text": "Address: Phone: Fax:"
+  }
+ ]
+}

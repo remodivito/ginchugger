@@ -1,0 +1,189 @@
+{
+ "id": "N191",
+ "revision": 1,
+ "title": "NDA%2009%20for%20website.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 191,
+  "type": "search-pdf",
+  "url": "http://www.solubest.com/media/NDA%2009%20for%20website.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "THIS AGREEMENT is entered into this ________ day of "
+  },
+  {
+   "id": "s2",
+   "text": "____________,________, by and between SOLUBEST LTD., a company organized under the laws of the State of Israel of 18 Einstein Street, Ness Ziona 74140, Israel (jointly and severally, the \"Disclosing Party\") on the one hand, and ____________, a company organized under the laws of ____________ of _______________ (the \"Receiving Party\"), on the other hand."
+  },
+  {
+   "id": "s3",
+   "text": "WHEREAS, the Disclosing Party is the developer and owner of proprietary information and a technology referred to as Solumer, with respect to the field of Nano-formulations (the \"Confidential Information”); and"
+  },
+  {
+   "id": "s4",
+   "text": "WHEREAS, Disclosing Party may wish to disclose to Receiving Party, and Receiving Party may wish to receive from Disclosing Party, Confidential Information for the sole purpose of evaluation by the Receiving Party in contemplation of a possible future business relationship between the parties hereto; and"
+  },
+  {
+   "id": "s5",
+   "text": "WHEREAS, this Agreement is intended to govern the terms and conditions under which the Confidential Information will be disclosed and treated by the parties."
+  },
+  {
+   "id": "s6",
+   "text": "NOW, THEREFORE, the parties agree as follows:"
+  },
+  {
+   "id": "s7",
+   "text": "1. DEFINITION OF CONFIDENTIAL INFORMATION."
+  },
+  {
+   "id": "s8",
+   "text": "1.1 Definition. "
+  },
+  {
+   "id": "s9",
+   "text": "The term \"Confidential Information\" shall include and mean any and all information, data, product plans, diagrams and know-how programs furnished at any time by the Disclosing Party or by any of its affiliates to the Receiving Party; whether in oral, written, graphic or machine-readable form, including but not limited to current or projected components, parts, software, hardware, technical and other data, research material, inventions, discoveries, designs, drawings, concepts, procedures, uses of materials, ideas, diagrams, marketing plans, brochures, photographs, processes, combinations, test equipment, test data, specifications, operational data, models, prototypes, materials, methods and techniques."
+  },
+  {
+   "id": "s10",
+   "text": "1.2 Exclusions. "
+  },
+  {
+   "id": "s11",
+   "text": "The following shall not be considered Confidential Information: "
+  },
+  {
+   "id": "s12",
+   "text": "(a) information that was in the public domain at the time it was disclosed; "
+  },
+  {
+   "id": "s13",
+   "text": "(b) information that can be demonstrated by documentary evidence to have been known to the Receiving Party at the time of disclosure with no obligation of confidence; and "
+  },
+  {
+   "id": "s14",
+   "text": "(c) information that becomes known to the Receiving Party from a source other than the Disclosing Party, as demonstrated by appropriate documentation, without breach of any obligation of confidence by the Receiving Party; for the avoidance of doubt it is clarified and agreed that the combination of any two materials or use thereof for a certain purpose shall be considered \"Confidential Information\" to the extent that such specific combination for such specific purpose is not excluded from the Confidential Information under the provisions of this Section 1.2, whether or not the individual, uncombined materials or use thereof are so excluded."
+  },
+  {
+   "id": "s15",
+   "text": "2. NON-DISCLOSURE. "
+  },
+  {
+   "id": "s16",
+   "text": "The Receiving Party acknowledges that the Confidential Information contains valuable trade and technical secrets of the Disclosing Party. "
+  },
+  {
+   "id": "s17",
+   "text": "The Receiving Party shall not copy (in whole or in part), sell, assign, lease, license, disclose, give or otherwise transfer the Confidential Information or any copy thereof to any third party or otherwise use the Confidential Information other than for the purpose intended under this Agreement. "
+  },
+  {
+   "id": "s18",
+   "text": "The Receiving Party may disclose the Confidential Information only to employees or consultants of the Receiving Party to have a “need to know” the Confidential Information in order to enable the Receiving Party to use the Confidential Information for the purpose intended under this Agreement and are legally bound not to use or disclose the Confidential Information for any other purpose. "
+  },
+  {
+   "id": "s19",
+   "text": "The Receiving Party shall treat the Confidential Information with the same degree of confidentiality as it keeps its own confidential information, but in all events no less than a reasonable degree of confidentiality. "
+  },
+  {
+   "id": "s20",
+   "text": "This obligation shall be binding on all employees, officers, subsidiaries, affiliates or successors of the Receiving Party and shall continue for a period of five years from the date that the Confidential Information is provided to the Receiving Party, regardless of whether the Agreement has been terminated. "
+  },
+  {
+   "id": "s21",
+   "text": "The Receiving Party may disclose Confidential Information if so required by judicial or administrative process, provided that it shall promptly notify the Disclosing Party so as to allow the Disclosing Party reasonable time to oppose such process, and provided that Receiving Party shall minimize such disclosure to the extent possible."
+  },
+  {
+   "id": "s22",
+   "text": "3. PROPRIETARY NATURE."
+  },
+  {
+   "id": "s23",
+   "text": "3.1 Ownership. "
+  },
+  {
+   "id": "s24",
+   "text": "All Confidential Information is and shall remain the property of the Disclosing Party. "
+  },
+  {
+   "id": "s25",
+   "text": "The parties acknowledge that all Confidential Information is the sole property of the Disclosing Party and that the Receiving Party shall not acquire any proprietary interest in the Confidential Information. "
+  },
+  {
+   "id": "s26",
+   "text": "All applicable rights to mask works, topographies, patents, copyrights, trademarks and trade secrets with respect to the Confidential Information are retained exclusively by the Disclosing Party."
+  },
+  {
+   "id": "s27",
+   "text": "3.2 Disclaimer. "
+  },
+  {
+   "id": "s28",
+   "text": "Except as may otherwise be set forth in another signed, written agreement between parties, the Disclosing Party makes no representation or warranty as to accuracy, completeness, condition, suitability, patentability or performance of the Confidential Information, and the Disclosing Party shall have no liability whatsoever to the Receiving Party resulting from its use of the Confidential Information."
+  },
+  {
+   "id": "s29",
+   "text": "4. TERMINATION. "
+  },
+  {
+   "id": "s30",
+   "text": "Either party may terminate this Agreement at any time by written notice to the other party. "
+  },
+  {
+   "id": "s31",
+   "text": "Upon such termination or other expiration of this Agreement, the Receiving Party will return all of the Confidential Information in written or other tangible form, including any copies made, to the Disclosing Party together with certification that any other copies or notes or summaries (to the extent including the Confidential Information) have been destroyed. "
+  },
+  {
+   "id": "s32",
+   "text": "The provisions of Sections 1 through 5 of this Agreement shall survive any termination or expiration."
+  },
+  {
+   "id": "s33",
+   "text": "5. INJUNCTIVE RELIEF. "
+  },
+  {
+   "id": "s34",
+   "text": "The parties acknowledges that a Disclosing Party will be irreparably harmed if the Receiving Party's obligations under this Agreement are not specifically enforced and that the Disclosing Party would not have an adequate remedy at law in the event of an actual or threatened violation by the Receiving Party of the Receiving Party's obligations. "
+  },
+  {
+   "id": "s35",
+   "text": "Therefore, in addition to all other remedies it may have, the Disclosing Party shall be entitled to an injunction or any appropriate decree of specific performance for any actual or threatened violations or breaches by the Receiving Party or the Receiving Party's employees or agents without the necessity of the Disclosing Party showing actual damages or that monetary damages would not afford an adequate remedy, and without posting a bond."
+  },
+  {
+   "id": "s36",
+   "text": "6. MISCELLANEOUS. "
+  },
+  {
+   "id": "s37",
+   "text": "Neither party shall assign or otherwise transfer any of its rights or obligations under this Agreement to any third party without the prior written consent of the other party; failure by a party to enforce any provisions of this Agreement at any time shall in no manner affect the right of that party at a later time to enforce any provision of this Agreement; this Agreement shall be governed by and construed in accordance with the laws of England without reference to the principles of conflict of laws; in the event that any word, phrase, clause, sentence or other provision herein shall violate any applicable statute, ordinance or rule of law in any jurisdiction which governs this Agreement, such provisions shall be effective to the extent of such violation without invalidating any other provision herein; this Agreement supersedes all previous understandings or agreements between the parties and incorporates the entire agreement of the parties with respect to the receipt and use of the Confidential Information; this Agreement may only be amended by a writing of subsequent date that is signed by both parties."
+  },
+  {
+   "id": "s38",
+   "text": "IN WITNESS WHEREOF, the parties have executed this Agreement as of the date set forth above."
+  },
+  {
+   "id": "s39",
+   "text": "SOLUBEST LTD. "
+  },
+  {
+   "id": "s40",
+   "text": "________________________________"
+  },
+  {
+   "id": "s41",
+   "text": "By: By:"
+  },
+  {
+   "id": "s42",
+   "text": "Name: Name:"
+  },
+  {
+   "id": "s43",
+   "text": "Title: Title:"
+  }
+ ]
+}

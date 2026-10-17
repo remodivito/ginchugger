@@ -1,0 +1,76 @@
+{
+  "executor": "claude",
+  "model": "claude-sonnet-5-5",
+  "effort": "medium",
+  "promptSha256": "b28aadfccb3b81dc8050339317ef0afdf2fdedda0675e52c35a97a36b6480129",
+  "userSha256": "057cb95c51ddbb7c0741f5740555afa001a970e276869b850669a2296793dc3c",
+  "userChars": 37919,
+  "usage": {
+    "input_tokens": 2,
+    "cache_creation_input_tokens": 13062,
+    "cache_read_input_tokens": 2084,
+    "output_tokens": 2784,
+    "output_tokens_details": {
+      "thinking_tokens": 912
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 13062,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "not_available",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 2784,
+        "cache_read_input_tokens": 2084,
+        "cache_creation_input_tokens": 13062,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 13062
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "modelUsage": {
+    "claude-haiku-4-5-20251001": {
+      "inputTokens": 9338,
+      "outputTokens": 18,
+      "cacheReadInputTokens": 0,
+      "cacheCreationInputTokens": 0,
+      "webSearchRequests": 0,
+      "costUSD": 0.009428,
+      "contextWindow": 200000,
+      "maxOutputTokens": 32000,
+      "thinkingTokens": 0,
+      "canonicalModel": "claude-haiku-4-5",
+      "provider": "firstParty",
+      "costBasis": "list"
+    },
+    "claude-sonnet-5-5": {
+      "inputTokens": 2,
+      "outputTokens": 2784,
+      "cacheReadInputTokens": 2084,
+      "cacheCreationInputTokens": 13062,
+      "webSearchRequests": 0,
+      "costUSD": 0.0805088,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 912,
+      "canonicalModel": "claude-sonnet-5-5",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "numTurns": 1,
+  "durationMs": 19608,
+  "stopReason": "end_turn",
+  "seconds": 20.432
+}

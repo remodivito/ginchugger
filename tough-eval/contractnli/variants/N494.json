@@ -1,0 +1,297 @@
+{
+ "id": "N494",
+ "revision": 1,
+ "title": "1123713_0001021408-00-003137_0016.txt",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 494,
+  "type": "sec-text",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001123713/000102140800003137/0001021408-00-003137.txt"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "MUTUAL NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "THIS AGREEMENT made as of the this day of , 1999"
+  },
+  {
+   "id": "s2",
+   "text": "BETWEEN"
+  },
+  {
+   "id": "s3",
+   "text": "ImagicTV Inc., a corporation incorporated under the laws of Canada and having a place of business in the City of Saint John, in the County of Saint John, Province of New Brunswick, (\"ImagicTV\")."
+  },
+  {
+   "id": "s4",
+   "text": "AND"
+  },
+  {
+   "id": "s5",
+   "text": "NBTel Inc., a Canadian corporation with its principal place of business at One Brunswick Square, Saint John, New Brunswick, Canada, (hereinafter \"NBTel\")"
+  },
+  {
+   "id": "s6",
+   "text": "WHEREAS both ImagicTV and NBTel1 possesses certain confidential proprietary information and intellectual property;"
+  },
+  {
+   "id": "s7",
+   "text": "AND WHEREAS, ImagicTV and NBTel intend to participate in a program of discussions, correspondence, and/or planning sessions in connection with the pursuit, evaluation and/or feasibility of a business relationship, and/or consummation of a transaction (the \"Program\") which may result in the mutual exchange of certain confidential information and intellectual property as herein defined;"
+  },
+  {
+   "id": "s8",
+   "text": "AND WHEREAS, ImagicTV and NBTel have agreed to enter into this agreement (the \"Agreement\") to prevent the unauthorized use and disclosure of ImagicTV's confidential proprietary information and intellectual property;"
+  },
+  {
+   "id": "s9",
+   "text": "NOW THEREFORE THIS AGREEMENT WITNESSETH that in consideration of the mutual covenants and conditions hereinafter contained, the parties hereto agree as follows:"
+  },
+  {
+   "id": "s10",
+   "text": "I. Confidential Information"
+  },
+  {
+   "id": "s11",
+   "text": "For purposes of this Agreement, \"Confidential Information\" shall mean the information, data, know-how, trade secrets, strategic and development plans, business plans, co-developer identities, data, business records, customer lists, any and all versions of software and related documentation, and all other information and documentation which is related to ImagicTV's DTV Manager System and NBTel's systems and operations which may be disclosed between each party or to which either party may be provided access by the other party or others in accordance with this Agreement, or which is generated as a result of or in connection with the Program, which is not generally available to the public."
+  },
+  {
+   "id": "s12",
+   "text": "II. Exceptions"
+  },
+  {
+   "id": "s13",
+   "text": "\"Confidential Information\" will not include information which the receiving party can establish "
+  },
+  {
+   "id": "s14",
+   "text": "(a) was, on the date of this Agreement, generally known to the public; or "
+  },
+  {
+   "id": "s15",
+   "text": "(b) became generally known to the public after the date of this Agreement other than as a result of the act or omission of the receiving party; or "
+  },
+  {
+   "id": "s16",
+   "text": "(c) was rightfully known to the receiving party prior to that party's leaming or receiving the same from the other party; or "
+  },
+  {
+   "id": "s17",
+   "text": "(d) is or was disclosed by the disclosing party to third parties generally without restrictions; or "
+  },
+  {
+   "id": "s18",
+   "text": "(e) the receiving party lawfully received from a third party without the third party's breach of agreement or obligation of trust; or "
+  },
+  {
+   "id": "s19",
+   "text": "(f) was independently developed by the receiving party; or "
+  },
+  {
+   "id": "s20",
+   "text": "(g) was disclosed pursuant to the order of a court or other government body, or as required by law."
+  },
+  {
+   "id": "s21",
+   "text": "III. Intellectual Property"
+  },
+  {
+   "id": "s22",
+   "text": "For the purposes of this Agreement, \"Intellectual Property\" shall mean any and all intellectual property to which the disclosing party has proprietary rights and may include \"Confidential Information\" which is related to ImagicTV's DTV Manager System and NBTel's operations and systems, which may be disclosed between each party or to which either party may be provided access by the other party or others in accordance with this Agreement, or which is generated as a result of or in connection with the Program."
+  },
+  {
+   "id": "s23",
+   "text": "IV. Nondisclosure Obligations"
+  },
+  {
+   "id": "s24",
+   "text": "Each party considers all of its Confidential Information and Intellectual Property to be propriety. "
+  },
+  {
+   "id": "s25",
+   "text": "All of the disclosing party's Confidential Information and Intellectual Property shall at all times, and throughout the world, remain the property of the disclosing party exclusively, and all applicable rights in patents, copyrights and trade secrets shall remain in the disclosing party exclusively. "
+  },
+  {
+   "id": "s26",
+   "text": "The receiving party promises and agrees to receive and hold the Confidential Information and Intellectual Property in confidence."
+  },
+  {
+   "id": "s27",
+   "text": "Without limiting the generality of the foregoing, the receiving party further promises and agrees: "
+  },
+  {
+   "id": "s28",
+   "text": "(a) to protect and safeguard the Confidential Information and Intellectual Property against unauthorized use, publication or disclosure; "
+  },
+  {
+   "id": "s29",
+   "text": "(b) not to use any of the Confidential Information and Intellectual Property except for the Program; "
+  },
+  {
+   "id": "s30",
+   "text": "(c) not to, directly or indirectly, in any way, reveal, report, publish, disclose, transfer or otherwise use any of the Confidential Information and Intellectual Property except as specifically authorized by disclosing party in accordance with this Agreement. "
+  },
+  {
+   "id": "s31",
+   "text": "(d) not to use any Confidential Information and Intellectual Property to compete or obtain advantage vis a vis disclosing party in any commercial activity contemplated by the parties in connection with the Program; "
+  },
+  {
+   "id": "s32",
+   "text": "(e) to restrict access to the Confidential Information and Intellectual Property to those of its officers, directors, and employees who clearly need such access to carry out the Program; "
+  },
+  {
+   "id": "s33",
+   "text": "(f) to advise each of the persons to whom it provides access to any of the Confidential Information and Intellectual Property, that such persons are strictly prohibited from making any use, publishing or otherwise disclosing to others, or permitting others to use for their benefit or to the detriment of disclosing party, any of the Confidential Information and Intellectual Property, and, upon request of disclosing party, to provide disclosing party with a copy of a written agreement to that effect signed by such persons; and "
+  },
+  {
+   "id": "s34",
+   "text": "(g) to comply with any reasonable security measures requested in writing by disclosing party."
+  },
+  {
+   "id": "s35",
+   "text": "V. No Right to Confidential Information and Intellectual Property"
+  },
+  {
+   "id": "s36",
+   "text": "Each party hereby agrees and acknowledges that no license, either express or implied, is hereby granted with respect to any of the Confidential Information and Intellectual Property. "
+  },
+  {
+   "id": "s37",
+   "text": "Each party further agrees that all inventions, improvements, copyrightable works and designs relating to machines, methods, compositions, or products of disclosing party directly resulting from or relating to the Confidential Information and Intellectual Property and the right to market, use, license and franchise the Confidential Information and Intellectual Property or the ideas, concepts, methods or practices embodied therein shall be the exclusive property of the disclosing party, and the receiving party has no right or title thereto."
+  },
+  {
+   "id": "s38",
+   "text": "VI. No Solicitation of Employees"
+  },
+  {
+   "id": "s39",
+   "text": "Each party agrees that it will not, for a period of three (3) years from the date of this Agreement, initiate contact with the other party's employees in order to solicit, entice or induce any such employee to terminate their employment effective during the term of this Agreement for the purpose of accepting employment with the other party."
+  },
+  {
+   "id": "s40",
+   "text": "VII. Enforcement"
+  },
+  {
+   "id": "s41",
+   "text": "Each party acknowledges and agrees that damages may not be an adequate remedy to compensate the other party for any breach of the obligations contained in this Agreement and, accordingly, agrees, that in addition to any other remedies available, the disclosing party shall be entitled to obtain relief by way of temporary or permanent injunction to enforce the obligations contained in this Agreement."
+  },
+  {
+   "id": "s42",
+   "text": "VIII. Indemnity"
+  },
+  {
+   "id": "s43",
+   "text": "Each party agrees to indemnify and save harmless the other party against any and all losses, damages, claims, or expenses incurred or suffered as a result of the other party's breach of this Agreement."
+  },
+  {
+   "id": "s44",
+   "text": "IX. Term and Termination."
+  },
+  {
+   "id": "s45",
+   "text": "This Agreement shall commence on the date first written above and shall automatically terminate three (3) years thereafter; however, either party may terminate this Agreement at any time prior thereto upon thirty (30) days prior written notice to the other party. "
+  },
+  {
+   "id": "s46",
+   "text": "Each party's obligations with respect to each item of the Confidential Information and Intellectual Property which it learns or receives from the other prior to the date of termination of the Agreement shall terminate three (3) years after the date of disclosure of such time of Confidential Information and Intellectual Property."
+  },
+  {
+   "id": "s47",
+   "text": "Immediately after termination of this Agreement, each party shall return to the other party all of the other party's Confidential Information and Intellectual Property which was disclosed in, or is then represented in, tangible form."
+  },
+  {
+   "id": "s48",
+   "text": "X. Severability"
+  },
+  {
+   "id": "s49",
+   "text": "Each clause in this Agreement is severable from the others and should any of the clauses be unenforceable, then the remainder of the Agreement shall continue in full force and effect notwithstanding the unenforceability of any clause. "
+  },
+  {
+   "id": "s50",
+   "text": "If any part of this Agreement shall be declared invalid or unenforceable by a court of competent jurisdiction, it shall not affect the validity of the balance of this Agreement."
+  },
+  {
+   "id": "s51",
+   "text": "XI. "
+  },
+  {
+   "id": "s52",
+   "text": "Successors and Assigns."
+  },
+  {
+   "id": "s53",
+   "text": "Neither party shall have the right to assign its rights under this Agreement, whether expressly or by operation of law, without the written consent of the other party. "
+  },
+  {
+   "id": "s54",
+   "text": "This Agreement and the obligations hereunder shall be binding on any successors and permitted assigns."
+  },
+  {
+   "id": "s55",
+   "text": "XII. "
+  },
+  {
+   "id": "s56",
+   "text": "Governing Law."
+  },
+  {
+   "id": "s57",
+   "text": "This Agreement shall be governed by and construed in accordance with the laws of the Province of New Brunswick."
+  },
+  {
+   "id": "s58",
+   "text": "XIII. "
+  },
+  {
+   "id": "s59",
+   "text": "Entire Agreement"
+  },
+  {
+   "id": "s60",
+   "text": "The terms and conditions herein constitute the entire agreement and understanding of the parties and shall supersede all communications, negotiations, arrangements and agreements, either oral or written, with respect to the subject matter hereof. "
+  },
+  {
+   "id": "s61",
+   "text": "No amendments to or modifications of this Agreement shall be effective unless reduced to writing and executed by the Parties hereto. "
+  },
+  {
+   "id": "s62",
+   "text": "The failure of either party to enforce any term hereof shall not be deemed a waiver of any rights contained herein."
+  },
+  {
+   "id": "s63",
+   "text": "IN WITNESS WHEREOF the parties hereto have executed these presents as of the day and year first hereinbefore written."
+  },
+  {
+   "id": "s64",
+   "text": "SIGNED, SEALED and DELIVERED "
+  },
+  {
+   "id": "s65",
+   "text": ")"
+  },
+  {
+   "id": "s66",
+   "text": "in the presence of "
+  },
+  {
+   "id": "s67",
+   "text": ") ImagicTV Inc."
+  },
+  {
+   "id": "s68",
+   "text": ") per_______________________"
+  },
+  {
+   "id": "s69",
+   "text": ") NBTel Inc."
+  },
+  {
+   "id": "s70",
+   "text": ") per_______________________"
+  }
+ ]
+}

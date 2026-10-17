@@ -1,0 +1,297 @@
+{
+ "id": "N437",
+ "revision": 1,
+ "title": "1013687_0000950144-96-001973_document_38.txt",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 437,
+  "type": "sec-text",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001013687/000095014496001973/0000950144-96-001973.txt"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "CONFIDENTIALITY/NON-DISCLOSURE AGREEMENT PERMITTING ACCESS TO SYSTEM DOCUMENTATION AND DATA FILES FOR DATA CONVERSION"
+  },
+  {
+   "id": "s1",
+   "text": "THIS CONFIDENTIALITY/NON-DISCLOSURE AGREEMENT PERMITTING ACCESS TO SYSTEM DOCUMENTATION AND DATA FILES FOR DATA CONVERSION (hereinafter referred to as the \"Agreement\") is made and entered into as of the last day and year written below by and between Phoenix International Ltd., Inc., a Florida Corporation, of 900 Winderley Place, Suite 140, Maitland, Florida 32751 (\"Company\"), and the following parties:"
+  },
+  {
+   "id": "s2",
+   "text": "<TABLE>"
+  },
+  {
+   "id": "s3",
+   "text": "<S> <C>"
+  },
+  {
+   "id": "s4",
+   "text": "CLIENT: RECIPIENT:"
+  },
+  {
+   "id": "s5",
+   "text": "------------------------------------------- "
+  },
+  {
+   "id": "s6",
+   "text": "-------------------------------------------------------"
+  },
+  {
+   "id": "s7",
+   "text": "------------------------------------------- "
+  },
+  {
+   "id": "s8",
+   "text": "-------------------------------------------------------"
+  },
+  {
+   "id": "s9",
+   "text": "------------------------------------------- "
+  },
+  {
+   "id": "s10",
+   "text": "-------------------------------------------------------"
+  },
+  {
+   "id": "s11",
+   "text": "Contact: Contact:"
+  },
+  {
+   "id": "s12",
+   "text": "----------------------------------- "
+  },
+  {
+   "id": "s13",
+   "text": "-----------------------------------------------"
+  },
+  {
+   "id": "s14",
+   "text": "Telephone: Telephone:"
+  },
+  {
+   "id": "s15",
+   "text": "--------------------------------- "
+  },
+  {
+   "id": "s16",
+   "text": "---------------------------------------------"
+  },
+  {
+   "id": "s17",
+   "text": "(above party is hereinafter to as \"Client\") "
+  },
+  {
+   "id": "s18",
+   "text": "(above party is hereinafter referred to as \"Recipient\")"
+  },
+  {
+   "id": "s19",
+   "text": "</TABLE>"
+  },
+  {
+   "id": "s20",
+   "text": "Purpose of Agreement:"
+  },
+  {
+   "id": "s21",
+   "text": "Company has developed, owns, uses, or re-markets certain confidential and proprietary computer software and related documentation and materials (all of which shall collectively be referred to hereinafter as \"Application Software\"), which Application Software is used to process certain of Client's data pursuant to a separate license or service agreement between Company and Client. "
+  },
+  {
+   "id": "s22",
+   "text": "Client desires that certain of its data being processed by the Application Software be converted to another software program (hereinafter referred to as the \"Conversion\"), and Client desires that Recipient assist with this Conversion."
+  },
+  {
+   "id": "s23",
+   "text": "In order for Recipient to perform Recipient's job functions with Client, Client desires that Recipient have access to those data files of Client and to those portions of the documentation for the Application Software which are specifically identified in Paragraph 1 below (those items identified in Paragraph 1 shall collectively be hereinafter referred to as the \"Confidential Information\"). "
+  },
+  {
+   "id": "s24",
+   "text": "Recipient, on its own behalf and on behalf of its employees, agrees to abide by the terms of this Agreement. "
+  },
+  {
+   "id": "s25",
+   "text": "Company and Client agree to permit Recipient to have access to the Confidential Information as requested herein by Client, but only in accordance with the terms of this Agreement."
+  },
+  {
+   "id": "s26",
+   "text": "Therefore, in consideration of the premises hereof, and other good and valuable consideration not herein recited but the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:"
+  },
+  {
+   "id": "s27",
+   "text": "1. Grant of Access to Confidential Information. "
+  },
+  {
+   "id": "s28",
+   "text": "Company and Client hereby agree to permit Recipient to have access to the Confidential Information listed below for the sole purpose of assisting Client with the Conversion, and such access is granted solely upon the terms and conditions set forth in this Agreement. "
+  },
+  {
+   "id": "s29",
+   "text": "This Agreement DOES NOT grant to Recipient the right to have access to any portion of the Application Software other than the documentation specifically set forth below. "
+  },
+  {
+   "id": "s30",
+   "text": "The Confidential Information to be disclosed is as follows:"
+  },
+  {
+   "id": "s31",
+   "text": "Client data files to be Deconverted: "
+  },
+  {
+   "id": "s32",
+   "text": "---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+  },
+  {
+   "id": "s33",
+   "text": "Application Software Documentation to be Provided to Recipient: "
+  },
+  {
+   "id": "s34",
+   "text": "------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+  },
+  {
+   "id": "s35",
+   "text": "2. Confidential Nature of Application Software and Confidential Information. "
+  },
+  {
+   "id": "s36",
+   "text": "Recipient acknowledges that the Application Software and all documentation and related materials are proprietary to Company and are confidential and constitute a valuable asset of Company, and that the data files contained in the Confidential Information are proprietary to Client and are confidential and constitute a valuable asset of Client. "
+  },
+  {
+   "id": "s37",
+   "text": "Recipient agrees to safeguard the Confidential Information, and Recipient shall not disclose or give access to the Confidential Information to any person or entity other than those employees of Recipient who have a need for such access in order to assist Client with Conversion."
+  },
+  {
+   "id": "s38",
+   "text": "3. Unauthorized Use. Recipient shall not make any unauthorized use or disclosure of the Confidential Information and Recipient shall promptly advise Company and Client in writing if Recipient learns of any unauthorized use or disclosure of the Confidential Information or Application Software by anyone, whether an employee, former employee or agent of Recipient, or others, and shall immediately take all reasonable steps within Recipient's power to stop any unauthorized use or disclosure of the Confidential Information or Application Software by anyone. "
+  },
+  {
+   "id": "s39",
+   "text": "Recipient shall not, and it will not permit anyone else, to copy the Confidential Information or Application Software."
+  },
+  {
+   "id": "s40",
+   "text": "4. Termination. "
+  },
+  {
+   "id": "s41",
+   "text": "In the event an employee of Recipient terminates his or her employment with Recipient, Recipient agrees to require such terminated employee to immediately return to Recipient all copies of the Confidential Information in such employee's possession at the time of termination of employment. "
+  },
+  {
+   "id": "s42",
+   "text": "Recipient shall, upon the earlier occurrence of "
+  },
+  {
+   "id": "s43",
+   "text": "(i) completion of the tasks assigned to it by Client which require access to the Confidential Information, or "
+  },
+  {
+   "id": "s44",
+   "text": "(ii) Recipient's termination of employment with Client, return to Client all copies of the Confidential Information."
+  },
+  {
+   "id": "s45",
+   "text": "5. Injunctive Relief. "
+  },
+  {
+   "id": "s46",
+   "text": "Recipient acknowledges that the use or disclosure of the Confidential Information or Application Software by Recipient (including any of its employees or anyone who obtains the Confidential Information or Application Software or gains access thereto from or through Recipient or any of its employees) in a manner inconsistent with this Agreement will cause Company or Client as the case may be, irreparable damage. "
+  },
+  {
+   "id": "s47",
+   "text": "In such event, Company and Client shall have the right to equitable and injunctive relief to prevent any unauthorized use or disclosure, and to such damages as are occasioned by any such unauthorized use or disclosure, including but not limited to reasonable attorneys' fees and costs incurred in enforcing Company's or Client's rights hereunder."
+  },
+  {
+   "id": "s48",
+   "text": "6. Miscellaneous. "
+  },
+  {
+   "id": "s49",
+   "text": "This agreement shall be governed by, interpreted in accordance with, and enforced under the laws of the State of Florida. "
+  },
+  {
+   "id": "s50",
+   "text": "Recipient and Client hereby agree and acknowledge that Company is a benefited third party to this Agreement. "
+  },
+  {
+   "id": "s51",
+   "text": "Modification of this Agreement must be in writing and signed by all parties."
+  },
+  {
+   "id": "s52",
+   "text": "IN WITNESS WHEREOF, the parties hereto have executed this Addendum in manner and form sufficient to bind them on the day and year indicated after their respective execution hereof."
+  },
+  {
+   "id": "s53",
+   "text": "CLIENT: RECIPIENT:"
+  },
+  {
+   "id": "s54",
+   "text": "---------------------------- "
+  },
+  {
+   "id": "s55",
+   "text": "----------------------------"
+  },
+  {
+   "id": "s56",
+   "text": "Authorized Signature Authorized Signature"
+  },
+  {
+   "id": "s57",
+   "text": "---------------------------- "
+  },
+  {
+   "id": "s58",
+   "text": "----------------------------"
+  },
+  {
+   "id": "s59",
+   "text": "Type or Print Name and Title Type or Print Name and Title"
+  },
+  {
+   "id": "s60",
+   "text": "---------------------------- "
+  },
+  {
+   "id": "s61",
+   "text": "----------------------------"
+  },
+  {
+   "id": "s62",
+   "text": "Date Date"
+  },
+  {
+   "id": "s63",
+   "text": "PHOENIX INTERNATIONAL "
+  },
+  {
+   "id": "s64",
+   "text": "LTD., INC."
+  },
+  {
+   "id": "s65",
+   "text": "----------------------------"
+  },
+  {
+   "id": "s66",
+   "text": "Authorized Signature"
+  },
+  {
+   "id": "s67",
+   "text": "----------------------------"
+  },
+  {
+   "id": "s68",
+   "text": "Type or Print Name and Title"
+  },
+  {
+   "id": "s69",
+   "text": "----------------------------"
+  },
+  {
+   "id": "s70",
+   "text": "Date"
+  }
+ ]
+}

@@ -1,0 +1,173 @@
+{
+ "canary": "2eb20c99-e785-485c-b97c-b5e8d177c40a",
+ "format": "tough-eval-calibration-summary/1",
+ "pass": 1,
+ "at": "2026-10-17T11:10:41.925Z",
+ "bySide": {
+  "csa-customer": {
+   "reviews": 9,
+   "usable": 8,
+   "paragraphs": {
+    "p106": {
+     "families": {
+      "deepseek": 1
+     },
+     "rules": {
+      "C-12": 1
+     },
+     "candidateFault": false
+    }
+   }
+  },
+  "csa-vendor": {
+   "reviews": 9,
+   "usable": 8,
+   "paragraphs": {
+    "p95": {
+     "families": {
+      "opus": 3,
+      "deepseek": 2
+     },
+     "rules": {
+      "V-15": 5
+     },
+     "candidateFault": true
+    },
+    "a26": {
+     "families": {
+      "opus": 3,
+      "deepseek": 2
+     },
+     "rules": {
+      "V-22": 5,
+      "V-25": 1
+     },
+     "candidateFault": true
+    },
+    "a63": {
+     "families": {
+      "opus": 3
+     },
+     "rules": {
+      "V-25": 3,
+      "V-02": 1
+     },
+     "candidateFault": false
+    },
+    "p80": {
+     "families": {
+      "opus": 1
+     },
+     "rules": {
+      "V-04": 1
+     },
+     "candidateFault": false
+    },
+    "p19": {
+     "families": {
+      "opus": 1,
+      "deepseek": 1
+     },
+     "rules": {
+      "V-11": 2
+     },
+     "candidateFault": true
+    },
+    "p2": {
+     "families": {
+      "glm": 1
+     },
+     "rules": {},
+     "candidateFault": false
+    }
+   }
+  },
+  "nda-discloser": {
+   "reviews": 9,
+   "usable": 9,
+   "paragraphs": {
+    "p5": {
+     "families": {
+      "glm": 1
+     },
+     "rules": {},
+     "candidateFault": false
+    },
+    "p14": {
+     "families": {
+      "glm": 1
+     },
+     "rules": {
+      "NDA-01": 1
+     },
+     "candidateFault": false
+    }
+   }
+  },
+  "nda-recipient": {
+   "reviews": 9,
+   "usable": 9,
+   "paragraphs": {
+    "p9": {
+     "families": {
+      "glm": 1
+     },
+     "rules": {},
+     "candidateFault": false
+    },
+    "p5": {
+     "families": {
+      "glm": 1
+     },
+     "rules": {
+      "NDA-01": 1
+     },
+     "candidateFault": false
+    },
+    "p11": {
+     "families": {
+      "deepseek": 1
+     },
+     "rules": {},
+     "candidateFault": false
+    }
+   }
+  }
+ },
+ "candidates": [
+  {
+   "side": "csa-vendor",
+   "paragraph": "p95",
+   "families": {
+    "opus": 3,
+    "deepseek": 2
+   },
+   "rules": {
+    "V-15": 5
+   }
+  },
+  {
+   "side": "csa-vendor",
+   "paragraph": "a26",
+   "families": {
+    "opus": 3,
+    "deepseek": 2
+   },
+   "rules": {
+    "V-22": 5,
+    "V-25": 1
+   }
+  },
+  {
+   "side": "csa-vendor",
+   "paragraph": "p19",
+   "families": {
+    "opus": 1,
+    "deepseek": 1
+   },
+   "rules": {
+    "V-11": 2
+   }
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "version": 1,
+ "id": "fixture-customer",
+ "title": "Fixture customer playbook",
+ "party": "Customer",
+ "rules": [
+  {
+   "id": "C-01",
+   "title": "General liability cap",
+   "guidance": "The cap protects us when the Provider fails.",
+   "preferred": "At least 1x the 12-month Fees.",
+   "acceptable": "At least 1x the 12-month Fees.",
+   "escalation": "Any cap below 1x the 12-month Fees.",
+   "enabled": true
+  },
+  {
+   "id": "C-02",
+   "title": "Payment period",
+   "guidance": "We pay on our standard cycle.",
+   "preferred": "45 days.",
+   "acceptable": "Between 30 and 60 days from the invoice.",
+   "escalation": "Fewer than 30 days.",
+   "enabled": true
+  },
+  {
+   "id": "C-03",
+   "title": "Security breach notice",
+   "guidance": "We must hear of a breach quickly.",
+   "preferred": "48 hours.",
+   "acceptable": "Notice within 72 hours at most.",
+   "escalation": "No fixed period, or more than 72 hours.",
+   "enabled": true
+  },
+  {
+   "id": "C-04",
+   "title": "Security of Customer Content",
+   "guidance": "All our data must be protected.",
+   "preferred": "Reasonable safeguards over all data we submit.",
+   "acceptable": "Reasonable safeguards over all data we submit.",
+   "escalation": "Safeguards at the Provider's discretion, or a narrowed definition of Customer Content.",
+   "enabled": true
+  }
+ ],
+ "canary": "5f0c1e2a-9b7d-4c3e-8a61-0d2f4b6c8e10"
+}

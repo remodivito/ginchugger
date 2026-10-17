@@ -1,0 +1,44 @@
+{
+ "canary": "2eb20c99-e785-485c-b97c-b5e8d177c40a",
+ "format": "layer-c-judgement/1",
+ "output": "smoke-golden",
+ "task": "redline-s3-t4-g02a",
+ "criterion": "C-s3-04",
+ "kind": "change",
+ "judge": "qwen",
+ "family": "alibaba",
+ "executor": "openai",
+ "model": "qwen/qwen3.8-27b",
+ "servedModel": null,
+ "effort": "provider default",
+ "maxOutputTokens": 64000,
+ "promptFile": "tough-eval/v2/layer-c/prompts/judge-c.md",
+ "promptSha256": "26e25c058dbc97265fab8072a182c1adb1a9f5c9d8fa7e5a874123c674c0ad48",
+ "userSha256": "436832edc5eba00c69848ac90d890ea9dbacef39a5801edf2ebf2ead38d55d5e",
+ "renderedSha256": "f62b98846233365786af90027eabfecb1c65491fb04dc1c1167f26a41e689453",
+ "at": "2026-10-15T22:29:25.149Z",
+ "seconds": 10.66,
+ "ok": true,
+ "pass": true,
+ "reason": "Pass; the proposed change in p-087 removes the AgentCo insertion collectively the Services as required.",
+ "finishReason": "stop",
+ "usage": {
+  "prompt_tokens": 22330,
+  "total_tokens": 23136,
+  "completion_tokens": 806,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "created_cache_tokens": 19200
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 772
+  }
+ },
+ "costUsd": null,
+ "attempts": [
+  {
+   "ok": true
+  }
+ ],
+ "raw": "{\"pass\": true, \"reason\": \"Pass; the proposed change in p-087 removes the AgentCo insertion collectively the Services as required.\"}"
+}

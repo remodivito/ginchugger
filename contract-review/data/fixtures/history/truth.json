@@ -1,0 +1,95 @@
+{
+  "description": "Hand-written ground truth for the starter history fixture. Item keys are filenames.",
+  "matters": {
+    "helix-brightwater-nda": {
+      "parties": [
+        "Helix Instruments Ltd",
+        "Brightwater Analytics Ltd"
+      ],
+      "items": [
+        "helix-brightwater-nda-v1.docx",
+        "helix-brightwater-nda-v2-bw-markup.docx",
+        "helix-brightwater-nda-v3-helix-counter.docx",
+        "2026-05-19-brightwater-returns-markup.eml",
+        "2026-05-20-brightwater-comment-on-term.eml",
+        "2026-05-22-helix-sends-counter-turn.eml"
+      ]
+    },
+    "helix-oakfield-nda": {
+      "parties": [
+        "Helix Instruments Ltd",
+        "Oakfield Diagnostics Ltd"
+      ],
+      "items": [
+        "helix-oakfield-nda-v1.docx"
+      ]
+    }
+  },
+  "order": [
+    "helix-brightwater-nda-v1.docx",
+    "helix-brightwater-nda-v2-bw-markup.docx",
+    "helix-brightwater-nda-v3-helix-counter.docx"
+  ],
+  "lineage": [
+    {
+      "earlier": "helix-brightwater-nda-v1.docx",
+      "later": "helix-brightwater-nda-v2-bw-markup.docx",
+      "relation": "later is a markup of earlier"
+    },
+    {
+      "earlier": "helix-brightwater-nda-v2-bw-markup.docx",
+      "later": "helix-brightwater-nda-v3-helix-counter.docx",
+      "relation": "later is a markup of earlier (against the accepted text)"
+    }
+  ],
+  "baselineOf": {
+    "helix-brightwater-nda-v2-bw-markup.docx": "helix-brightwater-nda-v1.docx",
+    "helix-brightwater-nda-v3-helix-counter.docx": "helix-brightwater-nda-v2-bw-markup.docx"
+  },
+  "emailLinks": [
+    {
+      "email": "2026-05-19-brightwater-returns-markup.eml",
+      "document": "helix-brightwater-nda-v2-bw-markup.docx",
+      "relation": "carries"
+    },
+    {
+      "email": "2026-05-20-brightwater-comment-on-term.eml",
+      "document": "helix-brightwater-nda-v2-bw-markup.docx",
+      "relation": "comments on"
+    },
+    {
+      "email": "2026-05-22-helix-sends-counter-turn.eml",
+      "document": "helix-brightwater-nda-v3-helix-counter.docx",
+      "relation": "carries"
+    }
+  ],
+  "trap": {
+    "helix-oakfield-nda-v1.docx": "same form, same month, similar filename, different counterparty; must not join the Brightwater matter"
+  },
+  "priorRoundComment": {
+    "clause": "Confidentiality Period (cover paragraph 5)",
+    "document": "2026-05-20-brightwater-comment-on-term.eml",
+    "quote": "we could live with five years if the trade-secret tail stays as drafted"
+  },
+  "changes": {
+    "v2": [
+      "Confidentiality Period three (3) → seven (7) years",
+      "retention carve-out appended to return/destroy",
+      "residuals sentence appended to IP clause"
+    ],
+    "v3": [
+      "seven (7) → five (5) years",
+      "residuals narrowed: trade secrets, marked information, no licence",
+      "retention carve-out accepted unchanged"
+    ]
+  },
+  "sha256": {
+    "helix-brightwater-nda-v1.docx": "8effd9c96c61fc4d73de87f2e339e50326c2ea0287ab3a8b15722a2fb6aa9876",
+    "helix-brightwater-nda-v2-bw-markup.docx": "00329facb73366ab9b997ef2df476190b402cdbe4fa5a68df60fe4723be4c6ad",
+    "helix-brightwater-nda-v3-helix-counter.docx": "c7fb74e788544b13e32d56082eb3f046ad8f3417306064bef7da58ee566b5ba5",
+    "helix-oakfield-nda-v1.docx": "ecaed5bb5059ffa47debd1bf196cddf30096ed692f993b9c8c38bc3d027e100a",
+    "2026-05-19-brightwater-returns-markup.eml": "8917a851e3a7dd28cf2a6bb87eb916c4e37404eaaca6785862dbfd9011a79ab3",
+    "2026-05-20-brightwater-comment-on-term.eml": "0e93e1b424a70f09f5443779b2667d7b04ba7ba576be8d1c62775684cea078ab",
+    "2026-05-22-helix-sends-counter-turn.eml": "89adae0ceefeba74e59cd31f7739b3757452913d2a602732c7102b14316726d9"
+  }
+}

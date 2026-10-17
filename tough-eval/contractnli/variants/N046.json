@@ -1,0 +1,421 @@
+{
+ "id": "N046",
+ "revision": 1,
+ "title": "BT_NDA.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 46,
+  "type": "search-pdf",
+  "url": "http://www.transnet.net/BusinessWithUs/TNInfrastructurePlan/BT_NDA.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "CONFIDENTIALITY AND NON-DISCLOSURE AGREEEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "between"
+  },
+  {
+   "id": "s2",
+   "text": "TRANSNET LIMITED"
+  },
+  {
+   "id": "s3",
+   "text": "and"
+  },
+  {
+   "id": "s4",
+   "text": "______________________________________________________"
+  },
+  {
+   "id": "s5",
+   "text": "(“insert name”)"
+  },
+  {
+   "id": "s6",
+   "text": "CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s7",
+   "text": "This agreement (“Agreement”) is entered into as of the date first written below (the “Effective Date”) by and between TRANSNET LIMITED (hereinafter referred to as “Transnet” or “the Disclosing Party”) having as its principal place of business at 38th Floor, Carlton Centre, Johannesburg, 2001, and ___________________________________ "
+  },
+  {
+   "id": "s8",
+   "text": "(Registration number____________________) "
+  },
+  {
+   "id": "s9",
+   "text": "(hereinafter referred to as “the Bidder” or the “Receiving Party”) with its principal place of business at "
+  },
+  {
+   "id": "s10",
+   "text": "__________________________________________ "
+  },
+  {
+   "id": "s11",
+   "text": "(Transnet and the Bidder shall hereinafter referred to as the “Parties”)."
+  },
+  {
+   "id": "s12",
+   "text": "WHEREAS, the Bidder is interested in participating in the disposal process being undertaken by Transnet in relation to the business of Luxrail (hereinafter referred to as “the Blue Train” or “the Target”) (such disposal hereinafter referred to as the “Proposed Transaction”);"
+  },
+  {
+   "id": "s13",
+   "text": "AND WHEREAS, it is agreed that in order to enable the Bidder to assess the Target, Transnet will disclose Confidential Information relevant to the Proposed Transaction to the Bidder;"
+  },
+  {
+   "id": "s14",
+   "text": "AND WHEREAS, the Bidder recognises that careful protection and non-disclosure by the Bidder of Confidential Information disclosed by Transnet is of vital importance to the prosperity of the Target, Transnet and clientele of Transnet;"
+  },
+  {
+   "id": "s15",
+   "text": "NOW THEREFORE, Transnet agrees to disclose the Confidential Information and the Bidder agrees to receive the Confidential Information under the following terms and conditions."
+  },
+  {
+   "id": "s16",
+   "text": "1. CONFIDENTIAL INFORMATION"
+  },
+  {
+   "id": "s17",
+   "text": "1.1 Definition. "
+  },
+  {
+   "id": "s18",
+   "text": "When used herein, Confidential Information shall mean any information and data (in electronic form, in hard copy or given verbally) of a confidential or proprietary nature which is disclosed by the Disclosing Party to the Receiving Party, including but not limited to, group corporate strategy and initiatives, customer information, Target information, proprietary technical, financial, personnel and/or commercial information with respect to the Proposed Transaction, Transnet or the Target and any information which is disclosed pursuant to this Agreement and marked “Confidential” by the Disclosing Party. "
+  },
+  {
+   "id": "s19",
+   "text": "Confidential information specifically excludes the following:"
+  },
+  {
+   "id": "s20",
+   "text": "1.1.1 information which is in the public domain or enters the public domain other than by reason of a breach of the terms of this Agreement;"
+  },
+  {
+   "id": "s21",
+   "text": "1.1.2 where it becomes available to the Receiving Party on a non-confidential basis from a source other than the Disclosing Party or the individual members of the Disclosing Party, as the case may be;"
+  },
+  {
+   "id": "s22",
+   "text": "1.1.3 where it was known to the Receiving Party prior to having access to the Confidential information; and"
+  },
+  {
+   "id": "s23",
+   "text": "1.1.4 where the Receiving Party is obliged to disclose by law, or by order or under the rules of any competent regulatory authority or court."
+  },
+  {
+   "id": "s24",
+   "text": "1.2 Purpose. "
+  },
+  {
+   "id": "s25",
+   "text": "The purpose of the disclosure of Confidential Information is to enable the Target’s assets and liabilities relevant to the Proposed Transaction to be assessed."
+  },
+  {
+   "id": "s26",
+   "text": "1.3 Ownership. "
+  },
+  {
+   "id": "s27",
+   "text": "The Confidential Information is and shall be considered valuable trade secrets owned exclusively by the Disclosing Party. "
+  },
+  {
+   "id": "s28",
+   "text": "The Disclosing Party retains all right, title and interest in the Confidential Information and any reasonably related information which may be subsequently developed, and the Receiving Party waives all rights to the intellectual property and copyright therein in favour of the Disclosing Party."
+  },
+  {
+   "id": "s29",
+   "text": "1.4 No License. "
+  },
+  {
+   "id": "s30",
+   "text": "No license is granted to the Receiving Party in relation to any intellectual property rights that attach to or may be embodied in any Confidential Information, or is implied by the conveying of such Confidential Information to the Receiving Party."
+  },
+  {
+   "id": "s31",
+   "text": "1.5 No Warranties. "
+  },
+  {
+   "id": "s32",
+   "text": "The Disclosing Party assumes no responsibility for any loss or damages suffered by the Receiving Party or any third party caused by or arising from the Confidential Information, and the Disclosing Party makes no warranties of any kind, whether express or implied, as to the accuracy or completeness of the Confidential Information."
+  },
+  {
+   "id": "s33",
+   "text": "1.6 Authorised. "
+  },
+  {
+   "id": "s34",
+   "text": "The Disclosing Party is authorised to provide Confidential Information to the Receiving Party."
+  },
+  {
+   "id": "s35",
+   "text": "2. NON-DISCLOSURE"
+  },
+  {
+   "id": "s36",
+   "text": "2.1 Use of Confidential Information. "
+  },
+  {
+   "id": "s37",
+   "text": "The Receiving Party may use the Confidential Information solely for the purposes of assessing the Target for purposes of the Proposed Transaction. "
+  },
+  {
+   "id": "s38",
+   "text": "The Receiving Party recognises that this Agreement imposes an affirmative duty to hold such information in confidence and protect it from dissemination to and use by any unauthorised persons. "
+  },
+  {
+   "id": "s39",
+   "text": "In the absence of the Disclosing Party’s prior written consent, the Receiving Party shall not produce nor disclose the Confidential Information, or any part thereof, to any third party."
+  },
+  {
+   "id": "s40",
+   "text": "2.2 Disclosure of Confidential Information. "
+  },
+  {
+   "id": "s41",
+   "text": "The Confidential Information is proprietary information and for the exclusive and non-transferable use of the persons to whom it is addressed and the recipients of the Confidential Information agree that all of the information contained herein is of a confidential nature and is subject to this Confidentiality Agreement, and that they will not, directly, or indirectly, disclose or permit their agents or affiliates to disclose any such information without the prior written consent of Transnet except as expressly permitted by the terms of this Agreement."
+  },
+  {
+   "id": "s42",
+   "text": "2.3 Return of Confidential Information. "
+  },
+  {
+   "id": "s43",
+   "text": "Promptly following the request of the Disclosing Party, the Receiving Party will deliver to the Disclosing Party all confidential information (and copies and extracts thereof) furnished to, or created by or on behalf of, the Receiving Party. "
+  },
+  {
+   "id": "s44",
+   "text": "Notwithstanding the return of the Confidential Information, the Receiving Party will continue to be bound by its obligations of confidentiality and other obligations hereunder."
+  },
+  {
+   "id": "s45",
+   "text": "2.4 Remedies. "
+  },
+  {
+   "id": "s46",
+   "text": "The Receiving Party recognises and acknowledges that the Confidential Information is of a special, unique and extraordinary character to the Disclosing Party and the Target and the disclosure, misappropriation or unauthorised use of such Confidential Information by the Receiving Party cannot be fully compensated and that, further, any such disclosure, misappropriation or unauthorised use of the Confidential Information shall cause irreparable injury to the Disclosing Party and/or the Target. "
+  },
+  {
+   "id": "s47",
+   "text": "The Receiving Party expressly agrees, therefore, that the Disclosing Party, in addition to any rights and remedies it may have under this Agreement or at law or in equity, shall be entitled to seek injunctive and other equitable relief to prevent the breach, or the further breach, of any of the provisions of this Agreement. "
+  },
+  {
+   "id": "s48",
+   "text": "The Receiving Party agrees to reimburse the Disclosing Party for any and all losses, liabilities, damages, costs, opportunity costs, and direct or indirect expenses (including reasonable attorney’s fees, profit opportunity returns foregone and any court costs) incurred by the Disclosing Party as a result of any prima facie breach of this Agreement by the Receiving Party."
+  },
+  {
+   "id": "s49",
+   "text": "3. GENERAL"
+  },
+  {
+   "id": "s50",
+   "text": "3.1 Term and Termination. "
+  },
+  {
+   "id": "s51",
+   "text": "Notwithstanding whether or not the Proposed Transactions are concluded, the Receiving Party shall maintain the Confidential Information in confidence and in accordance with the terms of this Agreement for a period of five (5) years from the date of disclosure."
+  },
+  {
+   "id": "s52",
+   "text": "3.2 Binding Successors. "
+  },
+  {
+   "id": "s53",
+   "text": "This agreement shall be binding upon and inure to the benefit of the Parties and their successors and assigns."
+  },
+  {
+   "id": "s54",
+   "text": "3.3 Waiver. "
+  },
+  {
+   "id": "s55",
+   "text": "The waiver or failure of either Party to exercise in any respect any right provided for in this Agreement shall not be deemed a waiver of any further right under this Agreement. "
+  },
+  {
+   "id": "s56",
+   "text": "If any provision of this Agreement is held by a court of competent jurisdiction to be contrary to law or otherwise unenforceable, it shall be enforced to the extent legally permissible and as necessary to reflect the intent of the Parties and shall not affect the remaining provisions of this Agreement, which shall remain in full force and effect."
+  },
+  {
+   "id": "s57",
+   "text": "3.4 Variation. "
+  },
+  {
+   "id": "s58",
+   "text": "No amendment, alteration, addition or variation of the Agreement or any provision or term thereof, or any agreement or other document issued or executed pursuant to or in terms of this Agreement shall be binding unless recorded in a written document signed by the Parties."
+  },
+  {
+   "id": "s59",
+   "text": "3.5 Binding Agreement. "
+  },
+  {
+   "id": "s60",
+   "text": "This Agreement is binding upon each Party and the Receiving Party shall procure that it becomes binding on its respective agents, affiliates, partners, employees, advisors and consultants."
+  },
+  {
+   "id": "s61",
+   "text": "3.6 Jurisdiction. "
+  },
+  {
+   "id": "s62",
+   "text": "This Agreement shall be deemed to be a contract made under the laws of the Republic of South Africa and shall be governed by such laws without reference to any principles relating to resolving conflicts of law. "
+  },
+  {
+   "id": "s63",
+   "text": "The distribution of the Confidential Information in overseas jurisdictions may be restricted by law and therefore persons into whose possession that Confidential Information comes should inform themselves about and observe any such restrictions."
+  },
+  {
+   "id": "s64",
+   "text": "3.7 Copyrights and Proprietary Rights. "
+  },
+  {
+   "id": "s65",
+   "text": "The Receiving Party shall not remove any copyright or proprietary rights notice attached to or included in the Confidential Information."
+  },
+  {
+   "id": "s66",
+   "text": "3.8 Entire Agreement. "
+  },
+  {
+   "id": "s67",
+   "text": "This Agreement represents the entire agreement between Parties with respect to the subject matter of this Agreement."
+  },
+  {
+   "id": "s68",
+   "text": "3.9 Storage of Confidential Information. "
+  },
+  {
+   "id": "s69",
+   "text": "The Confidential Information must not be copied, reproduced, distributed, stored digitally or by other means, or passed to others at any time other than in accordance with this Confidentiality Agreement or with the prior written consent of Transnet."
+  },
+  {
+   "id": "s70",
+   "text": "IN WITNESS WHEREOF, the Parties have duly executed this document as of the date first written below."
+  },
+  {
+   "id": "s71",
+   "text": "Signed for Transnet Limited "
+  },
+  {
+   "id": "s72",
+   "text": "by__________________________________, in his/her capacity as "
+  },
+  {
+   "id": "s73",
+   "text": "_______________________________ "
+  },
+  {
+   "id": "s74",
+   "text": "on this _____ day of "
+  },
+  {
+   "id": "s75",
+   "text": "_________________ 2007."
+  },
+  {
+   "id": "s76",
+   "text": "Signature: "
+  },
+  {
+   "id": "s77",
+   "text": "_____________________"
+  },
+  {
+   "id": "s78",
+   "text": "who warrants that he is duly authorised to enter into this Agreement"
+  },
+  {
+   "id": "s79",
+   "text": "Witnesses:"
+  },
+  {
+   "id": "s80",
+   "text": "_____________________ "
+  },
+  {
+   "id": "s81",
+   "text": "_______________________"
+  },
+  {
+   "id": "s82",
+   "text": "Date: "
+  },
+  {
+   "id": "s83",
+   "text": "________________ "
+  },
+  {
+   "id": "s84",
+   "text": "Date: "
+  },
+  {
+   "id": "s85",
+   "text": "__________________"
+  },
+  {
+   "id": "s86",
+   "text": "Signed for "
+  },
+  {
+   "id": "s87",
+   "text": "______________________by "
+  },
+  {
+   "id": "s88",
+   "text": "__________________________, in his/her capacity as "
+  },
+  {
+   "id": "s89",
+   "text": "_______________________________ "
+  },
+  {
+   "id": "s90",
+   "text": "on this _____ day of "
+  },
+  {
+   "id": "s91",
+   "text": "_________________ 2007."
+  },
+  {
+   "id": "s92",
+   "text": "Signature: "
+  },
+  {
+   "id": "s93",
+   "text": "_____________________"
+  },
+  {
+   "id": "s94",
+   "text": "who warrants that he is duly authorised to enter into this Agreement"
+  },
+  {
+   "id": "s95",
+   "text": "Witnesses:"
+  },
+  {
+   "id": "s96",
+   "text": "_____________________ "
+  },
+  {
+   "id": "s97",
+   "text": "_______________________"
+  },
+  {
+   "id": "s98",
+   "text": "Date: "
+  },
+  {
+   "id": "s99",
+   "text": "________________ "
+  },
+  {
+   "id": "s100",
+   "text": "Date: "
+  },
+  {
+   "id": "s101",
+   "text": "__________________"
+  }
+ ]
+}

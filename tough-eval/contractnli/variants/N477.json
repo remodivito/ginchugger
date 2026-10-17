@@ -1,0 +1,329 @@
+{
+ "id": "N477",
+ "revision": 1,
+ "title": "1095563_0000950168-99-002585_document_2.txt",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 477,
+  "type": "sec-text",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001095563/000095016899002585/0000950168-99-002585.txt"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "MICROSOFT CORPORATION NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "(STANDARD RECIPROCAL)"
+  },
+  {
+   "id": "s2",
+   "text": "THIS AGREEMENT (the \"Agreement\") is made between MICROSOFT CORPORATION, a Washington corporation, and Sylvan Learning Systems, Inc. (\"COMPANY\") and entered into this 16th day of February, 1998."
+  },
+  {
+   "id": "s3",
+   "text": "In consideration of the mutual promises and covenants contained in this Agreement, the mutual disclosure of confidential information to each other, the parties hereto agree as follows:"
+  },
+  {
+   "id": "s4",
+   "text": "1. Confidential Information and Confidential Materials"
+  },
+  {
+   "id": "s5",
+   "text": "(a) \"Confidential Information\" means nonpublic information that Disclosing Party designates as being confidential or which, under the circumstances surrounding disclosure ought to be treated as confidential. "
+  },
+  {
+   "id": "s6",
+   "text": "\"Confidential Information\" includes, without limitation, information relating to released or unreleased Disclosing Party software or hardware products, the marketing or promotion of any Disclosing Party product, Disclosing Party's business policies or practices, and information received from others that Disclosing Party is obligated to treat as confidential. "
+  },
+  {
+   "id": "s7",
+   "text": "Confidential Information disclosed to Receiving Party by any Disclosing Party Subsidiary and/or agents is covered by this Agreement."
+  },
+  {
+   "id": "s8",
+   "text": "(b) Confidential Information shall not include any information that: "
+  },
+  {
+   "id": "s9",
+   "text": "(i) is or subsequently becomes publicly available without Receiving Party's breach of any obligation owed Disclosing Party; "
+  },
+  {
+   "id": "s10",
+   "text": "(ii) became known to Receiving Party prior to Disclosing Party's disclosure of such information to Receiving Party; "
+  },
+  {
+   "id": "s11",
+   "text": "(iii) became known to Receiving Party from a source other than Disclosing Party other than by the breach of an obligation of confidentiality owed to Disclosing Party; or "
+  },
+  {
+   "id": "s12",
+   "text": "(iv) is independently developed by Receiving Party."
+  },
+  {
+   "id": "s13",
+   "text": "(c) \"Confidential Materials\" shall mean all tangible materials containing Confidential Information, including without limitation written or printed documents and computer disks or tapes, whether machine or user readable."
+  },
+  {
+   "id": "s14",
+   "text": "2. Restrictions"
+  },
+  {
+   "id": "s15",
+   "text": "(a) Receiving Party shall not disclose any Confidential Information to third parties for five (5) years following the date of its disclosure by Disclosing Party to Receiving Party, except to Receiving Party's consultants as provided below. "
+  },
+  {
+   "id": "s16",
+   "text": "However, Receiving Party may disclose Confidential Information in accordance with judicial or other governmental order, provided Receiving Party shall give Disclosing Party reasonable notice prior to such disclosure and shall comply with any applicable protective order or equivalent."
+  },
+  {
+   "id": "s17",
+   "text": "(b) Receiving Party shall take reasonable security precautions, at least as great as the precautions it takes to protect its own confidential information, to keep confidential the Confidential Information. "
+  },
+  {
+   "id": "s18",
+   "text": "Receiving Party may disclose Confidential Information or Confidential Material only to Receiving Party's employees or consultants on a need-to-know basis. "
+  },
+  {
+   "id": "s19",
+   "text": "Receiving Party will have executed or shall execute appropriate written agreements with its employees and consultants sufficient to enable it to comply with all the provisions of this Agreement."
+  },
+  {
+   "id": "s20",
+   "text": "(c) Confidential Information and Confidential Materials may be disclosed, reproduced, summarized or distributed only in pursuance of Receiving Party's business relationship with Disclosing Party, and only as otherwise provided hereunder. "
+  },
+  {
+   "id": "s21",
+   "text": "Receiving Party agrees to segregate all such Confidential Materials from the confidential materials of others in order to prevent commingling."
+  },
+  {
+   "id": "s22",
+   "text": "(d) Receiving Party may not reverse engineer, decompile or disassemble any software disclosed to Receiving Party."
+  },
+  {
+   "id": "s23",
+   "text": "3. Rights and Remedies"
+  },
+  {
+   "id": "s24",
+   "text": "(a) Receiving Party shall notify Disclosing Party immediately upon discovery of any unauthorized use or disclosure of Confidential Information and/or Confidential Materials, or any other breach of this Agreement by Receiving Party, and will cooperate with Disclosing Party in every reasonable way to help Disclosing Party regain possession of the Confidential Information and/or Confidential Materials and prevent its further unauthorized use."
+  },
+  {
+   "id": "s25",
+   "text": "(b) Receiving Party shall return all originals, copies, reproductions and summaries of Confidential Information or Confidential Materials at Disclosing Party's request, or at Disclosing Party's option, certify destruction of the same."
+  },
+  {
+   "id": "s26",
+   "text": "(c) Receiving Party acknowledges that monetary damages may not be a sufficient remedy for unauthorized disclosure of Confidential Information and that Disclosing Party shall be entitled, without waiving any other rights or remedies, to such injunctive or equitable relief as may be deemed proper by a court of competent jurisdiction."
+  },
+  {
+   "id": "s27",
+   "text": "(d) Disclosing Party may visit Receiving Party's premises, with reasonable prior notice and during normal business hours, to review Receiving Party's compliance with the terms of this Agreement."
+  },
+  {
+   "id": "s28",
+   "text": "4. Miscellaneous"
+  },
+  {
+   "id": "s29",
+   "text": "(a) All Confidential Information and Confidential Materials are and shall remain the property of Disclosing Party. "
+  },
+  {
+   "id": "s30",
+   "text": "By disclosing information to Receiving Party, Disclosing Party does not grant any express or implied right to Receiving Party to or under Disclosing Party patents, copyrights, trademarks, or trade secret information."
+  },
+  {
+   "id": "s31",
+   "text": "(b) If either party provides pre-release software as Confidential Information or Confidential Materials under this Agreement, such pre-release software is provided \"as is\" without warranty of any kind. "
+  },
+  {
+   "id": "s32",
+   "text": "Receiving Party agrees that neither Disclosing Party nor its suppliers shall be liable for any damages whatsoever relating to Receiving Party's use of such pre-release software."
+  },
+  {
+   "id": "s33",
+   "text": "(c) Any software and documentation provided under this Agreement is provided with RESTRICTED RIGHTS. "
+  },
+  {
+   "id": "s34",
+   "text": "Use, duplication, or disclosure by the Government is subject to restrictions as set forth in subparagraph "
+  },
+  {
+   "id": "s35",
+   "text": "(c)(1)(ii) of The Rights in Technical Data and Computer Software clause at DFARS 252.227-7013 or subparagraphs "
+  },
+  {
+   "id": "s36",
+   "text": "(c)(1) and "
+  },
+  {
+   "id": "s37",
+   "text": "(2) of the Commercial Computer Software -- Restricted Rights at 48 CFR 52.227-19, as applicable. "
+  },
+  {
+   "id": "s38",
+   "text": "Manufacturer is Microsoft Corporation/One Microsoft Way/Redmond, WA 98052-6399."
+  },
+  {
+   "id": "s39",
+   "text": "(d) Both parties agree that they do not intend nor will they, directly or indirectly, export or re-export "
+  },
+  {
+   "id": "s40",
+   "text": "(i) any Confidential Information or Confidential Materials, or "
+  },
+  {
+   "id": "s41",
+   "text": "(ii) any product (or any part thereof), process or service that is the direct product of the Confidential Information or Materials to "
+  },
+  {
+   "id": "s42",
+   "text": "(A) any country that is subject to U.S. export restrictions (currently including, but not necessarily limited to, Iran, Iraq, Syria, Cuba, North Korea, Libya, and Sudan), or to any national of any such country, wherever located, who intends to transmit or transport the products back to such country; "
+  },
+  {
+   "id": "s43",
+   "text": "(B) to any end-user who either party knows or has reason to know will utilize them in the design, development or production of nuclear, chemical or biological weapons; or "
+  },
+  {
+   "id": "s44",
+   "text": "(C) to any end-user who has been prohibited from participating in U.S. export transactions by any federal agency of the U.S. government."
+  },
+  {
+   "id": "s45",
+   "text": "(e) The terms of confidentiality under this Agreement shall not be construed to limit either party's right to independently develop or acquire products without use of the other party's Confidential Information. "
+  },
+  {
+   "id": "s46",
+   "text": "Further, either party shall be free to use for any purpose the residuals resulting from access to or work with such Confidential Information, provided that such party shall maintain the confidentiality of the Confidential Information as provided herein. "
+  },
+  {
+   "id": "s47",
+   "text": "The term \"residuals\" means information in non-tangible form, which may be retained by persons who have had access to the Confidential Information, including ideas, concepts, know-how or techniques contained therein. "
+  },
+  {
+   "id": "s48",
+   "text": "Neither party shall have any obligation to limit or restrict the assignment of such persons or to pay royalties for any work resulting from the use of residuals. "
+  },
+  {
+   "id": "s49",
+   "text": "However, the foregoing shall not be deemed to grant to either party a license under the other party's copyrights or patents."
+  },
+  {
+   "id": "s50",
+   "text": "(f) This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof. "
+  },
+  {
+   "id": "s51",
+   "text": "It shall not be modified except by a written agreement dated subsequent to the date of this Agreement and signed by both parties. "
+  },
+  {
+   "id": "s52",
+   "text": "None of the provisions of this Agreement shall be deemed to have been waived by any act or acquiescence on the part of Disclosing Party, its agents, or employees, but only by an instrument in writing signed by an authorized officer of Disclosing Party. "
+  },
+  {
+   "id": "s53",
+   "text": "No waiver of any provision of this Agreement shall constitute a waiver of any other provision(s) or of the same provision on another occasion."
+  },
+  {
+   "id": "s54",
+   "text": "(g) If either party employs attorneys to enforce any rights arising out of or relating to this Agreement, the prevailing party shall be entitled to recover reasonable attorneys' fees. "
+  },
+  {
+   "id": "s55",
+   "text": "This Agreement shall be construed and controlled by the laws of the State of Washington, and both parties further consent to jurisdiction by the state and federal courts sitting in the State of Washington. "
+  },
+  {
+   "id": "s56",
+   "text": "Process may be served on either party by U.S. Mail, postage prepaid, certified or registered, return receipt requested, or by such other method as is authorized by the Washington Long Arm Statute."
+  },
+  {
+   "id": "s57",
+   "text": "(h) Subject to the limitations set forth in this Agreement, this Agreement will inure to the benefit of and be binding upon the parties, their successors and assigns."
+  },
+  {
+   "id": "s58",
+   "text": "(i) If any provision of this Agreement shall be held by a court of competent jurisdiction to be illegal, invalid or unenforceable, the remaining provisions shall remain in full force and effect."
+  },
+  {
+   "id": "s59",
+   "text": "(j) All obligations created by this Agreement shall survive change or termination of the parties' business relationship."
+  },
+  {
+   "id": "s60",
+   "text": "5. Suggestions and Feedback"
+  },
+  {
+   "id": "s61",
+   "text": "Either party may from time to time provide suggestions, comments or other feedback to the other party with respect to Confidential Information provided originally by the other party (hereinafter \"Feedback\"). "
+  },
+  {
+   "id": "s62",
+   "text": "Both parties agree that all Feedback is and shall be entirely voluntary and shall not, absent separate agreement, create any confidentiality obligation for the Receiving Party. "
+  },
+  {
+   "id": "s63",
+   "text": "However, the Receiving Party shall not disclose the source of any feedback without the providing party's consent. "
+  },
+  {
+   "id": "s64",
+   "text": "Feedback shall be clearly designated as such and, except as otherwise provided herein, each party shall be free to disclose and use such Feedback as it sees fit, entirely without obligation of any kind to the other party. "
+  },
+  {
+   "id": "s65",
+   "text": "The foregoing shall not, however, affect either party's obligations hereunder with respect to Confidential Information of the other party."
+  },
+  {
+   "id": "s66",
+   "text": "IN WITNESS WHEREOF, the parties hereto have executed this Agreement."
+  },
+  {
+   "id": "s67",
+   "text": "COMPANY: Sylvan Learning Systems,Inc. MICROSOFT CORPORATION"
+  },
+  {
+   "id": "s68",
+   "text": "Address: 1000 Lancaster St. By: /s/ *"
+  },
+  {
+   "id": "s69",
+   "text": "Baltimore, MD 21202 "
+  },
+  {
+   "id": "s70",
+   "text": "Name: "
+  },
+  {
+   "id": "s71",
+   "text": "*"
+  },
+  {
+   "id": "s72",
+   "text": "By: Steve Hoffman Title: "
+  },
+  {
+   "id": "s73",
+   "text": "*"
+  },
+  {
+   "id": "s74",
+   "text": "Name: Date: 8-27-98"
+  },
+  {
+   "id": "s75",
+   "text": "Title: MS Contact:"
+  },
+  {
+   "id": "s76",
+   "text": "Date: 8/25/98"
+  },
+  {
+   "id": "s77",
+   "text": "* Text omitted based upon request for confidential treatment."
+  },
+  {
+   "id": "s78",
+   "text": "1/15/97 LE911420.028"
+  }
+ ]
+}

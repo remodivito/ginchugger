@@ -1,0 +1,505 @@
+{
+ "id": "N562",
+ "revision": 1,
+ "title": "1094348_0001144204-18-026846_tv493416_exd2.htm",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 562,
+  "type": "sec-html",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001094348/000114420418026846/tv493416_exd2.htm"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "Exhibit "
+  },
+  {
+   "id": "s1",
+   "text": "(d)(2)"
+  },
+  {
+   "id": "s2",
+   "text": "February 8th, 2018"
+  },
+  {
+   "id": "s3",
+   "text": "NICE Ltd."
+  },
+  {
+   "id": "s4",
+   "text": "13 Zarchin Street"
+  },
+  {
+   "id": "s5",
+   "text": "Raanana"
+  },
+  {
+   "id": "s6",
+   "text": "Israel"
+  },
+  {
+   "id": "s7",
+   "text": "Non-Disclosure "
+  },
+  {
+   "id": "s8",
+   "text": "Agreement"
+  },
+  {
+   "id": "s9",
+   "text": "Ladies and Gentlemen:"
+  },
+  {
+   "id": "s10",
+   "text": "In connection with your consideration of the possible business combination transaction (the “Transaction”) between you and Mattersight Corporation (the “Company”), the Company and you expect to make available to one another certain nonpublic information concerning their respective businesses, financial condition, operations, technologies, assets and liabilities. "
+  },
+  {
+   "id": "s11",
+   "text": "As a condition to such information being furnished to each party and its controlled subsidiaries, directors, officers, employees, agents or advisors (including, without limitation, attorneys, accountants, consultants, bankers and financial advisors) (collectively, “Representatives”), each party agrees to treat any nonpublic information concerning the other party (whether prepared by the disclosing party, its Representatives or otherwise and irrespective of the form of communication) that is furnished hereunder to a party or to its "
+  },
+  {
+   "id": "s12",
+   "text": "Representatives now or in the future during the term of this letter agreement by or on behalf of the disclosing party (herein collectively referred to as the “Evaluation Material”) in accordance with the provisions of this letter agreement (this “Agreement”), and to take or abstain from taking certain other actions hereinafter set forth."
+  },
+  {
+   "id": "s13",
+   "text": "1. Evaluation Material. "
+  },
+  {
+   "id": "s14",
+   "text": "The term “Evaluation Material” shall be deemed to include all information, records, notes, analyses, compilations, studies, reports, projections, forecasts, interpretations or other documents prepared by each party or its Representatives that contain, reflect or are based upon, in whole or in part, the information furnished to such party or its Representatives pursuant hereto, which is not available to the general public. "
+  },
+  {
+   "id": "s15",
+   "text": "The term “Evaluation Material” does not include information which "
+  },
+  {
+   "id": "s16",
+   "text": "(i) is or becomes generally available to the public other than as a result of a breach of this Agreement by the receiving party or its Representatives, "
+  },
+  {
+   "id": "s17",
+   "text": "(ii) was within the receiving party’s possession prior to its being furnished to the receiving party by or on behalf of the disclosing party, provided that the source of such information was not known by the receiving party to be bound by a confidentiality agreement with (or subject to any other contractual, legal or fiduciary obligation of confidentiality to) the disclosing party or any other party with respect to such information, "
+  },
+  {
+   "id": "s18",
+   "text": "(iii) is or becomes available to the receiving party on a non-confidential basis from a source other than the disclosing party or any of its Representatives, provided that such source was not known by the receiving party to be bound by a confidentiality agreement with (or subject to any other contractual, legal or fiduciary obligation of confidentiality to) the disclosing party or any other party with respect to such information or "
+  },
+  {
+   "id": "s19",
+   "text": "(iv) is independently developed by the receiving party without use of Evaluation Material provided such independent development can reasonably be proven by contemporaneous written records. "
+  },
+  {
+   "id": "s20",
+   "text": "For the avoidance of doubt, the failure by the disclosing party to include any legend or other marking of the Evaluation Material as confidential or proprietary shall not be dispositive as to whether such information is Evaluation Material, provided that such information should reasonably be deemed by its nature to be confidential."
+  },
+  {
+   "id": "s21",
+   "text": "2. Purpose of Disclosure of Evaluation Material. "
+  },
+  {
+   "id": "s22",
+   "text": "It is understood and agreed to by each party that any exchange of information under this Agreement shall be solely for the purpose of evaluating the Transaction and shall not affect, in any way, each party’s relative competitive position to the other party or to other entities. "
+  },
+  {
+   "id": "s23",
+   "text": "It is further agreed that the information to be disclosed to each other shall only be that information which is reasonably necessary to evaluate the Transaction and that information which is not reasonably necessary for such purposes shall not be disclosed or exchanged. "
+  },
+  {
+   "id": "s24",
+   "text": "Notwithstanding the foregoing, any information that is inadvertently disclosed and not reasonably necessary for such purposes shall be immediately returned to the disclosing party, and shall otherwise be treated as Evaluation Material."
+  },
+  {
+   "id": "s25",
+   "text": "3. Use of Evaluation Material. "
+  },
+  {
+   "id": "s26",
+   "text": "Each party hereby agrees that it and its Representatives shall use the other’s Evaluation Material solely for the purpose of evaluating the Transaction. "
+  },
+  {
+   "id": "s27",
+   "text": "The receiving party shall hold the disclosing party’s Evaluation Material strictly confidential and shall not disclose such Evaluation Material in any manner to, or permit the use thereof by, any person or entity other than its "
+  },
+  {
+   "id": "s28",
+   "text": "Representatives that who in each case have a “need to know” (as defined below) or have access to such Evaluation Material in order to perform their responsibilities in connection with the Transaction and who are subject to obligations of confidentiality substantially similar to those imposed by this Agreement. "
+  },
+  {
+   "id": "s29",
+   "text": "A “need to know” means that the Representative(s) requires access to the Confidential Information in order to accomplish or effect the Transaction. "
+  },
+  {
+   "id": "s30",
+   "text": "The receiving party shall be responsible for any breaches of the terms of this Agreement by its Representatives and the receiving party agrees, at its sole expense, to take all reasonable measures (including, but not limited to, court proceedings) to restrain its Representatives from prohibited or unauthorized disclosure or use of the Evaluation Material. "
+  },
+  {
+   "id": "s31",
+   "text": "The receiving party shall make only the number of copies of Evaluation Material necessary to disseminate the information to the Representatives and ensure that any confidentiality or copyright notices set forth on the Evaluation Material are reproduced in full on such copies. "
+  },
+  {
+   "id": "s32",
+   "text": "In no event may a receiving party reverse engineer, decompile, or disassemble any Evaluation Materials. "
+  },
+  {
+   "id": "s33",
+   "text": "The receiving party shall safeguard the Confidential Information with at least the same degree of care to avoid unauthorized disclosure and use as Recipient uses to protect its own confidential information, but in no event less than a reasonable standard of care. "
+  },
+  {
+   "id": "s34",
+   "text": "The receiving party shall provide the disclosing party with full and prompt written notice of any breach in the security or confidentiality of the Evaluation Material while in the receiving party or its Representatives possession or control, including potential breach resulting from an unauthorized intrusion."
+  },
+  {
+   "id": "s35",
+   "text": "4. Non-Disclosure of Transaction. "
+  },
+  {
+   "id": "s36",
+   "text": "In addition, each party agrees that, without the prior written consent of the other party, such party and its Representatives will not disclose to any other person the existence of this Agreement, the fact that any Evaluation Material has been made available hereunder, that discussions are taking place concerning the Transaction or any of the terms, conditions or other facts with respect thereto, or that the Transaction is being contemplated; provided, that a party may make such disclosure if, in the written opinion of such party’s outside counsel, such disclosure is necessary to avoid committing a violation of law. "
+  },
+  {
+   "id": "s37",
+   "text": "In such event, the party required to make such disclosure shall comply with the provisions of paragraph 5 below."
+  },
+  {
+   "id": "s38",
+   "text": "5. Required Disclosure of Evaluation Material. "
+  },
+  {
+   "id": "s39",
+   "text": "In the event that a party or its Representatives are required (by oral questions, interrogatories, requests for information or documents in legal proceedings, subpoena, civil investigative demand or other similar process or any rule, regulation or policy statement of any national securities exchange, market or automated quotation system on which any of the receiving party’s securities are listed or quoted) to disclose "
+  },
+  {
+   "id": "s40",
+   "text": "(i) any of the other party’s Evaluation Material or "
+  },
+  {
+   "id": "s41",
+   "text": "(ii) that discussions are taking place concerning the Transaction, the party requested or required to make the disclosure shall provide the other party with prompt notice of any such request or requirement so that the other party may seek a protective order or other appropriate remedy and/or waive compliance with the provisions of this Agreement. "
+  },
+  {
+   "id": "s42",
+   "text": "If, in the absence of a protective order or other remedy or the receipt of a waiver by such other party, the party requested or required to make the disclosure or any of its Representatives are nonetheless, in the opinion of counsel, legally compelled by any requirement described in the first sentence of this paragraph 5 to disclose the other party’s Evaluation Material to any third party, the party requested or required to make the disclosure or its Representative may disclose to such third party only that portion of the other party’s Evaluation Material which such counsel advises is legally required to be disclosed, provided that the party requested or required to make the disclosure exercises its reasonable best efforts to preserve the confidentiality of the other party’s Evaluation Material, including, without limitation, by fully cooperating with the other party to obtain an appropriate protective order or other reliable assurance that confidential treatment will be accorded the other party’s Evaluation Material by any third party to which disclosure is made (at the other party’s expense)."
+  },
+  {
+   "id": "s43",
+   "text": "6. Privileged Information. "
+  },
+  {
+   "id": "s44",
+   "text": "To the extent that any Evaluation Material may include material or information that is subject to the attorney-client privilege, work product doctrine or any other applicable privilege concerning pending or threatened legal proceedings or governmental investigations, the parties understand and agree that they have a commonality of interest with respect to such matters and it is their desire, intention and mutual understanding that the sharing of such material is not intended to, and shall not, waive or diminish in any way the confidentiality of such material or its continued protection under the attorney-client privilege, work product doctrine or other applicable privilege. "
+  },
+  {
+   "id": "s45",
+   "text": "Any Evaluation Material provided by a party that is entitled to protection under the attorney-client privilege, work product doctrine or other applicable privilege shall remain entitled to such protection under these privileges, under this Agreement and under the joint defense doctrine. "
+  },
+  {
+   "id": "s46",
+   "text": "Nothing in this Agreement obligates any party to reveal material or information subject to the attorney-client privilege, work product doctrine or any other applicable privilege."
+  },
+  {
+   "id": "s47",
+   "text": "7. Sensitive Information. "
+  },
+  {
+   "id": "s48",
+   "text": "To the extent that any Evaluation Material may include extremely sensitive material or information of Company relating to pricing information, prospective client lists, patent information, trade secrets, or source code that is identified by the Company in writing as sensitive (\"Sensitive Information”), you understand and agree that in addition to all of the restrictions applying to Evaluation Material you shall comply with the additional restrictions outlined in this Section 7. "
+  },
+  {
+   "id": "s49",
+   "text": "For purposes of Sensitive Information, each Representative must also be approved by the Company prior to receiving such Sensitive Information. "
+  },
+  {
+   "id": "s50",
+   "text": "Company will determine, in its sole discretion, whether the proposed Representative is able to exploit the Sensitive Information commercially. "
+  },
+  {
+   "id": "s51",
+   "text": "Representatives are not authorized to further disclose such Sensitive Information to any other Representative without prior authorization from Company. "
+  },
+  {
+   "id": "s52",
+   "text": "Furthermore, for certain components of Sensitive Information Company may have additional specific data security procedures, requirements and instructions to which the you or your Representatives must comply prior to receiving or using such Sensitive Information."
+  },
+  {
+   "id": "s53",
+   "text": "8. Termination of Discussions. "
+  },
+  {
+   "id": "s54",
+   "text": "This letter agreement shall be in effect for a period of one year from the date hereof. "
+  },
+  {
+   "id": "s55",
+   "text": "Until a definitive agreement regarding the Transaction has been executed by the parties, neither party shall be under any legal obligation or have any liability to the other party of any nature whatsoever with respect to the Transaction by virtue of this Agreement or otherwise (other than with respect to the confidentiality and other matters set forth herein). "
+  },
+  {
+   "id": "s56",
+   "text": "Each party may, in its sole discretion, terminate discussions and negotiations with the other party at any time and for any reason. "
+  },
+  {
+   "id": "s57",
+   "text": "If either party decides that it does not wish to proceed with the Transaction with the other party, the party so deciding will promptly inform the other party of that decision by giving a written notice of termination. "
+  },
+  {
+   "id": "s58",
+   "text": "In that case, or at any time upon the request of the disclosing party for any reason, each receiving party will promptly deliver to the disclosing party any and all Evaluation Material (and all copies thereof and extracts therefrom, whether in hard-copy form or intangible media, such as electronic mail or computer files) furnished to the receiving party or its Representatives by or on behalf of the disclosing party. "
+  },
+  {
+   "id": "s59",
+   "text": "In the event of such a decision or request, all Evaluation Material prepared by the receiving party shall be destroyed and no copy thereof shall be retained, the receiving party shall provide written confirmation of such destruction. "
+  },
+  {
+   "id": "s60",
+   "text": "In no event shall either party be obligated to disclose or provide the Evaluation Material prepared by it or its Representatives to the other party. "
+  },
+  {
+   "id": "s61",
+   "text": "Notwithstanding the return or destruction of the Evaluation Material, each party and its Representatives will continue to be bound by its obligations of confidentiality, non-use and other obligations hereunder for a period of three (3) years from the date of this letter agreement."
+  },
+  {
+   "id": "s62",
+   "text": "9. No Representation of Accuracy. "
+  },
+  {
+   "id": "s63",
+   "text": "Each party understands and acknowledges that neither party nor any of its Representatives makes any representation or warranty, express or implied, as to the accuracy or completeness of the Evaluation Material made available by it or to it. "
+  },
+  {
+   "id": "s64",
+   "text": "Each party agrees that neither party nor any of its Representatives shall have any liability to the other party or to any of its Representatives relating to or resulting from the use of or reliance upon such other party’s Evaluation Material or any errors therein or omissions therefrom. "
+  },
+  {
+   "id": "s65",
+   "text": "Only those representations or warranties which are made in a final definitive agreement regarding the Transaction, when, as and if executed, and subject to such limitations and restrictions as may be specified therein, will have any legal effect."
+  },
+  {
+   "id": "s66",
+   "text": "10. Waiver. "
+  },
+  {
+   "id": "s67",
+   "text": "It is understood and agreed that no failure or delay by either party in exercising any right, power or privilege hereunder shall operate as a waiver thereof, nor shall any single or partial exercise thereof preclude any other or future exercise thereof or the exercise of any other right, power or privilege hereunder."
+  },
+  {
+   "id": "s68",
+   "text": "11. Non-Solicitation. "
+  },
+  {
+   "id": "s69",
+   "text": "In consideration of the Evaluation Material being furnished to you, each party agrees that for a period of one year from the date set forth above, without the other party’s prior written consent, neither party nor its affiliates will solicit, directly or indirectly, to employ any person who is now employed by the other party or its affiliates and is directly involved in the discussions hereunder (a “Covered Person”). "
+  },
+  {
+   "id": "s70",
+   "text": "The term “solicit to employ” shall not be deemed to include: "
+  },
+  {
+   "id": "s71",
+   "text": "(i) general solicitations of employment not specifically directed toward employees of the other party, "
+  },
+  {
+   "id": "s72",
+   "text": "(ii) an event in which such Covered Person contacts the such party or its Representatives on the Covered Person’s own initiative without any direct or indirect solicitation by or encouragement from such party or its Representatives, or "
+  },
+  {
+   "id": "s73",
+   "text": "(iii) such Covered Person is referred to such party by search firms, employment agencies, or other similar entities, provided that such entities have not been specifically instructed by such party to solicit the employees of the other party."
+  },
+  {
+   "id": "s74",
+   "text": "12. Independent Development. "
+  },
+  {
+   "id": "s75",
+   "text": "The disclosing party acknowledges that the receiving party may currently be, or may in the future become, a competitor of the disclosing party or may be engaged or in discussions with competitors of the disclosing party. "
+  },
+  {
+   "id": "s76",
+   "text": "The terms of this letter agreement shall not be construed to limit the receiving party’s right to develop independently or acquire products without use of the Evaluation Material. "
+  },
+  {
+   "id": "s77",
+   "text": "The disclosing party acknowledges that receiving party may currently or in the future be developing information internally, or be receiving information from other parties, that may be similar or related to the Evaluation Material. "
+  },
+  {
+   "id": "s78",
+   "text": "Accordingly, nothing in this letter agreement shall be construed as a representation or inference that receiving party does not have or shall not develop, or have developed for it or for any third party, or engage any third party that has rights to, products, concepts, systems or techniques, that, without violation of this letter agreement, are similar to or compete with the products, concepts, systems or techniques contemplated by or embodied in the Evaluation Material."
+  },
+  {
+   "id": "s79",
+   "text": "13. Securities Laws. "
+  },
+  {
+   "id": "s80",
+   "text": "Each party is aware, and will advise its Representatives who are informed of the matters that are the subject of this Agreement, of the restrictions imposed by Federal and state securities laws on the purchase or sale of securities by it or its Representatives have received material, nonpublic information (i.e., information that is "
+  },
+  {
+   "id": "s81",
+   "text": "(i) specific, "
+  },
+  {
+   "id": "s82",
+   "text": "(ii) non- public and "
+  },
+  {
+   "id": "s83",
+   "text": "(iii) likely to have a material effect on the market price of the issuer’s securities if and when made public (such that a reasonable investor would consider the information material in deciding whether to buy, hold or sell the issuer’s securities)) from the issuer of such securities and on the communication of such information to any other person or entity when it is reasonably foreseeable that such other person or entity is likely to purchase or sell securities."
+  },
+  {
+   "id": "s84",
+   "text": "14. Standstill. "
+  },
+  {
+   "id": "s85",
+   "text": "You agree that, for the period ending the earlier of "
+  },
+  {
+   "id": "s86",
+   "text": "(i) one year from the effective date of this Agreement and "
+  },
+  {
+   "id": "s87",
+   "text": "(ii) the date the Company enters into a definitive agreement with another party with respect to a Transaction, you will not, and you will not authorize or permit any Representatives acting on your behalf to, without the prior approval of the Board of Directors of the Company, "
+  },
+  {
+   "id": "s88",
+   "text": "(a) acquire or make any proposal to acquire any securities or assets of the Company, "
+  },
+  {
+   "id": "s89",
+   "text": "(b) propose to enter into any merger, consolidation, business combination, restructuring, recapitalization or other extraordinary transaction of or involving Company or the purchase of a material portion of the assets of Company, "
+  },
+  {
+   "id": "s90",
+   "text": "(c) make or participate in any solicitation of proxies to vote, or seek to advise or influence any person with respect to the voting of any securities of Company, "
+  },
+  {
+   "id": "s91",
+   "text": "(d) otherwise act or seek to control or influence the management, Board of Directors, or policies of Company, "
+  },
+  {
+   "id": "s92",
+   "text": "(e) form, join, or participate in a “group” (within the meaning of Section 13(d)(3) of the Securities Exchange Act of 1934, as amended) in connection with any of the foregoing, "
+  },
+  {
+   "id": "s93",
+   "text": "(f) disclose any intention, plan, or arrangement inconsistent with any of the foregoing, or "
+  },
+  {
+   "id": "s94",
+   "text": "(g) take any action which might require Company to make a public announcement regarding the possibility of the Transaction. "
+  },
+  {
+   "id": "s95",
+   "text": "Notwithstanding anything contained herein to the contrary, you are permitted to purchase equity securities in the ordinary course of business that does not in any event result in an aggregate ownership by you of more than 10% of the outstanding amount of any class of equity securities of Company."
+  },
+  {
+   "id": "s96",
+   "text": "15. Miscellaneous. "
+  },
+  {
+   "id": "s97",
+   "text": "Each party acknowledges and agrees that money damages may not be an adequate remedy for an actual or threatened breach of this Agreement, and the nonbreaching party shall be entitled to equitable relief, including injunction and specific performance, as a remedy for any such breach. "
+  },
+  {
+   "id": "s98",
+   "text": "Such remedies shall not be deemed to be the exclusive remedies for a breach of this Agreement but shall be in addition to all other remedies available at law or equity. "
+  },
+  {
+   "id": "s99",
+   "text": "In case any provision of this Agreement is held to be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions of the Agreement shall not in any way be affected or impaired thereby and such provision will be deemed to be restated to reflect the original intention of the parties as nearly as possible in accordance with applicable law."
+  },
+  {
+   "id": "s100",
+   "text": "16. Governing Law; Forum. "
+  },
+  {
+   "id": "s101",
+   "text": "This Agreement shall be governed by, and construed in accordance with, the internal laws of the State of New York, without giving effect to the principles of conflicts of laws thereof. "
+  },
+  {
+   "id": "s102",
+   "text": "In any dispute between the parties arising out of or relating to this Agreement, "
+  },
+  {
+   "id": "s103",
+   "text": "(i) each party irrevocably and unconditionally consents and submits to the exclusive jurisdiction and venue of the state and Federal courts located in the State of New York, "
+  },
+  {
+   "id": "s104",
+   "text": "(ii) if any action is commenced in state court, then, subject to applicable law, no party shall object to the removal of such action to any Federal court located in the State of New York, "
+  },
+  {
+   "id": "s105",
+   "text": "(iii) each party irrevocably waives the right to trial by jury and "
+  },
+  {
+   "id": "s106",
+   "text": "(iv) each party irrevocably consents to service of process by first class certified mail, return receipt requested, postage prepaid."
+  },
+  {
+   "id": "s107",
+   "text": "17. Entire Agreement. "
+  },
+  {
+   "id": "s108",
+   "text": "This Agreement contains the entire agreement between the parties hereto concerning confidentiality of their respective Evaluation Material, and no modification of this Agreement or waiver of the terms and conditions hereof shall be binding upon either party hereto, unless approved in writing by each such party."
+  },
+  {
+   "id": "s109",
+   "text": "18. Counterparts. "
+  },
+  {
+   "id": "s110",
+   "text": "This Agreement may be executed in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument."
+  },
+  {
+   "id": "s111",
+   "text": "Please confirm your agreement with the foregoing by signing and returning one copy of this Agreement to the undersigned, whereupon this Agreement shall become a binding agreement between you and the Company."
+  },
+  {
+   "id": "s112",
+   "text": "Very truly yours,"
+  },
+  {
+   "id": "s113",
+   "text": "MATTERSIGHT CORPORATION"
+  },
+  {
+   "id": "s114",
+   "text": "By: /s/ David B. Mullen"
+  },
+  {
+   "id": "s115",
+   "text": "Name: David B. Mullen"
+  },
+  {
+   "id": "s116",
+   "text": "Title: CFO"
+  },
+  {
+   "id": "s117",
+   "text": "Accepted and agreed to as of the date first written above:"
+  },
+  {
+   "id": "s118",
+   "text": "NICE Ltd."
+  },
+  {
+   "id": "s120",
+   "text": "By: /s/ Eran Liron"
+  },
+  {
+   "id": "s121",
+   "text": "Name: Eran Liron"
+  },
+  {
+   "id": "s122",
+   "text": "Title: EVP "
+  },
+  {
+   "id": "s123",
+   "text": "Marketing & Corporate Development"
+  }
+ ]
+}

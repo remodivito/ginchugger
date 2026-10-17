@@ -1,0 +1,601 @@
+{
+ "id": "N037",
+ "revision": 1,
+ "title": "Attachment 9 -  Non Disclosure Agreement (Version 1).pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 37,
+  "type": "search-pdf",
+  "url": "https://data.gov.uk/data/contracts-finder-archive/download/1248031/3b6c553c-5cb2-46a9-9a74-6953817511e6"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "NON DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "PRICE BENCHMARKING SERVICES"
+  },
+  {
+   "id": "s2",
+   "text": "REFERENCE NUMBER"
+  },
+  {
+   "id": "s3",
+   "text": "RM 1160"
+  },
+  {
+   "id": "s4",
+   "text": "ATTACHMENT "
+  },
+  {
+   "id": "s5",
+   "text": "9"
+  },
+  {
+   "id": "s6",
+   "text": "THIS AGREEMENT is made on [date]"
+  },
+  {
+   "id": "s7",
+   "text": "BETWEEN:"
+  },
+  {
+   "id": "s8",
+   "text": "(1) Government Procurement Service of 9th Floor, The Capital, Old Hall Street, Liverpool L3 9PP (the “Authority“); and"
+  },
+  {
+   "id": "s9",
+   "text": "(2) [Insert name] [(registered in England and Wales with company number [insert])] whose [registered office/principal place of business] is at [insert registered/principal address] (the “Organisation” and together with the Authority, the “Parties”)."
+  },
+  {
+   "id": "s10",
+   "text": "WHEREAS:"
+  },
+  {
+   "id": "s11",
+   "text": "Each Party wishes to receive Confidential Information from the other Party for the purpose of [insert background; note link with clause 2.1.5] (the “Permitted Purpose”)."
+  },
+  {
+   "id": "s12",
+   "text": "IT IS AGREED as follows:"
+  },
+  {
+   "id": "s13",
+   "text": "1 Interpretation"
+  },
+  {
+   "id": "s14",
+   "text": "1.1 "
+  },
+  {
+   "id": "s15",
+   "text": "In this Agreement, unless the context otherwise requires:"
+  },
+  {
+   "id": "s16",
+   "text": "“Confidential Information” means:"
+  },
+  {
+   "id": "s17",
+   "text": "(a) Information, including all personal data within the meaning of the Data Protection Act 1998, and however it is conveyed, provided by the Disclosing Party pursuant to [or in anticipation of] this Agreement that relates to:"
+  },
+  {
+   "id": "s18",
+   "text": "(i) the Disclosing Party Group; or"
+  },
+  {
+   "id": "s19",
+   "text": "(ii) the operations, business, affairs, developments, intellectual property rights, trade secrets, know-how and/or personnel of the Disclosing Party Group;"
+  },
+  {
+   "id": "s20",
+   "text": "(b) other Information provided by the Disclosing Party pursuant to [or in anticipation of] this Agreement that is clearly designated as being confidential or equivalent (whether or not it is so marked) or that ought reasonably to be considered to be confidential which comes (or has come) to the Receiving Party’s attention or into the Receiving Party’s possession in connection with the Permitted Purpose;"
+  },
+  {
+   "id": "s21",
+   "text": "(c) discussions, negotiations, and correspondence between the Disclosing Party or any of its directors, officers, employees, consultants or professional advisers and the Receiving Party or any of its directors, officers, employees, consultants and professional advisers in connection with the Permitted Purpose and all matters arising there from; and"
+  },
+  {
+   "id": "s22",
+   "text": "(d) Information derived from any of the above,"
+  },
+  {
+   "id": "s23",
+   "text": "but not including any Information that:"
+  },
+  {
+   "id": "s24",
+   "text": "1.1.1.1 was in the possession of the Receiving Party without obligation of confidentiality prior to its disclosure by the Disclosing Party;"
+  },
+  {
+   "id": "s25",
+   "text": "1.1.1.2 the Receiving Party obtained on a non-confidential basis from a third party who is not, to the Receiving Party’s knowledge or belief, bound by a confidentiality agreement with the Disclosing Party or otherwise prohibited from disclosing the information to the Receiving Party;"
+  },
+  {
+   "id": "s26",
+   "text": "1.1.1.3 was already generally available and in the public domain at the time of disclosure otherwise than by a breach of this Agreement or breach of a duty of confidentiality; or"
+  },
+  {
+   "id": "s27",
+   "text": "1.1.1.4 was independently developed without access to the Confidential Information;"
+  },
+  {
+   "id": "s28",
+   "text": "“Crown Body” means any department, office or agency of the Crown;"
+  },
+  {
+   "id": "s29",
+   "text": "“Disclosing Party” means a Party that directly or indirectly discloses or makes available Confidential Information;"
+  },
+  {
+   "id": "s30",
+   "text": "“Disclosing Party Group” means:"
+  },
+  {
+   "id": "s31",
+   "text": "(a) where the Disclosing Party is the Organisation, the Organisation and any company that is a holding company or subsidiary or subsidiary undertaking of the Organisation and any subsidiary or subsidiary undertaking of any such holding company; and"
+  },
+  {
+   "id": "s32",
+   "text": "(b) where the Disclosing Party is the Authority, the Authority and any Crown Body with which the Authority or the Organisation interacts in connection with the Permitted Purpose[ and any subsidiary of the Authority];"
+  },
+  {
+   "id": "s33",
+   "text": "“EIRs” means the Environmental Information Regulations 2004;"
+  },
+  {
+   "id": "s34",
+   "text": "“FOIA” means the Freedom of Information Act 2000 and any subordinate legislation made under that Act, together with any guidance and/or codes of practice issued by the Information Commissioner or relevant Crown Body in relation to such legislation;"
+  },
+  {
+   "id": "s35",
+   "text": "“Information” means all information of whatever nature, however conveyed and in whatever form, including in writing, orally, by demonstration, electronically and in a tangible, visual or machine-readable medium (including CD-ROM, magnetic and digital form);"
+  },
+  {
+   "id": "s36",
+   "text": "“Information has the meaning given to that expression in Clause 5.1; Return Notice”"
+  },
+  {
+   "id": "s37",
+   "text": "“Permitted has the meaning given to that expression in the recital to this Purpose” Agreement;"
+  },
+  {
+   "id": "s38",
+   "text": "“Receiving Party” means the Party which directly or indirectly receives or obtains Confidential Information;"
+  },
+  {
+   "id": "s39",
+   "text": "“Receiving Party Authorised Person” has the meaning given to that expression in Clause 3.1; “Request for Information” has the meaning set out in FOIA or any apparent request for information under the FOIA or the EIRs; and"
+  },
+  {
+   "id": "s40",
+   "text": "“Specified Scope” has the meaning given to that expression in Clause 5.1."
+  },
+  {
+   "id": "s41",
+   "text": "1.2 "
+  },
+  {
+   "id": "s42",
+   "text": "In this Agreement:"
+  },
+  {
+   "id": "s43",
+   "text": "1.2.1 a reference to any gender includes a reference to other genders;"
+  },
+  {
+   "id": "s44",
+   "text": "1.2.2 the singular includes the plural and vice versa;"
+  },
+  {
+   "id": "s45",
+   "text": "1.2.3 the words “include” and cognate expressions shall be construed as if they were immediately followed by the words “without limitation”;"
+  },
+  {
+   "id": "s46",
+   "text": "1.2.4 references to any statutory provision include a reference to that provision as modified, replaced, amended and/or re-enacted from time to time (before or after the date of this Agreement) and any prior or subsequent subordinate legislation made under it;"
+  },
+  {
+   "id": "s47",
+   "text": "1.2.5 the expressions \"subsidiary\", \"holding company\" and \"subsidiary undertaking\" shall have the meanings given to them in the Companies Act 2006;"
+  },
+  {
+   "id": "s48",
+   "text": "1.2.6 headings are included for ease of reference only and shall not affect the interpretation or construction of this Agreement; and"
+  },
+  {
+   "id": "s49",
+   "text": "1.2.7 references to Clauses are to clauses of this Agreement."
+  },
+  {
+   "id": "s50",
+   "text": "2 Confidentiality obligations"
+  },
+  {
+   "id": "s51",
+   "text": "2.1 "
+  },
+  {
+   "id": "s52",
+   "text": "In consideration of the Disclosing Party providing Confidential Information, at its discretion, to the Receiving Party, the Receiving Party shall:"
+  },
+  {
+   "id": "s53",
+   "text": "2.1.1 treat all Confidential Information as secret and confidential;"
+  },
+  {
+   "id": "s54",
+   "text": "2.1.2 have in place and maintain proper security measures and procedures to protect the confidentiality of the Confidential Information (having regard to its form and nature);"
+  },
+  {
+   "id": "s55",
+   "text": "2.1.3 not disclose or permit the disclosure of any of the Confidential Information to any other person without obtaining the prior written consent of the Disclosing Party or, if relevant, other owner or except as expressly set out in this Agreement;"
+  },
+  {
+   "id": "s56",
+   "text": "2.1.4 not transfer any of the Confidential Information outside the [United Kingdom];"
+  },
+  {
+   "id": "s57",
+   "text": "2.1.5 not use or exploit any of the Confidential Information for any purpose whatsoever other than the Permitted Purpose; and"
+  },
+  {
+   "id": "s58",
+   "text": "2.1.6 immediately notify the Disclosing Party in writing if it suspects or becomes aware of any unauthorised access, copying, use or disclosure in any form of any of the Confidential Information."
+  },
+  {
+   "id": "s59",
+   "text": "2.2 "
+  },
+  {
+   "id": "s60",
+   "text": "The Receiving Party shall [be responsible for taking reasonable action to] ensure that each Receiving Party Authorised Person to whom it discloses Confidential Information observes the Receiving Party’s obligations under this Agreement as if such Receiving Party Authorised Person had undertaken the same obligations as the Receiving Party."
+  },
+  {
+   "id": "s61",
+   "text": "3 Permitted Disclosures"
+  },
+  {
+   "id": "s62",
+   "text": "3.1 "
+  },
+  {
+   "id": "s63",
+   "text": "The Receiving Party may disclose Confidential Information to those of its directors, officers, employees, consultants and professional advisers and auditors (each a “Receiving Party Authorised Person”) who:"
+  },
+  {
+   "id": "s64",
+   "text": "3.1.1 reasonably need to receive the Confidential Information in connection with the Permitted Purpose; and"
+  },
+  {
+   "id": "s65",
+   "text": "3.1.2 have been informed by the Receiving Party:"
+  },
+  {
+   "id": "s66",
+   "text": "(a) of the confidential nature of the Confidential Information; and"
+  },
+  {
+   "id": "s67",
+   "text": "(b) that the Disclosing Party provided the Confidential Information to the Receiving Party subject to the provisions of a written confidentiality agreement."
+  },
+  {
+   "id": "s68",
+   "text": "3.2 "
+  },
+  {
+   "id": "s69",
+   "text": "The Receiving Party and each Receiving Party Authorised Person shall be entitled to disclose Confidential Information to the extent that it is required to do so by applicable law or by order of a court or other public body that has jurisdiction over the Receiving Party or Receiving Party Authorised Person, provided that Clause 4 shall apply to disclosures required under the FOIA or the EIRs."
+  },
+  {
+   "id": "s70",
+   "text": "3.3 "
+  },
+  {
+   "id": "s71",
+   "text": "Before making a disclosure pursuant to Clause 3.2, the Receiving Party or relevant Receiving Party Authorised Person shall, if the circumstances permit:"
+  },
+  {
+   "id": "s72",
+   "text": "3.3.1 notify the Disclosing Party in writing of the proposed disclosure as soon as possible (and if possible before the court or other public body orders the disclosure of the Confidential Information); and"
+  },
+  {
+   "id": "s73",
+   "text": "3.3.2 ask the court or other public body to treat the Confidential Information as confidential."
+  },
+  {
+   "id": "s74",
+   "text": "4 Additional Permitted Disclosures by the Authority and other Crown Bodies"
+  },
+  {
+   "id": "s75",
+   "text": "4.1 "
+  },
+  {
+   "id": "s76",
+   "text": "Where the Disclosing Party is the Organisation, the Authority and any Crown Body to which Confidential Information has been disclosed in accordance with Clause 4.1.1, may disclose any of the Confidential Information:"
+  },
+  {
+   "id": "s77",
+   "text": "4.1.1 to another Crown Body provided that the Authority or relevant Crown Body informs the recipient Crown Body of the confidential nature of the Confidential Information;"
+  },
+  {
+   "id": "s78",
+   "text": "4.1.2 pursuant to the requirements of the FOIA or the EIRs;"
+  },
+  {
+   "id": "s79",
+   "text": "4.1.3 to the extent the need for disclosure arises for the purpose of the examination and certification of the accounts of the Authority or relevant Crown Body or for any examination pursuant to section 6(1) of the National Audit Act 1983 of the economy, efficiency and effectiveness with which the Authority or relevant Crown Body is carrying out its public functions; and/or"
+  },
+  {
+   "id": "s80",
+   "text": "4.1.4 if the Authority or Crown Body has reasonable grounds to believe that the Disclosing Party is involved in activity that may constitute a serious criminal offence and the disclosure is being made to a relevant investigating or enforcement authority."
+  },
+  {
+   "id": "s81",
+   "text": "4.2 "
+  },
+  {
+   "id": "s82",
+   "text": "The Organisation acknowledges that public bodies, including the Authority and other Crown Bodies, may be required under the FOIA or the EIRs to disclose Information, including Confidential Information, without consulting or obtaining consent from the Organisation. "
+  },
+  {
+   "id": "s83",
+   "text": "The Authority shall take reasonable steps to notify the Organisation of a Request for Information (in accordance with the Secretary of State for Constitutional Affairs’ Code of Practice on the Discharge of the Functions of Public Authorities under Part 1 of the FOIA) to the extent that it is permissible and reasonably practical for it to do so but (notwithstanding any other provision in this Agreement) the Authority or other relevant Crown Body shall be responsible for determining in its absolute discretion whether any Confidential Information and/or any other Information is exempt from disclosure in accordance with the FOIA or the EIRs."
+  },
+  {
+   "id": "s84",
+   "text": "4.3 "
+  },
+  {
+   "id": "s85",
+   "text": "The Organisation shall provide all necessary assistance and cooperation as reasonably requested by the Authority or relevant Crown Body to enable the Authority or relevant Crown Body to comply with its obligations under the FOIA and the EIRs."
+  },
+  {
+   "id": "s86",
+   "text": "5 Return of Information and surviving obligations"
+  },
+  {
+   "id": "s87",
+   "text": "5.1 "
+  },
+  {
+   "id": "s88",
+   "text": "The Disclosing Party may serve a notice (an “Information Return Notice”) on the Receiving Party at any time under this Clause 5.1. "
+  },
+  {
+   "id": "s89",
+   "text": "An Information Return Notice must specify whether it relates to "
+  },
+  {
+   "id": "s90",
+   "text": "(i) all Confidential Information provided by the Disclosing Party which is protected by this Agreement or "
+  },
+  {
+   "id": "s91",
+   "text": "(ii) only specified Information or categories of Confidential Information so protected (in either case, the “Specified Scope”). "
+  },
+  {
+   "id": "s92",
+   "text": "On receipt of an Information Return Notice, the Receiving Party shall:"
+  },
+  {
+   "id": "s93",
+   "text": "5.1.1 subject to Clause 5.2, at the Receiving Party’s option, securely destroy or return and provide to the Disclosing Party documents and other tangible materials that contain any of the Confidential Information within the Specified Scope, including in any case all copies of the relevant documents and other materials made by the Receiving Party and any Receiving Party Authorised Person;"
+  },
+  {
+   "id": "s94",
+   "text": "5.1.2 subject to Clause 5.2, ensure, so far as reasonably practicable, that all Confidential Information within the Specified Scope that are held in electronic, digital or other machine-readable form ceases to be readily accessible (other than by the information technology staff of the Receiving Party or Receiving Party’s Authorised Person) from any computer, word processor, voicemail system or any other device containing such Confidential Information; and"
+  },
+  {
+   "id": "s95",
+   "text": "5.1.3 make no further use of any Confidential Information which falls within the Specified Scope."
+  },
+  {
+   "id": "s96",
+   "text": "5.2 "
+  },
+  {
+   "id": "s97",
+   "text": "The provisions of Clauses 5.1.1 and 5.1.2 shall not apply to the extent that the Receiving Party or Receiving Party Authorised Person is required to retain any such Confidential Information by any applicable law, rule or regulation or requirement of any competent judicial, governmental, supervisory or regulatory body or for the purposes of any audit."
+  },
+  {
+   "id": "s98",
+   "text": "5.3 Following any destruction or return of Confidential Information to the Disclosing Party pursuant to Clause 5.1, the Receiving Party’s obligations under this Agreement shall otherwise continue in force without limit of time."
+  },
+  {
+   "id": "s99",
+   "text": "6 General"
+  },
+  {
+   "id": "s100",
+   "text": "6.1 "
+  },
+  {
+   "id": "s101",
+   "text": "The Receiving Party acknowledges and agrees that all property, including intellectual property rights, in Confidential Information disclosed to it by the Disclosing Party shall remain with and be vested in the Disclosing Party or relevant member of the Disclosing Party Group."
+  },
+  {
+   "id": "s102",
+   "text": "6.2 "
+  },
+  {
+   "id": "s103",
+   "text": "This Agreement does not include, expressly or by implication, any representations, warranties or other obligations:"
+  },
+  {
+   "id": "s104",
+   "text": "6.2.1 to grant the Receiving Party any licence or rights other than as may be expressly stated in this Agreement;"
+  },
+  {
+   "id": "s105",
+   "text": "6.2.2 to require the Disclosing Party to disclose, continue disclosing or update any Confidential Information; or"
+  },
+  {
+   "id": "s106",
+   "text": "6.2.3 as to the accuracy, efficacy, completeness, capabilities, safety or any other qualities whatsoever of any Information or materials provided pursuant to or in anticipation of this Agreement."
+  },
+  {
+   "id": "s107",
+   "text": "6.3 "
+  },
+  {
+   "id": "s108",
+   "text": "The rights, powers and remedies provided in this Agreement are cumulative and not exclusive of any rights, powers or remedies provided by law. "
+  },
+  {
+   "id": "s109",
+   "text": "No failure or delay by either Party to exercise any right, power or remedy will operate as a waiver of it nor will any partial exercise preclude any further exercise of the same, or of some other right, power or remedy."
+  },
+  {
+   "id": "s110",
+   "text": "6.4 "
+  },
+  {
+   "id": "s111",
+   "text": "Without prejudice to any other rights or remedies that either Party may have, each Party acknowledges and agrees that damages alone may not be an adequate remedy for any breach by a Receiving Party or any Receiving Party Authorised Person of the provisions of this Agreement. "
+  },
+  {
+   "id": "s112",
+   "text": "Accordingly, each Party acknowledges that the Disclosing Party shall be entitled to the remedies of injunction and specific performance as well as any other equitable relief for any threatened or actual breach of this Agreement and/or breach of confidence and that no proof of special damages shall be necessary for the enforcement of such remedies."
+  },
+  {
+   "id": "s113",
+   "text": "6.5 "
+  },
+  {
+   "id": "s114",
+   "text": "For the purposes of the Contracts (Rights of Third Parties) Act 1999 no one other than the Parties has the right to enforce the terms of this Agreement."
+  },
+  {
+   "id": "s115",
+   "text": "6.6 Each Party will be responsible for all costs incurred by it or on its behalf in connection with this Agreement."
+  },
+  {
+   "id": "s116",
+   "text": "6.7 "
+  },
+  {
+   "id": "s117",
+   "text": "This Agreement may be executed in any number of counterparts and by the Parties on separate counterparts, but shall not be effective until each Party has executed at least one counterpart. "
+  },
+  {
+   "id": "s118",
+   "text": "Each counterpart shall constitute an original of this Agreement, but all the counterparts shall together constitute but one and the same instrument."
+  },
+  {
+   "id": "s119",
+   "text": "7 Notices"
+  },
+  {
+   "id": "s120",
+   "text": "7.1 "
+  },
+  {
+   "id": "s121",
+   "text": "Any notice to be given under this Agreement (each a “Notice”) shall be given in writing and shall be delivered by hand and shall be deemed to have been duly given at the time of delivery provided that such Notice is sent to the relevant physical address, and expressly marked for the attention of the relevant individual, set out in Clause 7.2."
+  },
+  {
+   "id": "s122",
+   "text": "7.2 "
+  },
+  {
+   "id": "s123",
+   "text": "Any Notice:"
+  },
+  {
+   "id": "s124",
+   "text": "7.2.1 if to be given to the Authority shall be sent to:"
+  },
+  {
+   "id": "s125",
+   "text": "[Address]"
+  },
+  {
+   "id": "s126",
+   "text": "Attention: [Contact name and/or position, e.g. “The Finance Director”]"
+  },
+  {
+   "id": "s127",
+   "text": "7.2.2 if to be given to the Organisation shall be sent to:"
+  },
+  {
+   "id": "s128",
+   "text": "[Name of Organisation]"
+  },
+  {
+   "id": "s129",
+   "text": "[Address]"
+  },
+  {
+   "id": "s130",
+   "text": "Attention: [ ]"
+  },
+  {
+   "id": "s131",
+   "text": "8 "
+  },
+  {
+   "id": "s132",
+   "text": "Governing law"
+  },
+  {
+   "id": "s133",
+   "text": "8.1 "
+  },
+  {
+   "id": "s134",
+   "text": "This Agreement shall be governed by, and construed in accordance with, English law and any matter claim or dispute arising out of or in connection with this Agreement whether contractual or non-contractual, shall be governed by and determined in accordance with English law."
+  },
+  {
+   "id": "s135",
+   "text": "8.2 Each Party hereby irrevocably submits to the exclusive jurisdiction of the English courts in respect of any claim or dispute arising out of or in connection with this Agreement."
+  },
+  {
+   "id": "s136",
+   "text": "IN WITNESS of the above this Agreement has been signed by the duly authorised representatives of the Parties on the date which appears at the head of page 1."
+  },
+  {
+   "id": "s137",
+   "text": "For and on behalf of the Authority"
+  },
+  {
+   "id": "s138",
+   "text": "Signature: "
+  },
+  {
+   "id": "s139",
+   "text": "______________________________ "
+  },
+  {
+   "id": "s140",
+   "text": "Date:"
+  },
+  {
+   "id": "s141",
+   "text": "Name: Position:"
+  },
+  {
+   "id": "s142",
+   "text": "For and on behalf of the Organisation"
+  },
+  {
+   "id": "s143",
+   "text": "Signature: "
+  },
+  {
+   "id": "s144",
+   "text": "______________________________ "
+  },
+  {
+   "id": "s145",
+   "text": "Date:"
+  },
+  {
+   "id": "s146",
+   "text": "Name: Position:"
+  }
+ ]
+}

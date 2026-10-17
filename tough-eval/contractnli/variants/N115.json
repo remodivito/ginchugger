@@ -1,0 +1,713 @@
+{
+ "id": "N115",
+ "revision": 1,
+ "title": "GTC_CEII_Non_Disclosure_Agmt_05111_revised.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 115,
+  "type": "search-pdf",
+  "url": "http://www.oatioasis.com/GTC/GTCdocs/GTC_CEII_Non_Disclosure_Agmt_05111_revised.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "Non-Disclosure "
+  },
+  {
+   "id": "s1",
+   "text": "Agreement"
+  },
+  {
+   "id": "s2",
+   "text": "THIS NON-DISCLOSURE AGREEMENT "
+  },
+  {
+   "id": "s3",
+   "text": "is made as of the ____ day of _______ 20__ (the “Effective Date”) between Georgia Transmission Corporation (An Electric Membership Corporation) (“GTC”), with offices at 2100 E. Exchange Place, Tucker, Georgia 30084 and ______________________, (on behalf of yourself and, as a duly authorized representative, on behalf of your organization/employer) (“Recipient”). "
+  },
+  {
+   "id": "s4",
+   "text": "Hereinafter, GTC and Recipient may be referred to collectively as the “Parties”."
+  },
+  {
+   "id": "s5",
+   "text": "WHEREAS, Recipient has requested data used in conjunction with transmission studies conducted by GTC, including but not limited to System Impact Studies and/or Facilities Studies (“Transmission Studies”), which data contains critical energy infrastructure information (“CEII”), as defined by the regulations of the Federal Energy Regulatory Commission (“FERC”) in 18 C.F.R. § 388.113;"
+  },
+  {
+   "id": "s6",
+   "text": "WHEREAS, it is necessary for GTC to protect CEII from unauthorized disclosure."
+  },
+  {
+   "id": "s7",
+   "text": "WHEREAS, the Parties agree that CEII disclosed to Recipient is Confidential Information, which must be protected from disclosure and unauthorized use;"
+  },
+  {
+   "id": "s8",
+   "text": "NOW THEREFORE, GTC presents to Recipient this Non-Disclosure Agreement as its conditional offer setting forth the terms and conditions of the Recipients access to Confidential Information, including CEII. "
+  },
+  {
+   "id": "s9",
+   "text": "Execution of this Non-Disclosure Agreement on behalf of Recipient and Recipient’s organization constitutes acceptance of the offer, including and subject to its terms and conditions."
+  },
+  {
+   "id": "s10",
+   "text": "I. Definitions"
+  },
+  {
+   "id": "s12",
+   "text": "“Confidential Information” is defined as: CEII made available through a restricted area within the GTC’s OASIS website or otherwise furnished to you by GTC; "
+  },
+  {
+   "id": "s13",
+   "text": "(ii) new information created using such information and that contains CEII, such as any copies, summaries, diagrams, notes, calculations, recommendations, evaluations, opinions, reports and/or conclusions or other similar materials prepared from or based upon the Confidential Information, including any such information that has been stored electronically (“Derivative Information”); and "
+  },
+  {
+   "id": "s14",
+   "text": "(iii) any information you know or reasonably should know to be CEII that is furnished and/or made available to you by GTC in connection with this Non-Disclosure Agreement. "
+  },
+  {
+   "id": "s15",
+   "text": "Confidential Information would include, but would not be limited to, load flow base case models and/or stability models, designs, formulae, processes, models, photographs, plans, drawings, schematics, sketches, samples, equipment, equipment performance reports, GTC bidders’ lists, pricing information, studies, reports, findings, inventions, ideas, specifications, parts lists, technical data, data bases, computer programs, except those computer programs proprietary to Recipient, flow charts, algorithms, information regarding GTC’s executives and employees, and other business and technical information which are used for purposes of any project performed by GTC for Recipient. "
+  },
+  {
+   "id": "s16",
+   "text": "“Confidential Information” shall also include any other information, document or thing that GTC marks or labels as “Confidential."
+  },
+  {
+   "id": "s17",
+   "text": "”"
+  },
+  {
+   "id": "s18",
+   "text": "II. Purpose"
+  },
+  {
+   "id": "s19",
+   "text": "Recipient desires access to information of a proprietary and confidential nature relating to (describe CEII and Confidential Information requested) "
+  },
+  {
+   "id": "s20",
+   "text": "__________________ "
+  },
+  {
+   "id": "s21",
+   "text": "________________________________________________________________________ "
+  },
+  {
+   "id": "s22",
+   "text": "for the intend use (describe): "
+  },
+  {
+   "id": "s23",
+   "text": "________________________________________________ "
+  },
+  {
+   "id": "s24",
+   "text": "________________________________________________________________________"
+  },
+  {
+   "id": "s25",
+   "text": "III. Non-Disclosure"
+  },
+  {
+   "id": "s26",
+   "text": "Recipient must hold in confidence and not disclose, reproduce, distribute, transmit, reverse engineer, de-compile, disassemble, or transfer, in any form, by any means, or for any purpose, the Confidential Information or any portion of it. "
+  },
+  {
+   "id": "s27",
+   "text": "Recipient must ensure that the Confidential Information is maintained by it in confidence in a manner so as to ensure that it will not be viewed or taken by any unauthorized person or further disclosed in a manner not authorized in this Agreement."
+  },
+  {
+   "id": "s28",
+   "text": "Recipient may disclose the Confidential Information solely to:"
+  },
+  {
+   "id": "s29",
+   "text": "(a) those individuals within your organization who "
+  },
+  {
+   "id": "s30",
+   "text": "(i) have requested access to Confidential Information from GTC and have been granted such access; "
+  },
+  {
+   "id": "s31",
+   "text": "(ii) need to know the information to do their jobs; "
+  },
+  {
+   "id": "s32",
+   "text": "(iii) have been advised of the duty of non-disclosure; and "
+  },
+  {
+   "id": "s33",
+   "text": "(iv) have executed this Non-Disclosure Agreement. "
+  },
+  {
+   "id": "s34",
+   "text": "Additional persons employed by your organization may execute this Agreement using the form set forth in Appendix A"
+  },
+  {
+   "id": "s36",
+   "text": "(b) personnel hired by you for help and/or advice, such as business consultants, lawyers, and/or accountants, if those personnel "
+  },
+  {
+   "id": "s37",
+   "text": "(i) have individually requested access to Confidential Information from GTC and have been granted such access; "
+  },
+  {
+   "id": "s38",
+   "text": "(ii) need to know the information to do their jobs; "
+  },
+  {
+   "id": "s39",
+   "text": "(iii) have been advised of the duty of non-disclosure; and "
+  },
+  {
+   "id": "s40",
+   "text": "(iv) have individually executed this Non Disclosure Agreement. "
+  },
+  {
+   "id": "s41",
+   "text": "Such personnel must execute this Agreement in the form set forth in Appendix B."
+  },
+  {
+   "id": "s42",
+   "text": "As described above, you may exercise your right of access to Confidential Information only through individuals who: "
+  },
+  {
+   "id": "s43",
+   "text": "(i) have requested access to Confidential Information from GTC and have been granted such access; "
+  },
+  {
+   "id": "s44",
+   "text": "(ii) need to know the information to do their jobs; "
+  },
+  {
+   "id": "s45",
+   "text": "(iii) have been advised of the duty of non-disclosure; and "
+  },
+  {
+   "id": "s46",
+   "text": "(iv) have executed this Non Disclosure Agreement by providing a signed copy of Appendix A or Appendix B to GTC. "
+  },
+  {
+   "id": "s47",
+   "text": "You agree to keep an updated list of such individuals and to ensure that only those individuals have access to Confidential Information."
+  },
+  {
+   "id": "s48",
+   "text": "IV. Standard of Care Confidential Information shall be maintained by Recipient in a secure place. "
+  },
+  {
+   "id": "s49",
+   "text": "Access to those materials shall be limited to other Recipients of the identical material. "
+  },
+  {
+   "id": "s50",
+   "text": "Recipients may make copies of Confidential Information, but such copies become Confidential Information and subject to these same procedures. "
+  },
+  {
+   "id": "s51",
+   "text": "Recipients may make notes of Confidential Information which shall be treated as Confidential Information notes if they contain Confidential Information."
+  },
+  {
+   "id": "s52",
+   "text": "V. Use of Confidential Information"
+  },
+  {
+   "id": "s53",
+   "text": "The Recipient will not knowingly use Confidential Information for an illegal or non-legitimate purpose."
+  },
+  {
+   "id": "s54",
+   "text": "The Recipient of CEII may use CEII as foundation for advice provided to others, but may not disclose CEII to another individual unless that individual is an approved Recipient of the same CEII."
+  },
+  {
+   "id": "s55",
+   "text": "The Recipient agrees that you will only use Confidential Information solely for the purpose as stated in Section II. "
+  },
+  {
+   "id": "s56",
+   "text": "You may not use Confidential Information for any other purpose."
+  },
+  {
+   "id": "s57",
+   "text": "VI. Property Rights"
+  },
+  {
+   "id": "s58",
+   "text": "Confidential Information is and at all times remains the property of GTC. "
+  },
+  {
+   "id": "s59",
+   "text": "Confidential Information disclosed in connection with any work performed for GTC may be used only as permitted by this Non-Disclosure Agreement, and GTC does not convey any proprietary right or license, whether implied or otherwise, except as may be expressly granted in this Non-Disclosure Agreement."
+  },
+  {
+   "id": "s60",
+   "text": "VII. Exceptions"
+  },
+  {
+   "id": "s61",
+   "text": "The obligations imposed on either party herein shall not apply to Confidential Information which:"
+  },
+  {
+   "id": "s62",
+   "text": "A. Is made public by GTC or which otherwise becomes part of the public domain through no wrongful act, fault or negligence on the part of the Recipient or its employees;"
+  },
+  {
+   "id": "s63",
+   "text": "B. The Recipient can reasonably demonstrate is already in the Recipient’s possession as a result of matters unrelated to the Project and not subject to an agreement of confidentiality;"
+  },
+  {
+   "id": "s64",
+   "text": "C. Is received from a third party without restriction and without breach of an agreement with GTC;"
+  },
+  {
+   "id": "s65",
+   "text": "D. Is independently developed by the Recipient without reliance upon and not as result of information received in connection with any work performed for GTC, or any Confidential information received, as evidenced by the Recipient’s written records;"
+  },
+  {
+   "id": "s66",
+   "text": "E. Is independently developed by the Recipient for purposes unrelated to the Project, as evidenced by the Recipient’s written records; or"
+  },
+  {
+   "id": "s67",
+   "text": "F. The Recipient is required to disclose pursuant to a valid order of a court, governmental body or regulatory agency, provided that to the extent it may lawfully do so, the Recipient shall first have given written notice to GTC and given GTC a reasonable opportunity to interpose an objection or obtain a protective order, and to cooperate with GTC in taking steps to restrict or narrow the information you must disclose."
+  },
+  {
+   "id": "s68",
+   "text": "VIII. Return of Confidential Information"
+  },
+  {
+   "id": "s69",
+   "text": "GTC may revoke your access to Confidential Information at any time, with or without notice."
+  },
+  {
+   "id": "s70",
+   "text": "Recipient shall return all originals, copies, reproductions and summaries of Confidential Information at GTC’s request or, at GTC’s option, certify destruction of the same within fifteen (15) days of a written request by GTC. "
+  },
+  {
+   "id": "s71",
+   "text": "Within such time period, each Recipient, if requested to do so, shall also submit to the GTC an affidavit stating that, to the best of his or her knowledge, all Confidential Information has been returned or destroyed and that Confidential Information notes have either been returned or destroyed."
+  },
+  {
+   "id": "s72",
+   "text": "IX. Injunctive Relief"
+  },
+  {
+   "id": "s73",
+   "text": "In the event of a breach or threatened breach or intended breach of this Non-Disclosure Agreement by Recipient, GTC, in addition to any other rights and remedies available to it at law or in equity, shall be entitled to preliminary and final injunctions, enjoining and restraining such breach or threatened breach or intended breach."
+  },
+  {
+   "id": "s74",
+   "text": "X. Governing Law"
+  },
+  {
+   "id": "s75",
+   "text": "The laws of the State of Georgia govern the validity, construction, and performance of this Non-Disclosure Agreement and suit may be brought in Georgia to enforce the terms of this Non-Disclosure Agreement."
+  },
+  {
+   "id": "s76",
+   "text": "XI. "
+  },
+  {
+   "id": "s77",
+   "text": "Term"
+  },
+  {
+   "id": "s78",
+   "text": "This Non-Disclosure "
+  },
+  {
+   "id": "s79",
+   "text": "Agreement shall expire on three (3) calendar years from December 31 of the year in which you execute this Non-Disclosure Agreement; provided, however, that notwithstanding the termination of this Non-Disclosure Agreement, the confidentiality obligations and covenants of this Non-Disclosure Agreement will survive indefinitely and shall not terminate, or else shall remain in effect as long as permitted by law. "
+  },
+  {
+   "id": "s80",
+   "text": "GTC may revoke your access to Confidential Information at any time, with or without notice. "
+  },
+  {
+   "id": "s81",
+   "text": "GTC may extend the term of this Non-Disclosure Agreement in its sole discretion."
+  },
+  {
+   "id": "s82",
+   "text": "XII. "
+  },
+  {
+   "id": "s83",
+   "text": "Other Provisions"
+  },
+  {
+   "id": "s84",
+   "text": "If any part of the Agreement is found to be invalid or unenforceable, the rest of the Agreement will still remain effective."
+  },
+  {
+   "id": "s85",
+   "text": "GTC may exercise its rights under this Agreement at any time, even if they delayed doing so or failed to do so in the past."
+  },
+  {
+   "id": "s86",
+   "text": "All Confidential Information is provided “as is” and with all faults. "
+  },
+  {
+   "id": "s87",
+   "text": "GTC shall not be liable for the accuracy or completeness of Confidential Information."
+  },
+  {
+   "id": "s88",
+   "text": "GTC is not responsible for Recipient’s use of Confidential Information. "
+  },
+  {
+   "id": "s89",
+   "text": "Recipient agrees to hold GTC harmless and indemnify them for any and all damages and liabilities arising from any action you may take with respect to Confidential Information."
+  },
+  {
+   "id": "s90",
+   "text": "Recipient acknowledges that GTC is not responsible or liable for any other entity’s designation of information as CEII, including any improper designation."
+  },
+  {
+   "id": "s91",
+   "text": "This is the entire agreement between the Parties concerning the duty of non-disclosure of Confidential Information. "
+  },
+  {
+   "id": "s92",
+   "text": "No modification or waiver of any part of this Non-Disclosure Agreement is legally enforceable unless the Parties have agreed in writing."
+  },
+  {
+   "id": "s93",
+   "text": "The duly authorized representatives of the Parties have executed this Non Disclosure Agreement to be Effective Date indicated on the first page above."
+  },
+  {
+   "id": "s94",
+   "text": "Recipient: "
+  },
+  {
+   "id": "s95",
+   "text": "___________________________"
+  },
+  {
+   "id": "s97",
+   "text": "(Signature)"
+  },
+  {
+   "id": "s98",
+   "text": "Name (Printed): "
+  },
+  {
+   "id": "s99",
+   "text": "___________________________"
+  },
+  {
+   "id": "s100",
+   "text": "Title: "
+  },
+  {
+   "id": "s101",
+   "text": "____________________________"
+  },
+  {
+   "id": "s102",
+   "text": "Organization: "
+  },
+  {
+   "id": "s103",
+   "text": "_____________________________"
+  },
+  {
+   "id": "s104",
+   "text": "Address: "
+  },
+  {
+   "id": "s105",
+   "text": "____________________________"
+  },
+  {
+   "id": "s106",
+   "text": "____________________________"
+  },
+  {
+   "id": "s107",
+   "text": "____________________________"
+  },
+  {
+   "id": "s108",
+   "text": "Telephone: "
+  },
+  {
+   "id": "s109",
+   "text": "____________________________"
+  },
+  {
+   "id": "s110",
+   "text": "E-mail: "
+  },
+  {
+   "id": "s111",
+   "text": "____________________________"
+  },
+  {
+   "id": "s112",
+   "text": "Georgia Transmission Corporation (An Electric Membership Corporation):"
+  },
+  {
+   "id": "s113",
+   "text": "Signature: "
+  },
+  {
+   "id": "s114",
+   "text": "_______________________________"
+  },
+  {
+   "id": "s115",
+   "text": "Name (Printed): "
+  },
+  {
+   "id": "s116",
+   "text": "__________________________"
+  },
+  {
+   "id": "s117",
+   "text": "Title: "
+  },
+  {
+   "id": "s118",
+   "text": "__________________________"
+  },
+  {
+   "id": "s119",
+   "text": "APPENDIX "
+  },
+  {
+   "id": "s120",
+   "text": "A"
+  },
+  {
+   "id": "s121",
+   "text": "I am employed by "
+  },
+  {
+   "id": "s122",
+   "text": "_________________________ (Organization), an organization that has executed this Non-Disclosure Agreement. "
+  },
+  {
+   "id": "s123",
+   "text": "I have read the entire Non-Disclosure Agreement. "
+  },
+  {
+   "id": "s124",
+   "text": "I understand that I may not disclose Confidential Information to anyone, in any way, except as authorized by the Non-Disclosure Agreement. "
+  },
+  {
+   "id": "s125",
+   "text": "I agree to be bound by this duty and all other duties and obligations imposed by this Non-Disclosure Agreement."
+  },
+  {
+   "id": "s126",
+   "text": "AGREED AND EXECUTED by (attach additional sheets as necessary):"
+  },
+  {
+   "id": "s127",
+   "text": "Signature: Signature:"
+  },
+  {
+   "id": "s128",
+   "text": "Name: Name:"
+  },
+  {
+   "id": "s129",
+   "text": "Organization: Organization:"
+  },
+  {
+   "id": "s130",
+   "text": "Address: Address:"
+  },
+  {
+   "id": "s131",
+   "text": "Telephone: Telephone:"
+  },
+  {
+   "id": "s132",
+   "text": "E-mail: E-mail:"
+  },
+  {
+   "id": "s133",
+   "text": "Date: Date:"
+  },
+  {
+   "id": "s134",
+   "text": "Signature: Signature:"
+  },
+  {
+   "id": "s135",
+   "text": "Name: Name:"
+  },
+  {
+   "id": "s136",
+   "text": "Organization: Organization:"
+  },
+  {
+   "id": "s137",
+   "text": "Address: Address:"
+  },
+  {
+   "id": "s138",
+   "text": "Telephone: Telephone:"
+  },
+  {
+   "id": "s139",
+   "text": "E-mail: E-mail:"
+  },
+  {
+   "id": "s140",
+   "text": "Date: Date:"
+  },
+  {
+   "id": "s141",
+   "text": "Signature: Signature:"
+  },
+  {
+   "id": "s142",
+   "text": "Name: Name:"
+  },
+  {
+   "id": "s143",
+   "text": "Organization: Organization:"
+  },
+  {
+   "id": "s144",
+   "text": "Address: Address:"
+  },
+  {
+   "id": "s145",
+   "text": "Telephone: Telephone:"
+  },
+  {
+   "id": "s146",
+   "text": "E-mail: E-mail:"
+  },
+  {
+   "id": "s147",
+   "text": "Date: Date:"
+  },
+  {
+   "id": "s148",
+   "text": "APPENDIX B"
+  },
+  {
+   "id": "s149",
+   "text": "I am employed by "
+  },
+  {
+   "id": "s150",
+   "text": "_________________________ (Consultant), which has been retained by "
+  },
+  {
+   "id": "s151",
+   "text": "_________________________ (Organization). "
+  },
+  {
+   "id": "s152",
+   "text": "The Organization has executed this Non-Disclosure Agreement and has hired the Consultant for help and/or advice for purposes of Paragraph 3(b) of the Non-Disclosure Agreement. "
+  },
+  {
+   "id": "s153",
+   "text": "I have read the entire Non-Disclosure Agreement. "
+  },
+  {
+   "id": "s154",
+   "text": "I understand that I may not disclose Confidential Information to anyone, in any way, except as authorized by this Non-Disclosure Agreement. "
+  },
+  {
+   "id": "s155",
+   "text": "I agree to be bound by this duty and all other duties and obligations imposed by this Non-Disclosure Agreement."
+  },
+  {
+   "id": "s156",
+   "text": "AGREED AND EXECUTED by (attach additional sheets as necessary):"
+  },
+  {
+   "id": "s157",
+   "text": "Signature: Signature:"
+  },
+  {
+   "id": "s158",
+   "text": "Name: Name:"
+  },
+  {
+   "id": "s159",
+   "text": "Consultant: Consultant:"
+  },
+  {
+   "id": "s160",
+   "text": "Address: Address:"
+  },
+  {
+   "id": "s161",
+   "text": "Telephone: Telephone:"
+  },
+  {
+   "id": "s162",
+   "text": "E-mail: E-mail:"
+  },
+  {
+   "id": "s163",
+   "text": "Date: Date:"
+  },
+  {
+   "id": "s164",
+   "text": "Signature: Signature:"
+  },
+  {
+   "id": "s165",
+   "text": "Name: Name:"
+  },
+  {
+   "id": "s166",
+   "text": "Consultant: Consultant:"
+  },
+  {
+   "id": "s167",
+   "text": "Address: Address:"
+  },
+  {
+   "id": "s168",
+   "text": "Telephone: Telephone:"
+  },
+  {
+   "id": "s169",
+   "text": "E-mail: E-mail:"
+  },
+  {
+   "id": "s170",
+   "text": "Date: Date:"
+  },
+  {
+   "id": "s171",
+   "text": "Signature: Signature:"
+  },
+  {
+   "id": "s172",
+   "text": "Name: Name:"
+  },
+  {
+   "id": "s173",
+   "text": "Consultant: Consultant:"
+  },
+  {
+   "id": "s174",
+   "text": "Address: Address:"
+  },
+  {
+   "id": "s175",
+   "text": "Telephone: Telephone:"
+  },
+  {
+   "id": "s176",
+   "text": "E-mail: E-mail:"
+  },
+  {
+   "id": "s177",
+   "text": "Date: Date:"
+  }
+ ]
+}

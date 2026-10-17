@@ -1,0 +1,103 @@
+/* SPDX-License-Identifier: GPL-3.0-or-later */
+/* Design tokens (the "glass" redesign of 16 Oct 2026, from the Pane A / Matter B / Inbox B / Settings B boards).
+   The single source for colour, type, spacing and sizes; docs/DESIGN-SYSTEM.md says what each one is for.
+   Change a value here, not in a rule. The app is light only (index.html says color-scheme: light). */
+:root {
+  /* Colour: a near-white page, white cards, one ink, two greys, hairlines. Severity is the only colour. */
+  --page: #F7F7F8;         /* the page behind the sidebar and the cards */
+  --ground: #FFFFFF;       /* cards, groups, the pane */
+  --ink: #1D1D1F;          /* text and the primary button: 16.6:1 on white */
+  --ink-hover: #000000;
+  --text-2: #3A3A3C;       /* secondary text that is still read (explanations, nav items) */
+  --grey: #6E6E73;         /* labels and meta: 5.0:1 on white */
+  --grey-2: #8E8E93;       /* quietest text: dates, counts, uppercase labels */
+  --struck: #8E8E93;       /* struck-through wording */
+  --line: rgba(0,0,0,0.08);        /* hairlines between rows; never text */
+  --line-strong: rgba(0,0,0,0.12); /* field borders, the pane's edge */
+  --disabled: #AEAEB2;
+  --fill: rgba(0,0,0,0.05);        /* quiet pills, the active nav item, hover */
+  --fill-strong: rgba(118,118,128,0.12); /* segmented controls, switches off */
+  --mark: rgba(255,214,10,0.22);   /* the passage on screen in the browser document; Word's temporary highlight */
+  --frame: #ECEFF3;        /* the surround of the browser document column */
+  --card: #F5F5F7;         /* the explanation card and quiet wells (an email's attachment) */
+  --tint-del: rgba(179,38,30,0.08);  /* what goes, inside the wording box only */
+  --tint-ins: rgba(10,96,201,0.08);  /* what comes, inside the wording box only */
+  --struck-del: #8A3A3F;
+  --on-ink: #FFFFFF;       /* text on the primary button */
+  --on-ink-label: #C7C7CC; /* the elapsed time inside the busy primary button */
+
+  /* Severity: push back / open, check, fine. Used for dots, the round bar and status chips. */
+  --sev-open: #C9600A;
+  --sev-open-bg: rgba(201,96,10,0.12);
+  --sev-open-text: #9A4A06;
+  --sev-check: #AEAEB2;
+  --sev-fine: #8FC1A3;
+  --sev-fine-bg: rgba(52,168,83,0.12);
+  --sev-fine-text: #1E7A3C;
+  --sev-conceded: #D1D1D6;
+
+  /* The accent, "Forest" (17 Oct 2026, replacing header D's brown across the pane and the web app): the wordmark, the
+     progress segments and Ask's citation chips. Severity keeps its own colours. */
+  --accent: #2F5A3C;            /* 7.9:1 on white */
+  --accent-pressed: #24472F;    /* a pressed accent control: 10.4:1 on white */
+  --accent-track: #DDE5DF;      /* an open segment; decoration, never text */
+  --accent-soft: #E5EFE7;       /* Ask's citation chips: the pill behind --accent text (6.7:1) */
+  --accent-soft-hover: #D8E6DB; /* a chip under the pointer (6.1:1) */
+  --link: #1F4F7A;         /* Ask's "N sources" control: 8.7:1 on white */
+  --done: #2F7D4F;         /* a finished Ask step's tick: 5.3:1 on white */
+
+  /* Surfaces */
+  --shadow-side: 0 0 0 0.5px rgba(0,0,0,0.08), 0 6px 24px rgba(0,0,0,0.06);
+  --shadow-card: 0 0 0 0.5px rgba(0,0,0,0.08), 0 2px 8px rgba(0,0,0,0.03);
+  --shadow-group: 0 0 0 0.5px rgba(0,0,0,0.08);
+  /* Liquid glass: floating control bars only, never content. */
+  --glass: rgba(250,250,252,0.62);
+  --glass-blur: blur(24px) saturate(180%);
+  --glass-shadow: inset 0 0.5px 0 rgba(255,255,255,0.9), inset 0 0 0 0.5px rgba(0,0,0,0.06), 0 8px 28px rgba(0,0,0,0.10);
+  --r-side: 14px;
+  --r-card: 12px;
+  --r-field: 8px;
+  --r-pill: 999px;
+
+  /* Type (17 Oct 2026): Geist is the tool speaking, for all UI and reading text (answers, findings, explanations, page
+     text); Newsreader is only the wordmark, page and document titles, and words quoted from a contract or an email.
+     Both are bundled (@fontsource/geist, @fontsource/newsreader; imported in src/main.jsx); no font is fetched at run time. */
+  --sans: 'Geist', -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', system-ui, sans-serif;
+  --serif: 'Newsreader', 'Iowan Old Style', Georgia, 'Times New Roman', serif;
+  --t-title: 34px;         /* a page's title */
+  --t-title-s: 22px;       /* a settings panel's title, the inbox detail's subject */
+  --t-quote-l: 24px;       /* level 1: what they changed, what goes back (short excerpts) */
+  --t-quote-m: 17px;       /* level 1 when the excerpt runs past about sixty characters */
+  --t-quote-s: 14.5px;     /* level 2: an earlier-round or evidence excerpt */
+  --t-input: 14px;         /* text the lawyer types */
+  --t-button: 13px;        /* buttons */
+  --t-body: 13.5px;        /* values, list rows */
+  --t-count: 13px;
+  --t-meta: 12.5px;
+  --t-label: 11px;         /* uppercase labels, letter-spaced 0.06em */
+  --lh-quote-l: 1.2;
+  --lh-quote-m: 1.4;
+  --lh-body: 1.45;
+
+  /* Space: a 4 px grid. */
+  --s1: 4px;
+  --s2: 8px;
+  --s3: 12px;
+  --s4: 16px;
+  --s5: 20px;
+  --s6: 24px;
+  --s8: 32px;
+  --s10: 40px;
+  --gutter: 16px;
+  --label-col: 64px;
+
+  /* Sizes */
+  --target: 36px;          /* controls; rows in a group are 44 */
+  --row: 44px;
+  --primary: 40px;
+  --square: 7px;           /* the dot */
+  --hairline: 0.5px;
+  --page-max: 920px;
+  --side-w: 236px;
+  --pane-browser: 380px;
+}

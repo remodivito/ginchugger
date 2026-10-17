@@ -1,0 +1,3 @@
+# Fixture: EXP-008 product v1.1 model output
+
+Recorded Opus 5.5 output (53 findings) and the exact document/playbook payload it was given, from pilot-nda-first-turn run 2026-10-02T16-43-50Z-product-v1.1. The strict validator rejected the whole review over one suggestion it considered out of scope (p49: a suggestion on a context-status finding, which did cite a rule) and would also have rejected two single-space quotes on whitespace paragraphs (p75, p76). Used to prove the flag-never-discard validator keeps all 53, treats the p49 proposal as applicable, and flags the two empty quotes as unverified. Synthetic Harvey LAB content, MIT; see harvey-eval-feasibility/HARVEY-LICENSE.

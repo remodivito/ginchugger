@@ -1,0 +1,273 @@
+{
+ "id": "N199",
+ "revision": 1,
+ "title": "NDA-Broker-Seller-for-Company-6-19-17.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 199,
+  "type": "search-pdf",
+  "url": "https://ast.com/wp-content/uploads/2019/02/NDA-Broker-Seller-for-Company-6-19-17.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "BROKER/SELLER NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "This Non-Disclosure "
+  },
+  {
+   "id": "s2",
+   "text": "Agreement (hereinafter this “Agreement”) with an effective date of ________________ (the “Effective Date”) is entered into by and between "
+  },
+  {
+   "id": "s3",
+   "text": "______________, incorporated in ___________, having a place of business at "
+  },
+  {
+   "id": "s4",
+   "text": "____________________________, (hereinafter called “Company”), and Allied Security Trust I, a Delaware statutory trust, having a place of business at 100 Overlook Center 2nd Floor, Princeton, New Jersey 08540 (hereinafter “AST”);"
+  },
+  {
+   "id": "s5",
+   "text": "WHEREAS, both Company and AST (collectively, the “Parties” and, individually, a “Party”) desire to exchange with each other information relating to potential patent acquisition opportunities for the purpose of AST evaluating and pursuing such opportunities (the “Purpose”) and for no other purpose;"
+  },
+  {
+   "id": "s6",
+   "text": "WHEREAS, the Parties (which shall include only employees and directors of each Party but shall not include agents, representatives, consultants, or financial advisors, unless disclosure to any such non-employee or non-director has been approved prior to disclosure by the Disclosing Party) are willing to exchange with each other pursuant to this Agreement business and technical information that is "
+  },
+  {
+   "id": "s7",
+   "text": "(a) disclosed in writing and marked with a suitable restrictive legend or, "
+  },
+  {
+   "id": "s8",
+   "text": "(b) if initially disclosed orally, is identified as confidential at the time of disclosure and within thirty (30) days after such oral disclosure is reduced to writing and marked with a suitable restrictive legend (collectively, such information being hereinafter referred to as “Confidential Information”); and"
+  },
+  {
+   "id": "s9",
+   "text": "WHEREAS, for purposes of this Agreement, a Party disclosing Confidential Information will be referred to as a “Disclosing Party” and a Party receiving Confidential Information will be referred to as a “Receiving Party."
+  },
+  {
+   "id": "s10",
+   "text": "”"
+  },
+  {
+   "id": "s11",
+   "text": "NOW, THEREFORE, in consideration of the mutual covenants and agreements hereinafter set forth, the adequacy of which as consideration for this Agreement is acknowledged by the Parties, and intending to be legally bound hereby, the Parties hereby covenant and agree as follows:"
+  },
+  {
+   "id": "s12",
+   "text": "1. This Agreement shall commence on the Effective Date and shall continue until terminated in accordance with this Section 1. "
+  },
+  {
+   "id": "s13",
+   "text": "Either party may terminate this Agreement at any time with or without cause by giving ten (10) days written notice to the other party. "
+  },
+  {
+   "id": "s14",
+   "text": "The obligations of the Receiving Party under Section 2 shall survive termination of this Agreement and shall remain in effect until the earlier of: "
+  },
+  {
+   "id": "s15",
+   "text": "(a) the Disclosing Party, in its sole discretion, releases the Receiving Party by notification in writing that the Receiving Party is no longer required to protect the Confidential Information pursuant to this Agreement; or "
+  },
+  {
+   "id": "s16",
+   "text": "(b) the Confidential Information falls within an exception set forth in Section 3; or "
+  },
+  {
+   "id": "s17",
+   "text": "(c) two (2) years from the date of disclosure of the Confidential Information."
+  },
+  {
+   "id": "s18",
+   "text": "2. The Receiving Party shall provide the Confidential Information only to those of its employees and directors (and any agents, representatives, consultants, or financial advisors that have been approved in advance by the Disclosing Party) that have a bona fide need to know for the Purpose, and in the case of AST to any of its current or prospective member companies, in each case who are bound by a written agreement including confidentiality and non-use terms and conditions at least as protective as those in this Agreement. "
+  },
+  {
+   "id": "s19",
+   "text": "Except for the foregoing, the Receiving Party shall not disclose the Confidential Information to any third party. "
+  },
+  {
+   "id": "s20",
+   "text": "The Receiving Party shall not use the Confidential Information for any purpose other than the Purpose. "
+  },
+  {
+   "id": "s21",
+   "text": "No rights or obligations other than those expressly recited herein are to be implied from this Agreement."
+  },
+  {
+   "id": "s22",
+   "text": "3. This Agreement will impose no obligation upon the Receiving Party with respect to any portion of the received Confidential Information which:"
+  },
+  {
+   "id": "s23",
+   "text": "(a) is already known to the Receiving Party at the time of receiving such Confidential Information or is independently developed by the Receiving Party without reference to or use of the Disclosing Party’s Confidential Information;"
+  },
+  {
+   "id": "s24",
+   "text": "(b) is in the public domain prior to disclosure by the Disclosing Party, or subsequently enters the public domain without breach of this Agreement by the Receiving Party;"
+  },
+  {
+   "id": "s25",
+   "text": "(c) becomes known to the Receiving Party, without restriction, from a source other than the Disclosing Party or any of its employees or directors, without breach of this Agreement by the Receiving Party;"
+  },
+  {
+   "id": "s26",
+   "text": "(d) is hereafter furnished to the Receiving Party by a third party without breach by such third party of an obligation of confidentiality of which the Receiving Party is actually aware; or"
+  },
+  {
+   "id": "s27",
+   "text": "(e) is permitted to be disclosed by the prior written consent of the Disclosing Party."
+  },
+  {
+   "id": "s28",
+   "text": "4. The Receiving Party shall have the right to disclose Confidential Information to the extent required to be disclosed by applicable law, regulation or an order of a governmental agency, legislative body or court of competent jurisdiction; provided that the Receiving Party provides the Disclosing Party with prompt notice of such request or requirement, so that the Disclosing Party may seek an appropriate protective order and/or waive compliance with this Agreement. "
+  },
+  {
+   "id": "s29",
+   "text": "The Receiving Party will cooperate with the Disclosing Party (at the Disclosing Party’s sole expense) in order that the Disclosing Party may obtain a protective order."
+  },
+  {
+   "id": "s30",
+   "text": "5. The Disclosing Party represents and warrants that it has the right to disclose the Confidential Information to the Receiving Party in accordance with this Agreement. "
+  },
+  {
+   "id": "s31",
+   "text": "However, disclosure by the Disclosing Party of Confidential Information does not constitute a warranty that the Confidential Information is accurate, complete, or adequate for the purposes contemplated by the Receiving Party."
+  },
+  {
+   "id": "s32",
+   "text": "6. The Parties agree that discussions and related information shared between the Parties will not be used as a basis to place AST or its members on notice (e.g., for purposes of willfulness, inducement or otherwise) of the patents and patent applications which are offered for sale."
+  },
+  {
+   "id": "s33",
+   "text": "7. The Confidential Information may only be used for the Purpose and may not be used to support a declaratory or other legal relief action related to the sharing of that Confidential Information. "
+  },
+  {
+   "id": "s34",
+   "text": "Notwithstanding the foregoing, nothing in this Agreement will prevent either party from pursuing legal action against the other or third parties provided Confidential Information received pursuant to this Agreement is not used as the basis for such actions."
+  },
+  {
+   "id": "s35",
+   "text": "8. In the event that a Receiving Party becomes aware that Confidential Information of a Disclosing Party is inadvertently or accidentally disclosed by it, the Receiving Party shall notify the Disclosing Party in writing within five (5) working days of the discovery of such disclosure, and shall take all commercially reasonable precautions to avoid further dissemination of the Confidential Information that has been disclosed, as well as take any and all commercially reasonable precautions to prevent disclosure of any additional Confidential Information."
+  },
+  {
+   "id": "s36",
+   "text": "9. Where Confidential Information is provided by the Disclosing Party as physical embodiments, such physical embodiments will remain the property of the Disclosing Party."
+  },
+  {
+   "id": "s37",
+   "text": "10. All Confidential Information remains the property of the Disclosing Party and will not be copied or reproduced without the express written permission of the Disclosing Party, except for copies that are necessary in order to fulfill the Purpose. "
+  },
+  {
+   "id": "s38",
+   "text": "Within ten (10) business days of a written demand by a Disclosing Party, the Receiving Party shall either return (to the Disclosing Party) or destroy all Confidential Information, together with any copies, accompanied by a letter executed by an authorized representative of the Receiving Party to the effect that all such material has been returned or destroyed, except that the Receiving Party may retain an archival copy of the Confidential Information, to be used only in case of a dispute concerning this Agreement. "
+  },
+  {
+   "id": "s39",
+   "text": "The return of any Confidential Information will not relieve the Receiving Party of its obligation to maintain the confidentiality of the Confidential Information for the period provided for in Section 1 above. "
+  },
+  {
+   "id": "s40",
+   "text": "Section 6 shall survive any expiration or termination of this Agreement."
+  },
+  {
+   "id": "s41",
+   "text": "11. Either Party shall have the right to refuse to accept any Confidential Information, or other information, tendered by the other Party. "
+  },
+  {
+   "id": "s42",
+   "text": "Nothing herein shall obligate either Party to disclose any particular Confidential Information, or other information, to the other Party. "
+  },
+  {
+   "id": "s43",
+   "text": "Each Party hereto shall not be obligated to enter into any further agreement with the other except as such party in its sole judgment may deem advisable. "
+  },
+  {
+   "id": "s44",
+   "text": "Neither Party shall be obligated to compensate the other for exchanging any information under this Agreement."
+  },
+  {
+   "id": "s45",
+   "text": "12. This Agreement expresses the entire understanding and agreement of the Parties with respect to the disclosure of the Confidential Information by the Disclosing Party to the Receiving Party, and supersedes all prior agreements, understandings, representations and discussions concerning the subject matter hereof, whether oral or written. "
+  },
+  {
+   "id": "s46",
+   "text": "This Agreement may not be altered or amended except by a written instrument executed by both parties. "
+  },
+  {
+   "id": "s47",
+   "text": "This Agreement will be governed by and interpreted in accordance with the laws of the Delaware, without regard to its principles of conflicts of law. "
+  },
+  {
+   "id": "s48",
+   "text": "The Parties agree that a breach of this Agreement may cause irreparable harm to the Disclosing Party for which money damages alone could be an inadequate remedy."
+  },
+  {
+   "id": "s49",
+   "text": "13. If any term or condition of this Agreement is determined by court or agency of competent jurisdiction to be illegal or unenforceable, then such term or condition shall be deleted from this Agreement; but this Agreement, as amended by such deletion, will continue in full force and effect. "
+  },
+  {
+   "id": "s50",
+   "text": "Whenever the permission or consent of either Party is required or permitted under this Agreement, such consent will not unreasonably be withheld, delayed or made subject to any condition not specifically provided for in this Agreement."
+  },
+  {
+   "id": "s51",
+   "text": "IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be executed by their respective duly authorized representatives, effective as of the Effective Date."
+  },
+  {
+   "id": "s52",
+   "text": "ALLIED SECURITY TRUST I __________________"
+  },
+  {
+   "id": "s53",
+   "text": "By: "
+  },
+  {
+   "id": "s54",
+   "text": "_________________________ "
+  },
+  {
+   "id": "s55",
+   "text": "By: "
+  },
+  {
+   "id": "s56",
+   "text": "_________________________"
+  },
+  {
+   "id": "s57",
+   "text": "Title: "
+  },
+  {
+   "id": "s58",
+   "text": "_________________________ "
+  },
+  {
+   "id": "s59",
+   "text": "Title: "
+  },
+  {
+   "id": "s60",
+   "text": "_________________________"
+  },
+  {
+   "id": "s61",
+   "text": "Date: "
+  },
+  {
+   "id": "s62",
+   "text": "_________________________ "
+  },
+  {
+   "id": "s63",
+   "text": "Date: "
+  },
+  {
+   "id": "s64",
+   "text": "_________________________"
+  }
+ ]
+}

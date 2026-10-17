@@ -1,0 +1,197 @@
+{
+ "id": "N411",
+ "revision": 1,
+ "title": "859792_0001005477-96-000681_document_3.txt",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 411,
+  "type": "sec-text",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000859792/000100547796000681/0001005477-96-000681.txt"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "NON-COMPETITION AND NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "DATED: December ___, 1996"
+  },
+  {
+   "id": "s2",
+   "text": "Reference is made to that certain Agreement and Plan of Merger (the \"Merger Agreement\"), dated December __, 1996 (the \"Merger Agreement\"), among AMERICAN UNITED GLOBAL, INC., a Delaware corporation (\"AUGI\") and its affiliate BTS ACQUISITION CORP., a Delaware corporation (\"Mergerco\"), both having their principal offices at 11130 NE 33rd Place, Suite 250, Bellevue, WA 98004; BROADCAST TOWER SITES, INC., a Delaware corporation (the \"Company\"), having its principal offices at 4340 East West Highway, Suite 1000, Bethesda, Maryland 20814; and SIMANTOV MOSKONA and SERGIO LUCIANI (hereinafter referred to individually a \"Stockholder\" and collectively, the \"Stockholders\"). "
+  },
+  {
+   "id": "s3",
+   "text": "The Merger Agreement provides for a merger of the Company with and into Mergerco, with Mergerco as the surviving corporation of such merger (the \"Merger\"). "
+  },
+  {
+   "id": "s4",
+   "text": "Pursuant to the terms of the Merger Agreement, each outstanding share of the Company's capital stock will be converted into the right to receive cash, certain promissory notes of AUGI and shares of Common Stock, $.01 par value per share of AUGI."
+  },
+  {
+   "id": "s5",
+   "text": "In order to induce AUGI and Mergerco to consummate the Merger pursuant to the Merger Agreement, and for other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, and intending to be bound by the terms and conditions hereof, the undersigned Stockholders of the Company who beneficially own 100% shares of the issued and outstanding shares of Company capital stock, shall receive in connection with the Merger Agreement "
+  },
+  {
+   "id": "s6",
+   "text": "(i) an aggregate of 507,246 shares of Class A Common Stock, $.01 par value per share, of AUGI (\"AUGI Common Stock\"), "
+  },
+  {
+   "id": "s7",
+   "text": "(ii) $600,000 principal amount of three year notes of AUGI (the \"AUGI Notes\"), and "
+  },
+  {
+   "id": "s8",
+   "text": "(iii) $780,000 in cash, hereby covenants and agrees with the Company and AUGI as follows:"
+  },
+  {
+   "id": "s9",
+   "text": "1. Non-Competition. "
+  },
+  {
+   "id": "s10",
+   "text": "Each of the Stockholders severally agrees that for a period (the \"Restrictive Period\") which shall commence on the Effective Date of the Merger and shall expire on a date which shall be the latest to occur of: "
+  },
+  {
+   "id": "s11",
+   "text": "(a) such date as such Stockholder shall no longer be employed on a full-time basis with AUGI or any other subsidiary or affiliate of AUGI; or "
+  },
+  {
+   "id": "s12",
+   "text": "(b) three (3) years following the effectiveness of the Merger (the \"Restrictive Period\"), without the prior written consent of AUGI, such Stockholder shall not invest, carry on, engage or become involved, either as an employee, agent, advisor, officer, director, stockholder, manager, partner, joint venturer, participant or consultant in any business enterprise (other than Mergerco, AUGI or any of their respective subsidiaries, affiliates, successors or assigns) which derives any material revenues from the offer or sale in the United States from time to time during the Restrictive Period of services relating to all aspects of providing site acquisition, zoning, architectural and engineering consulting and design services to the wireless telecommunications industry (the \"Business\"), or which engages in any other business substantially similar to and directly competitive with the Business conducted by the Company as at the date hereof. "
+  },
+  {
+   "id": "s13",
+   "text": "Nothing contained in this Section 1 shall be deemed to prevent a Stockholder from "
+  },
+  {
+   "id": "s14",
+   "text": "(a) leasing or renting real property in which the Stockholder owns a direct or indirect interest to a person or entity engaged in the Business; or "
+  },
+  {
+   "id": "s15",
+   "text": "(b) beneficially owning, directly or indirectly, 5% or less of any class of securities of an entity that has a class of securities registered under Section 12 of the Securities Exchange Act of 1934, as amended, so long as such securities ownership does not include any operational, managerial or consulting relationship with such corporation or entity."
+  },
+  {
+   "id": "s16",
+   "text": "2. Confidential Information."
+  },
+  {
+   "id": "s17",
+   "text": "(a) Each of Stockholders severally agrees that such Stockholder shall not, at any time following the effectiveness of the Merger, print, publish, divulge or communicate to any person, firm, corporation or other business organization or use for his or their own account any business contacts, customers, suppliers, technology, product designs and specifications, know-how, trade secrets, marketing techniques, promotional materials or other secret or confidential information relating to the Business or any other businesses then being engaged in by AUGI or any of its subsidiaries, or any secret or confidential information relating to the affairs, dealings and concerns of the Company, AUGI or any of the subsidiaries of AUGI (collectively, the \"Confidential Information\") which the Stockholder has received or obtained while an employee or member of the Board of Directors of AUGI or the Company (whether or not developed, devised, or otherwise created in whole or in part by the efforts of the Stockholder). "
+  },
+  {
+   "id": "s18",
+   "text": "The term \"Confidential Information\" does not include information which information and its relevance in the particular instance "
+  },
+  {
+   "id": "s19",
+   "text": "(A) is a matter of common knowledge or public record, "
+  },
+  {
+   "id": "s20",
+   "text": "(B) is or becomes generally available to the public other than as a result of disclosure by the Stockholder, "
+  },
+  {
+   "id": "s21",
+   "text": "(C) which information and its relevance is generally known in Business, "
+  },
+  {
+   "id": "s22",
+   "text": "(D) the Stockholder can demonstrate that such information and its relevance in the applicable instance, was already known to the recipient thereof other than by reason of any breach of any obligation of the Stockholder under this Agreement or any other confidentiality or non-disclosure agreement, or "
+  },
+  {
+   "id": "s23",
+   "text": "(E) the information is required to be disclosed by law or pursuant to court order or subpoeona."
+  },
+  {
+   "id": "s24",
+   "text": "(b) The term Confidential Information as defined in Section 2(a) hereof shall include information obtained by the Company from any third party under an agreement including restrictions on disclosure known to the Stockholder."
+  },
+  {
+   "id": "s25",
+   "text": "(c) In the event that a Stockholder is requested pursuant to subpoena or other legal process to disclose any of the Confidential Information, such Stockholder will provide the Company with prompt notice (unless notice is prohibited by law) so that the Company may seek a protective order or other appropriate remedy and/or waive compliance with Section 2 of this Agreement. "
+  },
+  {
+   "id": "s26",
+   "text": "In the event that such protective order or other remedy is not obtained or that the Company waives compliance with the provisions of Section 2 of this Agreement, the Stockholder will furnish only that portion of the Confidential Information which is legally required."
+  },
+  {
+   "id": "s27",
+   "text": "3. Material Agreement."
+  },
+  {
+   "id": "s28",
+   "text": "(a) It is understood by and between the parties hereto that the foregoing covenants by the Stockholders are essential elements of this Agreement and that but for the agreements of the Stockholders to comply with such covenants, AUGI would not have entered into the Merger Agreement or paid the Merger Consideration to the Stockholders. "
+  },
+  {
+   "id": "s29",
+   "text": "AUGI and the Stockholders have independently consulted with their respective counsel and have been advised concerning the reasonableness and propriety of such covenants with specific regard to the businesses conducted by the Company."
+  },
+  {
+   "id": "s30",
+   "text": "(b) Notwithstanding anything to the contrary, express or implied, contained in this Agreement, the Merger Agreement or in any other \"Transaction Document\" (as that term is defined in the Merger Agreement), no future act of omission or commission by AUGI or any of its affiliates, or other actual or alleged breach by AUGI or such affiliates of any of their covenants or agreements contained in any Transaction Documents (in addition to this Agreement), shall in any way be deemed to modify, limit or terminate the covenants and agreements of the Stockholders contained in Section 1 and Section 2 hereof, all of which shall remain in full force and effect in accordance with their respective terms."
+  },
+  {
+   "id": "s31",
+   "text": "4. Without intending to limit the remedies available to AUGI or the Company, each Stockholder further agrees that damages at law will be an insufficient remedy to AUGI if such Stockholder(s) breaches the terms of this Agreement and that AUGI or the Company may apply for and have injunctive relief in any court of competent jurisdiction to restrain the breach or threatened breach of or otherwise to specifically enforce any of the covenants contained herein, in each case without the necessity of proving damages or posting bond."
+  },
+  {
+   "id": "s32",
+   "text": "5. This Agreement shall become effective upon the effectiveness of the Merger and shall terminate prior to the expiration of the Restrictive Period only with the written consent of AUGI."
+  },
+  {
+   "id": "s33",
+   "text": "6. Any paragraph, sentence, phrase or other provision of this Agreement which is in conflict with any applicable statute, rule or other law shall be deemed, if possible, to be modified or altered to conform thereto or, if not possible, to be omitted herefrom. "
+  },
+  {
+   "id": "s34",
+   "text": "The invalidity of any portion hereof shall not affect the force and effect of the remaining valid portion hereof."
+  },
+  {
+   "id": "s35",
+   "text": "7. THIS AGREEMENT SHALL BE CONSTRUED (BOTH AS TO VALIDITY AND PERFORMANCE) AND ENFORCED IN ACCORDANCE WITH AND GOVERNED BY THE LAWS OF THE STATE OF DELAWARE APPLICABLE TO AGREEMENTS MADE AND TO BE PERFORMED WHOLLY WITHIN SUCH JURISDICTION."
+  },
+  {
+   "id": "s36",
+   "text": "IN WITNESS WHEREOF, this Agreement has been duly executed by or on behalf of each party hereto on the date set forth above."
+  },
+  {
+   "id": "s37",
+   "text": "AMERICAN UNITED GLOBAL, INC."
+  },
+  {
+   "id": "s38",
+   "text": "By:_____________________________________"
+  },
+  {
+   "id": "s39",
+   "text": "Name:"
+  },
+  {
+   "id": "s40",
+   "text": "Title:"
+  },
+  {
+   "id": "s41",
+   "text": "THE STOCKHOLDERS:"
+  },
+  {
+   "id": "s42",
+   "text": "________________________________________"
+  },
+  {
+   "id": "s43",
+   "text": "SIMANTOV MOSKONA"
+  },
+  {
+   "id": "s44",
+   "text": "________________________________________"
+  },
+  {
+   "id": "s45",
+   "text": "SERGIO LUCIANI"
+  }
+ ]
+}

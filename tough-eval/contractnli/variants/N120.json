@@ -1,0 +1,221 @@
+{
+ "id": "N120",
+ "revision": 1,
+ "title": "HALO-NDA.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 120,
+  "type": "search-pdf",
+  "url": "https://www.haloelectronics.com/pdf/HALO-NDA.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "NON DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "HALO Electronics, Inc. Proprietary Products"
+  },
+  {
+   "id": "s2",
+   "text": "This Non-Disclosure "
+  },
+  {
+   "id": "s3",
+   "text": "Agreement is made and entered into by and between HALO Electronics, Inc. (“HALO”), located at 2933 Bunker Hill Lane, Suite 200, Santa Clara, CA 95054, USA and the party named below and its subsidiaries and affiliates: "
+  },
+  {
+   "id": "s4",
+   "text": "__________________________________________________________________(“RECIPIENT”) located at "
+  },
+  {
+   "id": "s5",
+   "text": "_________________________________________________________________________________________."
+  },
+  {
+   "id": "s6",
+   "text": "1. CONFIDENTIAL INFORMATION. "
+  },
+  {
+   "id": "s7",
+   "text": "HALO Agrees to transmit to RECIPIENT confidential information for evaluation purposes only. "
+  },
+  {
+   "id": "s8",
+   "text": "Confidential information is defined as information of any kind which is disclosed in oral, written, graphic, machine recognizable, and/or sample form, and which is not excluded from any obligation of confidentiality by section 3 below. "
+  },
+  {
+   "id": "s9",
+   "text": "HALO will limit the confidential information disclosed to the following subject matter if requested by recipient:"
+  },
+  {
+   "id": "s10",
+   "text": "Information regarding HALO proprietary magnetics, semiconductors, and/or modular devices, including, but not limited to the details of overall circuitry, physical dimensions, construction philosophy, and cost."
+  },
+  {
+   "id": "s11",
+   "text": "2. PERIOD OF CONFIDENTIALITY. "
+  },
+  {
+   "id": "s12",
+   "text": "RECIPIENT agrees that for a period of five (5) years from the effective date of this Agreement, RECIPIENT will not disseminate the confidential information except to it’s employees who will be directly involved in the evaluation of the information, and furthermore RECIPIENT will use the same degree of care (but in no event less than reasonable care) to avoid disclosure or unauthorized use of such information as RECIPIENT employs with respect to confidential information of its own."
+  },
+  {
+   "id": "s13",
+   "text": "3. NON-CONFIDENTIAL INFORMATION. "
+  },
+  {
+   "id": "s14",
+   "text": "RECIPIENT shall have no obligation with respect to disclosure and use of information to the extent such information:"
+  },
+  {
+   "id": "s15",
+   "text": "A. is or becomes generally available to the public other than as a consequence of a breach of an obligation of confidentiality to HALO; or"
+  },
+  {
+   "id": "s16",
+   "text": "B. is made public by HALO; or"
+  },
+  {
+   "id": "s17",
+   "text": "C. is independently developed by RECIPIENT; or"
+  },
+  {
+   "id": "s18",
+   "text": "D. is received from a third party independent of HALO without breaching an obligation of confidentiality; or"
+  },
+  {
+   "id": "s19",
+   "text": "E. is required to be disclosed by the operation of law."
+  },
+  {
+   "id": "s20",
+   "text": "4. OWNERSHIP OF INFORMATION. "
+  },
+  {
+   "id": "s21",
+   "text": "All information furnished to RECIPIENT by HALO shall, unless otherwise specified in writing by HALO, remain the property of HALO; and the written information, and any copies thereof, shall be promptly returned to HALO upon its written or destroyed by RECIPIENT at HALO’s option."
+  },
+  {
+   "id": "s22",
+   "text": "5. NO LICENSE OR PATENT RIGHTS. "
+  },
+  {
+   "id": "s23",
+   "text": "Nothing contained in this Agreement shall be construed as granting any license or right to RECIPIENT by HALO under any patent of the United States or a foreign country or otherwise (except for the evaluation purposes indicated above)."
+  },
+  {
+   "id": "s24",
+   "text": "6. REMEDIES. "
+  },
+  {
+   "id": "s25",
+   "text": "RECIPIENT recognizes that the remedy at law for any breach of its obligation under this Agreement will be inadequate, and hence, RECIPIENT agrees that HALO shall be entitled to equitable remedies, including injunction, in the event of breach by RECIPIENT."
+  },
+  {
+   "id": "s26",
+   "text": "7. GOVERNING LAW. "
+  },
+  {
+   "id": "s27",
+   "text": "This Agreement shall be governed by and construed in accordance with the laws (excluding the laws of conflict of laws) of the State of California."
+  },
+  {
+   "id": "s28",
+   "text": "EFFECTIVE "
+  },
+  {
+   "id": "s29",
+   "text": "DATE: "
+  },
+  {
+   "id": "s30",
+   "text": "__________________, 20__"
+  },
+  {
+   "id": "s31",
+   "text": "HALO Electronics, Inc. RECIPIENT (Company):_______________________"
+  },
+  {
+   "id": "s32",
+   "text": "By:_______________________________________ "
+  },
+  {
+   "id": "s33",
+   "text": "By:_________________________________________"
+  },
+  {
+   "id": "s34",
+   "text": "(Authorized Signature) (Authorized Signature)"
+  },
+  {
+   "id": "s35",
+   "text": "Name (Printed):____________________________ "
+  },
+  {
+   "id": "s36",
+   "text": "Name (Printed):______________________________"
+  },
+  {
+   "id": "s37",
+   "text": "Title:______________________________________ "
+  },
+  {
+   "id": "s38",
+   "text": "Title:_______________________________________"
+  },
+  {
+   "id": "s39",
+   "text": "Date:_____________________________________ "
+  },
+  {
+   "id": "s40",
+   "text": "Date:_______________________________________"
+  },
+  {
+   "id": "s41",
+   "text": "Address for formal notices: Address for formal notices:"
+  },
+  {
+   "id": "s42",
+   "text": "HALO "
+  },
+  {
+   "id": "s43",
+   "text": "Electronics, Inc. "
+  },
+  {
+   "id": "s44",
+   "text": "____________________________________________"
+  },
+  {
+   "id": "s45",
+   "text": "2933 "
+  },
+  {
+   "id": "s46",
+   "text": "Bunker Hill Lane, Suite 200 (Company Name)"
+  },
+  {
+   "id": "s47",
+   "text": "Santa Clara, CA 95054"
+  },
+  {
+   "id": "s48",
+   "text": "____________________________________________"
+  },
+  {
+   "id": "s49",
+   "text": "(Street Address)"
+  },
+  {
+   "id": "s50",
+   "text": "____________________________________________"
+  },
+  {
+   "id": "s51",
+   "text": "(City, State, Zip Code)"
+  }
+ ]
+}

@@ -1,0 +1,201 @@
+{
+ "id": "N269",
+ "revision": 1,
+ "title": "Non_Disclosure_Agreement_3.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 269,
+  "type": "search-pdf",
+  "url": "https://www.mmgrp.co.uk/i/downloads/Non_Disclosure_Agreement.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "Non-Disclosure Agreement (NDA)"
+  },
+  {
+   "id": "s1",
+   "text": "THIS AGREEMENT is made on ( ) and between (MMGRP Limited) (\"Discloser\") and ( ) (\"Recipient\")."
+  },
+  {
+   "id": "s2",
+   "text": "Parties:"
+  },
+  {
+   "id": "s3",
+   "text": "Discloser: (MMGRP Limited) with registered office address (145 – 157 St Johns Street, London EC1V 4PW) Registered in England & Wales with Company Number (07527443)"
+  },
+  {
+   "id": "s4",
+   "text": "And"
+  },
+  {
+   "id": "s5",
+   "text": "Recipient: ( ) with registered office address ( ). "
+  },
+  {
+   "id": "s6",
+   "text": "Registered in England & Wales with Company Number ( )"
+  },
+  {
+   "id": "s7",
+   "text": "1. Purpose. "
+  },
+  {
+   "id": "s8",
+   "text": "The Discloser has agreed to make available to the Recipient certain Confidential Information (as defined below) of the Discloser for the purpose of evaluating a possible business transaction with the Discloser."
+  },
+  {
+   "id": "s9",
+   "text": "2. Definition. "
+  },
+  {
+   "id": "s10",
+   "text": "\"Confidential Information\" means any information, technical data, or know-how, including, but not limited to, that which relates to research, product plans, products, services, customers, markets, opt-in information including Short-code and URL information, marketing or finances, which Confidential Information is designated in writing to be confidential or proprietary, or if given orally, is confirmed promptly in writing as having been disclosed as confidential or proprietary. "
+  },
+  {
+   "id": "s11",
+   "text": "Confidential Information does not include information, technical data or know-how which: "
+  },
+  {
+   "id": "s12",
+   "text": "(i) is in the possession of the receiving party at the time of disclosure as shown by the receiving party's files and records immediately prior to the time of disclosure; "
+  },
+  {
+   "id": "s13",
+   "text": "(ii) prior or after the time of disclosure becomes part of the public knowledge or literature, not as a result of any inaction or action of the receiving party; or "
+  },
+  {
+   "id": "s14",
+   "text": "(iii) is approved for release by the Discloser in writing."
+  },
+  {
+   "id": "s15",
+   "text": "3. Non-Disclosure of Confidential Information. "
+  },
+  {
+   "id": "s16",
+   "text": "The Recipient agrees not to use the Confidential Information for any purpose other than that set forth in Section 1 of this Agreement. "
+  },
+  {
+   "id": "s17",
+   "text": "The Recipient will not disclose any Confidential Information to third parties except those directors, officers, employees, consultants and agents of Recipient who are required to have the information in order to carry out the purpose set forth in Section 1 of this Agreement. "
+  },
+  {
+   "id": "s18",
+   "text": "Recipient has had or will have directors, officers, employees, consultants and agents of Recipient to whom Confidential Information is disclosed or who have access to Confidential Information sign a Non-Disclosure Agreement in content substantially similar to this Agreement and will promptly notify the Discloser in writing of the names of each such person who has signed such agreements after such agreements are signed. "
+  },
+  {
+   "id": "s19",
+   "text": "Recipient agrees that it will take all reasonable measures to protect the secrecy of and avoid disclosure or use of Confidential Information in order to prevent it from falling into the public domain or the possession of persons other than those persons authorized hereunder to have any such information, which measures shall include the highest degree of care that Recipient utilizes to protect its own Confidential Information of a similar nature. "
+  },
+  {
+   "id": "s20",
+   "text": "Recipient agrees to notify the Discloser in writing of any misuse or misappropriation of such Confidential Information which may come to its attention."
+  },
+  {
+   "id": "s21",
+   "text": "4. Mandatory Disclosure. "
+  },
+  {
+   "id": "s22",
+   "text": "In the event that the Recipient or its directors, officers, employees, consultants or agents are requested or required by legal process to disclose any of the Confidential Information, the Recipient shall give prompt notice so that the Discloser may seek a protective order or other appropriate relief. "
+  },
+  {
+   "id": "s23",
+   "text": "In the event that such protective order is not obtained, the Recipient shall disclose only that portion of the Confidential Information which its counsel advises that it is legally required to disclose."
+  },
+  {
+   "id": "s24",
+   "text": "5. Return of Materials. "
+  },
+  {
+   "id": "s25",
+   "text": "Any materials or documents of which have been furnished by the Discloser to the Recipient will be promptly returned, accompanied by copies of such documentation, after the evaluation set forth in Section 1 of this Agreement has been concluded."
+  },
+  {
+   "id": "s26",
+   "text": "6. No License Granted. "
+  },
+  {
+   "id": "s27",
+   "text": "Nothing in this Agreement is intended to grant any rights to Recipient under any patent, copyright, trade secret or other intellectual property right nor shall this Agreement grant Recipient any rights in or to the other party's Confidential Information, except the limited right to review such Confidential Information solely for the purpose set forth in Section 1 of this Agreement."
+  },
+  {
+   "id": "s28",
+   "text": "7. Term. "
+  },
+  {
+   "id": "s29",
+   "text": "The foregoing commitments shall survive any termination of discussions between the parties, and shall continue for a period of three (3) years following the date of this Agreement."
+  },
+  {
+   "id": "s30",
+   "text": "8. Miscellaneous. "
+  },
+  {
+   "id": "s31",
+   "text": "This Agreement shall be binding upon and for the benefit of the undersigned parties, their successors and assigns, provided that Confidential Information may not be assigned without the prior written consent of the Discloser. "
+  },
+  {
+   "id": "s32",
+   "text": "Failure to enforce any provision of this Agreement shall not constitute a waiver of any term hereof."
+  },
+  {
+   "id": "s33",
+   "text": "9. Governing Law and Jurisdiction. "
+  },
+  {
+   "id": "s34",
+   "text": "This Agreement shall be governed by and construed and enforced in accordance with the internal laws of the United Kingdom, and shall be binding upon the parties hereto in United Kingdom and worldwide."
+  },
+  {
+   "id": "s35",
+   "text": "10. Remedies. "
+  },
+  {
+   "id": "s36",
+   "text": "Recipient agrees that its obligations hereunder are necessary and reasonable in order to protect the Discloser and its business, and expressly agrees that monetary damages would be inadequate to compensate the Discloser for any breach of any covenants and agreements set forth herein. "
+  },
+  {
+   "id": "s37",
+   "text": "Accordingly, Recipient agrees and acknowledges that any such violation or threatened violation will cause irreparable injury to the Discloser and that, in addition to any other remedies that may be available, in law, in equity or otherwise, the Discloser shall be entitled to obtain injunctive relief against the threatened breach of this Agreement or the continuation of any such breach, without the necessity of proving actual damages."
+  },
+  {
+   "id": "s38",
+   "text": "For and on behalf of For and on behalf of"
+  },
+  {
+   "id": "s39",
+   "text": "MMGRP Limited [ ]"
+  },
+  {
+   "id": "s40",
+   "text": "Print Name Print Name"
+  },
+  {
+   "id": "s41",
+   "text": "Position Position"
+  },
+  {
+   "id": "s42",
+   "text": "Date: Date:"
+  },
+  {
+   "id": "s43",
+   "text": "MMGRP Limited, 145 – 157 St Johns Street, London, EC1V 4PW"
+  },
+  {
+   "id": "s44",
+   "text": "Company Number: 07527443 DPA "
+  },
+  {
+   "id": "s45",
+   "text": "Registration Number: Z2553231"
+  },
+  {
+   "id": "s46",
+   "text": "t. +44 (0) 207 873 2421 f. +44 (0) 844 443 2349 e. sales@mmgrp.co.uk"
+  }
+ ]
+}

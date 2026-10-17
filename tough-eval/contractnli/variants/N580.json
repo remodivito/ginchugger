@@ -1,0 +1,585 @@
+{
+ "id": "N580",
+ "revision": 1,
+ "title": "1288379_0000950123-07-003101_y31044exv99wdw5.htm",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 580,
+  "type": "sec-html",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001288379/000095012307003101/y31044exv99wdw5.htm"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "Exhibit "
+  },
+  {
+   "id": "s1",
+   "text": "(d)(5)"
+  },
+  {
+   "id": "s2",
+   "text": "NON-DISCLOSURE AND CONFIDENTIALITY AGREEMENT"
+  },
+  {
+   "id": "s4",
+   "text": "THIS NON-DISCLOSURE AND CONFIDENTIALITY AGREEMENT (hereinafter the “Agreement”) is made and entered into as of the 16th day of July, 2002 (hereinafter “Effective Date”), by and between Shire US Inc. (hereinafter “SHIRE”), and New River Pharmaceuticals Inc. (formerly, Lotus Biochemical Corporation), a Virginia corporation with offices located at The Governor Tyler, 1902 Downey Street, Radford, Virginia 24141 (hereinafter “NEW RIVER”) (each individually hereinafter referred to as a “Party” and collectively referred to as “Parties”)."
+  },
+  {
+   "id": "s5",
+   "text": "Recitals"
+  },
+  {
+   "id": "s7",
+   "text": "WHEREAS the Parties intend to engage in discussions and evaluations concerning one or more potential arrangements by which SHIRE and NEW RIVER may enter into a business relationship or may enter into one or more business transactions (hereinafter collectively referred to as the “Business Purpose”); and"
+  },
+  {
+   "id": "s9",
+   "text": "WHEREAS the Parties recognize that in the course of their discussions to further the Business Purpose, it may become necessary for either or both Parties to disclose Confidential Information (as defined below) both orally and/or in writing; and"
+  },
+  {
+   "id": "s11",
+   "text": "WHEREAS the Parties intend that any Confidential Information disclosed by either Party shall be used by the other Party only to further the Business Purpose and that any Confidential Information disclosed shall be protected from further disclosure to unauthorized parties by the terms of this Agreement."
+  },
+  {
+   "id": "s13",
+   "text": "NOW, THEREFORE, in consideration of the discussions and the sharing of information between the Parties, and the premises, conditions, covenants and warranties herein contained, the Parties agree as follows:"
+  },
+  {
+   "id": "s15",
+   "text": "1. Definitions. "
+  },
+  {
+   "id": "s16",
+   "text": "For purposes of this Agreement, the terms below shall have the following meanings:"
+  },
+  {
+   "id": "s18",
+   "text": "(a) “Confidential Information” shall mean:"
+  },
+  {
+   "id": "s20",
+   "text": "(i) with respect to NEW RIVER, information as defined generally in section l(a)(ii) following, as well as information, in any format, whether written, oral, visual, electronic, or otherwise, and whether commercial, technical, non-technical, or regulatory in nature, including, without limitation, data, know-how, formulae, processes, designs, sketches, photographs, plans, drawings, specifications, samples, reports, pricing information, studies, findings, inventions, ideas, materials, documents, lists, financial information, investments, information concerning current or proposed products, services or methods of manufacture, operation and/or business plans, whether or not originated by NEW RIVER, which relates to NEW RIVER’s proprietary polypeptide and polymer conjugate chemistry and NEW RIVER’s platform technology CarrierwaveTM, and processes and analytical techniques associated with these products/technologies and their successors. "
+  },
+  {
+   "id": "s21",
+   "text": "Where any Confidential Information is derived from the synthesis in a unique manner, or into a unique concept, of various elements that may be contained in the public domain, no part of the Confidential Information shall be deemed to be in the public domain or to be in SHIRE’s possession or to be thereafter acquired by SHIRE merely because it embraces information in the public domain or general information that SHIRE may thereafter acquire."
+  },
+  {
+   "id": "s23",
+   "text": "(ii) with respect to either Party, information, in any format, whether written, oral, visual, electronic, or otherwise, including, without limitation, data, materials, documents, lists, financial information, investments, information concerning current or proposed products, services or methods of operation and/or business plans, whether or not originated by the Disclosing Party, which is used in Disclosing Party’s business and is "
+  },
+  {
+   "id": "s24",
+   "text": "(a) proprietary to, about, or created by Disclosing Party; "
+  },
+  {
+   "id": "s25",
+   "text": "(b) gives Disclosing Party some competitive business advantage or the opportunity of obtaining such advantage or the disclosure of which could be detrimental to the interests of Disclosing Party; "
+  },
+  {
+   "id": "s26",
+   "text": "(c) which from all the relevant circumstances should reasonably be assumed by Receiving Party to be confidential and proprietary to Disclosing Party or would appear to be of a proprietary nature and, therefore, should not be disclosed to a third party without the Disclosing Party’s consent; including business, financial, customer, supplier, and technical data; or "
+  },
+  {
+   "id": "s27",
+   "text": "(d) not generally known by non-Disclosing Party personnel."
+  },
+  {
+   "id": "s29",
+   "text": "(iii) any information which the Disclosing Party orally or visually discloses and identifies at the time of disclosure as being disclosed in confidence and which is reduced to tangible form and such tangible form is delivered to the receiving party within ten"
+  },
+  {
+   "id": "s30",
+   "text": "(10) days after the date of first disclosure. "
+  },
+  {
+   "id": "s31",
+   "text": "If such Information was provided orally, the notice given to the Receiving Party shall include a written description of such Information."
+  },
+  {
+   "id": "s33",
+   "text": "(b) “Disclosing Party” shall mean the Party disclosing Confidential Information."
+  },
+  {
+   "id": "s35",
+   "text": "(c) “Receiving Party” shall mean the Party receiving disclosure of the Confidential Information."
+  },
+  {
+   "id": "s37",
+   "text": "2. Applicability. "
+  },
+  {
+   "id": "s38",
+   "text": "This Agreement shall apply to all Confidential Information disclosed by one Party to the other Party. "
+  },
+  {
+   "id": "s39",
+   "text": "This Agreement shall apply to Confidential Information of the Parties’ parent, subsidiary and affiliated companies, and the nondisclosure obligations set forth herein shall apply to the Parties’ parent, subsidiary and related companies."
+  },
+  {
+   "id": "s41",
+   "text": "3. Non-Disclosure "
+  },
+  {
+   "id": "s42",
+   "text": "Obligation. "
+  },
+  {
+   "id": "s43",
+   "text": "Each Party agrees:"
+  },
+  {
+   "id": "s45",
+   "text": "(a) to hold the other Party’s Confidential Information in strict confidence;"
+  },
+  {
+   "id": "s47",
+   "text": "(b) to exercise at least the same care in protecting the other Party’s Confidential Information from disclosure as the Party uses with regard to its own Confidential Information;"
+  },
+  {
+   "id": "s49",
+   "text": "(c) not to disclose such Confidential Information to third parties; and"
+  },
+  {
+   "id": "s51",
+   "text": "(d) not to use any Confidential Information for any purpose except for the Business Purpose without the prior, written consent of the Disclosing Party."
+  },
+  {
+   "id": "s53",
+   "text": "4. Disclosure to Representatives. "
+  },
+  {
+   "id": "s54",
+   "text": "Each "
+  },
+  {
+   "id": "s55",
+   "text": "Party may disclose the other Party’s Confidential Information to its directors, officers, members, managers, employees, legal advisors, and financial advisors (each bound by obligations of confidentiality consistent with this Agreement) who have bona fide need to know, but only to the extent necessary to carry out the Business Purpose. "
+  },
+  {
+   "id": "s56",
+   "text": "Each Party agrees to instruct all such representatives not to disclose such Confidential Information to third parties, including consultants, without the prior written permission of the Disclosing Party."
+  },
+  {
+   "id": "s58",
+   "text": "5. Non-Confidential Information. "
+  },
+  {
+   "id": "s59",
+   "text": "Confidential Information shall not include information which the Receiving Party is able to demonstrate by competent proof:"
+  },
+  {
+   "id": "s61",
+   "text": "(a) is now or hereafter becomes, through no act or omission on the part of the Receiving Party, generally known or available within the industry, or is now or later enters the public domain through no act or omission on the part of the Receiving Party;"
+  },
+  {
+   "id": "s63",
+   "text": "(b) was acquired or known by the Receiving Party before receiving such information from the Disclosing Party under this Agreement as shown by the Receiving Party’s written records;"
+  },
+  {
+   "id": "s65",
+   "text": "(c) is hereafter rightfully furnished to the Receiving Party by a third party having a right to disclose it, without restriction as to use or disclosure;"
+  },
+  {
+   "id": "s67",
+   "text": "(d) is information which the Receiving Party can document was independently developed by the Receiving Party without reference to Confidential Information furnished by the Disclosing Party;"
+  },
+  {
+   "id": "s69",
+   "text": "(e) is required by a court or other governmental authority of competent jurisdiction to be disclosed by the Receiving Party, provided the Receiving Party uses reasonable efforts to give the Disclosing Party reasonable notice of such required disclosure; or"
+  },
+  {
+   "id": "s71",
+   "text": "(f) is disclosed with the prior, written consent of the Disclosing Party."
+  },
+  {
+   "id": "s73",
+   "text": "6. Removal of Confidential Materials. "
+  },
+  {
+   "id": "s74",
+   "text": "Each "
+  },
+  {
+   "id": "s75",
+   "text": "Party agrees not to remove any materials or tangible items containing any of the other party’s Confidential Information from the premises of the Disclosing Party without the Disclosing Party’s consent. "
+  },
+  {
+   "id": "s76",
+   "text": "Each Party agrees to comply with any and all terms and conditions that the Disclosing Party imposes upon approved removal of such materials or items, including, without limitation, that the removed materials or items must be returned by a certain date, and that no copies of the removed materials or items are to be made."
+  },
+  {
+   "id": "s78",
+   "text": "7. Return of Confidential Information. "
+  },
+  {
+   "id": "s79",
+   "text": "Upon the Disclosing Party’s request, the Receiving Party will promptly return to the Disclosing Party all materials or tangible items containing the Disclosing Party’s Confidential Information and all copies thereof."
+  },
+  {
+   "id": "s81",
+   "text": "8. Notification. "
+  },
+  {
+   "id": "s82",
+   "text": "The Receiving Party shall notify the Disclosing Party immediately upon discovery of any unauthorized use or disclosure of the Disclosing Party’s Confidential Information, or any breach of the Agreement by the Receiving Party, and will cooperate with the Disclosing Party in any reasonable fashion in order to assist the Disclosing Party regain possession of the Confidential Information and prevent its further unauthorized use or disclosure."
+  },
+  {
+   "id": "s84",
+   "text": "9. No Grant of Rights. "
+  },
+  {
+   "id": "s85",
+   "text": "Each Party recognizes and agrees that nothing contained in this Agreement will be construed as granting any rights to the Receiving Party, by license or otherwise, to use any of the Disclosing Party’s Confidential Information except as specified in this Agreement."
+  },
+  {
+   "id": "s87",
+   "text": "10. Limitation As To Effect. "
+  },
+  {
+   "id": "s88",
+   "text": "Nothing contained in this Agreement shall be construed, by implication or otherwise, as an obligation to enter into any further agreement, and nothing contained in this Agreement shall be construed, by implication or otherwise, as a grant, option, or license under any patent, trade secret, copyright, trademark, or other proprietary rights of either party. "
+  },
+  {
+   "id": "s89",
+   "text": "In the event that the Confidential Information is or becomes the subject of a, or a plurality of, Patent Application(s), Laid-Open Patent Application(s), Patent(s) or Copyright, the Receiving Party agrees and understands that the Disclosing Party will have all rights and remedies available to it under the applicable law as a result of said Patent Application(s), Laid-Open Patent Application(s), Patent(s) or Copyright. "
+  },
+  {
+   "id": "s90",
+   "text": "In the event that the Confidential Information is or becomes the subject of a, or a plurality of, Patent Application(s), Laid-Open Patent Application(s), Patent(s) or Copyright, the Receiving Party shall not be in breach of this Agreement simply by acting in accordance with its terms and conditions."
+  },
+  {
+   "id": "s92",
+   "text": "11. Equitable and Legal Relief. "
+  },
+  {
+   "id": "s93",
+   "text": "Each Party acknowledges that all of the Disclosing Party’s Confidential information is owned solely by the Disclosing Party (and/or its licensors) and that the unauthorized disclosure or use of such Confidential Information would cause irreparable harm and significant injury, the degree of which may be difficult to ascertain and for which monetary damages would provide an insufficient remedy. "
+  },
+  {
+   "id": "s94",
+   "text": "Accordingly, each Party agrees that the Disclosing Party shall have the right to obtain an immediate injunction from any court of competent jurisdiction enjoining actual or threatened breach of this Agreement and/or actual or threatened disclosure of the Confidential Information without the necessity of posting a bond or other security. "
+  },
+  {
+   "id": "s95",
+   "text": "Each Party shall also have the right to pursue any other rights or remedies available at law or equity for such a breach."
+  },
+  {
+   "id": "s97",
+   "text": "12. Termination. "
+  },
+  {
+   "id": "s98",
+   "text": "This Agreement shall became effective upon the Effective Date and shall remain in effect for five (5) years from the Effective Date unless extended by the written consent of the Parties."
+  },
+  {
+   "id": "s100",
+   "text": "13. Notice. "
+  },
+  {
+   "id": "s101",
+   "text": "All notices under this Agreement shall be in writing and shall be deemed duly given if sent by fax copy as directed below and followed by hard copy, dispatched on the same day "
+  },
+  {
+   "id": "s102",
+   "text": "(a) by a nationally reputable delivery service, prepaid and addressed as set forth below, or "
+  },
+  {
+   "id": "s103",
+   "text": "(b) by certified or registered mail, return receipt requested, postage prepaid, and addressed as follows:"
+  },
+  {
+   "id": "s104",
+   "text": "If to NEW RIVER:"
+  },
+  {
+   "id": "s105",
+   "text": "New River Pharmaceuticals Inc."
+  },
+  {
+   "id": "s106",
+   "text": "The Governor Tyler"
+  },
+  {
+   "id": "s107",
+   "text": "1902 "
+  },
+  {
+   "id": "s108",
+   "text": "Downey Street"
+  },
+  {
+   "id": "s109",
+   "text": "Radford, VA 24141 USA"
+  },
+  {
+   "id": "s110",
+   "text": "Attention: Randal J. Kirk"
+  },
+  {
+   "id": "s111",
+   "text": "Fax: "
+  },
+  {
+   "id": "s112",
+   "text": "(540) 633-7979"
+  },
+  {
+   "id": "s113",
+   "text": "With a copy to:"
+  },
+  {
+   "id": "s114",
+   "text": "New River Pharmaceuticals Inc."
+  },
+  {
+   "id": "s115",
+   "text": "The Governor Tyler"
+  },
+  {
+   "id": "s116",
+   "text": "1902 "
+  },
+  {
+   "id": "s117",
+   "text": "Downey Street"
+  },
+  {
+   "id": "s118",
+   "text": "Radford, VA 24141 USA"
+  },
+  {
+   "id": "s119",
+   "text": "Attention: Marcus E. Smith, Esq."
+  },
+  {
+   "id": "s120",
+   "text": "Fax No.: "
+  },
+  {
+   "id": "s121",
+   "text": "(540) 633-7971"
+  },
+  {
+   "id": "s122",
+   "text": "If to SHIRE:"
+  },
+  {
+   "id": "s123",
+   "text": "Shire US Inc."
+  },
+  {
+   "id": "s124",
+   "text": "7900 "
+  },
+  {
+   "id": "s125",
+   "text": "Tanners "
+  },
+  {
+   "id": "s126",
+   "text": "Gate Drive"
+  },
+  {
+   "id": "s127",
+   "text": "Florence, KY 41042 USA"
+  },
+  {
+   "id": "s128",
+   "text": "Attention: Jeff Martini"
+  },
+  {
+   "id": "s129",
+   "text": "Fax: "
+  },
+  {
+   "id": "s130",
+   "text": "(859) 282-2103"
+  },
+  {
+   "id": "s131",
+   "text": "With a copy to:"
+  },
+  {
+   "id": "s132",
+   "text": "Shire US Inc."
+  },
+  {
+   "id": "s133",
+   "text": "7900 "
+  },
+  {
+   "id": "s134",
+   "text": "Tanners "
+  },
+  {
+   "id": "s135",
+   "text": "Gate Drive"
+  },
+  {
+   "id": "s136",
+   "text": "Florence, KY 41042 USA"
+  },
+  {
+   "id": "s137",
+   "text": "Attention: Kevin T. Anderson, Esq."
+  },
+  {
+   "id": "s138",
+   "text": "Fax: "
+  },
+  {
+   "id": "s139",
+   "text": "(859)282-1794"
+  },
+  {
+   "id": "s140",
+   "text": "Any party may change its address for notices by giving the other party notice of such change in the manner provided above."
+  },
+  {
+   "id": "s142",
+   "text": "14. Integration. "
+  },
+  {
+   "id": "s143",
+   "text": "This Agreement, subject to the terms and conditions imposed on the removal of Confidential Information under paragraph 6, sets forth the entire agreement between the Parties with respect to the subject matter hereof, and may not be modified or amended except by written agreement executed by the parties hereto."
+  },
+  {
+   "id": "s145",
+   "text": "15. Severability. "
+  },
+  {
+   "id": "s146",
+   "text": "If any provision of this Agreement is declared to be invalid, void or unenforceable, "
+  },
+  {
+   "id": "s147",
+   "text": "(a) the remaining provisions of this Agreement shall continue in full force and effect, and "
+  },
+  {
+   "id": "s148",
+   "text": "(b) the invalid or unenforceable provision shall be replaced by a term or provision that is valid and enforceable and that comes closest to expressing the intention of such invalid or unenforceable term or provision."
+  },
+  {
+   "id": "s150",
+   "text": "16. Governing Law; Attorneys’ Fees. "
+  },
+  {
+   "id": "s151",
+   "text": "The validity and interpretation of this Agreement shall be governed by, and construed and enforced in accordance with, the laws of the Commonwealth of Virginia applicable to agreements made and to be fully performed therein (excluding conflicts of laws provisions thereof). "
+  },
+  {
+   "id": "s152",
+   "text": "Each party irrevocably submits to the jurisdiction of the United States District Court for the Western District of the Commonwealth of Virginia for the purpose of any suit, action, or other proceeding arising out of this Agreement, or any of the agreements or transactions contemplated hereby, which is brought by or against any party and "
+  },
+  {
+   "id": "s153",
+   "text": "(i) each party hereby irrevocably agrees that all claims in respect of any such suit, action or proceeding may be heard and determined in any such court, "
+  },
+  {
+   "id": "s154",
+   "text": "(ii) to the extent that any party has acquired, or hereafter may acquire, any immunity from jurisdiction of any such court or from any legal process therein, it hereby waives, to the fullest extent permitted by law, such immunity and "
+  },
+  {
+   "id": "s155",
+   "text": "(iii) agrees not to commence any action, suit or proceeding relating to this Agreement except in such court. "
+  },
+  {
+   "id": "s156",
+   "text": "Each party hereby waives, and agrees not to assert in any such suit, action or proceeding, in each case, to the fullest extent permitted by applicable law, any claim that "
+  },
+  {
+   "id": "s157",
+   "text": "(a) it is not personally subject to the jurisdiction of any such court, "
+  },
+  {
+   "id": "s158",
+   "text": "(b) it is immune from any legal process (whether through service or notice, attachment prior to judgment attachment in aid of execution, execution or otherwise) with respect to it or its property or "
+  },
+  {
+   "id": "s159",
+   "text": "(c) any such suit, action or proceeding is brought in an inconvenient forum. "
+  },
+  {
+   "id": "s160",
+   "text": "In any action to enforce the terms of this Agreement, the prevailing party shall be entitled to recover its reasonable attorneys’ fees and expenses."
+  },
+  {
+   "id": "s162",
+   "text": "17. Waiver. "
+  },
+  {
+   "id": "s163",
+   "text": "No waiver by either Party, whether express or implied, of any provision of this Agreement shall constitute a continuing waiver of such provision or a waiver of any other provision of this Agreement. "
+  },
+  {
+   "id": "s164",
+   "text": "No waiver by either Party, whether express or implied, of any breach or default by the other party, shall constitute a waiver of any other breach or default of the same or any other provision of this Agreement."
+  },
+  {
+   "id": "s166",
+   "text": "18. Binding Authority. "
+  },
+  {
+   "id": "s167",
+   "text": "Each Party represents and warrants that "
+  },
+  {
+   "id": "s168",
+   "text": "(a) it has the power and authority to enter into this Agreement, "
+  },
+  {
+   "id": "s169",
+   "text": "(b) it has the right to permit the other Party to evaluate Information in accordance herewith, and "
+  },
+  {
+   "id": "s170",
+   "text": "(c) the terms of this Agreement are not inconsistent with any other contractual or legal obligation it may have."
+  },
+  {
+   "id": "s172",
+   "text": "19. Multiple Counterparts. "
+  },
+  {
+   "id": "s173",
+   "text": "This Agreement may be executed in any number of counterparts, and the Parties may execute and exchange facsimile copies of this Agreement, all of which taken together shall constitute one agreement."
+  },
+  {
+   "id": "s175",
+   "text": "IN WITNESS WHEREOF, the Parties have executed this Agreement through their duly authorized representatives on the date set forth above."
+  },
+  {
+   "id": "s176",
+   "text": "New River Pharmaceuticals Inc. Shire US Inc."
+  },
+  {
+   "id": "s177",
+   "text": "By: -s- Randal J. Kirk "
+  },
+  {
+   "id": "s178",
+   "text": "By: "
+  },
+  {
+   "id": "s179",
+   "text": "-s- "
+  },
+  {
+   "id": "s180",
+   "text": "Jeffrey W. Martini"
+  },
+  {
+   "id": "s182",
+   "text": "Randal J. Kirk Name: Jeffrey W. Martini"
+  },
+  {
+   "id": "s183",
+   "text": "Chairman, President and CEO Title: Director of Finance Officer"
+  },
+  {
+   "id": "s185",
+   "text": "Shire US Inc."
+  }
+ ]
+}

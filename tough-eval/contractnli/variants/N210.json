@@ -1,0 +1,333 @@
+{
+ "id": "N210",
+ "revision": 1,
+ "title": "NDA-Seeed.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 210,
+  "type": "search-pdf",
+  "url": "https://statics3.seeedstudio.com/fusion/evelyn/NDA-Seeed.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "Non-Disclosure "
+  },
+  {
+   "id": "s1",
+   "text": "Agreement"
+  },
+  {
+   "id": "s2",
+   "text": "This Confidentiality and Non-Disclosure Agreement (hereinafter referred as the “NDA”) is entered into as of ,20 ,"
+  },
+  {
+   "id": "s3",
+   "text": "by and between"
+  },
+  {
+   "id": "s4",
+   "text": "_____________________, address at "
+  },
+  {
+   "id": "s5",
+   "text": "________________________________________"
+  },
+  {
+   "id": "s6",
+   "text": "and"
+  },
+  {
+   "id": "s7",
+   "text": "Seeed Development "
+  },
+  {
+   "id": "s8",
+   "text": "Limited, a company established under Laws of Hong Kong, having its office at Flat C 23/F Lucky Plaza, 315-321 "
+  },
+  {
+   "id": "s9",
+   "text": "Lockhart Rd Wan Chai, Hong Kong (hereafter referred to as “Seeed”);"
+  },
+  {
+   "id": "s10",
+   "text": "Unless the context requires otherwise, Customer and Seeed shall hereinafter collectively referred to as the “Parties” or individually referred to as the “Party”."
+  },
+  {
+   "id": "s11",
+   "text": "RECITALS"
+  },
+  {
+   "id": "s12",
+   "text": "WHEREAS, Customer is"
+  },
+  {
+   "id": "s13",
+   "text": "WHEREAS, Seeed is concerned any unpermitted early disclose or publicize of the products or any information associated with such products will cause irreparable harms to Seeed unless allowed by Seeed, therefore it is of necessity to conclude the NDA with Customer."
+  },
+  {
+   "id": "s14",
+   "text": "WHEREAS, In light of purpose mentioned above, Seeed and Customer are interested in exchanging Confidential Information (as defined below in Article 1); Seeed and Customer are discloser and recipient under difference context."
+  },
+  {
+   "id": "s15",
+   "text": "WHEREAS, the Parties believe that they may mutually benefit by sharing this Confidential Information and believe it is in their mutual interest to ensure that all such Confidential Information will be safeguarded and carefully protected by the Parties through the present Agreement;"
+  },
+  {
+   "id": "s16",
+   "text": "NOW THEREFORE, in consideration of the promise, covenants hereof and the mutual obligation herein, the Parties agree as follows:"
+  },
+  {
+   "id": "s17",
+   "text": "1. Confidential Information"
+  },
+  {
+   "id": "s18",
+   "text": "For purposes of this Agreement, “Confidential Information” shall mean the following:"
+  },
+  {
+   "id": "s19",
+   "text": "i. All records, files, analysis, documents, software, computer or electronic data disks or tapes, test data, printouts, processes, designs, file layout, technical bulletins, manuals, diagrams, formulas, research, inventions, patents and discoveries reasonably related to the Parties’ businesses or products and services of the Parties that have not been publicly released;"
+  },
+  {
+   "id": "s20",
+   "text": "ii. Technical, financial, business plan and customer information, including standard periodic financial statements and analyses, budgets, tax returns, benefit and compensation plans, customer list(s) and contact names, functional and technical specifications;"
+  },
+  {
+   "id": "s21",
+   "text": "iii. Other valuable information disclosed by one of the Parties to another, designated as confidential expressly or by the circumstances in which it is provided."
+  },
+  {
+   "id": "s22",
+   "text": "Confidential Information does not include information that:"
+  },
+  {
+   "id": "s23",
+   "text": "i. Is lawfully in the public domain at the time it was transmitted;"
+  },
+  {
+   "id": "s24",
+   "text": "ii. Is independently known to or in possession of the receiving party at the time of receipt through no unlawful act;"
+  },
+  {
+   "id": "s25",
+   "text": "iii. Is disclosed by the receiving party with the prior written approval of the transmitting party;"
+  },
+  {
+   "id": "s26",
+   "text": "iv. Becomes known to the receiving party from a source other than the transmitting party, which third party legally is entitled to have and to disclose such information without restriction."
+  },
+  {
+   "id": "s27",
+   "text": "2. Duty of Confidentiality and Standard of Care"
+  },
+  {
+   "id": "s28",
+   "text": "2.1 Each Party hereby acknowledges that it will be exposed to Confidential Information of the other Party, including without limitation, specific information regarding the products and the business of this Party."
+  },
+  {
+   "id": "s29",
+   "text": "2.2 "
+  },
+  {
+   "id": "s30",
+   "text": "The Parties hereby agree that they shall not use, commercialize or disclose any Confidential Information to any person or entity, except to their own employees having a “need to know” (and who themselves bound by similar non-disclosure restrictions), and to such other recipients as each Party may approve in writing, provided that such recipients shall have first executed a Confidentiality Agreement in a form acceptable to the Party interested."
+  },
+  {
+   "id": "s31",
+   "text": "2.3 "
+  },
+  {
+   "id": "s32",
+   "text": "Any disclosure to any third party by each Party shall be subject to the prior consent of the other Party, which consent shall not be unreasonably withheld unless the Disclosing Party believe it might go against the purpose of this Agreement."
+  },
+  {
+   "id": "s33",
+   "text": "The Receiving Party must protect the Confidential Information and, in doing so, must use no less than the highest degree of care that the Receiving Party applies to its own proprietary or secret information;"
+  },
+  {
+   "id": "s34",
+   "text": "The Confidential Information must be stored and handled in such a way as to prevent unauthorized disclosure."
+  },
+  {
+   "id": "s35",
+   "text": "The Receiving Party shall use its best efforts to limit dissemination of Disclosing Party’s “Confidential Information” to such of its employees or sub-contractor(s) who have a need to know for the aforesaid evaluation and/or development purposes."
+  },
+  {
+   "id": "s36",
+   "text": "3. Proprietary Rights Legend"
+  },
+  {
+   "id": "s37",
+   "text": "The Parties shall not alter or remove from any Confidential Information any proprietary rights legend, copyright notice, trademark or trade secret legend, or any other mark identifying the material as Confidential Information."
+  },
+  {
+   "id": "s38",
+   "text": "4. Covenants concerning competition"
+  },
+  {
+   "id": "s39",
+   "text": "The Confidential Information disclosed to each of the Parties may include information that would provide the other party with an unfair competitive advantage if such Party were to use the Confidential Information for purposes other than those provided for hereunder. "
+  },
+  {
+   "id": "s40",
+   "text": "Accordingly, the Parties only agree to provide such Confidential Information to the other Party in return for this Party’s Agreement to be bound by each of the provisions in this Agreement including the provisions set forth in this section 4 and that such agreements by the Parties constitutes a material inducement for each Party to provide Confidential Information to the other Party and that such Confidential Information shall not be used by one of the Parties to obtain a competitive advantage against the other Party."
+  },
+  {
+   "id": "s41",
+   "text": "5. Return of Documents and Materials"
+  },
+  {
+   "id": "s42",
+   "text": "The Parties hereby agree that all materials, including financial reports and analyses, customer list(s) programs, software, documents, reports, statistical data, trade secrets or similar printed, coded, electronic or magnetic material made by one of the Parties or to come into one of the Parties’ possession in the course of negotiations shall be returned to the other Party, upon conclusion of the negotiations."
+  },
+  {
+   "id": "s43",
+   "text": "6. Remedies for Breach of Confidentiality and Indemnification, Liquidated damages"
+  },
+  {
+   "id": "s44",
+   "text": "In the event one of the Parties or its officers, agents, employees or any of its subsidiaries or their officers, agents or employees violates the restrictions against disclosure or use of the Confidential Information defined herein, Recipient or such entity or individual(s) as the case may be, shall and do hereby consent to the entry of an injunction by a court of competent jurisdiction against any further disclosure or use of the Confidential Information, and shall pay the The Recipient, including without limitation to any of its employees, subsidiaries, agents, subcontractors, officers shall indemnify and hold harmless against the Discloser against any unpermitted disclosing and publicizing. "
+  },
+  {
+   "id": "s45",
+   "text": "In event of any disclosing or publicizing the confidential information or breaching any obligations under this Agreement, the breaching party shall mitigate the losses and take for all reasonable measure, including the court injunction to prevent the disclosure and spread of confidential information upon the request of aggrieved party. "
+  },
+  {
+   "id": "s46",
+   "text": "The breaching party shall pay to non-beaching party a liquidated damage of 10,000 USD per occurrence. "
+  },
+  {
+   "id": "s47",
+   "text": "The total liquidated damage shall not exceed 1,0000,000 USD. "
+  },
+  {
+   "id": "s48",
+   "text": "The application of liquidated damage shall not prejudice the aggrieved party’s right to claim for all the losses and shall not prejudice all the liabilities and obligations incurred. "
+  },
+  {
+   "id": "s49",
+   "text": "Nothing here shall be interpreted as excluding consequential losses the aggrieved party may suffer, including without limitation to loss of profit, loss of goodwill, loss of business opportunities."
+  },
+  {
+   "id": "s50",
+   "text": "7. Term"
+  },
+  {
+   "id": "s51",
+   "text": "This Agreement shall be effective as of the date first written above and shall continue in full force and effect until the last disclosure of Confidential Information by one Party to another and shall survive the term of this Agreement for a period of two (2) years thereafter, provided, however that as to any item of Confidential Information that constitutes a trade secret under applicable law, the obligations of confidentiality contained herein shall continue for so long as allowed under applicable law. "
+  },
+  {
+   "id": "s52",
+   "text": "Unless otherwise agreed in writing this Agreement shall govern Confidential Information disclosed by the Parties after the effective date hereof."
+  },
+  {
+   "id": "s53",
+   "text": "8. Applicable Law - Arbitration"
+  },
+  {
+   "id": "s54",
+   "text": "This Agreement is governed by and shall be construed in accordance with the laws of the People’s Republic of China without regard to principles of conflict of law, and any dispute arising out of this Agreement or In connection with this Agreement shall be referred to Hong Kong International Arbitration Centre (HKIAC) for arbitration in accordance with Hong Kong International Arbitration Centre (HKIAC) administered arbitration rules in force at the time of application. "
+  },
+  {
+   "id": "s55",
+   "text": "The arbitrators shall be one (1). "
+  },
+  {
+   "id": "s56",
+   "text": "The place of arbitration shall be in Shen Zhen, China. "
+  },
+  {
+   "id": "s57",
+   "text": "The language used in arbitration proceeding shall be English Language. "
+  },
+  {
+   "id": "s58",
+   "text": "Both parties will keep in strict confidential of all information relating to the dispute. "
+  },
+  {
+   "id": "s59",
+   "text": "Both parties shall continue to perform their respective obligations which are not in dispute. "
+  },
+  {
+   "id": "s60",
+   "text": "Nothing here shall be interpreted as preventing the aggrieved party from seeking court injunction, interim measures, and protective order from competent court in relevant jurisdiction."
+  },
+  {
+   "id": "s61",
+   "text": "9. Notices"
+  },
+  {
+   "id": "s62",
+   "text": "All notices, demands or other communications delivered in connection with this Agreement shall be delivered by facsimile transmissions or mail and shall be deemed effective upon receipt:"
+  },
+  {
+   "id": "s63",
+   "text": "If to Customer"
+  },
+  {
+   "id": "s64",
+   "text": "Address: "
+  },
+  {
+   "id": "s65",
+   "text": "__________________________________________________________________"
+  },
+  {
+   "id": "s66",
+   "text": "If to Seeed:"
+  },
+  {
+   "id": "s67",
+   "text": "Address:1F, Tower B, Building 2, Shanshui Building, NanshanYungu Innovation Industry Park, Liuxian Ave, Nanshan District, Shenzhen, Guangdong. , China. "
+  },
+  {
+   "id": "s68",
+   "text": "P.R.C"
+  },
+  {
+   "id": "s69",
+   "text": "Or at such other address or to such fax number, email address as may be designated by notice from such Party."
+  },
+  {
+   "id": "s70",
+   "text": "10. Entire Agreement"
+  },
+  {
+   "id": "s71",
+   "text": "This Agreement contains the entire agreement of the Parties with respect to the subject matter of this Agreement and supersedes all prior agreements between or among the Parties, whether written or oral, with respect to the subject matter of this Agreement. "
+  },
+  {
+   "id": "s72",
+   "text": "Any modifications of or changes to this Agreement shall be in writing and signed by both Parties."
+  },
+  {
+   "id": "s73",
+   "text": "11. No waiver"
+  },
+  {
+   "id": "s74",
+   "text": "The failure to enforce or to require the performance at any time of any of the provisions of this Agreement will not be construed to be a waiver of such provision, and will not affect either the validity of this Agreement or any part hereof or the right of any Party thereafter to enforce each and every provision in accordance with the terms of this Agreement."
+  },
+  {
+   "id": "s75",
+   "text": "IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be executed by their duly authorized representatives."
+  },
+  {
+   "id": "s76",
+   "text": "________________________(“Customer”) "
+  },
+  {
+   "id": "s77",
+   "text": "Seeed Development Limited"
+  },
+  {
+   "id": "s78",
+   "text": "Signed by: Signed by:"
+  },
+  {
+   "id": "s79",
+   "text": "Title: Title:"
+  }
+ ]
+}

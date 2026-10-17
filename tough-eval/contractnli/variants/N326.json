@@ -1,0 +1,541 @@
+{
+ "id": "N326",
+ "revision": 1,
+ "title": "pp%2011%20-%20non-disclosure%20agreement%20mutual.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 326,
+  "type": "search-pdf",
+  "url": "https://legal.usm.my/v3/phocadownload/pp%2011%20-%20non-disclosure%20agreement%20mutual.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "THIS NON-DISCLOSURE AGREEMENT is made this day of , 20 (hereinafter referred to as \"NDA\"):"
+  },
+  {
+   "id": "s2",
+   "text": "BETWEEN"
+  },
+  {
+   "id": "s3",
+   "text": "UNIVERSITI SAINS MALAYSIA (\"USM\"), particulars of whom is as set out in Appendix I hereto, of the first part;"
+  },
+  {
+   "id": "s4",
+   "text": "AND"
+  },
+  {
+   "id": "s5",
+   "text": "ABC (\"ABC\"), particulars of whom is as set out in Appendix II hereto of the second part."
+  },
+  {
+   "id": "s6",
+   "text": "(USM and ABC shall hereinafter be collectively referred to as \"Parties\" and individually as \"Party\", where the context so requires)."
+  },
+  {
+   "id": "s7",
+   "text": "WHEREAS:"
+  },
+  {
+   "id": "s8",
+   "text": "The Parties are entering into this NDA in contemplation of exploring mutual business opportunities and/or joint educational or research activities. "
+  },
+  {
+   "id": "s9",
+   "text": "In the course of meetings, communi-cations, correspondences and discussions, certain Confidential Information (as hereinafter defined) may be disclosed by USM and/or ABC to each other for the Purpose (as hereinafter defined)."
+  },
+  {
+   "id": "s10",
+   "text": "THIS NDA WITNESSETH as follows:"
+  },
+  {
+   "id": "s11",
+   "text": "1. DEFINITIONS"
+  },
+  {
+   "id": "s12",
+   "text": "In this NDA and the appendices hereto, if any, the following words and expressions shall have the following meaning -"
+  },
+  {
+   "id": "s13",
+   "text": "\"Confidential Information\" means any and all technical and non-technical information including patent, copyright, trade secret, know-how and proprietary information, techniques, sketches, drawings, diagrams, methods, processes, apparatus, equipment, algorithms, software programs, software source documents, and formulae related to a technology or invention, and includes, without limitation, its respective information concerning research, experimental work, development, design details and specifications, engineering, financial information, procurement requirements, purchasing manufacturing, customer list, business forecasts, sales and merchandising and marketing plans and information designated in writing to be confidential or by its nature intended to be for the sole knowledge of the Receiving Party (as hereinafter defined) or if orally given in the circumstances of confidence or confirmed promptly in writing as having been disclosed as confidential or proprietary for the Purpose; that is conveyed by the Disclosing Party (as hereinafter defined) to the Receiving Party, in written, oral, digital, magnetic, photographic and/or whatsoever forms;"
+  },
+  {
+   "id": "s14",
+   "text": "\"Disclosing Party\" means the Party and/or its Related Companies (represented by its Personnel in Charge), who is disclosing Confidential Information under this NDA to the other Party (represented by its Personnel in Charge);"
+  },
+  {
+   "id": "s15",
+   "text": "\"Effective Date\" means the date stated at the beginning of this NDA which is the date this NDA becomes effective;"
+  },
+  {
+   "id": "s16",
+   "text": "\"NDA Period \" means the duration of the NDA which is twelve (12) months from the Effective Date, or any extension of time to be mutually agreed in writing by the Parties;"
+  },
+  {
+   "id": "s17",
+   "text": "\"Personnel in Charge\" means the employees, officers, directors, workers and/or authorised person of each Party as set out in Appendix I and Appendix II respectively;"
+  },
+  {
+   "id": "s18",
+   "text": "\"Purpose\" means the execution of a legally binding agreement between the Parties and/or the Related Companies regarding a potential business arrangement or joint research in relation to the Technology (as hereinafter defined), within the NDA period;"
+  },
+  {
+   "id": "s19",
+   "text": "\"Receiving Party\" means the Party and/or its Related Companies (represented by its Personnel in Charge), who is receiving Confidential Information under this NDA from the other Party (represented by its Personnel in Charge);"
+  },
+  {
+   "id": "s20",
+   "text": "\"Technology\" means the development process of ......................... as developed by the School of ..................................., USM;"
+  },
+  {
+   "id": "s21",
+   "text": "\"Related Companies\" means a company which is the holding company, investment arm or subsidiary of either Party or a company which shares a common holding company or shareholders with either Party. "
+  },
+  {
+   "id": "s22",
+   "text": "The words \"holding company\" and \"subsidiary\" shall have the same meanings as prescribed to them in the Companies Act 1965."
+  },
+  {
+   "id": "s23",
+   "text": "2. RIGHTS TO CONFIDENTIAL INFORMATION"
+  },
+  {
+   "id": "s24",
+   "text": "2.1 "
+  },
+  {
+   "id": "s25",
+   "text": "Use"
+  },
+  {
+   "id": "s26",
+   "text": "All Confidential Information disclosed by the Disclosing Party shall be used, consumed, utilised and acted in whatever ways by the Receiving Party solely and strictly for the Purpose, and each disclosure of Confidential Information may be recorded by the Personnel in Charge of each Party. "
+  },
+  {
+   "id": "s27",
+   "text": "The Receiving Party undertakes not to use the Confidential Information for further research, technical analysis, reverse engineering and/or exploit for the purpose of any commercial gains in any manner whatsoever."
+  },
+  {
+   "id": "s28",
+   "text": "2.2 Proprietorship"
+  },
+  {
+   "id": "s29",
+   "text": "The Confidential Information and the intellectual property thereof, is proprietary to the Disclosing Party and shall remain, the property of the Disclosing Party, and the Disclosing Party warrants that it has the right to disclose the Confidential Information to the Receiving Party."
+  },
+  {
+   "id": "s30",
+   "text": "2.3 No Grant of Licence"
+  },
+  {
+   "id": "s31",
+   "text": "The disclosure of Confidential Information by the Disclosing Party to the Receiving Party shall not be construed as the granting of a licence under any patent, copyright, trade secret, other proprietary rights or any other rights by the Disclosing Party."
+  },
+  {
+   "id": "s32",
+   "text": "2.4 Prohibition"
+  },
+  {
+   "id": "s33",
+   "text": "The Receiving Party agrees that the Receiving Party is not permitted to sell, license, develop or otherwise exploit any parts, products, services, documents or information which embody in whole or in part any Confidential Information of the Disclosing Party without the written consent from the Disclosing Party, save and except as contemplated by this NDA."
+  },
+  {
+   "id": "s34",
+   "text": "2.5 Tangible Forms of Confidential Information"
+  },
+  {
+   "id": "s35",
+   "text": "In the event any tangible forms of Confidential Information shall be copied, in whole or in part, the Receiving Party shall have first obtained the prior written consent of the Disclosing Party."
+  },
+  {
+   "id": "s36",
+   "text": "3. OBLIGATIONS"
+  },
+  {
+   "id": "s37",
+   "text": "3.1 Receiving Party"
+  },
+  {
+   "id": "s38",
+   "text": "In relation to the Confidential Information of the Disclosing Party, the Receiving Party undertakes -"
+  },
+  {
+   "id": "s39",
+   "text": "(a) to maintain the Confidential Information in strict confidence;"
+  },
+  {
+   "id": "s40",
+   "text": "(b) to use the Confidential Information solely for the Purpose only and for no other purpose;"
+  },
+  {
+   "id": "s41",
+   "text": "(c) to refrain from copying, reproducing and reducing to writing or any other form of recording any part thereof except as may be reasonably necessary for the Purpose provided that the Receiving Party has obtained the prior written consent of the Disclosing Party;"
+  },
+  {
+   "id": "s42",
+   "text": "(d) to refrain from disclosing the Confidential Information whether to its employees (other than the Personnel in Charge) or third parties except to such of its employees (other then the Personnel in Charge) or third parties who have a need to know or whose services are appropriately required in connection with the Purpose but subject to the prior written consent of the Disclosing Party and the provision of clause 3.2 herein below;"
+  },
+  {
+   "id": "s43",
+   "text": "(e) to apply no lesser security measures and degree of care thereto than those which the Receiving Party applies to its own Confidential Information or proprietary information and which the Receiving Party warrants as providing adequate protection on such information from unauthorized use or disclosure."
+  },
+  {
+   "id": "s44",
+   "text": "(f) not to reverse engineer, disassemble or decompile any prototypes, software or other tangible objects which embody the Disclosing Party's Confidential Information and which are provided by the Disclosing Party."
+  },
+  {
+   "id": "s45",
+   "text": "3.2 Third Party"
+  },
+  {
+   "id": "s46",
+   "text": "In the event disclosure of the Confidential Information is made by the Receiving Party to any third party, the Receiving Party shall ensure that the third party undertakes to comply strictly to the conditions and the non-disclosure obligations of the Parties under this NDA and for the aforesaid purpose, the Receiving Party shall cause the third party to execute an undertaking in the format set out in Appendix III hereto."
+  },
+  {
+   "id": "s47",
+   "text": "4. EXCEPTIONS"
+  },
+  {
+   "id": "s48",
+   "text": "4.1 "
+  },
+  {
+   "id": "s49",
+   "text": "No confidentiality and non-disclosure obligations shall apply if, and to the extent that the Confidential Information -"
+  },
+  {
+   "id": "s50",
+   "text": "(a) is already known by the Receiving Party prior to receipt from the Disclosing Party; or"
+  },
+  {
+   "id": "s51",
+   "text": "(b) is or becomes part of the public domain and widely available other than by breach of the obligations of the Receiving Party ; or"
+  },
+  {
+   "id": "s52",
+   "text": "(c) is independently developed by the Receiving Party; or"
+  },
+  {
+   "id": "s53",
+   "text": "(d) is lawfully received by the Receiving Party from a third party; or"
+  },
+  {
+   "id": "s54",
+   "text": "(e) is required to be disclosed by operation of law and if the Receiving Party is required to disclose under this clause, the Receiving Party shall, if possible, disclose only to the minimum required to comply with the law."
+  },
+  {
+   "id": "s55",
+   "text": "4.2 "
+  },
+  {
+   "id": "s56",
+   "text": "If at any time clause 4.1(e) above applies to any part of the Confidential Information, the Receiving Party shall immediately notify the Disclosing Party of the matter, so that the Disclosing Party may, if it wishes, seek an appropriate remedy under the applicable laws to prevent the use or disclosure or protect the confidentiality of what is disclosed."
+  },
+  {
+   "id": "s57",
+   "text": "5. EFFECTIVE DATE AND DURATION"
+  },
+  {
+   "id": "s58",
+   "text": "5.1 "
+  },
+  {
+   "id": "s59",
+   "text": "This NDA shall take effect from the Effective Date irrespective of the diverse dates upon which the respective Parties may have executed this NDA. "
+  },
+  {
+   "id": "s60",
+   "text": "The provisions of this NDA shall however apply retrospectively to any Confidential Information, which may have been disclosed in connection with the Purpose prior to the Effective Date."
+  },
+  {
+   "id": "s61",
+   "text": "5.2 "
+  },
+  {
+   "id": "s62",
+   "text": "The obligations of the Parties under this NDA shall continue and survive the completion of the Purpose and remain binding for a period of five (5) years from the date of completion of the Purpose or, from the date of the earlier termination of this NDA as provided in clause 7 herein."
+  },
+  {
+   "id": "s63",
+   "text": "6. INCIDENTALS"
+  },
+  {
+   "id": "s64",
+   "text": "6.1 Return of Confidential Information"
+  },
+  {
+   "id": "s65",
+   "text": "The Receiving Party shall immediately on request by the Disclosing Party return all or any part of the Confidential Information as shall be determined by the Disclosing Party and shall (at the Disclosing Party's option) -"
+  },
+  {
+   "id": "s66",
+   "text": "(a) return all copies and extracts of the Confidential Information and all summaries, reports and notes made that relate to or use the Confidential Information (whether on paper, in an electronic information storage and retrieval system, in any other storage and retrieval system, or in any other storage medium); or"
+  },
+  {
+   "id": "s67",
+   "text": "(b) certify by letter signed by an authorized signatory of the Receiving Party that the items referred to in clause .6.1(a) have been destroyed or erased; or"
+  },
+  {
+   "id": "s68",
+   "text": "(c) do both of clauses 6.1(a) and 6.1(b) above."
+  },
+  {
+   "id": "s69",
+   "text": "except that one copy of each may be retained by the Receiving Party's legal department for archival purposes only."
+  },
+  {
+   "id": "s70",
+   "text": "6.2 Remedies"
+  },
+  {
+   "id": "s71",
+   "text": "6.2.1 "
+  },
+  {
+   "id": "s72",
+   "text": "The Receiving Party agrees that no monetary damages shall be sufficient to avoid or compensate the unauthorized use or disclosure of the Confidential Information and that injunctive relief would be appropriate to prevent any actual or threatened use or disclosure of such Confidential Information."
+  },
+  {
+   "id": "s73",
+   "text": "6.2.2 "
+  },
+  {
+   "id": "s74",
+   "text": "Any expenses including the legal costs arising from this clause and/or this NDA shall be borne by the defaulting party."
+  },
+  {
+   "id": "s75",
+   "text": "7. TERMINATION"
+  },
+  {
+   "id": "s76",
+   "text": "7.1 "
+  },
+  {
+   "id": "s77",
+   "text": "Without limiting the generality of any other clause in this NDA, either Party may terminate this NDA immediately by giving the other Party, thirty (30) days' written notice if the other Party:"
+  },
+  {
+   "id": "s78",
+   "text": "(a) is in breach of the terms and conditions of this NDA and such breach is not remedied within thirty (30) days of a written notification from the non-defaulting Party requiring the same to be remedied;"
+  },
+  {
+   "id": "s79",
+   "text": "(b) becomes, threatens or resolves to become or is in danger of becoming subject to any form of insolvency proceedings whatsoever;"
+  },
+  {
+   "id": "s80",
+   "text": "(c) ceases or threatens to cease conducting its business in the normal manner or appears to be at risk of doing so."
+  },
+  {
+   "id": "s81",
+   "text": "7.2 "
+  },
+  {
+   "id": "s82",
+   "text": "In the event that the Parties fail to execute a legally binding agreement within the NDA Period in completion of the Purpose, this NDA shall forthwith be terminated at the end of the NDA Period."
+  },
+  {
+   "id": "s83",
+   "text": "8. E-COMMUNICATION AND SIGNATURE"
+  },
+  {
+   "id": "s84",
+   "text": "The Parties hereby consent to electronic communication and electronic signatures being equal to signatures inked on paper. "
+  },
+  {
+   "id": "s85",
+   "text": "The Parties acknowledge and agree that electronic communication is an acceptable method of communicating information from a Party to the other party without having to communicate the same on paper. "
+  },
+  {
+   "id": "s86",
+   "text": "Any communication and subsequent electronic signature that has been sent or signed in the past, present, or future between the Parties will hold the same force and effect as a document signed and inked on paper."
+  },
+  {
+   "id": "s87",
+   "text": "9. MISCELLANEOUS"
+  },
+  {
+   "id": "s88",
+   "text": "9.1 Notices"
+  },
+  {
+   "id": "s89",
+   "text": "9.1.1 "
+  },
+  {
+   "id": "s90",
+   "text": "All notices which are required to be given hereunder shall be in writing and shall be sent to the registered address and correspondence address of the recipient set out in this NDA by personal delivery, registered post, electronic mail or facsimile transmission."
+  },
+  {
+   "id": "s91",
+   "text": "9.1.2 "
+  },
+  {
+   "id": "s92",
+   "text": "Any change of registered or correspondence address of either Party shall be notified to the other Party."
+  },
+  {
+   "id": "s93",
+   "text": "9.2 Successor Bound"
+  },
+  {
+   "id": "s94",
+   "text": "This NDA shall be binding on the Parties hereto and their respective successors and permitted assigns."
+  },
+  {
+   "id": "s95",
+   "text": "9.3 Assignment"
+  },
+  {
+   "id": "s96",
+   "text": "Neither Party shall be entitled to assign this NDA, in whole or in part, or any of its rights and obligations under this NDA without the prior written consent of the other Party."
+  },
+  {
+   "id": "s97",
+   "text": "9.4 Severance"
+  },
+  {
+   "id": "s98",
+   "text": "Notwithstanding that any provision of this NDA may prove to be illegal or unenforceable, the remaining provisions of this NDA shall continue in full force and effect."
+  },
+  {
+   "id": "s99",
+   "text": "9.5 Entire Agreement"
+  },
+  {
+   "id": "s100",
+   "text": "This NDA, together with the Appendices, constitute the entire agreement between the Parties hereto with respect to the Purpose and supersedes all prior or contemporaneous representations, agreements and promises, written or oral, between the Parties with respect to the Purpose."
+  },
+  {
+   "id": "s101",
+   "text": "9.6 Variation"
+  },
+  {
+   "id": "s102",
+   "text": "This NDA shall not be amended, altered, changed or otherwise modified without the mutual consent of the Parties hereto and such amendments, alterations, changes or modifications shall be made in writing and signed by the Parties hereto."
+  },
+  {
+   "id": "s103",
+   "text": "9.7 Governing Law and Jurisdiction"
+  },
+  {
+   "id": "s104",
+   "text": "This NDA shall be governed by and interpreted in accordance with the laws of Malaysia and the Parties hereto agree to submit to the exclusive jurisdiction of the courts in Malaysia."
+  },
+  {
+   "id": "s105",
+   "text": "9.8 Time"
+  },
+  {
+   "id": "s106",
+   "text": "Time whenever and wherever mentioned shall be of the essence of this NDA."
+  },
+  {
+   "id": "s107",
+   "text": "9.9 Headings Annexures and Appendices"
+  },
+  {
+   "id": "s108",
+   "text": "9.9.1 "
+  },
+  {
+   "id": "s109",
+   "text": "The headings in this NDA are included for convenience only and shall neither affect the construction or interpretation of any provision in this NDA nor affect any of the rights or obligations of the Parties hereto."
+  },
+  {
+   "id": "s110",
+   "text": "9.9.2 "
+  },
+  {
+   "id": "s111",
+   "text": "All annexures and appendices annexed hereto shall form part of this NDA and shall be read taken and construed as an essential part of this NDA."
+  },
+  {
+   "id": "s112",
+   "text": "(THE REMAINDER OF THIS PAGE IS INTENTIONALLY LEFT BLANK)"
+  },
+  {
+   "id": "s113",
+   "text": "first above written:"
+  },
+  {
+   "id": "s114",
+   "text": "Signed for and on behalf of "
+  },
+  {
+   "id": "s115",
+   "text": ")"
+  },
+  {
+   "id": "s116",
+   "text": "UNIVERSITI SAINS MALAYSIA "
+  },
+  {
+   "id": "s117",
+   "text": ")"
+  },
+  {
+   "id": "s118",
+   "text": "In the presence of: "
+  },
+  {
+   "id": "s119",
+   "text": ") ................................................................... "
+  },
+  {
+   "id": "s120",
+   "text": "[name & designation]"
+  },
+  {
+   "id": "s121",
+   "text": "........................................................... "
+  },
+  {
+   "id": "s122",
+   "text": "[name & designation]"
+  },
+  {
+   "id": "s123",
+   "text": "Signed for and on behalf of "
+  },
+  {
+   "id": "s124",
+   "text": ")"
+  },
+  {
+   "id": "s125",
+   "text": "ABC "
+  },
+  {
+   "id": "s126",
+   "text": ")"
+  },
+  {
+   "id": "s127",
+   "text": "In the presence of: "
+  },
+  {
+   "id": "s128",
+   "text": ") .............................................................. "
+  },
+  {
+   "id": "s129",
+   "text": "[name & designation]"
+  },
+  {
+   "id": "s130",
+   "text": "........................................................... "
+  },
+  {
+   "id": "s131",
+   "text": "[name & designation]"
+  }
+ ]
+}

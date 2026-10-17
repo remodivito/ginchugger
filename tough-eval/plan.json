@@ -1,0 +1,125 @@
+{
+ "about": "Default plan, in order of value. Edit freely: steps already complete are skipped, so renaming a step to match a run you already have reuses it. Controls and repeats use the development split only, to save usage; the held-out variants are run once, at the end, for the final comparison. The decomposed arms (decision 141) run with the reference model and effort, two reviews at a time (each review runs up to REVIEW_CONCURRENCY=4 rule workers); the -raw steps skip the consolidator, to show what it adds. 10 October (local): the single-call repeats started that morning are reused by name (opus55-medium-r1..r3, sonnet55-medium-r1..r3, opus5-medium); resuming fills in the development variants they lack (the bundle) and retries their failures. Concurrency 2 everywhere, to go easier on the usage limit. 10 October (user: \"maybe per-rule opus agents is overkill... try a limited pilot of per rule opus, then per rule sonnet/haiku in a way that complements the single opus call\"): the full per-rule and agent repeats are replaced by a one-run pilot on ten development bundle variants: per-rule Opus single calls, and two hybrids (the single Opus call plus per-rule Sonnet or Haiku checkers that add findings only where Opus flagged nothing). One review at a time, since each fans out to ~19 calls. Revised the same afternoon (user: \"one opus agent should be the minimum, with perhaps single calls to sonnet and haiku to complement\"; \"per rule opus single calls is probably not the one\"): the pilot is one Opus review agent (whole agreement plus read/search/define/resolve tools, up to 8 replies), and that agent plus per-rule Sonnet or Haiku checker calls. Per-rule Opus and the single-call hybrids are not run. Trimmed for time (user: \"12 hours?? really\"; \"i want to keep the alternate models\"): controls and low effort on the 34 development agreement variants only, the scrambled-ids control dropped, the pilot on six bundle variants (clean copy, three markups, one length-paired plant, one harmless edit) at two reviews at a time; the Sonnet 5.5 and Opus 5 repeats are kept.",
+ "reference": "claude-opus-5-5 / medium / single-call",
+ "steps": [
+  {
+   "name": "opus55-bundle-cal5a",
+   "model": "claude-opus-5-5",
+   "effort": "medium",
+   "variants": "B00",
+   "concurrency": 1
+  },
+  {
+   "name": "opus55-medium-r1",
+   "model": "claude-opus-5-5",
+   "effort": "medium",
+   "variants": "development",
+   "concurrency": 2
+  },
+  {
+   "name": "opus55-control-half",
+   "model": "claude-opus-5-5",
+   "effort": "medium",
+   "variants": "C00,D01,D02,D04,D05,K02,K04,K05,K06,K07,K09,K10,K12,M1,M2,M3,P01,P02,P03,P05,P06,P08,P09,P10,P12,P13,P17,P19,P20,P21,P22,P23,P24,P26",
+   "control": "half-document",
+   "concurrency": 2
+  },
+  {
+   "name": "opus55-control-titles",
+   "model": "claude-opus-5-5",
+   "effort": "medium",
+   "variants": "C00,D01,D02,D04,D05,K02,K04,K05,K06,K07,K09,K10,K12,M1,M2,M3,P01,P02,P03,P05,P06,P08,P09,P10,P12,P13,P17,P19,P20,P21,P22,P23,P24,P26",
+   "control": "titles-only",
+   "concurrency": 2
+  },
+  {
+   "name": "opus55-low",
+   "model": "claude-opus-5-5",
+   "effort": "low",
+   "variants": "C00,D01,D02,D04,D05,K02,K04,K05,K06,K07,K09,K10,K12,M1,M2,M3,P01,P02,P03,P05,P06,P08,P09,P10,P12,P13,P17,P19,P20,P21,P22,P23,P24,P26",
+   "concurrency": 2
+  },
+  {
+   "name": "pilot-agent-opus",
+   "model": "claude-opus-5-5",
+   "effort": "medium",
+   "variants": "B00,BK4,BK5,BK6,BL06,BD09",
+   "arm": "agent",
+   "concurrency": 2
+  },
+  {
+   "name": "pilot-agent-hybrid-sonnet",
+   "model": "claude-opus-5-5",
+   "effort": "medium",
+   "variants": "B00,BK4,BK5,BK6,BL06,BD09",
+   "arm": "agent-hybrid",
+   "workerModel": "claude-sonnet-5-5",
+   "concurrency": 2
+  },
+  {
+   "name": "pilot-agent-hybrid-haiku",
+   "model": "claude-opus-5-5",
+   "effort": "medium",
+   "variants": "B00,BK4,BK5,BK6,BL06,BD09",
+   "arm": "agent-hybrid",
+   "workerModel": "claude-haiku-5-5",
+   "concurrency": 2
+  },
+  {
+   "name": "opus55-medium-r2",
+   "model": "claude-opus-5-5",
+   "effort": "medium",
+   "variants": "development",
+   "concurrency": 2
+  },
+  {
+   "name": "opus55-medium-r3",
+   "model": "claude-opus-5-5",
+   "effort": "medium",
+   "variants": "development",
+   "concurrency": 2
+  },
+  {
+   "name": "sonnet55-medium-r1",
+   "model": "claude-sonnet-5-5",
+   "effort": "medium",
+   "variants": "development",
+   "concurrency": 2
+  },
+  {
+   "name": "sonnet55-medium-r2",
+   "model": "claude-sonnet-5-5",
+   "effort": "medium",
+   "variants": "development",
+   "concurrency": 2
+  },
+  {
+   "name": "sonnet55-medium-r3",
+   "model": "claude-sonnet-5-5",
+   "effort": "medium",
+   "variants": "development",
+   "concurrency": 2
+  },
+  {
+   "name": "opus5-medium",
+   "model": "claude-opus-5",
+   "effort": "medium",
+   "variants": "development",
+   "concurrency": 2
+  },
+  {
+   "name": "opus5-dev-r2",
+   "model": "claude-opus-5",
+   "effort": "medium",
+   "variants": "development",
+   "concurrency": 2
+  },
+  {
+   "name": "opus5-dev-r3",
+   "model": "claude-opus-5",
+   "effort": "medium",
+   "variants": "development",
+   "concurrency": 2
+  }
+ ]
+}

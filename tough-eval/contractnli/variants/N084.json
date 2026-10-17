@@ -1,0 +1,337 @@
+{
+ "id": "N084",
+ "revision": 1,
+ "title": "confidentiality_agreement.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 84,
+  "type": "search-pdf",
+  "url": "https://www.haldex.com/globalassets/north-america/documents/supplier/confidentiality_agreement.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "Haldex Non-disclosure "
+  },
+  {
+   "id": "s1",
+   "text": "Agreement"
+  },
+  {
+   "id": "s2",
+   "text": "May 2015. "
+  },
+  {
+   "id": "s3",
+   "text": "REG NO: HDX4-51-130"
+  },
+  {
+   "id": "s4",
+   "text": "This non-disclosure agreement (the “Agreement”) is entered into by and between "
+  },
+  {
+   "id": "s5",
+   "text": "_______________________, with company registration number "
+  },
+  {
+   "id": "s6",
+   "text": "___________________, address at "
+  },
+  {
+   "id": "s7",
+   "text": "__________________________________ "
+  },
+  {
+   "id": "s8",
+   "text": "and fax number "
+  },
+  {
+   "id": "s9",
+   "text": "________________ hereinafter referred to as “Haldex”, and"
+  },
+  {
+   "id": "s10",
+   "text": "______________________, with company registration number "
+  },
+  {
+   "id": "s11",
+   "text": "___________________ , address at "
+  },
+  {
+   "id": "s12",
+   "text": "__________________________________ "
+  },
+  {
+   "id": "s13",
+   "text": "and fax number_____________________ "
+  },
+  {
+   "id": "s14",
+   "text": "hereinafter referred to as the Supplier."
+  },
+  {
+   "id": "s15",
+   "text": "Haldex and Supplier are hereinafter jointly referred to as Parties and individually as Party."
+  },
+  {
+   "id": "s16",
+   "text": "1. Purpose"
+  },
+  {
+   "id": "s17",
+   "text": "Haldex and the Supplier will evaluate the possibility to enter into an agreement regarding "
+  },
+  {
+   "id": "s18",
+   "text": "________________ "
+  },
+  {
+   "id": "s19",
+   "text": "________________________. "
+  },
+  {
+   "id": "s20",
+   "text": "For this purpose, the Parties need to exchange Confidential Information."
+  },
+  {
+   "id": "s21",
+   "text": "2. Confidential Information"
+  },
+  {
+   "id": "s22",
+   "text": "2.1 Confidential Information shall mean:"
+  },
+  {
+   "id": "s23",
+   "text": "i) all technical, financial and business information disclosed by one Party to the other Party or by another Haldex Group entity to the Supplier including, but not limited to, documents, data, information, prototypes or components relating to devices, methods, materials, apparatus, designs, research, yields and specifications; and"
+  },
+  {
+   "id": "s24",
+   "text": "ii) information relating to the existence of this Agreement;"
+  },
+  {
+   "id": "s25",
+   "text": "2.2 Confidential Information shall not include:"
+  },
+  {
+   "id": "s26",
+   "text": "i) information which was known by a Party prior to receiving it from the other Party if this can be demonstrated by written record;"
+  },
+  {
+   "id": "s27",
+   "text": "ii) information which at the time of disclosure is in the public domain or which is published after disclosure or otherwise becomes part of the public domain without breach of this Agreement;"
+  },
+  {
+   "id": "s28",
+   "text": "iii) information which the Party can show was received from a third party who did not to the best knowledge of the Party receive the information, directly or indirectly, from the other Party under any obligation of confidentiality; "
+  },
+  {
+   "id": "s29",
+   "text": "iv) information developed or created by one Party independently of the other, without any part thereof having been developed or created with assistance or information received from the other Party; and"
+  },
+  {
+   "id": "s30",
+   "text": "v) information which is disclosed due to any requirement under mandatory law."
+  },
+  {
+   "id": "s31",
+   "text": "3. Undertakings of the Parties"
+  },
+  {
+   "id": "s32",
+   "text": "The Parties undertake:"
+  },
+  {
+   "id": "s33",
+   "text": "i) to treat all Confidential Information as absolutely secret, private and confidential;"
+  },
+  {
+   "id": "s34",
+   "text": "ii) to take all steps necessary to preserve such confidentiality and secrecy;"
+  },
+  {
+   "id": "s35",
+   "text": "iii) to prevent disclosure of any such Confidential Information to any third party;"
+  },
+  {
+   "id": "s36",
+   "text": "iv) to use the Confidential Information solely for the purpose set out in Section 1;"
+  },
+  {
+   "id": "s37",
+   "text": "v) to disclose the Confidential Information only to those of its directors, employees and consultants who need the Confidential Information to conduct tasks in relation to the purpose set out in Section 1;"
+  },
+  {
+   "id": "s38",
+   "text": "vi) to ascertain that each person who receives Confidential Information is made aware of and comply with this Agreement; and"
+  },
+  {
+   "id": "s39",
+   "text": "vii) to immediately upon request deliver to the other Party all Confidential Information that belong to that Party in any form without retaining any copies thereof, or, at the other Party’s option, certify in writing that all copies of such information have been destroyed."
+  },
+  {
+   "id": "s40",
+   "text": "4. Disclosure under mandatory law"
+  },
+  {
+   "id": "s41",
+   "text": "If either Party due to mandatory law is forced to disclose information which would otherwise be considered as Confidential Information, the Party shall prior to the disclosure inform the other Party hereof and the Parties shall mutually decide how to minimize the negative consequences thereof."
+  },
+  {
+   "id": "s42",
+   "text": "5. Indemnification"
+  },
+  {
+   "id": "s43",
+   "text": "The Parties undertake to reimburse, indemnify and hold the other Party harmless from any damages, loss or expense incurred by it as a result of either Party violating the terms of this Agreement."
+  },
+  {
+   "id": "s44",
+   "text": "6. No license"
+  },
+  {
+   "id": "s45",
+   "text": "Nothing in this Agreement shall be deemed to constitute or to imply the granting of any license, immunity or other right under any intellectual property right of either Party, or to provide a commitment of any kind by either Party to enter into further agreements with the other Party."
+  },
+  {
+   "id": "s46",
+   "text": "7. Disputes and Governing Law"
+  },
+  {
+   "id": "s47",
+   "text": "7.1 Any and all disputes, controversies and claims arising out of or in connection with this Agreement, or the breach, termination or invalidity hereof, shall be settled by arbitration in accordance with the Rules of the Arbitration Institute of the Stockholm Chamber of Commerce. "
+  },
+  {
+   "id": "s48",
+   "text": "The arbitral tribunal shall be composed of three arbitrators. "
+  },
+  {
+   "id": "s49",
+   "text": "The place of arbitration including the making of the award shall be Stockholm, Sweden. "
+  },
+  {
+   "id": "s50",
+   "text": "The language to be used in the arbitral proceedings shall be English."
+  },
+  {
+   "id": "s51",
+   "text": "7.2 "
+  },
+  {
+   "id": "s52",
+   "text": "This Agreement shall be governed by the substantive laws of Sweden."
+  },
+  {
+   "id": "s53",
+   "text": "8. Term and termination"
+  },
+  {
+   "id": "s54",
+   "text": "8.1 "
+  },
+  {
+   "id": "s55",
+   "text": "This Agreement enters into force when signed by both Parties. "
+  },
+  {
+   "id": "s56",
+   "text": "The initial term of the Agreement is three (3) years. "
+  },
+  {
+   "id": "s57",
+   "text": "If the Agreement is not terminated by notice six (6) months prior to the end of each term, it shall be extended with twelve (12) months with the same notice period until terminated as aforesaid by any Party. "
+  },
+  {
+   "id": "s58",
+   "text": "However, all obligations of confidentiality and non-use will survive the termination of this Agreement."
+  },
+  {
+   "id": "s59",
+   "text": "8.2 "
+  },
+  {
+   "id": "s60",
+   "text": "The obligations under this Agreement shall apply retroactively to any information exchanged prior to the effectiveness of this Agreement."
+  },
+  {
+   "id": "s61",
+   "text": "8.3 "
+  },
+  {
+   "id": "s62",
+   "text": "Should the Parties enter into an agreement of the type referred in Section 1 the confidentiality provisions in such agreement will prevail over this Agreement."
+  },
+  {
+   "id": "s63",
+   "text": "______________"
+  },
+  {
+   "id": "s64",
+   "text": "This Agreement has been executed in two (2) identical copies of which the Parties have taken one (1) each."
+  },
+  {
+   "id": "s65",
+   "text": "Place: Place:"
+  },
+  {
+   "id": "s66",
+   "text": "Date: Date:"
+  },
+  {
+   "id": "s67",
+   "text": "_____________________________ "
+  },
+  {
+   "id": "s68",
+   "text": "_____________________________"
+  },
+  {
+   "id": "s69",
+   "text": "Name of Haldex company Supplier"
+  },
+  {
+   "id": "s70",
+   "text": "_____________________________ "
+  },
+  {
+   "id": "s71",
+   "text": "_____________________________"
+  },
+  {
+   "id": "s72",
+   "text": "Signature Signature"
+  },
+  {
+   "id": "s73",
+   "text": "_____________________________ "
+  },
+  {
+   "id": "s74",
+   "text": "_____________________________"
+  },
+  {
+   "id": "s75",
+   "text": "Name (print) Name (print)"
+  },
+  {
+   "id": "s76",
+   "text": "____________________________ "
+  },
+  {
+   "id": "s77",
+   "text": "_____________________________"
+  },
+  {
+   "id": "s78",
+   "text": "Title Title"
+  },
+  {
+   "id": "s79",
+   "text": "DOCUMENT NO. "
+  },
+  {
+   "id": "s80",
+   "text": "HDX4-51-130 Replaces SCM-0021 LEGAL#1597040V1"
+  }
+ ]
+}

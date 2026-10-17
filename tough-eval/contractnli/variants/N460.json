@@ -1,0 +1,225 @@
+{
+ "id": "N460",
+ "revision": 1,
+ "title": "1062579_0000950123-99-005018_document_3.txt",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 460,
+  "type": "sec-text",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001062579/000095012399005018/0000950123-99-005018.txt"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "EXHIBIT C"
+  },
+  {
+   "id": "s1",
+   "text": "NDA FOR AUDITORS"
+  },
+  {
+   "id": "s2",
+   "text": "NON-DISCLOSURE AND CONFIDENTIALITY AGREEMENT"
+  },
+  {
+   "id": "s3",
+   "text": "THIS NON-DISCLOSURE AND CONFIDENTIALITY AGREEMENT"
+  },
+  {
+   "id": "s4",
+   "text": "(\"Agreement\") is made as of the __________ day of __________, "
+  },
+  {
+   "id": "s5",
+   "text": "__________"
+  },
+  {
+   "id": "s6",
+   "text": "BETWEEN:"
+  },
+  {
+   "id": "s7",
+   "text": "AMDOCS INC., a corporation organized and existing under the laws of the State of Missouri, having its principal offices at 1610 Des Peres Rd, MO (hereinafter referred to as \"AMDOCS\");"
+  },
+  {
+   "id": "s8",
+   "text": "AND"
+  },
+  {
+   "id": "s9",
+   "text": "__________ a __________ [corporation, partnership, etc.] organized and existing under the laws of __________, having its principal offices at __________ (hereinafter referred to as the \"Receiving Party\")."
+  },
+  {
+   "id": "s10",
+   "text": "WHEREAS AMDOCS (or any of its affiliated companies) is the owner and/or author of and/or has the right to license certain valuable proprietary routines, computer programs, documentation, trade secrets, systems, methodology, know-how, marketing and other commercial knowledge, techniques, specifications, plans and other proprietary information, whether in oral, written, graphic, electronic, or any other form or medium whatsoever, including any related ideas and look-and-feel, which are referred to in this Agreement as \"the AMDOCS Proprietary Information\"; and"
+  },
+  {
+   "id": "s11",
+   "text": "WHEREAS SBC OPERATIONS, INC. (\"SBC\") would like the Receiving Party to provide it with certain services the \"Services\"); and"
+  },
+  {
+   "id": "s12",
+   "text": "WHEREAS in order to perform the Services, the Receiving Party must have access to the AMDOCS Proprietary Information, and AMDOCS agrees to provide the Receiving Party with such access to the AMDOCS Proprietary Information, subject to the Receiving Party first obligating itself to confidentiality by signing this Agreement."
+  },
+  {
+   "id": "s13",
+   "text": "NOW THEREFORE, the parties agree as follows:"
+  },
+  {
+   "id": "s14",
+   "text": "1. In this Agreement, \"AMDOCS Confidential Information\" means the software and any other AMDOCS Proprietary Information received by the Receiving Party from SBC or Amdocs where the AMDOCS Proprietary Information is clearly so marked or where the Receiving Party has otherwise been made aware that the AMDOCS Proprietary Information is confidential. "
+  },
+  {
+   "id": "s15",
+   "text": "For greater certainty, if AMDOCS notifies the Receiving Party that certain AMDOCS Proprietary Information already disclosed is confidential, that AMDOCS Proprietary Information shall become AMDOCS Confidential Information under this Agreement."
+  },
+  {
+   "id": "s16",
+   "text": "2. The Receiving Party agrees to hold in confidence the AMDOCS Confidential Information, including derivatives thereof in any form (e.g., reports or analyses relating to such information, whether or not provided by AMDOCS), and to refrain from copying, distributing, disseminating or otherwise disclosing the AMDOCS Confidential Information to anyone, other than to employees of the Receiving Party who have a need to know such information for purposes of performing the Services."
+  },
+  {
+   "id": "s17",
+   "text": "3. Furthermore, the Receiving Party hereby undertakes:"
+  },
+  {
+   "id": "s18",
+   "text": "(a) not to use the AMDOCS Confidential Information for any purposes other than performance of the Services;"
+  },
+  {
+   "id": "s19",
+   "text": "(b) not to sell, grant, make available to, or otherwise allow the use of the AMDOCS Confidential Information by any third party, directly or indirectly; and"
+  },
+  {
+   "id": "s20",
+   "text": "(c) not to use, directly or indirectly, the AMDOCS Confidential Information in the development and/or sale of software systems, for itself or for a third party, and/or in the provision of any services to a third party, except for the Services to be provided by the Receiving Party to SBC."
+  },
+  {
+   "id": "s21",
+   "text": "4. Upon the termination or expiration of this Agreement for any reason or upon the conclusion of the Services and/or at the request of AMDOCS, the Receiving Party shall:"
+  },
+  {
+   "id": "s22",
+   "text": "(a) return to AMDOCS any document or other material in tangible form in its possession being part of the AMDOCS Confidential Information; and"
+  },
+  {
+   "id": "s23",
+   "text": "(b) destroy any document or other material in tangible form that contains the AMDOCS Confidential Information together with confidential and/or proprietary information of a third party, and confirm such destruction in writing to AMDOCS."
+  },
+  {
+   "id": "s24",
+   "text": "5. Disclosure of the AMDOCS Confidential Information to the Receiving Party may be made in writing or other tangible form, electronically, or by demonstration of any product"
+  },
+  {
+   "id": "s25",
+   "text": "6. Disclosure of the AMDOCS Confidential Information to the Receiving Party shall in no way serve to create, on the part of the Receiving Party, a license to use, or any proprietary right in, the AMDOCS Confidential Information or in any other proprietary product, trade mark, copyright or other right of AMDOCS."
+  },
+  {
+   "id": "s26",
+   "text": "7. Any use by the Receiving Party of the AMDOCS Confidential Information permitted under this Agreement is conditioned upon the Receiving Party first taking the safeguards and measures required to secure the confidentiality of such Proprietary Information. "
+  },
+  {
+   "id": "s27",
+   "text": "Without limiting the generality of the foregoing, the Receiving Party shall draw to the attention of its employees who will have access to the AMDOCS Confidential Information, all the obligations concerning the AMDOCS Confidential Information contained in this Agreement, and shall require each and every such employee to sign a written acknowledgment with respect to such obligations substantially in the form of the Annex attached hereto and made a part hereof."
+  },
+  {
+   "id": "s28",
+   "text": "8. The confidentiality obligations of the Receiving Party regarding the AMDOCS Confidential Information shall have not apply to such information which:"
+  },
+  {
+   "id": "s29",
+   "text": "(a) becomes public domain without fault on the part of the Receiving Party;"
+  },
+  {
+   "id": "s30",
+   "text": "(b) is lawfully obtained by the Receiving Party from any source other than AMDOCS, free of any obligation to keep it confidential;"
+  },
+  {
+   "id": "s31",
+   "text": "(c) is previously known to the Receiving Party without an obligation to keep it confidential, as can be substantiated by written records;"
+  },
+  {
+   "id": "s32",
+   "text": "(d) is expressly released in writing from such obligations by AMDOCS; or"
+  },
+  {
+   "id": "s33",
+   "text": "(e) is required to be disclosed pursuant to law, regulation, judicial or administrative order, or request by a governmental or other entity authorized by law to make such request; provided, however, that the Receiving Party first notifies AMDOCS to enable it to seek relief from such requirement, and renders reasonable assistance requested by AMDOCS (at AMDOCS' expense) in connection therewith."
+  },
+  {
+   "id": "s34",
+   "text": "9. This Agreement shall be in full force and effect for a period of seven (7) years commencing on the date first stated above. "
+  },
+  {
+   "id": "s35",
+   "text": "However, the provisions of Section 2(c) above shall survive the termination and/or expiration of this Agreement for any reason."
+  },
+  {
+   "id": "s36",
+   "text": "10. The Receiving Party acknowledges that a breach of this Agreement may cause AMDOCS extensive and irreparable harm and damage, and agrees that AMDOCS shall be entitled to injunctive relief to prevent use or disclosure of its Proprietary Information not authorized by this Agreement, in addition to any other remedy available to AMDOCS under applicable law."
+  },
+  {
+   "id": "s37",
+   "text": "11. This Agreement constitutes the entire agreement between the parties and supersedes any prior or contemporaneous oral or written representation with regard to the subject matter hereof. "
+  },
+  {
+   "id": "s38",
+   "text": "This Agreement may not be modified except by a written instrument signed by both parties."
+  },
+  {
+   "id": "s39",
+   "text": "12. If, however, any provision of this Agreement is determined to be invalid or unenforceable, such invalidity or unenforceability shall not invalidate or render unenforceable the entire Agreement, but rather the entire Agreement shall be construed as if not containing the particular invalid or unenforceable provision or provisions, and the rights and obligations of the parties shall be construed and enforced accordingly. "
+  },
+  {
+   "id": "s40",
+   "text": "In addition, the parties hereby agree to co-operate with each other to replace the invalid or unenforceable provision(s) with a valid and enforceable provision(s) which will achieve the same result (to the maximum legal extent) as the provision(s) determined to be invalid or unenforceable."
+  },
+  {
+   "id": "s41",
+   "text": "13. This Agreement shall be governed and construed under the laws of the State of New York, USA without giving effect to its provisions regarding conflicts of law."
+  },
+  {
+   "id": "s42",
+   "text": "IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first stated above."
+  },
+  {
+   "id": "s43",
+   "text": "AMDOCS, INC. "
+  },
+  {
+   "id": "s44",
+   "text": "____________________________________"
+  },
+  {
+   "id": "s45",
+   "text": "By:______________________________ "
+  },
+  {
+   "id": "s46",
+   "text": "By:_________________________________"
+  },
+  {
+   "id": "s47",
+   "text": "Name:____________________________ "
+  },
+  {
+   "id": "s48",
+   "text": "Name:____________________________"
+  },
+  {
+   "id": "s49",
+   "text": "Title:___________________________ "
+  },
+  {
+   "id": "s50",
+   "text": "Title:___________________________"
+  },
+  {
+   "id": "s51",
+   "text": "Date:____________________________ "
+  },
+  {
+   "id": "s52",
+   "text": "Date:____________________________"
+  }
+ ]
+}

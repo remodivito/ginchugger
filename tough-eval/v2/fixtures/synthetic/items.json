@@ -1,0 +1,686 @@
+{
+ "format": "tough-eval-items/2",
+ "canary": "5f0c1e2a-9b7d-4c3e-8a61-0d2f4b6c8e10",
+ "builtAt": "2026-10-15T00:00:00.000Z",
+ "items": [
+  {
+   "id": "A-opus-csa-customer-01",
+   "author": "opus",
+   "document": "csa",
+   "side": "customer",
+   "playbook": "v2/fixtures/synthetic/playbook-customer.json",
+   "kind": "deviation",
+   "difficulty": "easy",
+   "family": "value",
+   "rule": "C-01",
+   "edits": [
+    {
+     "paragraph": "p3",
+     "find": "1x the Fees",
+     "replace": "0.25x the Fees"
+    }
+   ],
+   "rationale": "A quarter of the Fees is below the 1x floor.",
+   "fixes": [
+    {
+     "paragraph": "p3",
+     "referenceText": "General Cap Amount: 1x the Fees paid or payable by Customer in the 12 months before the claim.",
+     "check": {
+      "require": [],
+      "forbid": [],
+      "num": "([0-9.]+)x",
+      "min": 1
+     }
+    }
+   ],
+   "status": "verified",
+   "apply": {
+    "attempt": 1,
+    "error": null
+   },
+   "verification": [
+    {
+     "family": "glm",
+     "departs": true,
+     "fixOk": true,
+     "checkOk": true,
+     "reasons": "synthetic: accepted"
+    },
+    {
+     "family": "deepseek",
+     "departs": true,
+     "fixOk": true,
+     "checkOk": true,
+     "reasons": "synthetic: accepted"
+    }
+   ],
+   "variantId": "A-opus-csa-customer-01"
+  },
+  {
+   "id": "A-opus-csa-customer-02",
+   "author": "opus",
+   "document": "csa",
+   "side": "customer",
+   "playbook": "v2/fixtures/synthetic/playbook-customer.json",
+   "kind": "benign",
+   "difficulty": "n/a",
+   "family": "near-threshold",
+   "rule": "C-02",
+   "edits": [
+    {
+     "paragraph": "p4",
+     "find": "30 days",
+     "replace": "45 days"
+    }
+   ],
+   "rationale": "45 days is inside 30 to 60.",
+   "fixes": [],
+   "status": "verified",
+   "apply": {
+    "attempt": 1,
+    "error": null
+   },
+   "verification": [
+    {
+     "family": "glm",
+     "departs": true,
+     "fixOk": true,
+     "checkOk": true,
+     "reasons": "synthetic: accepted"
+    },
+    {
+     "family": "deepseek",
+     "departs": true,
+     "fixOk": true,
+     "checkOk": true,
+     "reasons": "synthetic: accepted"
+    }
+   ],
+   "variantId": "A-opus-csa-customer-02"
+  },
+  {
+   "id": "A-opus-csa-customer-03",
+   "author": "opus",
+   "document": "csa",
+   "side": "customer",
+   "playbook": "v2/fixtures/synthetic/playbook-customer.json",
+   "kind": "deviation",
+   "difficulty": "medium",
+   "family": "wording",
+   "rule": "C-04",
+   "edits": [
+    {
+     "paragraph": "p6",
+     "find": "reasonable administrative, physical and technical safeguards",
+     "replace": "such safeguards as Provider considers appropriate"
+    }
+   ],
+   "rationale": "Discretionary safeguards.",
+   "fixes": [
+    {
+     "paragraph": "p6",
+     "referenceText": "Security. Provider will maintain reasonable administrative, physical and technical safeguards to protect Customer Content.",
+     "check": {
+      "require": [
+       "reasonable"
+      ],
+      "forbid": [
+       "considers appropriate"
+      ]
+     }
+    }
+   ],
+   "status": "verified",
+   "apply": {
+    "attempt": 1,
+    "error": null
+   },
+   "verification": [
+    {
+     "family": "glm",
+     "departs": true,
+     "fixOk": true,
+     "checkOk": true,
+     "reasons": "synthetic: accepted"
+    },
+    {
+     "family": "deepseek",
+     "departs": true,
+     "fixOk": true,
+     "checkOk": true,
+     "reasons": "synthetic: accepted"
+    }
+   ],
+   "variantId": "A-opus-csa-customer-03"
+  },
+  {
+   "id": "A-glm-csa-customer-01",
+   "author": "glm",
+   "document": "csa",
+   "side": "customer",
+   "playbook": "v2/fixtures/synthetic/playbook-customer.json",
+   "kind": "deviation",
+   "difficulty": "hard",
+   "family": "definition-crossclause",
+   "rule": "C-04",
+   "edits": [
+    {
+     "paragraph": "p8",
+     "find": "all data submitted to the Cloud Service by or for Customer",
+     "replace": "data that Customer designates in writing as confidential"
+    }
+   ],
+   "rationale": "The narrowed definition shrinks the security clause.",
+   "fixes": [
+    {
+     "paragraph": "p8",
+     "referenceText": "Definitions. \"Customer Content\" means all data submitted to the Cloud Service by or for Customer.",
+     "check": {
+      "require": [
+       "all data"
+      ],
+      "forbid": [
+       "designates in writing"
+      ]
+     }
+    }
+   ],
+   "status": "verified",
+   "apply": {
+    "attempt": 1,
+    "error": null
+   },
+   "verification": [
+    {
+     "family": "opus",
+     "departs": true,
+     "fixOk": true,
+     "checkOk": true,
+     "reasons": "synthetic: accepted"
+    },
+    {
+     "family": "deepseek",
+     "departs": true,
+     "fixOk": true,
+     "checkOk": true,
+     "reasons": "synthetic: accepted"
+    }
+   ],
+   "variantId": "A-glm-csa-customer-01"
+  },
+  {
+   "id": "A-deepseek-csa-customer-01",
+   "author": "deepseek",
+   "document": "csa",
+   "side": "customer",
+   "playbook": "v2/fixtures/synthetic/playbook-customer.json",
+   "kind": "deviation",
+   "difficulty": "medium",
+   "family": "deletion",
+   "rule": "C-03",
+   "edits": [
+    {
+     "paragraph": "p7",
+     "find": " and in any event within 72 hours",
+     "replace": ""
+    }
+   ],
+   "rationale": "No fixed notice period.",
+   "fixes": [
+    {
+     "paragraph": "p7",
+     "referenceText": "Breach notice. Provider will notify Customer of any Security Breach without undue delay and in any event within 72 hours.",
+     "check": {
+      "num": "within ([0-9]+) hours",
+      "max": 72
+     }
+    }
+   ],
+   "status": "verified",
+   "apply": {
+    "attempt": 1,
+    "error": null
+   },
+   "verification": [
+    {
+     "family": "opus",
+     "departs": true,
+     "fixOk": true,
+     "checkOk": true,
+     "reasons": "synthetic: accepted"
+    },
+    {
+     "family": "glm",
+     "departs": true,
+     "fixOk": true,
+     "checkOk": true,
+     "reasons": "synthetic: accepted"
+    }
+   ],
+   "variantId": "A-deepseek-csa-customer-01"
+  },
+  {
+   "id": "A-glm-csa-vendor-01",
+   "author": "glm",
+   "document": "csa",
+   "side": "vendor",
+   "playbook": "v2/fixtures/synthetic/playbook-vendor.json",
+   "kind": "deviation",
+   "difficulty": "easy",
+   "family": "value",
+   "rule": "V-01",
+   "edits": [
+    {
+     "paragraph": "p3",
+     "find": "1x the Fees",
+     "replace": "5x the Fees"
+    }
+   ],
+   "rationale": "5x is above the 2x ceiling.",
+   "fixes": [
+    {
+     "paragraph": "p3",
+     "referenceText": "General Cap Amount: 2x the Fees paid or payable by Customer in the 12 months before the claim.",
+     "check": {
+      "num": "([0-9.]+)x",
+      "max": 2
+     }
+    }
+   ],
+   "status": "verified",
+   "apply": {
+    "attempt": 1,
+    "error": null
+   },
+   "verification": [
+    {
+     "family": "opus",
+     "departs": true,
+     "fixOk": true,
+     "checkOk": true,
+     "reasons": "synthetic: accepted"
+    },
+    {
+     "family": "deepseek",
+     "departs": true,
+     "fixOk": true,
+     "checkOk": true,
+     "reasons": "synthetic: accepted"
+    }
+   ],
+   "variantId": "A-glm-csa-vendor-01"
+  },
+  {
+   "id": "A-deepseek-csa-vendor-01",
+   "author": "deepseek",
+   "document": "csa",
+   "side": "vendor",
+   "playbook": "v2/fixtures/synthetic/playbook-vendor.json",
+   "kind": "benign",
+   "difficulty": "n/a",
+   "family": "wording",
+   "rule": "V-02",
+   "edits": [
+    {
+     "paragraph": "p4",
+     "find": "30 days from the invoice date",
+     "replace": "thirty (30) days after the date of invoice"
+    }
+   ],
+   "rationale": "Same period, reworded.",
+   "fixes": [],
+   "status": "verified",
+   "apply": {
+    "attempt": 1,
+    "error": null
+   },
+   "verification": [
+    {
+     "family": "opus",
+     "departs": true,
+     "fixOk": true,
+     "checkOk": true,
+     "reasons": "synthetic: accepted"
+    },
+    {
+     "family": "glm",
+     "departs": true,
+     "fixOk": true,
+     "checkOk": true,
+     "reasons": "synthetic: accepted"
+    }
+   ],
+   "variantId": "A-deepseek-csa-vendor-01"
+  },
+  {
+   "id": "A-opus-csa-vendor-01",
+   "author": "opus",
+   "document": "csa",
+   "side": "vendor",
+   "playbook": "v2/fixtures/synthetic/playbook-vendor.json",
+   "kind": "deviation",
+   "difficulty": "hard",
+   "family": "insertion-omission",
+   "rule": "V-03",
+   "edits": [
+    {
+     "paragraph": "after:p7",
+     "find": "",
+     "replace": "Provider will also notify Customer of any suspected Security Breach within 12 hours."
+    }
+   ],
+   "rationale": "A 12-hour notice duty is shorter than 48 hours.",
+   "fixes": [
+    {
+     "paragraph": "p7a",
+     "referenceText": "",
+     "inserted": true
+    }
+   ],
+   "status": "verified",
+   "apply": {
+    "attempt": 1,
+    "error": null
+   },
+   "verification": [
+    {
+     "family": "glm",
+     "departs": true,
+     "fixOk": true,
+     "checkOk": true,
+     "reasons": "synthetic: accepted"
+    },
+    {
+     "family": "deepseek",
+     "departs": true,
+     "fixOk": true,
+     "checkOk": true,
+     "reasons": "synthetic: accepted"
+    }
+   ],
+   "variantId": "A-opus-csa-vendor-01"
+  },
+  {
+   "id": "A-deepseek-nda-discloser-01",
+   "author": "deepseek",
+   "document": "nda",
+   "side": "discloser",
+   "playbook": "v2/fixtures/synthetic/playbook-nda-discloser.json",
+   "kind": "deviation",
+   "difficulty": "medium",
+   "family": "wording",
+   "rule": "NDA-08",
+   "edits": [
+    {
+     "paragraph": "p5",
+     "find": "it will give the Disclosing Party prompt notice where legally permitted",
+     "replace": "it may do so without notice to the Disclosing Party"
+    }
+   ],
+   "rationale": "No notice.",
+   "fixes": [
+    {
+     "paragraph": "p5",
+     "referenceText": "Compelled disclosure. If the law requires the Receiving Party to disclose Confidential Information, it will give the Disclosing Party prompt notice where legally permitted.",
+     "check": {
+      "require": [
+       "notice"
+      ],
+      "forbid": [
+       "without notice"
+      ]
+     }
+    }
+   ],
+   "status": "verified",
+   "apply": {
+    "attempt": 1,
+    "error": null
+   },
+   "verification": [
+    {
+     "family": "opus",
+     "departs": true,
+     "fixOk": true,
+     "checkOk": true,
+     "reasons": "synthetic: accepted"
+    },
+    {
+     "family": "glm",
+     "departs": true,
+     "fixOk": true,
+     "checkOk": true,
+     "reasons": "synthetic: accepted"
+    }
+   ],
+   "variantId": "A-deepseek-nda-discloser-01"
+  },
+  {
+   "id": "A-opus-nda-discloser-01",
+   "author": "opus",
+   "document": "nda",
+   "side": "discloser",
+   "playbook": "v2/fixtures/synthetic/playbook-nda-discloser.json",
+   "kind": "benign",
+   "difficulty": "n/a",
+   "family": "near-threshold",
+   "rule": "NDA-19",
+   "edits": [
+    {
+     "paragraph": "p7",
+     "find": "3 years",
+     "replace": "2 years"
+    }
+   ],
+   "rationale": "Two years meets the floor.",
+   "fixes": [],
+   "status": "verified",
+   "apply": {
+    "attempt": 1,
+    "error": null
+   },
+   "verification": [
+    {
+     "family": "glm",
+     "departs": true,
+     "fixOk": true,
+     "checkOk": true,
+     "reasons": "synthetic: accepted"
+    },
+    {
+     "family": "deepseek",
+     "departs": true,
+     "fixOk": true,
+     "checkOk": true,
+     "reasons": "synthetic: accepted"
+    }
+   ],
+   "variantId": "A-opus-nda-discloser-01"
+  },
+  {
+   "id": "A-glm-nda-recipient-01",
+   "author": "glm",
+   "document": "nda",
+   "side": "recipient",
+   "playbook": "v2/fixtures/synthetic/playbook-nda-recipient.json",
+   "kind": "deviation",
+   "difficulty": "easy",
+   "family": "value",
+   "rule": "NDA-19",
+   "edits": [
+    {
+     "paragraph": "p7",
+     "find": "3 years",
+     "replace": "10 years"
+    }
+   ],
+   "rationale": "Ten years is above five.",
+   "fixes": [
+    {
+     "paragraph": "p7",
+     "referenceText": "Term. The obligations in this Agreement continue for 3 years after the Effective Date.",
+     "check": {
+      "num": "([0-9]+) years",
+      "max": 5
+     }
+    }
+   ],
+   "status": "verified",
+   "apply": {
+    "attempt": 1,
+    "error": null
+   },
+   "verification": [
+    {
+     "family": "opus",
+     "departs": true,
+     "fixOk": true,
+     "checkOk": true,
+     "reasons": "synthetic: accepted"
+    },
+    {
+     "family": "deepseek",
+     "departs": true,
+     "fixOk": true,
+     "checkOk": true,
+     "reasons": "synthetic: accepted"
+    }
+   ],
+   "variantId": "A-glm-nda-recipient-01"
+  },
+  {
+   "id": "A-opus-nda-recipient-01",
+   "author": "opus",
+   "document": "nda",
+   "side": "recipient",
+   "playbook": "v2/fixtures/synthetic/playbook-nda-recipient.json",
+   "kind": "deviation",
+   "difficulty": "medium",
+   "family": "wording",
+   "rule": "NDA-07",
+   "edits": [
+    {
+     "paragraph": "p4",
+     "find": "its employees and advisers",
+     "replace": "its employees"
+    }
+   ],
+   "rationale": "Advisers excluded.",
+   "fixes": [
+    {
+     "paragraph": "p4",
+     "referenceText": "Representatives. The Receiving Party may share Confidential Information with its employees and advisers who need to know it for the Purpose and are bound by duties of confidentiality.",
+     "check": {
+      "require": [
+       "advis"
+      ]
+     }
+    }
+   ],
+   "status": "verified",
+   "apply": {
+    "attempt": 1,
+    "error": null
+   },
+   "verification": [
+    {
+     "family": "glm",
+     "departs": true,
+     "fixOk": true,
+     "checkOk": true,
+     "reasons": "synthetic: accepted"
+    },
+    {
+     "family": "deepseek",
+     "departs": true,
+     "fixOk": true,
+     "checkOk": true,
+     "reasons": "synthetic: accepted"
+    }
+   ],
+   "variantId": "A-opus-nda-recipient-01"
+  },
+  {
+   "id": "A-deepseek-nda-recipient-01",
+   "author": "deepseek",
+   "document": "nda",
+   "side": "recipient",
+   "playbook": "v2/fixtures/synthetic/playbook-nda-recipient.json",
+   "kind": "deviation",
+   "difficulty": "hard",
+   "family": "near-threshold",
+   "rule": "NDA-16",
+   "edits": [
+    {
+     "paragraph": "p6",
+     "find": "On request, the Receiving Party will return or destroy",
+     "replace": "Within 2 days of request, the Receiving Party will return and certify the destruction of"
+    }
+   ],
+   "rationale": "Two days with certification is the escalation position.",
+   "fixes": [
+    {
+     "paragraph": "p6",
+     "referenceText": "Return. On request, the Receiving Party will return or destroy Confidential Information.",
+     "check": {
+      "require": [
+       "return or destroy"
+      ],
+      "forbid": [
+       "certify",
+       "within 2 days"
+      ]
+     }
+    }
+   ],
+   "status": "contested",
+   "apply": {
+    "attempt": 1,
+    "error": null
+   },
+   "verification": [
+    {
+     "family": "opus",
+     "departs": true,
+     "fixOk": false,
+     "checkOk": true,
+     "reasons": "synthetic: the validator thought two days might be reasonable"
+    },
+    {
+     "family": "glm",
+     "departs": true,
+     "fixOk": true,
+     "checkOk": true,
+     "reasons": "synthetic: accepted"
+    }
+   ],
+   "variantId": "A-deepseek-nda-recipient-01"
+  },
+  {
+   "id": "A-glm-nda-discloser-01",
+   "author": "glm",
+   "document": "nda",
+   "side": "discloser",
+   "playbook": "v2/fixtures/synthetic/playbook-nda-discloser.json",
+   "kind": "deviation",
+   "difficulty": "easy",
+   "family": "value",
+   "rule": "NDA-19",
+   "edits": [
+    {
+     "paragraph": "p7",
+     "find": "5 years",
+     "replace": "1 year"
+    }
+   ],
+   "rationale": "One year is below two.",
+   "fixes": [],
+   "status": "dropped",
+   "apply": {
+    "attempt": 1,
+    "error": "`find` \"5 years\" is not in p7"
+   },
+   "verification": []
+  }
+ ]
+}

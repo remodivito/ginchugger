@@ -1,0 +1,221 @@
+{
+ "canary": "2eb20c99-e785-485c-b97c-b5e8d177c40a",
+ "task": "redline-s3-t4-g02a",
+ "note": "Earlier rounds' tracked changes, authors as in the .docx; read by render.mjs only.",
+ "markup": {
+  "p-040": [
+   {
+    "text": "Within Forty-Five (45) days after Consultant first receives notice of any proposed Change, Consultant shall submit a Change Request to Client.  Client may, in its sole discretion, accept or reject any Change Request by electronically indicating that the Change Request is either “Approved” or “Rejected,” respectively, via an on-line change management tool designated by Client.  If Client accepts a Change Request as provided in the immediately preceding sentence, the subject Change shall be implemented or performed by Consultant in accordance with this Agreement and such Change Request, and Consultant shall be entitled to an increase in the Fee on account of any Additional Services required thereby in an amount determined in accordance with Article 9 below, and/or an extension of the time for performance of the Services, if applicable.  Except as provided in Article ",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": "3",
+    "kind": "ins",
+    "author": "Trainer 1 - GiantCo"
+   },
+   {
+    "text": "5",
+    "kind": "del",
+    "author": "Trainer 1 - GiantCo"
+   },
+   {
+    "text": ".3, if Client rejects a Change Request, the subject Change shall not be implemented or performed by Consultant absent express instructions to the contrary given by Client via its on-line change management tool.",
+    "kind": null,
+    "author": null
+   }
+  ],
+  "p-045": [
+   {
+    "text": "Results of Service.  All Results of Service shall be accurate, complete, and in accordance with: ",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": "(i) ",
+    "kind": "ins",
+    "author": "Trainer 1 - AgentCo"
+   },
+   {
+    "text": "the professional standards set forth in Article 6.1;",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": " (ii)",
+    "kind": "ins",
+    "author": "Trainer 1 - AgentCo"
+   },
+   {
+    "text": " the time requirements of this Agreement;",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": " (iii) after human review of the Results of Service; (iv)",
+    "kind": "ins",
+    "author": "Trainer 1 - AgentCo"
+   },
+   {
+    "text": " and all applicable codes, ordinances, regulations, laws, and statutes in effect at the time the Services are rendered.  Consultant acknowledges and agrees that Client may furnish any and all Results of Services to others for their use, and it is specifically intended that others will use and rely upon the professional basis of the Services.  For other Services, Client may likewise furnish the Results of Services to third parties for their use.",
+    "kind": null,
+    "author": null
+   }
+  ],
+  "p-065": [
+   {
+    "text": "Compliance with Law; GiantCo’s Global Statement of Ethics. Consultant warrants and represents to GiantCo in performing the Services that it shall comply fully with any and all applicable federal, state and/or local laws, codes, statutes, regulations, ordinances, orders, permits, or other authorizations (collectively, “Applicable Laws”). Consultant warrants and represents it will require all Sub-Consultant s or other third parties performing any work for Consultant under this Agreement to comply with the",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": " applicable",
+    "kind": "ins",
+    "author": "Trainer 1 - AgentCo"
+   },
+   {
+    "text": " covenants in this Section. Consultant recognizes and affirms GiantCo would not enter into this Agreement if Consultant did not agree to such compliance.  Without limiting the generality of the foregoing, Applicable Laws shall include each and all of the following, if and as applicable to the Services performed and/or provided by Consultant and without limitation:",
+    "kind": null,
+    "author": null
+   }
+  ],
+  "p-087": [
+   {
+    "text": "Preliminary Design Information.  Client or Co-Consultants may provide",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": " candidate-material summaries and interview-note drafting (collectively the “Services) Services to the Client.",
+    "kind": "ins",
+    "author": "Trainer 1 - AgentCo"
+   },
+   {
+    "text": " geotechnical surveys, preliminary building and civil engineering designs, drawings, meeting notes, reports and information relating to the building design developed and gathered by Co-Consultants relating to the Project if said Services were not provided by Consultant",
+    "kind": "del",
+    "author": "Trainer 1 - AgentCo"
+   },
+   {
+    "text": ".  Client is not responsible for, and except as provided herein, no Co-Consultant shall act as an agent for Client for any purpose.",
+    "kind": null,
+    "author": null
+   }
+  ],
+  "p-088": [
+   {
+    "text": "Client Guidelines and Policies.  Subject to Client’s sole and absolute discretion, ",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": "Consultant may be provided access to Client’s “proprietary” (See “Confidentiality of Client Information” below) website wherein Consultant may obtain access to Client’s current Guidelines, Policies, Protocols, Processes, Specifications, including Client’s Travel Policies for Consultants and other requirements necessary for the proper performance of Consultant’s Services.  Alternatively, Client ",
+    "kind": "del",
+    "author": "Trainer 1 - AgentCo"
+   },
+   {
+    "text": "may elect",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": ",",
+    "kind": "ins",
+    "author": "Trainer 1 - AgentCo"
+   },
+   {
+    "text": ", in Client’s sole discretion, ",
+    "kind": "del",
+    "author": "Trainer 1 - AgentCo"
+   },
+   {
+    "text": "to provide Consultant with a copy of ",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": "said ",
+    "kind": "del",
+    "author": "Trainer 1 - AgentCo"
+   },
+   {
+    "text": "Guidelines, Policies, Protocols, Processes, Specifications, and other requirements.  In the instance where Client does not currently promulgate Guidelines, Policies, Protocols, Processes, Specifications, and other requirements, relative to a required Service, Consultant shall provide Client Representative, notice of the need for the same to obtain clarification or direction.",
+    "kind": null,
+    "author": null
+   }
+  ],
+  "p-099": [
+   {
+    "text": "Background Intellectual Property Rights.  All of Consultant’s Background Intellectual Property Right",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": "’",
+    "kind": "del",
+    "author": "Trainer 1 - GiantCo"
+   },
+   {
+    "text": "s in and to the Service belong and will continue to belong to Consultant.  If requested by Client, Consultant shall identify in writing Consultant’s Background Intellectual Property Right or third-party (e.g., a Sub-Consultant) Intellectual Property Rights that will be and/or have been incorporated in the provision of Services under this Agreement.",
+    "kind": null,
+    "author": null
+   }
+  ],
+  "p-100": [
+   {
+    "text": "License to Background Intellectual Property Rights.  Consultant hereby grants to Client",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": " ",
+    "kind": "ins",
+    "author": "Trainer 1 - GiantCo"
+   },
+   {
+    "text": "a limited,",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": " ",
+    "kind": "ins",
+    "author": "Trainer 1 - AgentCo"
+   },
+   {
+    "text": "ir",
+    "kind": "del",
+    "author": "Trainer 1 - AgentCo"
+   },
+   {
+    "text": "revocable, nontransferable, nonsublicensable, nonexclusive, royalty-free right, effective ",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": "everywhere",
+    "kind": "del",
+    "author": "Trainer 1 - AgentCo"
+   },
+   {
+    "text": "at mutual locations",
+    "kind": "ins",
+    "author": "Trainer 1 - AgentCo"
+   },
+   {
+    "text": ", to use Consultant’s Background Intellectual Property Rights and all third party Intellectual Property Rights, and any other of Consultant’s proprietary rights or third-party Intellectual Property Rights used in or incorporated in the Results of Services.  The license rights granted to Client shall be applicable to all Client’s use, e.g., for internal use",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": ".",
+    "kind": "ins",
+    "author": "Trainer 1 - AgentCo"
+   },
+   {
+    "text": ".  If Consultant, upon issuance of a Notice of Award, cannot grant the rights specified in this Article 7.5 with regard to any third-party Intellectual Property Rights, Consultant shall so notify Client in writing and shall secure, at Consultant’s cost, such rights for Client.",
+    "kind": null,
+    "author": null
+   }
+  ]
+ }
+}

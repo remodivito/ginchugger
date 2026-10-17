@@ -1,0 +1,617 @@
+{
+ "id": "N147",
+ "revision": 1,
+ "title": "isca-nda.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 147,
+  "type": "search-pdf",
+  "url": "https://isca.org.sg/media/2240674/isca-nda.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "Dated [ ]"
+  },
+  {
+   "id": "s1",
+   "text": "Between"
+  },
+  {
+   "id": "s2",
+   "text": "INSTITUTE OF SINGAPORE CHARTERED ACCOUNTANTS"
+  },
+  {
+   "id": "s3",
+   "text": "and"
+  },
+  {
+   "id": "s4",
+   "text": "[ ]"
+  },
+  {
+   "id": "s6",
+   "text": "NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s7",
+   "text": "Contents"
+  },
+  {
+   "id": "s8",
+   "text": "1. Definitions ................................................................................................................................ "
+  },
+  {
+   "id": "s9",
+   "text": "3"
+  },
+  {
+   "id": "s10",
+   "text": "2. Confidentiality Obligations ...................................................................................................... "
+  },
+  {
+   "id": "s11",
+   "text": "4"
+  },
+  {
+   "id": "s12",
+   "text": "3. Employee Undertakings .......................................................................................................... "
+  },
+  {
+   "id": "s13",
+   "text": "5"
+  },
+  {
+   "id": "s14",
+   "text": "4. Third Party Disclosure ............................................................................................................. "
+  },
+  {
+   "id": "s15",
+   "text": "5"
+  },
+  {
+   "id": "s16",
+   "text": "5. Information Not Protected ....................................................................................................... "
+  },
+  {
+   "id": "s17",
+   "text": "5"
+  },
+  {
+   "id": "s18",
+   "text": "6. Personal Data ........................................................................................................................... "
+  },
+  {
+   "id": "s19",
+   "text": "5"
+  },
+  {
+   "id": "s20",
+   "text": "7. Acknowledgements ................................................................................................................. "
+  },
+  {
+   "id": "s21",
+   "text": "6"
+  },
+  {
+   "id": "s22",
+   "text": "8. Commencement ....................................................................................................................... "
+  },
+  {
+   "id": "s23",
+   "text": "6"
+  },
+  {
+   "id": "s24",
+   "text": "9. Equitable Relief ........................................................................................................................ "
+  },
+  {
+   "id": "s25",
+   "text": "6"
+  },
+  {
+   "id": "s26",
+   "text": "10. Governing Law ..................................................................................................................... "
+  },
+  {
+   "id": "s27",
+   "text": "6"
+  },
+  {
+   "id": "s28",
+   "text": "11. General ................................................................................................................................. "
+  },
+  {
+   "id": "s29",
+   "text": "6"
+  },
+  {
+   "id": "s30",
+   "text": "THIS AGREEMENT "
+  },
+  {
+   "id": "s31",
+   "text": "is made on the ____ day of "
+  },
+  {
+   "id": "s32",
+   "text": "_________________."
+  },
+  {
+   "id": "s33",
+   "text": "BETWEEN"
+  },
+  {
+   "id": "s34",
+   "text": "(1) THE INSTITUTE OF SINGAPORE CHARTERED ACCOUNTANTS, a society registered under the Societies Act (Chapter 311) in Singapore, and having its registered office at 60 Cecil Street, ISCA House, Singapore 049709 (\"ISCA\");"
+  },
+  {
+   "id": "s35",
+   "text": "AND"
+  },
+  {
+   "id": "s36",
+   "text": "(2) [______________________], a company incorporated in Singapore and having its registered office at [__________________________] "
+  },
+  {
+   "id": "s37",
+   "text": "(“Vendor”)."
+  },
+  {
+   "id": "s38",
+   "text": "(each a “Party” and together the “Parties”)"
+  },
+  {
+   "id": "s39",
+   "text": "WHEREAS"
+  },
+  {
+   "id": "s40",
+   "text": "A. As of the Effective Date, the Parties wish to enter into negotiations and evaluations with a possible view to entering into a formal agreement for the Vendor to provide [ISCA Wireless Network Infrastructure tech refresh] (“Services”)."
+  },
+  {
+   "id": "s41",
+   "text": "B. The Vendor wishes to receive and the ISCA is willing to disclose Confidential Information (defined below) on the terms and conditions set forth herein, for the purposes of performing due diligence, negotiating, finalising, executing and/or performing an agreement for the Services (collectively “Limited Purpose”)."
+  },
+  {
+   "id": "s42",
+   "text": "C. ISCA wishes to ensure that the Vendor shall maintain and Vendor agrees to maintain the confidentiality of all Confidential Information so disclosed at all times."
+  },
+  {
+   "id": "s43",
+   "text": "IN CONSIDERATION of ISCA agreeing to disclose to the Vendor Confidential Information, the Parties hereby agree as follows:"
+  },
+  {
+   "id": "s44",
+   "text": "1. Definitions"
+  },
+  {
+   "id": "s45",
+   "text": "“Confidential Information” means ISCA’s information comprising all data and information relating to the business, technical, and other operations of ISCA, and all other information of ISCA whatsoever obtained by Vendor pursuant to, by virtue of, or in the course of negotiating or performing the Services or an agreement for the Services, including where applicable (without any limitation):"
+  },
+  {
+   "id": "s46",
+   "text": "(a) all technical information, data, databases, source codes, object codes, know-how, processes, formulae, designs, drawings, documents, specifications, manuals, inventions, images, and all information comprised in and/or concerning equipment, systems, research, prototypes, samples, products, or services;"
+  },
+  {
+   "id": "s47",
+   "text": "(b) all of ISCA’s plans, models, proposals, ideas, functionalities, workflow, work processes, network and system information, including those relating to the Services;"
+  },
+  {
+   "id": "s48",
+   "text": "(c) all marketing, sales, business, financial, operational, commercial, and human resource information, including financial data and business plans;"
+  },
+  {
+   "id": "s49",
+   "text": "(d) all contractual arrangements, forecasts, accounting and tax records, strategies, models, product and service information;"
+  },
+  {
+   "id": "s50",
+   "text": "(e) all ISCA IPR;"
+  },
+  {
+   "id": "s51",
+   "text": "(f) all of Vendor’s proposals to ISCA for the Services, and ISCA’s requirements, requests, instructions, and specifications to Vendor for the Services;"
+  },
+  {
+   "id": "s52",
+   "text": "(g) all communication between Vendor and ISCA;"
+  },
+  {
+   "id": "s53",
+   "text": "(h) all customer, client, and employee information and personal data;"
+  },
+  {
+   "id": "s54",
+   "text": "(i) any other proprietary information; and"
+  },
+  {
+   "id": "s55",
+   "text": "(j) all other information, data, experience and expertise, materials and diskettes stamped or marked as \"confidential\" of whatever kind,"
+  },
+  {
+   "id": "s56",
+   "text": "whether written, electronic or in oral form, which is either directly or indirectly disclosed to the Vendor or received by the Vendor from ISCA and/or its employees, advisors or consultants, whether or not such information belongs to ISCA, or to a third party."
+  },
+  {
+   "id": "s57",
+   "text": "“Effective Date” means the date of commencement of the Parties’ obligations under this Agreement, being [_________________]."
+  },
+  {
+   "id": "s58",
+   "text": "“IPR” means all copyright, patent rights, design rights, trade marks, layout-design rights, trade secrets, proprietary rights and any other intellectual and industrial property rights whether registered or unregistered, in all countries of the world, and shall include without limitation, any pending patent applications and/or any part thereof."
+  },
+  {
+   "id": "s59",
+   "text": "“Limited Purpose” is defined in Recital B."
+  },
+  {
+   "id": "s60",
+   "text": "“PDPA” means the Singapore Personal Data Protection Act 2012 (No. 26 of 2012) and all subsidiary legislation and guidelines issued pursuant thereto."
+  },
+  {
+   "id": "s61",
+   "text": "“Personal Data” shall have the same meaning as that set out in the PDPA."
+  },
+  {
+   "id": "s62",
+   "text": "“Services” is defined in Recital A."
+  },
+  {
+   "id": "s63",
+   "text": "2. Confidentiality Obligations"
+  },
+  {
+   "id": "s64",
+   "text": "2.1 "
+  },
+  {
+   "id": "s65",
+   "text": "The Vendor hereby agrees to maintain as confidential and agrees not to use except for the Limited Purpose, any part or the whole of any Confidential Information."
+  },
+  {
+   "id": "s66",
+   "text": "2.2 "
+  },
+  {
+   "id": "s67",
+   "text": "The Vendor shall:"
+  },
+  {
+   "id": "s68",
+   "text": "(1) not without the prior written consent of ISCA copy, reproduce, distribute, disclose, or allow access to any Confidential Information to any person, other than those employees who are directly concerned with fulfilling the Limited Purpose (subject to compliance with Clause 3) and purely on a “need to know” basis in furtherance of the Limited Purpose (“Authorised Employees”), and shall not use any Confidential Information for any purpose other than the Limited Purpose;"
+  },
+  {
+   "id": "s69",
+   "text": "(2) keep all materials and media containing Confidential Information in secure premises which are in the exclusive possession and control of the Vendor and with access restricted to Authorised Employees only (“Controlled Premises”);"
+  },
+  {
+   "id": "s70",
+   "text": "(3) not store any Confidential Information in any externally accessible computer, server or media, or remove or transmit it outside the Controlled Premises;"
+  },
+  {
+   "id": "s71",
+   "text": "(4) keep a written record of all copies or reproductions of any Confidential Information specifying when and by whom they were taken and to whom they have been sent (where applicable); and"
+  },
+  {
+   "id": "s72",
+   "text": "(5) exercise, in relation to the Confidential Information, no lesser security measures and degree of care than those which the Vendor applies to its own confidential information (and which the Vendor warrants as providing adequate protection against any unauthorised disclosure, copying, or use)."
+  },
+  {
+   "id": "s73",
+   "text": "2.3 "
+  },
+  {
+   "id": "s74",
+   "text": "In the event that the Parties do not execute any agreement for the Services or upon demand by ISCA, the Vendor undertakes to forthwith:"
+  },
+  {
+   "id": "s75",
+   "text": "(1) return all Confidential Information (including all originals and copies) to ISCA; or"
+  },
+  {
+   "id": "s76",
+   "text": "(2) where "
+  },
+  {
+   "id": "s77",
+   "text": "(1) is not possible, at ISCA’s option, destroy, erase, delete, or securely dispose of such Confidential Information,"
+  },
+  {
+   "id": "s78",
+   "text": "and to furnish ISCA with a written confirmation, certifying that no copies of the Confidential Information have been made, reproduced, retained, or distributed by itself, its employees, or any third parties, without prejudice to the obligations of confidentiality hereunder."
+  },
+  {
+   "id": "s79",
+   "text": "3. Employee Undertakings"
+  },
+  {
+   "id": "s80",
+   "text": "3.1 "
+  },
+  {
+   "id": "s81",
+   "text": "The Vendor shall, before any permitted disclosures are made to any employees pursuant to Clause 2.2(1), inform such employees of the Vendor’s obligations under this Agreement and bind such employees to observe the terms of this Agreement."
+  },
+  {
+   "id": "s82",
+   "text": "3.2 "
+  },
+  {
+   "id": "s83",
+   "text": "For the avoidance of doubt, the Vendor shall be responsible for ensuring its employees’ strict compliance with the terms of this Agreement. "
+  },
+  {
+   "id": "s84",
+   "text": "Any non-compliance with the terms of this Agreement by an employee of the Vendor shall be deemed a breach of this Agreement by Vendor."
+  },
+  {
+   "id": "s85",
+   "text": "4. Third Party Disclosure"
+  },
+  {
+   "id": "s86",
+   "text": "In the event that the Vendor requires the assistance of any third party other than employees of the Vendor, to whom disclosure of any Confidential Information is necessary, the Vendor shall first seek ISCA’s written approval of such third party and thereafter, prior to any disclosure to that third party, obtain from that third party a duly binding non-disclosure agreement on terms at least as binding upon that third party as the Vendor is bound to ISCA hereunder which terms will be subject to ISCA’s prior written approval."
+  },
+  {
+   "id": "s87",
+   "text": "5. Information Not Protected"
+  },
+  {
+   "id": "s88",
+   "text": "5.1 "
+  },
+  {
+   "id": "s89",
+   "text": "The protection to be accorded to the Confidential Information to be disclosed hereunder does not and shall not extend to any information which:"
+  },
+  {
+   "id": "s90",
+   "text": "(1) at the Effective Date is public knowledge or which subsequently becomes public knowledge other than by any breach of the terms of this Agreement;"
+  },
+  {
+   "id": "s91",
+   "text": "(2) is proven by Vendor by written evidence to have been already known to the Vendor at the Effective Date and not acquired directly or indirectly from ISCA, and such information has been obtained without restrictions on disclosure to others; or"
+  },
+  {
+   "id": "s92",
+   "text": "(3) is required to be disclosed by applicable law or order of a court of competent jurisdiction or recognised stock exchange or government department or agency with valid authority, provided that prior to such disclosure the Vendor consults with ISCA as to the proposed form, scope, nature, and purpose of the disclosure, co-operates with ISCA to limit the extent of the disclosure, and permits ISCA time to obtain legal remedies to maintain such Confidential Information in confidence."
+  },
+  {
+   "id": "s93",
+   "text": "6. Personal Data"
+  },
+  {
+   "id": "s94",
+   "text": "6.1 Vendor shall not collect, use, process and/or disclose any Personal Data of ISCA’s clients or customers (collectively “Customers”) or of ISCA’s employees, without the prior written consent of ISCA."
+  },
+  {
+   "id": "s95",
+   "text": "6.2 Vendor shall at all times comply with the provisions of the PDPA and not cause ISCA to be in breach of its obligations under the PDPA, including in relation to Personal Data of Customers and ISCA’s employees."
+  },
+  {
+   "id": "s96",
+   "text": "7. Acknowledgements"
+  },
+  {
+   "id": "s97",
+   "text": "Vendor acknowledges and agrees that:"
+  },
+  {
+   "id": "s98",
+   "text": "(1) it does not acquire by implication or otherwise any right, title or interest in or to the Confidential Information and ISCA IPR, including any licence;"
+  },
+  {
+   "id": "s99",
+   "text": "(2) nothing in this Agreement nor in any discussions nor disclosures made pursuant to this Agreement shall be deemed a commitment to disclose any information to the Vendor or to engage in any business relationship, contract or future dealing with the Vendor;"
+  },
+  {
+   "id": "s100",
+   "text": "(3) nothing herein shall create or be deemed to create a partnership or joint venture or relationship of principal and agent or any manner of business relationship whatsoever between the Parties."
+  },
+  {
+   "id": "s101",
+   "text": "8. Commencement"
+  },
+  {
+   "id": "s102",
+   "text": "This Agreement and all its rights and obligations hereunder shall commence on the Effective Date."
+  },
+  {
+   "id": "s103",
+   "text": "9. Equitable Relief"
+  },
+  {
+   "id": "s104",
+   "text": "The Parties agree that in the event of any breach or threatened breach of this Agreement by the Vendor, ISCA shall be entitled to obtain equitable relief, including without any limitation, an injunction and/or specific performance, in addition to any other remedies available at law or in equity."
+  },
+  {
+   "id": "s105",
+   "text": "10. Governing Law"
+  },
+  {
+   "id": "s106",
+   "text": "10.1 "
+  },
+  {
+   "id": "s107",
+   "text": "This Agreement shall be governed by and construed in accordance with Singapore law."
+  },
+  {
+   "id": "s108",
+   "text": "10.2 "
+  },
+  {
+   "id": "s109",
+   "text": "The Parties hereby submit to the jurisdiction of the Singapore courts."
+  },
+  {
+   "id": "s110",
+   "text": "11. General"
+  },
+  {
+   "id": "s111",
+   "text": "11.1 "
+  },
+  {
+   "id": "s112",
+   "text": "No failure or delay by either Party in exercising any right under this Agreement shall be a waiver of such right."
+  },
+  {
+   "id": "s113",
+   "text": "11.2 "
+  },
+  {
+   "id": "s114",
+   "text": "No waiver of any obligation of this Agreement shall be valid unless expressly made in writing."
+  },
+  {
+   "id": "s115",
+   "text": "11.3 "
+  },
+  {
+   "id": "s116",
+   "text": "If any part of this Agreement is, for any reason, declared invalid or unenforceable, the validity of the remaining part shall remain in full force and effect as if this Agreement had been executed without the invalid part."
+  },
+  {
+   "id": "s117",
+   "text": "11.4 "
+  },
+  {
+   "id": "s118",
+   "text": "A person or entity who is not a Party to this Agreement shall have no right under the Contracts (Rights of Third Parties) Act (Cap. 53B) to enforce any term of this Agreement, regardless of whether such person or entity has been identified by name, as a member of a class or as answering a particular description."
+  },
+  {
+   "id": "s119",
+   "text": "IN WITNESS WHEREOF, the Parties have hereunto set their hands on the date set out above."
+  },
+  {
+   "id": "s120",
+   "text": "ISCA"
+  },
+  {
+   "id": "s121",
+   "text": "Signed by "
+  },
+  {
+   "id": "s122",
+   "text": "_________________________ "
+  },
+  {
+   "id": "s123",
+   "text": ")"
+  },
+  {
+   "id": "s124",
+   "text": "Designation "
+  },
+  {
+   "id": "s125",
+   "text": "_______________________ "
+  },
+  {
+   "id": "s126",
+   "text": ")"
+  },
+  {
+   "id": "s127",
+   "text": "For and on behalf of "
+  },
+  {
+   "id": "s128",
+   "text": ")"
+  },
+  {
+   "id": "s129",
+   "text": "INSTITUTE OF SINGAPORE "
+  },
+  {
+   "id": "s130",
+   "text": ")"
+  },
+  {
+   "id": "s131",
+   "text": "CHARTERED ACCOUNTANTS "
+  },
+  {
+   "id": "s132",
+   "text": ")"
+  },
+  {
+   "id": "s133",
+   "text": "In the presence of "
+  },
+  {
+   "id": "s134",
+   "text": "___________________ "
+  },
+  {
+   "id": "s135",
+   "text": ")"
+  },
+  {
+   "id": "s136",
+   "text": "__________________________________"
+  },
+  {
+   "id": "s137",
+   "text": "Vendor"
+  },
+  {
+   "id": "s138",
+   "text": "Signed by "
+  },
+  {
+   "id": "s139",
+   "text": "_________________________ "
+  },
+  {
+   "id": "s140",
+   "text": ")"
+  },
+  {
+   "id": "s141",
+   "text": "Designation "
+  },
+  {
+   "id": "s142",
+   "text": "_______________________ "
+  },
+  {
+   "id": "s143",
+   "text": ")"
+  },
+  {
+   "id": "s144",
+   "text": "For and on behalf of "
+  },
+  {
+   "id": "s145",
+   "text": ")"
+  },
+  {
+   "id": "s146",
+   "text": "____________________________ "
+  },
+  {
+   "id": "s147",
+   "text": ")"
+  },
+  {
+   "id": "s148",
+   "text": "In the presence of "
+  },
+  {
+   "id": "s149",
+   "text": "___________________ "
+  },
+  {
+   "id": "s150",
+   "text": ")"
+  },
+  {
+   "id": "s151",
+   "text": "__________________________________"
+  }
+ ]
+}

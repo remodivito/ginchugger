@@ -1,0 +1,124 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# The GinChugger team server (product v2 spec 9.1) and its document store. One settings file, in the server's data
+# volume. Docker is not available inside the team-server container, so the store (Paperless-ngx, the same pinned images
+# and settings as paperless/docker-compose.yml) runs here beside it, on a private network: only the team server reaches
+# it, at http://paperless-webserver:8000, and nothing of it is published on the host.
+#   1. Put IT's certificate and key in ./tls as server.crt and server.key (readable by uid 1000, the container's user).
+#   2. docker compose up -d
+#      store-init runs first on every up: it writes the store's secrets (Paperless's secret key and admin password) on
+#      first start into the gcl-store volume, never the repo, and Paperless's trash schedule from trash.purgeAfterDays.
+#   3. Set server.publicUrl in /data/settings.json (docker cp gcl:/data/settings.json . ; edit it; docker cp it back),
+#      then: docker compose up -d --force-recreate
+#   4. First admin: docker exec gcl gcl admin issue-code --for "<name>" --admin
+# Backup, nightly, from the host's cron (section 9.5); the blobs are immutable, so copying files/ at any time is safe:
+#   0 2 * * * docker exec gcl gcl backup /data/backups/nightly
+#   The store: Paperless's own exporter into the paperless-export volume,
+#   0 3 * * * docker compose -f <this file> exec -T paperless-webserver document_exporter ../export
+#   or copy the gcl-store and paperless-* volumes with everything stopped.
+# Upgrade (section 9.6): change the tag below, then docker compose pull && docker compose up -d
+# Every variable below has a default; the ${...} forms only let a test run this file beside a real install.
+services:
+  gcl:
+    image: ${GCL_IMAGE:-ghcr.io/remodivito/ginchugger-server:1.0.0}
+    container_name: ${GCL_CONTAINER:-gcl}
+    restart: unless-stopped
+    depends_on:
+      store-init: { condition: service_completed_successfully }
+    ports:
+      - "${GCL_PORT:-8443}:8443"
+    environment:
+      # The store is the Paperless below (external: the team server does not run it). It signs in with the admin
+      # password store-init wrote into /store/paperless.env, and keeps the lawyers' store tokens there too.
+      GCL_STORE: external
+      GCL_STORE_URL: http://paperless-webserver:8000
+      GCL_STORE_DATA: /store
+    volumes:
+      - gcl-data:/data
+      - gcl-store:/store
+      - ${GCL_TLS_DIR:-./tls}:/data/tls:ro
+    networks: [default, store]
+
+  # One-shot, before the server and the store: the store's secrets (first start) and its trash schedule (every start),
+  # written by server/store/compose-init.js in the team-server image.
+  store-init:
+    image: ${GCL_IMAGE:-ghcr.io/remodivito/ginchugger-server:1.0.0}
+    user: "0"
+    restart: "no"
+    command: ["node", "server/store/compose-init.js"]
+    environment:
+      GCL_STORE_SECRETS: /store
+      GCL_SETTINGS_FILE: /data/settings.json
+    volumes:
+      - gcl-data:/data:ro
+      - gcl-store:/store
+    network_mode: none
+
+  # The document store: as paperless/docker-compose.yml (Paperless-ngx 3.3.2 with SQLite and Tika), not published.
+  paperless-broker:
+    image: docker.io/valkey/valkey:9-alpine
+    restart: unless-stopped
+    volumes:
+      - paperless-redis:/data
+    networks: [store]
+  paperless-webserver:
+    image: ghcr.io/paperless-ngx/paperless-ngx:3.3.2
+    restart: unless-stopped
+    depends_on:
+      store-init: { condition: service_completed_successfully }
+      paperless-broker: { condition: service_started }
+      paperless-gotenberg: { condition: service_started }
+      paperless-tika: { condition: service_started }
+    volumes:
+      - paperless-data:/usr/src/paperless/data
+      - paperless-media:/usr/src/paperless/media
+      - paperless-export:/usr/src/paperless/export
+      - paperless-consume:/usr/src/paperless/consume
+      - gcl-store:/gcl-store:ro
+    environment:
+      PAPERLESS_REDIS: redis://paperless-broker:6379
+      PAPERLESS_DBENGINE: sqlite
+      PAPERLESS_TIKA_ENABLED: 1
+      PAPERLESS_TIKA_GOTENBERG_ENDPOINT: http://paperless-gotenberg:3000
+      PAPERLESS_TIKA_ENDPOINT: http://paperless-tika:9998
+      PAPERLESS_URL: http://paperless-webserver:8000
+      PAPERLESS_TIME_ZONE: Europe/London
+      PAPERLESS_OCR_LANGUAGE: eng
+      # Our taxonomy has matching off, so labels are only what we set (spike gap 9).
+      PAPERLESS_TRAIN_TASK_CRON: disable
+      # The secrets and the trash schedule, from the files store-init wrote (Paperless reads any PAPERLESS_<NAME>_FILE).
+      # The trash is never emptied unless trash.purgeAfterDays is set in /data/settings.json (decision 188): then daily
+      # at 01:00, of items in the trash for more than that many days, from the next docker compose up -d --force-recreate.
+      PAPERLESS_SECRET_KEY_FILE: /gcl-store/secret-key
+      PAPERLESS_ADMIN_USER: gcl-service
+      PAPERLESS_ADMIN_PASSWORD_FILE: /gcl-store/admin-password
+      PAPERLESS_ADMIN_MAIL: store@localhost.test
+      PAPERLESS_EMPTY_TRASH_TASK_CRON_FILE: /gcl-store/empty-trash-cron
+      PAPERLESS_EMPTY_TRASH_DELAY_FILE: /gcl-store/empty-trash-delay
+    networks: [store]
+  paperless-gotenberg:
+    image: docker.io/gotenberg/gotenberg:8.37
+    restart: unless-stopped
+    command:
+      - "gotenberg"
+      - "--chromium-disable-javascript=true"
+      - "--chromium-allow-list=^file:///tmp/.*"
+    networks: [store]
+  paperless-tika:
+    image: docker.io/apache/tika:3.3.1.0
+    restart: unless-stopped
+    networks: [store]
+
+networks:
+  # The store's network is internal: Paperless, Tika and Gotenberg reach nothing outside it, and only the team server
+  # reaches them.
+  store:
+    internal: true
+
+volumes:
+  gcl-data:
+  gcl-store:
+  paperless-data:
+  paperless-media:
+  paperless-export:
+  paperless-consume:
+  paperless-redis:

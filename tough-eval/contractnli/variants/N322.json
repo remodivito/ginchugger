@@ -1,0 +1,169 @@
+{
+ "id": "N322",
+ "revision": 1,
+ "title": "Proctor_Agreement.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 322,
+  "type": "search-pdf",
+  "url": "http://www.opengroup.org/certdocs/Proctor_Agreement.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "The Open Group Examination Proctor Non-Disclosure "
+  },
+  {
+   "id": "s1",
+   "text": "Agreement"
+  },
+  {
+   "id": "s2",
+   "text": "This Agreement dated this day of …………… "
+  },
+  {
+   "id": "s3",
+   "text": "20__ is made by and between "
+  },
+  {
+   "id": "s4",
+   "text": "The Open Group, Apex Plaza, Forbury Road, Reading, Berkshire RG1 1AX, United Kingdom (“The Open Group”), and "
+  },
+  {
+   "id": "s5",
+   "text": "________________________________________ "
+  },
+  {
+   "id": "s6",
+   "text": "(“You, Your, the Recipient”)."
+  },
+  {
+   "id": "s7",
+   "text": "The provision of access to You as a proctor within The Open Group’s Examination Portal1 (“Examination Portal”) and any accompanying examination materials and any derivatives thereof (collectively referred to as the “Exam Materials”) is subject to the terms and conditions provided herein. "
+  },
+  {
+   "id": "s8",
+   "text": "By signing this Agreement that sets forth the terms and conditions of Your use of the Examination Portal and non-disclosure of the Exam Materials, You are consenting to be bound by this Agreement."
+  },
+  {
+   "id": "s9",
+   "text": "YOU HEREBY UNDERSTAND, ACKNOWLEDGE, AND AGREE THAT:"
+  },
+  {
+   "id": "s10",
+   "text": "1. The Open Group spends substantial sums of time and money in developing and administering its Exam Materials and carefully guards their integrity and confidentiality;"
+  },
+  {
+   "id": "s11",
+   "text": "2. The questions and answers of the Exam are the exclusive and confidential property of The Open Group and are protected by The Open Group's intellectual property rights;"
+  },
+  {
+   "id": "s12",
+   "text": "3. You will adhere to the Exam Supervision Guidelines and Exam Eligibility Guidelines as published from time to time by The Open Group at the certification site for the applicable program."
+  },
+  {
+   "id": "s13",
+   "text": "4. You may not disclose the Exam questions or answers or discuss any of the content of the Exam Materials with any person, without prior written approval of The Open Group;"
+  },
+  {
+   "id": "s14",
+   "text": "5. You will not copy or attempt to make copies (written, photocopied, or otherwise) of any Exam Material, including, without limitation, any exam questions or answers;"
+  },
+  {
+   "id": "s15",
+   "text": "6. You will not sell, license, distribute, give away, or obtain from any other source other Open Group Exam materials, questions or answers;"
+  },
+  {
+   "id": "s16",
+   "text": "7. Violation of any of these provisions will cause irreparable harm to The Open Group for which monetary remedies may be inadequate, and that The Open Group shall be entitled, without waiving any other rights or remedies, to take all appropriate actions to remedy or prevent such disclosure or misuse, including obtaining an immediate injunction;"
+  },
+  {
+   "id": "s17",
+   "text": "8. Neither this Agreement nor any right granted hereunder shall be assignable or otherwise transferable by You and that this Agreement may be modified or amended only in writing, signed by both parties;"
+  },
+  {
+   "id": "s18",
+   "text": "9. The terms and conditions set forth in the Agreement shall survive the termination of Your relationship with The Open Group;"
+  },
+  {
+   "id": "s19",
+   "text": "10. This Agreement shall be construed in accordance with the laws of England and Wales, without giving effect to any choice of law rule, and"
+  },
+  {
+   "id": "s20",
+   "text": "11. This Agreement represents the entire Agreement of the parties hereto pertaining to the subject matter of this Agreement, and supersedes any and all prior oral discussions and/or written correspondence or agreements between the parties with respect thereto."
+  },
+  {
+   "id": "s21",
+   "text": "_____________________________"
+  },
+  {
+   "id": "s22",
+   "text": "The Open Group Examination Proctor Non-Disclosure "
+  },
+  {
+   "id": "s23",
+   "text": "Agreement"
+  },
+  {
+   "id": "s24",
+   "text": "IN WITNESS WHEREOF, each of the parties to this Agreement has caused this Agreement to be signed in its name and on its behalf by its duly authorised representative."
+  },
+  {
+   "id": "s25",
+   "text": "THE OPEN GROUP RECIPIENT:"
+  },
+  {
+   "id": "s26",
+   "text": "By:_________________________________ "
+  },
+  {
+   "id": "s27",
+   "text": "By:________________________________________"
+  },
+  {
+   "id": "s28",
+   "text": "Name: "
+  },
+  {
+   "id": "s29",
+   "text": "______________________________ "
+  },
+  {
+   "id": "s30",
+   "text": "Name:_____________________________________"
+  },
+  {
+   "id": "s31",
+   "text": "Title:________________________________ "
+  },
+  {
+   "id": "s32",
+   "text": "Title:_______________________________________"
+  },
+  {
+   "id": "s33",
+   "text": "Accredited Training Course Provider"
+  },
+  {
+   "id": "s34",
+   "text": "Authorized Signatory:"
+  },
+  {
+   "id": "s35",
+   "text": "By:_________________________________"
+  },
+  {
+   "id": "s36",
+   "text": "Name: "
+  },
+  {
+   "id": "s37",
+   "text": "______________________________"
+  },
+  {
+   "id": "s38",
+   "text": "Title:________________________________"
+  }
+ ]
+}

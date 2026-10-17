@@ -1,0 +1,181 @@
+{
+ "id": "N299",
+ "revision": 1,
+ "title": "Non-disclosure.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 299,
+  "type": "search-pdf",
+  "url": "http://rossmoncure.com/documents/Non-disclosure.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "This Non-Disclosure "
+  },
+  {
+   "id": "s2",
+   "text": "Agreement (the “Agreement”) is made and entered into as of the latter of the two signature dates below by and between:"
+  },
+  {
+   "id": "s3",
+   "text": "(1) Ross & Moncure, Inc. ( “Receiving Party”)"
+  },
+  {
+   "id": "s4",
+   "text": "(2) ___________________________________________________ "
+  },
+  {
+   "id": "s5",
+   "text": "(“Client” or “Disclosing Party”)."
+  },
+  {
+   "id": "s6",
+   "text": "1. Definition of Confidential Information."
+  },
+  {
+   "id": "s7",
+   "text": "“Confidential Information” means non-public information that a party to this Agreement (“Disclosing Party”) designates as being confidential to the party that receives such information (“Receiving Party”) or which, under the circumstances surrounding disclosure ought to be treated as confidential by the Receiving Party."
+  },
+  {
+   "id": "s8",
+   "text": "Ross & Moncure recognizes Confidential Information to be any information or personal data that it receives from the Client in the process of tax preparation or planning."
+  },
+  {
+   "id": "s9",
+   "text": "2. Obligations Regarding Confidential Information."
+  },
+  {
+   "id": "s10",
+   "text": "Ross & Moncure pledges not to disclose any information to which it has access in the process of the performance of a Client engagement. "
+  },
+  {
+   "id": "s11",
+   "text": "Ross & Moncure also agrees to only request of the Client information necessary to carry out services requested by the Client."
+  },
+  {
+   "id": "s12",
+   "text": "Ross & Moncure shall process information and data provided in accordance with the instructions given by the Client and shall refrain from recording, reproducing, or storing data for superfluous reasons. "
+  },
+  {
+   "id": "s13",
+   "text": "This prohibition affects both hard-copy data and data on any electronic, magnetic, analogue or digital medium. "
+  },
+  {
+   "id": "s14",
+   "text": "Under no circumstances may it disclose such data to third parties without written authorization from the Client, even merely for safekeeping. "
+  },
+  {
+   "id": "s15",
+   "text": "Ross & Moncure recognizes that the duties of secrecy and non-disclosure continue to apply indefinitely even after all service engagements have terminated."
+  },
+  {
+   "id": "s16",
+   "text": "Ross & Moncure undertakes to take and maintain the technical and organizational steps required to guarantee data security and prevent their alteration, loss and unauthorized processing or access, according to the security level required pursuant to the aforementioned legislation. "
+  },
+  {
+   "id": "s17",
+   "text": "These steps refer to the files, processing centers, premises, equipment, systems, programs and people involved in processing."
+  },
+  {
+   "id": "s18",
+   "text": "Once the contractual service has been performed, Ross & Moncure agrees to hand back to the Client all of the raw data used in tax planning upon the Client’s written request. "
+  },
+  {
+   "id": "s19",
+   "text": "Ross & Moncure does not agree to hand back and destroy copies of completed tax returns, as the American Institute of Certified Public Accountants and the Association for Accounting Administration both dictate that best practice is to keep this work on hand."
+  },
+  {
+   "id": "s20",
+   "text": "3. Rights and Remedies"
+  },
+  {
+   "id": "s21",
+   "text": "Ross & Moncure shall notify the undersigned Client immediately upon discovery of any unauthorized use or disclosure of Confidential Information or any other breach of this Agreement by an employee of Ross & Moncure, and will cooperate with the Disclosing Party in every reasonable way to help the Disclosing Party to regain possession of the Confidential Information and prevent its further unauthorized use or disclosure."
+  },
+  {
+   "id": "s22",
+   "text": "Ross & Moncure shall bear the burden of any damages arising from negligence and/or lack of confidentiality, improper use, processing or communication of personal data, or any other infringement of data protection rules. "
+  },
+  {
+   "id": "s23",
+   "text": "The full extent of these damages shall be determined by a court of competent jurisdiction."
+  },
+  {
+   "id": "s24",
+   "text": "4. Miscellaneous"
+  },
+  {
+   "id": "s25",
+   "text": "Ross & Moncure may not subcontract the provision of any services agreed herein in whole or in part."
+  },
+  {
+   "id": "s26",
+   "text": "Ross & Moncure, Inc. Client: "
+  },
+  {
+   "id": "s27",
+   "text": "__________________________"
+  },
+  {
+   "id": "s28",
+   "text": "726 North Washington Street "
+  },
+  {
+   "id": "s29",
+   "text": "________________________"
+  },
+  {
+   "id": "s30",
+   "text": "Alexandria, VA 22314 "
+  },
+  {
+   "id": "s31",
+   "text": "_________________________"
+  },
+  {
+   "id": "s32",
+   "text": "_________________________________ "
+  },
+  {
+   "id": "s33",
+   "text": "____________________________________"
+  },
+  {
+   "id": "s34",
+   "text": "Signature Signature"
+  },
+  {
+   "id": "s35",
+   "text": "C. Braxton Moncure, CEO; or, Client or Client Representative"
+  },
+  {
+   "id": "s36",
+   "text": "Steven W. Street, General Manager"
+  },
+  {
+   "id": "s37",
+   "text": "_________________________________ "
+  },
+  {
+   "id": "s38",
+   "text": "____________________________________"
+  },
+  {
+   "id": "s39",
+   "text": "Date Date"
+  },
+  {
+   "id": "s40",
+   "text": "___________________________________"
+  },
+  {
+   "id": "s41",
+   "text": "Title of Client Representative (if applicable)"
+  }
+ ]
+}

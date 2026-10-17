@@ -1,0 +1,76 @@
+{
+  "executor": "claude",
+  "model": "claude-sonnet-5-5",
+  "effort": "medium",
+  "promptSha256": "73d6ace607ae8f4ef9205a3c9feb4f883cbd9e60c568032dccc929cdad758c8c",
+  "userSha256": "b45605491b186e2cfa701c4a5fcfd6647bdfcebbb1d5e0b1522775bcb0d3a27e",
+  "userChars": 6988,
+  "usage": {
+    "input_tokens": 2,
+    "cache_creation_input_tokens": 3545,
+    "cache_read_input_tokens": 0,
+    "output_tokens": 405,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3545,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "not_available",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 405,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 3545,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 3545
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "modelUsage": {
+    "claude-haiku-4-5-20251001": {
+      "inputTokens": 2817,
+      "outputTokens": 22,
+      "cacheReadInputTokens": 0,
+      "cacheCreationInputTokens": 0,
+      "webSearchRequests": 0,
+      "costUSD": 0.002927,
+      "contextWindow": 200000,
+      "maxOutputTokens": 32000,
+      "thinkingTokens": 0,
+      "canonicalModel": "claude-haiku-4-5",
+      "provider": "firstParty",
+      "costBasis": "list"
+    },
+    "claude-sonnet-5-5": {
+      "inputTokens": 2,
+      "outputTokens": 405,
+      "cacheReadInputTokens": 0,
+      "cacheCreationInputTokens": 3545,
+      "webSearchRequests": 0,
+      "costUSD": 0.018234,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 0,
+      "canonicalModel": "claude-sonnet-5-5",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "numTurns": 1,
+  "durationMs": 4030,
+  "stopReason": "end_turn",
+  "seconds": 5.567
+}

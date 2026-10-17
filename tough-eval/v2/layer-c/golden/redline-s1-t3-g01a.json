@@ -1,0 +1,658 @@
+{
+ "canary": "2eb20c99-e785-485c-b97c-b5e8d177c40a",
+ "task": "redline-s1-t3-g01a",
+ "source": "RedlineBench redline-s1-t3-g01a tests/attorney_redlines.docx (attorney variant a)",
+ "changes": [
+  {
+   "paragraphId": "p-011",
+   "text": ""
+  },
+  {
+   "afterParagraphId": "p-011",
+   "text": "Reserved",
+   "inserted": true
+  },
+  {
+   "paragraphId": "p-024",
+   "text": "“Usage Data” means information about access to, interaction with, or use of the Service by LargeCo or on LargeCo’s behalf — including frequency, duration, volume, feature and function usage, visit, session, click-through and click-stream data, together with any statistical or other analyses, information, or Derivative Works generated from any of the foregoing. Usage Data excludes any LargeCo Data, AI Inputs, AI Outputs, User Information, Personal Information, Confidential Information, and any data derived from any of the foregoing, in each case in any form (including in aggregated or de-identified form)."
+  },
+  {
+   "paragraphId": "p-025",
+   "text": "“User Information” means: all information pertaining to, provided by, or collected about Users on or through the Services, including but not limited to user generated content, that is generated, collected, stored, processed or used in connection with or derived from the Services. User Information shall include Personal Information, non-Personal Information, any and all information about the User, including information derived from or through the use of cookies or other approved tracking technology placed in connection with the Services, whether or not such information has been de-identified, anonymized and/or aggregated and/or any or all reports, results, and/or information created, compiled, analyzed and/or derived by Provider or LargeCo from such User Information. For clarity User Information does not include Usage Data."
+  },
+  {
+   "paragraphId": "p-029",
+   "text": "LargeCo may permit its Affiliates and their Users to access and use the Services in accordance with this Agreement, in each case as expressly identified on an Order Form. LargeCo shall be responsible for each such Affiliate's compliance with this Agreement, and all User counts and license metrics under each Order Form include all Affiliate Users."
+  },
+  {
+   "paragraphId": "p-030",
+   "text": "Any suspension of access by Provider for alleged LargeCo non-compliance shall (a) be limited to the affected User(s) or workflow, (b) following ten (10) days’ written notice and a reasonable cure opportunity, except where suspension is required to prevent imminent material harm to the Service or third parties, and (c) not relieve Provider of its other obligations under this Agreement"
+  },
+  {
+   "paragraphId": "p-033",
+   "text": "AI Technology Use & Restrictions: To the extent Provider uses AI Technology currently, or in the future, the parties acknowledge and agree that, unless prohibited by Applicable Law, LargeCo retains all rights in and to AI Inputs and will be the owner of all AI Outputs. All AI Inputs and AI Outputs shall be LargeCo’s Confidential Information. Accordingly, Provider shall not (i) commingle, associate, connect, compile or otherwise combine AI Inputs and AI Outputs with any third-party information, (ii) use AI Inputs and AI Outputs for any purpose outside the scope of the Services or use of the Provider platform and/or this Agreement, and (iii) enable or permit any of LargeCo’s Confidential Information, including AI Inputs and AI Outputs, to be processed on or through any third-party AI Technology that does not conform to the terms of this Agreement, including this Section 2.3. Provider will also dispose of AI Inputs and AI Outputs in accordance with Section 4.3 of the Agreement. LargeCo acknowledges and agrees that LargeCo’s AI Input may be similar or identical to other AI Inputs submitted by other customers and their users and LargeCo’s AI Output may be similar or identical to AI Output delivered to other customers and their users. The foregoing does not authorize Provider to disclose LargeCo’s actual AI Inputs or AI Outputs (in whole or part) to any third party, and any AI Input or AI Output that contains LargeCo Data, User Information, Personal Information, or other LargeCo Confidential Information remains LargeCo’s Confidential Information regardless of similarity to inputs or outputs of other customers.Queries submitted by, and responses delivered to other customers and their users do not constitute LargeCo’s Confidential Information."
+  },
+  {
+   "paragraphId": "p-036",
+   "text": "Third-Party AI Technology. Notwithstanding LargeCo’s approved use of any AI Technology by Provider under this Agreement, if Provider uses third-party AI Technology, Provider shall: (a) not be relieved of any of its obligations under this Agreement; (b) remain responsible to LargeCo for any and all performance of such AI Technology and compliance with the terms of this Agreement; (c) maintain an enterprise-level written agreement with the licensor of such AI Technology that imposes obligations substantially consistent with the relevant obligations of Provider under this Agreement; (d) provide at least fifteen (15) days’ written notice and opportunity for LargeCo to object to any planned material changes in the use of AI Technology; and (e) shall not subject LargeCo to any additional terms not in this Agreement."
+  },
+  {
+   "paragraphId": "p-039",
+   "text": "Notwithstanding anything to the contrary in this Agreement, Provider may collect and use Usage Data to support, secure, and operate the Service and to produce internal aggregated analytics about Service performance, in each case provided that Provider does not use Usage Data to train, build, fine-tune, or evaluate any AI model except for security and abuse-prevention purposes.. Provider will not share Usage Data that identifies, or could reasonably be used to identify LargeCo or any individual with any third party unless the Usage Data has been aggregated and anonymized so that Customer cannot be identified. For clarity, this Section does not modify Section 2.3.3 (Training)."
+  },
+  {
+   "paragraphId": "p-041",
+   "text": "Order Forms. The provisions of an Order Form shall constitute binding obligations upon the Parties to such Order Form only after the Order Form has been fully executed by the applicable Parties. Each fully executed Order Form shall be incorporated herein by reference. If there is any conflict between the terms and conditions of a specific Order Form and the terms and conditions of this Agreement, the terms and conditions of this Agreement shall prevail over those of such Order Form, unless the Order Form expressly references this Agreement and specifies the specific sections or provisions of this Agreement, if any, that are to be modified or superseded by the Order Form. In the event of any conflict or inconsistency between the main body of this Agreement and the Privacy, Data Security and Data Processing Requirements set forth in Exhibit C, shall control with respect to that conflict or inconsistency unless the main body of this Agreement provides a higher level of protection with respect to LargeCo Confidential Information, in which case the portion of this Agreement that grants the higher level of protection, and no other portion of this Agreement, shall govern."
+  },
+  {
+   "paragraphId": "p-044",
+   "text": "Restrictions. LargeCo and its Users will not directly or indirectly: (a) reverse engineer, decompile, disassemble or otherwise attempt to discover the source code, object code or underlying algorithms of any Software (provided that reverse engineering is prohibited only to the extent such prohibition is not contrary to Applicable Law); (b) modify, translate, reproduce or create Derivative Works based on the Software; (c) rent, lease, lend or sell the Service; (d) remove any proprietary notice from the Service; (e) use the Service or any outputs to develop or train a model or agent that competes with the Service, or carry out model extraction or theft attacks but does not prohibit LargeCo’s ordinary use of AI Outputs in its hiring workflows; (f) probe, scan, or attempt to penetrate the Service(g) publish to any third party the results of any benchmark tests of the Service without giving Provider sixty (60) days' prior written notice; provided LargeCo also discloses all information necessary for the recipient to replicate those tests and that the foregoing does not restrict any disclosure (i) required by Applicable Law, court order, or regulatory inquiry, (ii) made in confidence to LargeCo's professional advisors, or (iii) made as part of LargeCo's customary public-company disclosures (including SEC filings, earnings calls, and investor communications) (hg) use unauthorized third-party tools to harvest, scrape, or extract data from the Service; (ih) use the Service in any way that infringes, misappropriates, or otherwise violates any third party's intellectual property or other rights, or that violates any Applicable Law or regulation; (ji) submit to Provider, knowingly and outside the documented Service workflows, any (A) protected health information regulated by HIPAA, (B) cardholder data subject to PCI DSS, (C) U.S. Social Security numbers, (E) any other data that is subject to specific protections under Applicable Law beyond those that apply to Personal Information or Personal Data generally; or (D) personal information of children under thirteen; or (j) knowingly permit any third party to do any of the foregoing.."
+  },
+  {
+   "paragraphId": "p-056",
+   "text": "Feedback. As between the Parties, Provider retains all intellectual property rights in any Feedback LargeCo provides regarding any portion of the Services. Provider will not use the Feedback in a manner that identifies LargeCo as its source. All Feedback is provided on an “as is” basis, without warranty or indemnity of any kind. "
+  },
+  {
+   "paragraphId": "p-057",
+   "text": "LargeCo Data License and Intellectual Property Rights. During the Term, LargeCo grants Provider a non-exclusive, non-transferable, non-sublicensable, royalty-free, and limited license to use, copy, format for display on supported platforms, and distribute (as authorized by LargeCo) the LargeCo Data, in each case solely to the extent necessary to provide the Services in accordance with this Agreement. All right, title, and interest in and to all Data and LargeCo’s Intellectual Property therein — including sole ownership — shall remain with LargeCo and its licensors. To the extent Provider acquires any right, title, or interest in any LargeCo Data, (other than (i) Provider Technology, (ii) Usage Data permitted under Section 2.3.6, and (iii) Provider’s Feedback rights under Section 5.2), Provider hereby irrevocably assigns such right, title, and interest to LargeCo.Except as provided in this Agreement, nothing in this Agreement shall be construed to confer on Provider any ownership interest in, or license to, LargeCo Data. Upon any termination or expiration of this Agreement, Provider shall, and shall cause its Agents to, immediately cease all use of the Data in any form. "
+  },
+  {
+   "afterParagraphId": "p-058",
+   "text": "Reserved.",
+   "inserted": true
+  },
+  {
+   "paragraphId": "p-062",
+   "text": "Disposal. Throughout the Term, throughout the Transition Period, and for sixty (60) calendar days following its end, LargeCo shall retain the ability to securely download or export Data from the Services, and Provider shall furnish such customer support in connection therewith as LargeCo may reasonably request.. Any non standard export assistance reasonably requested by LargeCo will be provided pursuant to a mutually agreed upon statement of work at Prvider’s then current professional services rates. Promptly after LargeCo’s Confidential Information (or any portion of it) is no longer required for Provider to perform under this Agreement — and, in any event, upon any termination or expiration of this Agreement (other than as set forth above) — Provider shall, and shall require its Agents to, either (at LargeCo’s election) return such Confidential Information to LargeCo through a secure method designated by LargeCo, or securely destroy it. Such destruction shall extend to all records of LargeCo’s Confidential Information, including all hard copies and all electronic copies (whether stored on hard drives, backup tapes, portable devices, or optical, magnetic, or other media), and Provider shall furnish written certification of destruction upon LargeCo’s request. Provider shall ensure that disposal of LargeCo’s Confidential Information is carried out consistent with the methods set forth in the FTC Disposal Rule, 16 C.F.R. § 682.3, and with Applicable Law."
+  },
+  {
+   "paragraphId": "p-063",
+   "text": "Injunction for Breach of Confidentiality. Each Party acknowledges that any breach by it of this Agreement (including, without limitation, Section 4, Section 11, or Exhibit C) may cause the other Party irreparable harm for which monetary damages would not afford adequate protection or appropriate compensation. Accordingly, in any such event, and in addition to any other rights and remedies available to it, a Party shall be entitled to seek immediate injunctive relief from a court of competent jurisdiction. Except where applicable law requires otherwise, no bond shall be required as a condition of such relief."
+  },
+  {
+   "paragraphId": "p-065",
+   "text": "Term. This Agreement commences on the Effective Date and continues for an initial term of six (6) months (the \"Pilot Term\"), unless earlier terminated in accordance with this Agreement. Following the Initial Term, this Agreement shall automatically expire. The \"Term\" means the Initial Term "
+  },
+  {
+   "paragraphId": "p-066",
+   "text": "Termination for Cause. Either Party may terminate this Agreement and any affected Order Form for cause upon thirty (30) days' prior written notice to the other Party if the other Party materially breaches this Agreement and fails to cure the breach within such 30-day notice period; provided that no cure period applies to (a) Provider's breach of Section 2.3.3 (Training), (b) Provider's breach of Section 7 (Confidentiality), (c) any breach incapable of cure, or (d) Either Party’s right to terminate under Section 8.4 below."
+  },
+  {
+   "paragraphId": "p-067",
+   "text": "Termination for ConvenienceEither Party may terminate this Agreement and any Order Form for any reason or no reason upon thirty (30) days' prior written notice to the other Party, in which case Provider shall promptly refund to LargeCo any pre-paid fees attributable to the period after the effective date of termination."
+  },
+  {
+   "paragraphId": "p-068",
+   "text": "Additional Termination Rights. In addition to the rights in Sections 8.2 and 8.3, Either Party may terminate this Agreement and any affected Order Form upon written notice to the other Party if a Partybecomes the subject of a voluntary or involuntary bankruptcy, insolvency, receivership, or similar proceeding that is not dismissed within sixty (60) days; or any unauthorized assignment or change of control of either Party in violation of Section 16.2."
+  },
+  {
+   "paragraphId": "p-069",
+   "text": "Effects of Termination. Upon any expiration or termination of this Agreement: (a) Provider shall immediately cease accessing the LargeCo Systems and using LargeCo's Confidential Information and LargeCo will immediately cease using the Service; (b) each Party shall comply with the data return and deletion obligations set forth in Section 7.3 (Disposal) and Exhibit C, Section 3.10; (c) all amounts accrued and owing as of the effective date of termination shall be paid in accordance with Section 9; and (d) Provider shall provide reasonable transition assistance for up to ninety (90) days following termination at Provider's then-current professional services rates, in each case to enable LargeCo's orderly migration to a successor service or in-house alternative."
+  },
+  {
+   "paragraphId": "p-070",
+   "text": "Survival. The following provisions survive any expiration or termination of this Agreement: Section 1 (Definitions), Section 5 (Intellectual Property Rights), Section 7 (Confidentiality), Section 7.3 (Disposal), Section 8.5 (Effects of Termination), this Section 8.6, Section 9 (Fees, with respect to amounts accrued and owing), Section 14 (Limitation of Liability), Section 15 (Indemnification), Section 16 (General Provisions), Exhibit C with respect to Customer Data already received, and any other provision that by its nature is intended to survive termination."
+  },
+  {
+   "paragraphId": "p-072",
+   "text": "LargeCo shall pay Provider for all undisputed invoices for the Services in accordance with the fee schedule set forth in the applicable Order Form. Unless stated otherwise in the applicable Order Form, all payments shall be due sixty (60) days after LargeCo’s receipt of an undisputed invoice. Provider invoices shall state applicable taxes owed by LargeCo, if any, by tax jurisdiction. LargeCo will not be required to pay undisputed fees for Services initially invoiced more than 180 days after the date the Services were rendered or provided."
+  },
+  {
+   "paragraphId": "p-076",
+   "text": "Provider shall comply with the Privacy, Data Security and Data Processing Requirements in Exhibit C. "
+  },
+  {
+   "paragraphId": "p-090",
+   "text": "Except for the warranties expressly set forth in this Agreement (including Sections 2.3 (AI), 12 (Reps & Warranties), 15 (Indemnification), and Exhibit C), the Service is provided \"as is\" and \"as available\" and Provider hereby disclaims all warranties, whether express, implied, statutory, or otherwise. Provider specifically disclaims all implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement, and all warranties arising from course of dealing, usage, or trade practice. Provider makes no warranty of any kind that the Service will meet LargeCo’s or any other person's requirements, operate without interruption, achieve any intended result, be compatible with any system, or error free, except as expressly warranted in this Agreement."
+  },
+  {
+   "paragraphId": "p-095",
+   "text": "General Cap. Except as set forth in Sections 14.2 and 14.3, each Party's aggregate liability arising from or relating to this Agreement or any Services (regardless of the form of action or claim, including without limitation contract, warranty, tort, or otherwise) shall not exceed the greater of (a) the total of all payments actually received by Provider from LargeCo under this Agreement during the twelve (12) month period immediately preceding the first event giving rise to the claim."
+  },
+  {
+   "paragraphId": "p-096",
+   "text": "Super-Cap. Notwithstanding Section 15.2, each Party's aggregate liability arising from or relating to the following matters shall instead be capped at the lesser of (a) five (5) times the total payments actually received by Provider from LargeCo under this Agreement during the twelve (12) month period immediately preceding the first event giving rise to the claim, or (b) US$5,000,000:"
+  },
+  {
+   "paragraphId": "p-099",
+   "text": "(i) fraud, gross negligence, or willful misconduct; (iii) Provider's indemnification of third-party intellectual property infringement claims under Section 12; or (iv) LargeCo's payment obligations under this Agreement."
+  },
+  {
+   "paragraphId": "p-100",
+   "text": "Exclusion of Indirect Damages. Except as set forth in Section 14.5, in no event shall either Party be liable for any special, incidental, consequential, indirect, cover, punitive, or exemplary damages, or for any loss of profits, business or revenue, loss of use of any computer programs, loss of data, costs of re-creating lost data, the cost of any substitute equipment, data, services or software, or claims by any person other than the Parties hereto, even if such Party has been advised of the possibility of any of the foregoing."
+  },
+  {
+   "paragraphId": "p-101",
+   "text": ""
+  },
+  {
+   "paragraphId": "p-102",
+   "text": ""
+  },
+  {
+   "paragraphId": "p-103",
+   "text": "Equitable Relief. Nothing in this Section limits LargeCo's right to seek injunctive or other equitable relief under Section 7.4 (Injunction for Breach of Confidentiality)."
+  },
+  {
+   "paragraphId": "p-108",
+   "text": "15.1 Indemnification Obligations. Provider shall defend, indemnify, and hold harmless LargeCo, its Affiliates, and their respective directors, officers, employees, and Agents (each a \"LargeCo Indemnitee\") from and against any and all third-party claims, demands, damages, liabilities, losses, proceedings, judgments, settlements, and other actions (each, a \"Claim\") and all associated costs and expenses (including reasonable attorneys' fees and other costs of legal defense), in each case arising out of, caused by, or in connection with "
+  },
+  {
+   "paragraphId": "p-109",
+   "text": ""
+  },
+  {
+   "paragraphId": "p-110",
+   "text": "a claim that any Intellectual Property, Service, Documentation, or other material provided by Provider — or the use thereof — infringes, misappropriates, or causes the infringement or misappropriation of any third-party Intellectual Property"
+  },
+  {
+   "paragraphId": "p-111",
+   "text": ""
+  },
+  {
+   "afterParagraphId": "p-111",
+   "text": ".",
+   "inserted": true
+  },
+  {
+   "paragraphId": "p-112",
+   "text": "15. 2.   IP-Infringement Carve-Outs. The indemnification obligation in Section 15.1does not apply to any portion or component of the Service:"
+  },
+  {
+   "paragraphId": "p-114",
+   "text": "15. 3  Procedure. LargeCo shall promptly notify Provider in writing of any Claim for which indemnification is sought; provided that any failure to give such notice shall not relieve Provider of any liability or obligation under this Section 15 except to the extent Provider is materially prejudiced by such failure. LargeCo shall reasonably cooperate, at Provider's expense, in the defense and in any compromise or settlement of the Claim. Neither Party shall settle or otherwise dispose of any such Claim without the prior written consent of the other Party, which consent shall not be unreasonably withheld or delayed."
+  },
+  {
+   "paragraphId": "p-115",
+   "text": "15.4 Limitation. Each indemnification obligation under this Section 15 is subject to the limitations of liability set forth in Section 14, except that (i) Provider's indemnification obligation in Section 14.1(b) (third-party IP infringement) and (ii) liability arising from fraud, gross negligence, or willful misconduct under Section 14.1(c) are uncapped pursuant to Section 14.3."
+  },
+  {
+   "paragraphId": "p-116",
+   "text": "15.5 Remedies. The remedies set forth in this Section 12 are in addition to all other remedies available to LargeCo at law or in equity, including LargeCo's right to seek injunctive or other equitable relief under Section 6.4 (Injunction for Breach of Confidentiality)."
+  },
+  {
+   "paragraphId": "p-117",
+   "text": "16. GENERAL PROVISIONS."
+  },
+  {
+   "paragraphId": "p-118",
+   "text": "16.1 Governing Law; Venue; Jury Trial Waiver. This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to its conflict-of-laws principles. Each Party irrevocably submits to the exclusive jurisdiction of the state and federal courts located in the State of California for any action arising out of or relating to this Agreement, and waives any objection based on improper venue or forum non conveniens. To the extent permitted by California law, equitable matters shall be brought exclusively in the Courts of California. Each Party irrevocably waives, to the fullest extent permitted by Applicable Law, any right to a trial by jury in any action arising out of or relating to this Agreement. The U.N. Convention on Contracts for the International Sale of Goods shall not apply to this Agreement."
+  },
+  {
+   "paragraphId": "p-119",
+   "text": "16.2  Assignment. Neither Party may assign or transfer this Agreement, in whole or in part, by operation of law or otherwise, without the prior written consent of the other Party, except that:"
+  },
+  {
+   "paragraphId": "p-120",
+   "text": "(a) LargeCo may assign or transfer this Agreement, in whole or in part, to any of its Affiliates or to any successor in connection with a merger, acquisition, reorganization, sale of equity, or sale of all or substantially all of LargeCo's assets, in each case without Provider's consent;"
+  },
+  {
+   "paragraphId": "p-121",
+   "text": "(b) Provider may assign this Agreement to a successor in a merger, acquisition, reorganization, or sale of all or substantially all of Provider's assets, provided that (i) Provider gives LargeCo not less than thirty (30) days' prior written notice of the proposed assignment, (ii) the successor is not a competitor of LargeCo or a person or entity that, in LargeCo's reasonable judgment, would create a material conflict of interest, regulatory or sanctions issue, or reputational concern for LargeCo, and (iii) LargeCo may, within thirty (30) days after receiving such notice, terminate this Agreement on written notice to Provider with a pro-rata refund of pre-paid fees if LargeCo reasonably objects to the assignment."
+  },
+  {
+   "paragraphId": "p-123",
+   "text": "16.3 Use of Name; Publicity. Neither Party shall use the other Party's name, logos, trademarks, service marks, trade names, or other identifying marks, or refer to the existence or terms of this Agreement, in any press release, marketing materials, customer lists, case studies, social media, public website, investor materials, advertising, or other public communication, in each case without the other Party's prior written consent (which may be withheld in such Party's sole discretion). The foregoing does not restrict (a) disclosures required by Applicable Law, including disclosures required by the U.S. Securities and Exchange Commission and equivalent foreign securities regulators; (b) confidential disclosures to a Party's professional advisors, current or prospective investors or acquirers, or lenders, in each case under written non-disclosure obligations; or (c) Provider's identification of LargeCo on a confidential, non-public customer list shared only with Provider's employees and advisors who are bound by written confidentiality obligations."
+  },
+  {
+   "paragraphId": "p-124",
+   "text": "16.4  Notices. All notices, requests, demands, and other communications under this Agreement shall be in writing and shall be deemed given (a) upon delivery, when delivered personally; (b) one (1) business day after deposit with a nationally recognized overnight courier with delivery confirmation; (c) three (3) business days after deposit in the U.S. mail, certified or registered, return receipt requested; or (d) on the day sent by email to the email address designated below, provided that a confirmation copy is sent by one of the methods in (a)–(c) within two (2) business days, in each case to the addresses set forth below or to such other address as a Party may designate by written notice given in accordance with this Section 13.4."
+  },
+  {
+   "afterParagraphId": "p-124",
+   "text": "To LargeCo:     LargeCo, Inc.     ",
+   "inserted": true
+  },
+  {
+   "afterParagraphId": "p-124",
+   "text": "501 New Rochelle Street     ",
+   "inserted": true
+  },
+  {
+   "afterParagraphId": "p-124",
+   "text": "Guilford, CT 06437     ",
+   "inserted": true
+  },
+  {
+   "paragraphId": "p-125",
+   "text": "Attention: Office of the General Counsel     Email: [legalnotices@largeco.com]"
+  },
+  {
+   "afterParagraphId": "p-126",
+   "text": "To Provider:           AgentCo, Inc.     [",
+   "inserted": true
+  },
+  {
+   "paragraphId": "p-127",
+   "text": "address to be provided at signing]     "
+  },
+  {
+   "afterParagraphId": "p-127",
+   "text": "Attention: [General Counsel]     ",
+   "inserted": true
+  },
+  {
+   "afterParagraphId": "p-127",
+   "text": "Email: [legal@agentco.ai]",
+   "inserted": true
+  },
+  {
+   "paragraphId": "p-129",
+   "text": "16.5 Force Majeure. Neither Party shall be liable for any failure or delay in performance under this Agreement (other than payment obligations and the obligations set forth in the second sentence of this Section 16.5) caused by an event beyond its reasonable control, including acts of God, natural disasters, fire, flood, earthquake, pandemic or epidemic, war, terrorism, civil unrest, riot, labor strike (excluding strikes by such Party's own employees), governmental action, embargo, sanctions, or failure of common-carrier internet infrastructure (each, a \"Force Majeure Event\"), provided that the affected Party (i) gives the other Party prompt written notice of the Force Majeure Event and its expected duration and (ii) uses commercially reasonable efforts to mitigate and resume performance. The following obligations are not excused or suspended by a Force Majeure Event: Section 2.3.3 (Training), Section 7 (Confidentiality), Section 11 (Data Security) and Exhibit C (including Personal Data Breach notice obligations), Section 5 (Intellectual Property Rights), and any payment obligation. If a Force Majeure Event prevents Provider from delivering the Services for more than thirty (30) consecutive days, LargeCo may terminate this Agreement and any affected Order Form upon written notice and shall receive a pro-rata refund of any pre-paid fees attributable to the period after termination."
+  },
+  {
+   "paragraphId": "p-130",
+   "text": "16.6   Waiver. No failure or delay by a Party in exercising any right, power, or privilege under this Agreement shall operate as a waiver of such right, power, or privilege; nor shall any single or partial exercise preclude any other or further exercise. Any waiver of a right under this Agreement is effective only if in writing and signed by the Party against whom the waiver is to be enforced, and applies only to the specific instance and purpose for which it is given."
+  },
+  {
+   "paragraphId": "p-131",
+   "text": "16.7 Severability. If any provision of this Agreement is held by a court or other tribunal of competent jurisdiction to be invalid, illegal, or unenforceable, such provision shall be modified to the minimum extent necessary to make it valid, legal, and enforceable while preserving the Parties' original intent, and the remaining provisions of this Agreement shall remain in full force and effect."
+  },
+  {
+   "paragraphId": "p-132",
+   "text": "16.8  Survival. The provisions of this Agreement that by their nature are intended to survive termination or expiration shall so survive, including those identified in Section 7.6."
+  },
+  {
+   "paragraphId": "p-133",
+   "text": "16.9 Entire Agreement; Amendments; Order of Precedence. This Agreement (including all Exhibits and any Order Forms executed by the Parties from time to time) constitutes the entire agreement between the Parties with respect to its subject matter and supersedes all prior and contemporaneous agreements, communications, proposals, and representations, whether oral or written, with respect to such subject matter. No amendment, modification, supplement, or waiver of any provision of this Agreement is effective unless set forth in writing and signed by an authorized representative of each Party. Without limiting the foregoing, no click-through, web-posted, or supplemental terms (including any terms posted at any URL by Provider or any of its Sub-Processors) shall amend, supplement, or supersede this Agreement, even if a User of LargeCo accepts or is deemed to accept such terms. In the event of conflict, the order of precedence is: (a) the main body of this Agreement; (b) the Exhibits to this Agreement; and (c) any Order Form, except where the Order Form expressly references and supersedes a specific provision of this Agreement in accordance with Section 2.4."
+  },
+  {
+   "paragraphId": "p-134",
+   "text": "16.10 Counterparts; Electronic Signatures. This Agreement may be executed in counterparts, each of which shall be deemed an original and all of which together shall constitute one and the same instrument. Signatures delivered by facsimile, email (PDF), or electronic-signature platform (including DocuSign or Adobe Sign) shall be deemed original signatures for all purposes."
+  },
+  {
+   "paragraphId": "p-135",
+   "text": "16.11 Independent Contractors. The Parties are independent contractors. Nothing in this Agreement creates an agency, partnership, joint venture, employer-employee, fiduciary, or franchise relationship between the Parties. Neither Party has authority to bind the other or to incur obligations on behalf of the other."
+  },
+  {
+   "paragraphId": "p-136",
+   "text": "16.12 Headings; Construction. The headings used in this Agreement are for convenience only and shall not affect the interpretation of any provision. The words \"include,\" \"includes,\" and \"including\" mean \"include without limitation,\" \"includes without limitation,\" and \"including without limitation,\" respectively. The word \"or\" is not exclusive. Reference to a Section, Exhibit, or Schedule means a Section, Exhibit, or Schedule of this Agreement unless otherwise specified. This Agreement is the joint product of the Parties' negotiations and shall not be construed against either Party as the drafter."
+  },
+  {
+   "paragraphId": "p-137",
+   "text": "16.13 Third-Party Beneficiaries. Except for LargeCo Indemnitees under Section 12, this Agreement does not confer any rights or remedies on any person other than the Parties and their permitted successors and assigns."
+  },
+  {
+   "paragraphId": "p-162",
+   "text": "Service Commitments. Provider shall, in each calendar month, (a) make all Services Available to LargeCo 99..5% of the time (the “Uptime Commitment) (b) perform all Support (as defined below) for LargeCo in accordance with this Agreement, including the Response and Resolution Times set forth in Section 4 of this Exhibit A; and (c) perform all disaster recovery, backup, and business continuity efforts in accordance with the Recovery Commitment (this Section 2 shall be referenced as “Service Commitments”)."
+  },
+  {
+   "paragraphId": "p-164",
+   "text": "Support. Provider agrees to (a) ensure each of the Services operate in accordance with this Agreement and each Order Form; and (b) provide technical support services to LargeCo and its Users all remote and on-site (if requested and/or permitted by LargeCo) cooperation, assistance, management, maintenance, and support services (at no additional charge) to the fullest extent required to remedy all issues and failures associated with any of the testing, installation, configuration, implementation, deployment, and/or use of any Service ((a) and (b) together, “Support”). Remote Support shall be made available by telephone and electronically during Provider’s business hours/the hours of 8 a.m. ET to 6 p.m. ET. Provider shall ensure that all Provider personnel providing Support have the necessary expertise and are fully trained in problem identification and resolution relating to the testing, installation, configuration, implementation, deployment, and use of each Service. Provider shall correct any error in any Service in accordance with the applicable response and resolution times in the table set forth below in this Section 4. The severity level of each issue shall initially be identified by LargeCo in the applicable Support request. If Provider in good faith disagrees with LargeCo’s severity classification, Provider may, within eight (8) business hours of receipt, propose a different severity, and the Parties’ designated Primary Contacts will promptly confer in good faith to resolve the classification. Pending such resolution, Provider shall begin work consistent with the higher severity classification. Additionally, Provider shall have personnel with a greater expertise available should the need to escalate Support issues arise, that are not resolved within the applicable resolution time (“Resolution Time”) set forth in the table below. "
+  },
+  {
+   "paragraphId": "p-174",
+   "text": "Exceptions: Provider will not be responsible or any downtime attributable to: (i) general failure of the internet, (ii) failure of LargeCo, its Agents, employees or contractors (including without limitation, willful misconduct, negligence, material breach of the Agreement, or infringement of third-party proprietary rights) that is the proximate cause of the downtime, (iii) defects in software provided by LargeCo to Provider which Provider could not have discovered through the exercise of reasonable diligence prior to failure, (iv) LargeCo’s failure to implement changes in equipment or software reasonably recommended by Provider in writing as essential to maintain service levels following a LargeCo directed change in the operating environment or a LargeCo’s driven increase in demand for system resources that has not allowed Provider a reasonable time to accommodate, (v) and provision of Services after the expiration of the Term of this Agreement."
+  },
+  {
+   "paragraphId": "p-177",
+   "text": "Recovery Events. Provider shall provide disaster recovery, backup, and business continuity capabilities and facilities that ensure that LargeCo has use of all Service and Data without any material disruption, delay, or data loss. Without limiting the foregoing, Provider shall: (a) maintain and follow policies and procedures that enable the recovery and continuation of use of all Services and Data, including a disaster recovery plan and a business recovery plan, that are consistent with industry standards and ensure (i) a Recovery Time Objective of four (4) hours or less and (ii) a Recovery Point Objective of as close to real-time as commercially practicable (not to exceed thirty (30) minutes) ((i) and (ii), together, the “Recovery Commitment” and all such policies and procedures, collectively, the “Recovery Plan”); (b) provide LargeCo with a copy of the Recovery Plan upon request and within thirty (30) days after making any material change to the Recovery Plan; (c) periodically, and at least once annually, (i) test the effectiveness of the Recovery Plan and (ii) update the Recovery Plan as needed to ensure the satisfaction of the Recovery Time Objective and the Recovery Point Objective; (d) upon LargeCo’s reasonable written request (not more than once per calendar year), Provider will share the results of the most recent disaster-recovery test on a redacted, summary basis, and in good faith address any material deficiencies LargeCo identifies; (e) reinstate all Services for LargeCo in the event of any Recovery Event with as high priority as that of any of Provider’s other customers; and (f) upon LargeCo’s request, certify to LargeCo in writing that Provider has complied with subsections (a) through (e) of this Section 8."
+  },
+  {
+   "paragraphId": "p-213",
+   "text": ""
+  },
+  {
+   "paragraphId": "p-222",
+   "text": "Contain an endorsement (blanket acceptable) including LargeCo Corporation, LargeCocorp Holdings LLC, its parents, subsidiaries, affiliated companies, officers, directors and employees as Additional Insureds (except for Workers’ Compensation);"
+  },
+  {
+   "paragraphId": "p-287",
+   "text": "3.7 Assessing Compliance. On Customer's reasonable written request, and to the extent required by Data Protection Laws, AgentCo will: (i) no more than once per year, make available to Customer AgentCo's privacy and security policies and such other information as is reasonably necessary to demonstrate compliance with AgentCo's obligations under this DPA, including AgentCo's then-current SOC 2 Type II report or equivalent; and (ii) subject to an appropriate confidentiality agreement between the parties, allow for and contribute to audits or inspections by, or on behalf of, Customer at Customer's expense, except that any audit triggered by a confirmed Personal Data Breach or a material non-compliance by AgentCo shall be at AgentCo's expense. Any such audit or inspection must (A) be conducted in a manner that minimizes disruption to AgentCo's business, (B) be limited to confirming that AgentCo is processing Customer Data in a manner consistent with this DPA, and (C) occur no more than once per year (excluding breach-triggered audits)."
+  },
+  {
+   "paragraphId": "p-328",
+   "text": "7. Transfers to Sub-Processors: As described in Section 3.8 of the DPA, Sub-Processors will Process Customer Data as necessary to perform the Service. That Processing will continue for the duration of the Agreement, unless the parties agree otherwise in writing."
+  }
+ ],
+ "explanations": [
+  {
+   "paragraphId": null,
+   "text": "Accepted"
+  },
+  {
+   "paragraphId": "p-024",
+   "text": "Because this is a capitalized term, it needs to be capitalized in this clause."
+  },
+  {
+   "paragraphId": "p-024",
+   "text": "Accepted"
+  },
+  {
+   "paragraphId": "p-024",
+   "text": "Corrected Font."
+  },
+  {
+   "paragraphId": "p-025",
+   "text": "This statement includes User Data, but the last sentence of the clause excludes User Data."
+  },
+  {
+   "paragraphId": "p-027",
+   "text": "Accepted"
+  },
+  {
+   "paragraphId": "p-029",
+   "text": "Authorized User isn’t the correct capitalized term. It is User because an Authorized User (as defined in Section 5.5) is a Provider employees who accesses LargeCo’s systems."
+  },
+  {
+   "paragraphId": "p-029",
+   "text": "Accepted"
+  },
+  {
+   "paragraphId": "p-029",
+   "text": "Corrected Font."
+  },
+  {
+   "paragraphId": "p-033",
+   "text": "Accepted."
+  },
+  {
+   "paragraphId": "p-033",
+   "text": "Corrected Font."
+  },
+  {
+   "paragraphId": "p-033",
+   "text": "We can’t accept this deletion. Any Queries submitted by or delivered to other customers are not part of LargeCo’s Confidential Information and, because that information submitted or received by other customers may be similar, we can’t include that information as part of LargeCo’s Confidential Information. LargeCo doesn’t have a right to that information. ."
+  },
+  {
+   "paragraphId": "p-036",
+   "text": "Duplicate language"
+  },
+  {
+   "paragraphId": "p-036",
+   "text": "Accepted, but you are lowering the standard for us. Is that your intent?"
+  },
+  {
+   "paragraphId": "p-036",
+   "text": "Corrected Font."
+  },
+  {
+   "paragraphId": "p-036",
+   "text": "Accepted. But you are restricting your time frame to object. Is this your intent?"
+  },
+  {
+   "paragraphId": "p-037",
+   "text": "Accepted"
+  },
+  {
+   "paragraphId": "p-037",
+   "text": "Corrected Font"
+  },
+  {
+   "paragraphId": "p-039",
+   "text": "Accepted and removed underline"
+  },
+  {
+   "paragraphId": "p-039",
+   "text": "Corrected Font"
+  },
+  {
+   "paragraphId": "p-041",
+   "text": "Corrected Font."
+  },
+  {
+   "paragraphId": "p-041",
+   "text": "Accepted"
+  },
+  {
+   "paragraphId": "p-042",
+   "text": "Corrected numbering"
+  },
+  {
+   "paragraphId": "p-044",
+   "text": "Because this is a capitalized term, it needs to be capitalized here."
+  },
+  {
+   "paragraphId": "p-044",
+   "text": "We cannot accept this insertion. We do not allow any form of penetration, probing, or scanning because it is indistinguishable from a malicious attack. We can’t allow these activities safely without losing control of our threat model."
+  },
+  {
+   "paragraphId": "p-044",
+   "text": "We deleted this because you added duplicate language."
+  },
+  {
+   "paragraphId": "p-044",
+   "text": "Deleting because you added duplicative language in the next edit."
+  },
+  {
+   "paragraphId": "p-044",
+   "text": "Because this is a capitalized term, we need to capitalize it here."
+  },
+  {
+   "paragraphId": "p-044",
+   "text": "Deleted because you added duplicate language."
+  },
+  {
+   "paragraphId": "p-054",
+   "text": "Corrected Font."
+  },
+  {
+   "paragraphId": "p-054",
+   "text": "Accepted"
+  },
+  {
+   "paragraphId": "p-056",
+   "text": "Corrected formatting"
+  },
+  {
+   "paragraphId": "p-056",
+   "text": "Duplicate language."
+  },
+  {
+   "paragraphId": "p-056",
+   "text": "We already said we will not disclose Confidential information, so this language is redundant."
+  },
+  {
+   "paragraphId": "p-056",
+   "text": "This is inapplicable as we are not granting or being grated a license."
+  },
+  {
+   "paragraphId": "p-057",
+   "text": "You do not have the right to create derivative work, under this agreement therefore you cannot get a license into derivative works."
+  },
+  {
+   "paragraphId": "p-057",
+   "text": "Corrected Font."
+  },
+  {
+   "paragraphId": "p-057",
+   "text": "Corrected formatting"
+  },
+  {
+   "paragraphId": null,
+   "text": "Corrected to comply with rules."
+  },
+  {
+   "paragraphId": "p-060",
+   "text": "Corrected formatting"
+  },
+  {
+   "paragraphId": "p-061",
+   "text": "Corrected formatting."
+  },
+  {
+   "paragraphId": "p-062",
+   "text": "Original language is the same as what was deleted above."
+  },
+  {
+   "paragraphId": "p-062",
+   "text": "Added requested language from the duplicate edit here."
+  },
+  {
+   "paragraphId": "p-063",
+   "text": "Corrected numbering"
+  },
+  {
+   "paragraphId": "p-063",
+   "text": "Accepted"
+  },
+  {
+   "paragraphId": "p-063",
+   "text": "Corrected formatting"
+  },
+  {
+   "paragraphId": "p-064",
+   "text": "Accepted insertion with edits. See below."
+  },
+  {
+   "paragraphId": "p-066",
+   "text": "Corrected reference."
+  },
+  {
+   "paragraphId": "p-066",
+   "text": "Corrected reference."
+  },
+  {
+   "paragraphId": "p-067",
+   "text": "We can only agree to a termination for convenience if it is mutual.  A unilateral termination for convenience creates a material imbalance by allowing you to exit freely while we remain fully committed and exposed. Pricing is based on a baseline level of commitment and mutually necessary to preserve that balance."
+  },
+  {
+   "paragraphId": "p-069",
+   "text": "Corrected reference."
+  },
+  {
+   "paragraphId": "p-076",
+   "text": "Accepted and corrected font"
+  },
+  {
+   "paragraphId": "p-089",
+   "text": "Accepted and corrected font."
+  },
+  {
+   "paragraphId": "p-090",
+   "text": "Corrected Cross reference"
+  },
+  {
+   "paragraphId": "p-090",
+   "text": "Corrected reference"
+  },
+  {
+   "paragraphId": "p-090",
+   "text": "Corrected Format"
+  },
+  {
+   "paragraphId": "p-090",
+   "text": "Corrected font"
+  },
+  {
+   "paragraphId": "p-093",
+   "text": "Corrected formatting"
+  },
+  {
+   "paragraphId": "p-094",
+   "text": "Corrected font and formatting"
+  },
+  {
+   "paragraphId": "p-095",
+   "text": "Corrected Reference."
+  },
+  {
+   "paragraphId": "p-095",
+   "text": "Accepted with edits. We will only allow liability to be capped at 12 times the Service Fee. This is a pilot and $1M is an unreasonable and financially unsound request."
+  },
+  {
+   "paragraphId": "p-096",
+   "text": "5 times the service fee may exceed our cyber insurance limits. As a result, we will $5M"
+  },
+  {
+   "paragraphId": "p-096",
+   "text": "Accepted"
+  },
+  {
+   "paragraphId": "p-099",
+   "text": "You have asked that this be capped under the super cap. We will not agree to leave this uncapped."
+  },
+  {
+   "paragraphId": null,
+   "text": "These damages are inherently speculative, potentially unlimited which would bankrupt a company, and not aligned with the economic framework of this Agreement or available insurance coverage. Removing these breaches from the Indirect damages cap would introduce a disproportionate and unquantifiable risks, which is not commercially reasonable. We have given you a Super Cap for these already. We are not willing to go further."
+  },
+  {
+   "paragraphId": "p-112",
+   "text": "Accepted with corrections to the cross references"
+  },
+  {
+   "paragraphId": "p-118",
+   "text": "Corrected Formatting"
+  },
+  {
+   "paragraphId": "p-162",
+   "text": "Reject Deletion. 99.9% is not proportionate to the nature of the service or the commercial value of the agreement, whereas 99.5% represents a reasonable market-aligned and sustainable reliability commitment."
+  },
+  {
+   "paragraphId": "p-164",
+   "text": "Corrected Font."
+  },
+  {
+   "paragraphId": "p-174",
+   "text": "Willful misconduct, and negligence does not hinge upon materiality. If any willful misconduct or negligence results in downtime, we will not be responsible for it. However, we will apply material to breach of the agreement."
+  },
+  {
+   "paragraphId": "p-174",
+   "text": "Accepted"
+  },
+  {
+   "paragraphId": "p-174",
+   "text": "We can’t allow 30 day notices as some changes may be critical."
+  },
+  {
+   "paragraphId": "p-177",
+   "text": "Rejected. Addition was unnecessary since language was already there."
+  },
+  {
+   "paragraphId": "p-177",
+   "text": "Accepted"
+  },
+  {
+   "paragraphId": "p-178",
+   "text": "Accepted and corrected font and formatting"
+  },
+  {
+   "paragraphId": "p-210",
+   "text": "Accepted"
+  },
+  {
+   "paragraphId": "p-212",
+   "text": "Accepted"
+  },
+  {
+   "paragraphId": "p-222",
+   "text": "Accepted"
+  },
+  {
+   "paragraphId": "p-237",
+   "text": "Accepted"
+  },
+  {
+   "paragraphId": "p-240",
+   "text": "Accepted"
+  },
+  {
+   "paragraphId": "p-242",
+   "text": "Accepted"
+  },
+  {
+   "paragraphId": "p-281",
+   "text": "Accepted"
+  },
+  {
+   "paragraphId": "p-285",
+   "text": "Accepted"
+  },
+  {
+   "paragraphId": "p-287",
+   "text": "Accepted with edits"
+  },
+  {
+   "paragraphId": "p-289",
+   "text": "Accepted"
+  },
+  {
+   "paragraphId": "p-328",
+   "text": "Reject deletion. We will process Customer Data as necessary to provide the service for the duration of the agreement. If you would like us to stop, you can notify us in writing."
+  },
+  {
+   "paragraphId": "p-336",
+   "text": "Accepted"
+  }
+ ]
+}

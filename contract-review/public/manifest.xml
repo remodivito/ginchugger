@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="TaskPaneApp">
+<Id>6adfdcba-509d-4be9-8c16-08c87f72d421</Id><Version>1.0.0.0</Version><ProviderName>GinChugger</ProviderName><DefaultLocale>en-GB</DefaultLocale><DisplayName DefaultValue="GinChugger"/><Description DefaultValue="Review document evidence against provisional guidance. Lawyer controls all edits."/><IconUrl DefaultValue="https://localhost:3443/icon-32.png"/><HighResolutionIconUrl DefaultValue="https://localhost:3443/icon-64.png"/><SupportUrl DefaultValue="https://localhost:3443/help.html"/><Hosts><Host Name="Document"/></Hosts><Requirements><Sets DefaultMinVersion="1.6"><Set Name="WordApi"/></Sets></Requirements><DefaultSettings><SourceLocation DefaultValue="https://localhost:3443/?host=word"/></DefaultSettings><Permissions>ReadWriteDocument</Permissions>
+</OfficeApp>

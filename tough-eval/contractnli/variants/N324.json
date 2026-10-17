@@ -1,0 +1,361 @@
+{
+ "id": "N324",
+ "revision": 1,
+ "title": "ProtectedData-MMD-NonDisclosureAgreementSubmissionInstructions.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 324,
+  "type": "search-pdf",
+  "url": "http://www.caiso.com/Documents/ProtectedData-MMD-NonDisclosureAgreementSubmissionInstructions.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "WECC "
+  },
+  {
+   "id": "s1",
+   "text": "Confidentiality Agreement"
+  },
+  {
+   "id": "s2",
+   "text": "This WECC Confidentiality Agreement (“Agreement”) is entered into by "
+  },
+  {
+   "id": "s3",
+   "text": "__________________________ "
+  },
+  {
+   "id": "s4",
+   "text": "(“Data Recipient”) and is effective as of the date agreed to by Data Recipient. "
+  },
+  {
+   "id": "s5",
+   "text": "Data Recipient agrees to the following terms and conditions pertaining to Non-Public Information."
+  },
+  {
+   "id": "s6",
+   "text": "1. Non-Public Information"
+  },
+  {
+   "id": "s7",
+   "text": "a. Non-Public Information shall include any and all information Data Recipient receives from WECC, including, but not limited to, information received through a login to the WECC website, which:"
+  },
+  {
+   "id": "s8",
+   "text": "i. Is designated as “Confidential Information” or “Market Sensitive Information” or is otherwise considered non-public under the WECC Information Sharing Policy;"
+  },
+  {
+   "id": "s9",
+   "text": "ii. Meets the definition of Confidential Information as set forth in Section 1500 of the North American Electric Reliability Corporation Rules of Procedure; or"
+  },
+  {
+   "id": "s10",
+   "text": "iii. Is identified by WECC as non-public or confidential at the time of disclosure."
+  },
+  {
+   "id": "s11",
+   "text": "b. For the purposes of this Agreement, Non-Public Information shall not include:"
+  },
+  {
+   "id": "s12",
+   "text": "i. Information that is or becomes available in the public domain through no fault or action of Data Recipient;"
+  },
+  {
+   "id": "s13",
+   "text": "ii. Information that was or is acquired by Data Recipient from a source other than WECC in a manner which is not otherwise subject to confidentiality restrictions; or"
+  },
+  {
+   "id": "s14",
+   "text": "iii. Information that was or is independently developed by Data Recipient as demonstrated by Data Recipient’s documentation."
+  },
+  {
+   "id": "s15",
+   "text": "2. Treatment of Non-Public Information"
+  },
+  {
+   "id": "s16",
+   "text": "a. Data Recipient agrees to take all necessary precautions to maintain the confidentiality of the Non-Public Information and to prevent unauthorized access to it."
+  },
+  {
+   "id": "s17",
+   "text": "b. Data Recipient agrees to not make available, disclose, provide or communicate Non-Public Information to any entity or individual, except:"
+  },
+  {
+   "id": "s18",
+   "text": "i. Employees of Data Recipient who "
+  },
+  {
+   "id": "s19",
+   "text": "(1) have signed an acknowledgment of this Agreement or a non-disclosure agreement that covers the Non-Public Information and is at least as restrictive as this Agreement, and "
+  },
+  {
+   "id": "s20",
+   "text": "(2) need the Non-Public Information for performance of a job function subject to the limitation on Market Sensitive Information below;"
+  },
+  {
+   "id": "s21",
+   "text": "ii. Contractors of Data Recipient who "
+  },
+  {
+   "id": "s22",
+   "text": "(1) have signed a non-disclosure agreement that covers the Non-Public Information and is at least as restrictive as this Agreement, and "
+  },
+  {
+   "id": "s23",
+   "text": "(2) need the Non-Public Information for the work being performed subject to the limitation on Market Sensitive Information below. "
+  },
+  {
+   "id": "s24",
+   "text": "In the event Data Recipient shares Non-Public Information with a contractor pursuant to this provision, Data Recipient agrees to be responsible and jointly and severally liable for any breach of confidentiality by that contractor;"
+  },
+  {
+   "id": "s25",
+   "text": "iii. As required by FERC orders, rules or regulations, provided that additional data recipients have signed a non-disclosure agreement that covers the Non-Public Information and is at least as restrictive as this Agreement; or"
+  },
+  {
+   "id": "s26",
+   "text": "iv. As may be otherwise agreed to by WECC in writing."
+  },
+  {
+   "id": "s27",
+   "text": "3. Market Sensitive Information"
+  },
+  {
+   "id": "s28",
+   "text": "a. Data Recipient agrees not to provide or disclose any Market Sensitive Information as identified in the WECC Information Sharing Policy to any person who is "
+  },
+  {
+   "id": "s29",
+   "text": "(1) a Market Function Employee as defined by the FERC Standards of Conduct, or "
+  },
+  {
+   "id": "s30",
+   "text": "(2) actively and personally engaged in day-to-day sales of electric power or other electric power marketing functions."
+  },
+  {
+   "id": "s31",
+   "text": "4. Compelled Disclosures"
+  },
+  {
+   "id": "s32",
+   "text": "a. Notwithstanding anything to the contrary herein, "
+  },
+  {
+   "id": "s33",
+   "text": "Data Recipient may disclose Non-Public Information to a governmental authority as required by law, provided that to the extent permitted by law:"
+  },
+  {
+   "id": "s34",
+   "text": "i. Data Recipient notifies WECC as soon as reasonably possible of the required disclosure;"
+  },
+  {
+   "id": "s35",
+   "text": "ii. Data Recipient does not disclose the Non-Public Information until WECC has had a reasonable opportunity to respond to the required disclosure; and"
+  },
+  {
+   "id": "s36",
+   "text": "iii. Data Recipient cooperates with WECC as reasonably requested by WECC to protect WECC’s interests in the Non-Public Information."
+  },
+  {
+   "id": "s37",
+   "text": "b. If Data Recipient is an entity subject to state or federal freedom of information laws or an employee of such an entity, Data Recipient certifies that the Non-Public Information is eligible for restriction from public disclosure and agrees to:"
+  },
+  {
+   "id": "s38",
+   "text": "i. Restrict the Non-Public Information from public disclosure;"
+  },
+  {
+   "id": "s39",
+   "text": "ii. Notify WECC as soon as reasonably possible of any request for the Non-Public Information; and"
+  },
+  {
+   "id": "s40",
+   "text": "iii. Cooperate with WECC as reasonably requested by WECC to protect WECC’s interests in the Non-Public Information."
+  },
+  {
+   "id": "s41",
+   "text": "5. Disclaimer and Limitations"
+  },
+  {
+   "id": "s42",
+   "text": "a. Neither WECC nor any owner or submitter of the Non-Public Information makes any representation or warranty as to the completeness, accuracy, relevance, or usability of the Non-Public Information. "
+  },
+  {
+   "id": "s43",
+   "text": "All Non-Public Information made available to Data Recipient is made available AS IS AND WITHOUT WARRANTY, EXPRESS OR IMPLIED."
+  },
+  {
+   "id": "s44",
+   "text": "b. There is no obligation on the part of WECC or any owner or submitter of the Non-Public Information to supplement, update, or correct any Non-Public Information, even if the Non-Public Information is supplemented, updated, or corrected for other purposes."
+  },
+  {
+   "id": "s45",
+   "text": "WECC "
+  },
+  {
+   "id": "s46",
+   "text": "Confidentiality Agreement"
+  },
+  {
+   "id": "s47",
+   "text": "c. Use of the Non-Public Information is at Data Recipient’s own risk. "
+  },
+  {
+   "id": "s48",
+   "text": "Neither WECC nor the owner or submitter of the Non-Public Information shall be liable for any damages arising out of the use of the Non-Public Information."
+  },
+  {
+   "id": "s49",
+   "text": "6. Changes in Employment"
+  },
+  {
+   "id": "s50",
+   "text": "a. If at any time during the term of this Agreement Data Recipient or an employee of Data Recipient ceases to be employed by his or her then current employer, Data Recipient agrees to notify WECC within five (5) business days of the change in employment."
+  },
+  {
+   "id": "s51",
+   "text": "b. If at any time during the term of this Agreement Data Recipient or an employee of Data Recipient has a change in job responsibilities such that Data Recipient or an employee of Data Recipient becomes a Market Function Employee, Data Recipient agrees to notify WECC within five (5) business days of the change in employment and to ensure that Data Recipient or such an employee of Data Recipient discontinues accessing or using any Market Sensitive Information as identified in the WECC Information Sharing Policy."
+  },
+  {
+   "id": "s52",
+   "text": "7. Term and Termination"
+  },
+  {
+   "id": "s53",
+   "text": "a. This Agreement shall continue in effect until terminated. "
+  },
+  {
+   "id": "s54",
+   "text": "This Agreement may be terminated by WECC or Data Recipient at any time at their sole discretion."
+  },
+  {
+   "id": "s55",
+   "text": "b. Upon any termination of this Agreement, Data Recipient shall return to WECC all Non-Public Information in Data Recipient’s possession or destroy all Non-Public Information in Data Recipient’s possession and certify to WECC in writing that all Non-Public Information has been returned or destroyed, except as may be otherwise required by law in which case the confidentiality obligations of this Agreement shall survive termination."
+  },
+  {
+   "id": "s56",
+   "text": "8. Miscellaneous "
+  },
+  {
+   "id": "s57",
+   "text": "Terms"
+  },
+  {
+   "id": "s58",
+   "text": "a. This Agreement does not require WECC to disclose any Non-Public Information. "
+  },
+  {
+   "id": "s59",
+   "text": "Neither this Agreement nor any disclosure of Non-Public Information grant Data Recipient any intellectual property rights or licenses to such information. "
+  },
+  {
+   "id": "s60",
+   "text": "Data Recipient agrees to comply with all applicable United States export laws and regulations."
+  },
+  {
+   "id": "s61",
+   "text": "b. This Agreement represents the entire understanding between WECC and Data Recipient related to the Non-Public Information and supersedes all previous communications between WECC and Data Recipient related to this subject. "
+  },
+  {
+   "id": "s62",
+   "text": "This Agreement can only be modified by written agreement executed by WECC and Data Recipient. "
+  },
+  {
+   "id": "s63",
+   "text": "Data "
+  },
+  {
+   "id": "s64",
+   "text": "Recipient may not delegate its duties or obligations under this Agreement without prior written consent from WECC. "
+  },
+  {
+   "id": "s65",
+   "text": "Any attempt to do so is void."
+  },
+  {
+   "id": "s66",
+   "text": "c. This Agreement shall be for the sole benefit of WECC and any owner or submitter of the Non-Public Information. "
+  },
+  {
+   "id": "s67",
+   "text": "This Agreement shall be fully enforceable by WECC and any entity whose Non-Public Information is not treated in accordance with this Agreement."
+  },
+  {
+   "id": "s68",
+   "text": "WECC "
+  },
+  {
+   "id": "s69",
+   "text": "Confidentiality Agreement"
+  },
+  {
+   "id": "s70",
+   "text": "d. If any term or provision of this Agreement is held by a body of competent jurisdiction to be invalid, void, or unenforceable, then "
+  },
+  {
+   "id": "s71",
+   "text": "(1) the remaining provisions of the Agreement shall continue in full force and effect, and "
+  },
+  {
+   "id": "s72",
+   "text": "(2) in lieu of each such term or provision there shall be added as part of this Agreement a clause or provision as similar in terms as possible that is legal, valid and enforceable."
+  },
+  {
+   "id": "s73",
+   "text": "IN WITNESS HEREOF, Data Recipient has read and understands this Agreement and enters into this Agreement voluntarily, wishing to be legally bound."
+  },
+  {
+   "id": "s74",
+   "text": "Data Recipient"
+  },
+  {
+   "id": "s75",
+   "text": "Signature: "
+  },
+  {
+   "id": "s76",
+   "text": "_________________________________________"
+  },
+  {
+   "id": "s77",
+   "text": "Printed: "
+  },
+  {
+   "id": "s78",
+   "text": "___________________________________________"
+  },
+  {
+   "id": "s79",
+   "text": "Company: "
+  },
+  {
+   "id": "s80",
+   "text": "_________________________________________"
+  },
+  {
+   "id": "s81",
+   "text": "Title: "
+  },
+  {
+   "id": "s82",
+   "text": "_____________________________________________"
+  },
+  {
+   "id": "s83",
+   "text": "Date: "
+  },
+  {
+   "id": "s84",
+   "text": "_____________________________________________"
+  },
+  {
+   "id": "s85",
+   "text": "Email: "
+  },
+  {
+   "id": "s86",
+   "text": "_____________________________________________"
+  }
+ ]
+}

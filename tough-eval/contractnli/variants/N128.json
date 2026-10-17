@@ -1,0 +1,665 @@
+{
+ "id": "N128",
+ "revision": 1,
+ "title": "IGC-Non-Disclosure-Agreement-LSE-Sample.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 128,
+  "type": "search-pdf",
+  "url": "https://www.theigc.org/wp-content/uploads/2016/12/IGC-Non-Disclosure-Agreement-LSE-Sample.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "DATED"
+  },
+  {
+   "id": "s2",
+   "text": "NON-DISCLOSURE AGREEMENT BETWEEN LONDON SCHOOL OF ECONOMICS & POLITICAL SCIENCE AND [PARTY 2]"
+  },
+  {
+   "id": "s3",
+   "text": "CONTENTS"
+  },
+  {
+   "id": "s4",
+   "text": "CLAUSE"
+  },
+  {
+   "id": "s5",
+   "text": "1. DEFINITIONS AND INTERPRETATION ........................................................... "
+  },
+  {
+   "id": "s6",
+   "text": "1"
+  },
+  {
+   "id": "s7",
+   "text": "2. OBLIGATIONS OF CONFIDENTIALITY ........................................................... "
+  },
+  {
+   "id": "s8",
+   "text": "3"
+  },
+  {
+   "id": "s9",
+   "text": "3. RETURN OF INFORMATION ............................................................................ "
+  },
+  {
+   "id": "s10",
+   "text": "4"
+  },
+  {
+   "id": "s11",
+   "text": "4. RESERVATION OF RIGHTS AND ACKNOWLEDGEMENT ............................ "
+  },
+  {
+   "id": "s12",
+   "text": "5"
+  },
+  {
+   "id": "s13",
+   "text": "5. WARRANTY AND INDEMNITY ......................................................................... "
+  },
+  {
+   "id": "s14",
+   "text": "5"
+  },
+  {
+   "id": "s15",
+   "text": "6. TERM AND TERMINATION .............................................................................. "
+  },
+  {
+   "id": "s16",
+   "text": "5"
+  },
+  {
+   "id": "s17",
+   "text": "7. ENTIRE AGREEMENT AND VARIATION ......................................................... "
+  },
+  {
+   "id": "s18",
+   "text": "6"
+  },
+  {
+   "id": "s19",
+   "text": "8. NO WAIVER ...................................................................................................... "
+  },
+  {
+   "id": "s20",
+   "text": "6"
+  },
+  {
+   "id": "s21",
+   "text": "9. ASSIGNMENT ................................................................................................... "
+  },
+  {
+   "id": "s22",
+   "text": "6"
+  },
+  {
+   "id": "s23",
+   "text": "10. NOTICES ........................................................................................................... "
+  },
+  {
+   "id": "s24",
+   "text": "7"
+  },
+  {
+   "id": "s25",
+   "text": "11. NO PARTNERSHIP ........................................................................................... "
+  },
+  {
+   "id": "s26",
+   "text": "7"
+  },
+  {
+   "id": "s27",
+   "text": "12. THIRD PARTY RIGHTS .................................................................................... "
+  },
+  {
+   "id": "s28",
+   "text": "7"
+  },
+  {
+   "id": "s29",
+   "text": "13. GOVERNING LAW AND JURISDICTION ......................................................... "
+  },
+  {
+   "id": "s30",
+   "text": "7"
+  },
+  {
+   "id": "s31",
+   "text": "THIS AGREEMENT "
+  },
+  {
+   "id": "s32",
+   "text": "is dated"
+  },
+  {
+   "id": "s33",
+   "text": "PARTIES"
+  },
+  {
+   "id": "s34",
+   "text": "(1) LONDON SCHOOL OF ECONOMICS & POLITICAL SCIENCE a company limited by guarantee incorporated and registered in England and Wales with company number 70527 whose registered office is at Houghton Street, London, WC2A 2AE (\"LSE\"); and"
+  },
+  {
+   "id": "s35",
+   "text": "(2) [FULL COMPANY NAME] incorporated and registered in England and Wales with company number [NUMBER] whose registered office is at [REGISTERED OFFICE ADDRESS] (“Defined Term For Party”)."
+  },
+  {
+   "id": "s36",
+   "text": "BACKGROUND"
+  },
+  {
+   "id": "s37",
+   "text": "Each party wishes to disclose to the other party Confidential Information in relation to the Purpose. "
+  },
+  {
+   "id": "s38",
+   "text": "Each party wishes to ensure that the other party maintains the confidentiality of its Confidential Information."
+  },
+  {
+   "id": "s39",
+   "text": "In consideration of the benefits to the parties of the disclosure of the Confidential Information, the parties have agreed to comply with the following terms in connection with the use and disclosure of Confidential Information."
+  },
+  {
+   "id": "s40",
+   "text": "AGREED TERMS"
+  },
+  {
+   "id": "s41",
+   "text": "1. DEFINITIONS AND INTERPRETATION"
+  },
+  {
+   "id": "s42",
+   "text": "1.1 "
+  },
+  {
+   "id": "s43",
+   "text": "The following definitions and rules of interpretation in this clause apply in this Agreement:"
+  },
+  {
+   "id": "s44",
+   "text": "Business Day means a day (other than a Saturday, Sunday or public holiday) when banks in London are open for business."
+  },
+  {
+   "id": "s45",
+   "text": "Confidential Information means all confidential information (however recorded, preserved or disclosed) disclosed by a party or its Representatives to the other party and that party's Representatives including but not limited to:"
+  },
+  {
+   "id": "s46",
+   "text": "(a) The fact that discussions and negotiations are taking place concerning the Purpose and the status of those discussions and negotiations;"
+  },
+  {
+   "id": "s47",
+   "text": "(b) The existence and terms of this Agreement;"
+  },
+  {
+   "id": "s48",
+   "text": "(c) Any information that would be regarded as confidential by a reasonable business person relating to:"
+  },
+  {
+   "id": "s49",
+   "text": "(i) The business, affairs, customers, clients, suppliers, plans, intentions, or market opportunities of the Disclosing Party; and"
+  },
+  {
+   "id": "s50",
+   "text": "(ii) The operations, processes, product information, know-how, designs, trade secrets or software of the Disclosing Party; and"
+  },
+  {
+   "id": "s51",
+   "text": "(d) Any information or analysis derived from Confidential Information;"
+  },
+  {
+   "id": "s52",
+   "text": "but not including any information that:"
+  },
+  {
+   "id": "s53",
+   "text": "(e) Is or becomes generally available to the public other than as a result of its disclosure by the Recipient or its Representatives in breach of this Agreement or of any other undertaking of confidentiality addressed to the party to whom the information relates (except that any compilation of otherwise public information in a form not publicly known shall nevertheless be treated as Confidential Information); or"
+  },
+  {
+   "id": "s54",
+   "text": "(f) Was available to the Recipient on a non-confidential basis prior to disclosure by the Disclosing Party; or"
+  },
+  {
+   "id": "s55",
+   "text": "(g) Was lawfully in the possession of the Recipient before the information was disclosed to it by the Disclosing Party; or"
+  },
+  {
+   "id": "s56",
+   "text": "(h) The parties agree in writing is not confidential or may be disclosed."
+  },
+  {
+   "id": "s57",
+   "text": "Disclosing Party means a party to this Agreement which discloses or makes available directly or indirectly Confidential Information."
+  },
+  {
+   "id": "s58",
+   "text": "Purpose means [STATE THE PURPOSE, FOR EXAMPLE, THE EVALUATION OR ESTABLISHMENT OF A COLLABORATION IN RESPECT OF A PARTICULAR PROJECT]."
+  },
+  {
+   "id": "s59",
+   "text": "Recipient means a party to this Agreement which receives or obtains directly or indirectly Confidential Information."
+  },
+  {
+   "id": "s60",
+   "text": "Representative means employees, agents, officers, advisers and other representatives of the Recipient."
+  },
+  {
+   "id": "s61",
+   "text": "1.2 "
+  },
+  {
+   "id": "s62",
+   "text": "Clause, schedule and paragraph headings shall not affect the interpretation of this Agreement."
+  },
+  {
+   "id": "s63",
+   "text": "1.3 "
+  },
+  {
+   "id": "s64",
+   "text": "A person includes a natural person, corporate or unincorporated body (whether or not having separate legal personality) and that person's legal and personal representatives, successors and permitted assigns."
+  },
+  {
+   "id": "s65",
+   "text": "1.4 "
+  },
+  {
+   "id": "s66",
+   "text": "Unless the context otherwise requires, words in the singular shall include the plural and in the plural include the singular."
+  },
+  {
+   "id": "s67",
+   "text": "1.5 "
+  },
+  {
+   "id": "s68",
+   "text": "A reference to a statute or statutory provision is a reference to it as it is in force for the time being, taking account of any amendment, extension, or re-enactment, and includes any subordinate legislation for the time being in force made under it."
+  },
+  {
+   "id": "s69",
+   "text": "1.6 "
+  },
+  {
+   "id": "s70",
+   "text": "Any obligation in this Agreement on a person not to do something includes an obligation not to agree or allow that thing to be done."
+  },
+  {
+   "id": "s71",
+   "text": "1.7 References to clauses and schedules are to the clauses and schedules of this Agreement; references to paragraphs are to paragraphs of the relevant schedule."
+  },
+  {
+   "id": "s72",
+   "text": "2. OBLIGATIONS OF CONFIDENTIALITY"
+  },
+  {
+   "id": "s73",
+   "text": "2.1 "
+  },
+  {
+   "id": "s74",
+   "text": "The Recipient shall keep the Disclosing Party's Confidential Information confidential and, except with the prior written consent of the Disclosing Party, shall:"
+  },
+  {
+   "id": "s75",
+   "text": "(a) Warrants and undertake that it is solely responsible for ensuring that the Personal Data is processed by it in accordance with the Data Protection Act 1998 (“the Act”) from the date that it is received from the Disclosing Party;"
+  },
+  {
+   "id": "s76",
+   "text": "(b) Not use or exploit the Confidential Information in any way except for the Purpose. "
+  },
+  {
+   "id": "s77",
+   "text": "If the Recipient proposes to use or process the Personal Data for a purpose other than the Purpose, the Recipient shall ensure that, prior to using or processing the Personal Data in such manner, it will ensure that such use or process is in compliance with the Act;"
+  },
+  {
+   "id": "s78",
+   "text": "(c) Not disclose or make available the Confidential Information in whole or in part to any third party, except as expressly permitted by this Agreement; and"
+  },
+  {
+   "id": "s79",
+   "text": "(d) Not copy, reduce to writing or otherwise record the Confidential Information except as strictly necessary for the Purpose (and any such copies, reductions to writing and records shall be the property of the Disclosing Party)."
+  },
+  {
+   "id": "s80",
+   "text": "2.2 "
+  },
+  {
+   "id": "s81",
+   "text": "The Recipient may disclose the Disclosing Party's Confidential Information to those of its Representatives who need to know this Confidential Information for the Purpose, provided that:"
+  },
+  {
+   "id": "s82",
+   "text": "(a) It informs its Representatives of the confidential nature of the Confidential Information before disclosure;"
+  },
+  {
+   "id": "s83",
+   "text": "(b) It procures that its Representatives shall, in relation to any Confidential Information disclosed to them, comply with this Agreement as if they were the Recipient and, if the Disclosing Party so requests, procure that any relevant Representative enters into a confidentiality agreement with the Disclosing Party on terms equivalent to those contained in this Agreement; and"
+  },
+  {
+   "id": "s84",
+   "text": "(c) It keeps a written record of these Representatives,"
+  },
+  {
+   "id": "s85",
+   "text": "and it shall at all times be liable for the failure of any Representative to comply with the terms of this Agreement."
+  },
+  {
+   "id": "s86",
+   "text": "2.3 "
+  },
+  {
+   "id": "s87",
+   "text": "A party may disclose Confidential Information to the extent such Confidential Information is required to be disclosed by law, by any governmental or other regulatory authority, or by a court or other authority of competent jurisdiction provided that, to the extent it is legally permitted to do so, it gives the other party as much notice of this disclosure as possible."
+  },
+  {
+   "id": "s88",
+   "text": "2.4 "
+  },
+  {
+   "id": "s89",
+   "text": "The Recipient shall establish and maintain adequate security measures (including any reasonable security measures proposed by the Disclosing party from time to time) to safeguard the Confidential Information from unauthorised access or use."
+  },
+  {
+   "id": "s90",
+   "text": "2.5 "
+  },
+  {
+   "id": "s91",
+   "text": "No party shall make, or permit any person to make, any public announcement concerning this Agreement, the Purpose or its prospective interest in the Purpose without the prior written consent of the other party (such consent not to be unreasonably withheld or delayed) except as required by law or any governmental or regulatory authority (including, without limitation, any relevant securities exchange) or by any court or other authority of competent jurisdiction. "
+  },
+  {
+   "id": "s92",
+   "text": "No party shall make use of the other party's name or any information acquired through its dealings with the other party for publicity or marketing purposes without the prior written consent of the other party."
+  },
+  {
+   "id": "s93",
+   "text": "3. RETURN OF INFORMATION"
+  },
+  {
+   "id": "s94",
+   "text": "3.1 "
+  },
+  {
+   "id": "s95",
+   "text": "At the request of the Disclosing Party, the Recipient shall:"
+  },
+  {
+   "id": "s96",
+   "text": "(a) Destroy or return to the Disclosing Party all documents and materials (and any copies) containing, reflecting, incorporating, or based on the Disclosing Party's Confidential Information;"
+  },
+  {
+   "id": "s97",
+   "text": "(b) Erase all the Disclosing Party's Confidential Information from its computer systems or which is stored in electronic form (to the extent possible); and"
+  },
+  {
+   "id": "s98",
+   "text": "(c) Certify in writing to the Disclosing Party that it has complied with the requirements of this clause, provided that a Recipient may retain documents and materials containing, reflecting, incorporating, or based on the Disclosing Party's Confidential Information to the extent required by law or any applicable governmental or regulatory authority and to the extent reasonable to permit the Recipient to keep evidence that it has performed its obligations under this Agreement. "
+  },
+  {
+   "id": "s99",
+   "text": "The provisions of this Agreement shall continue to apply to any documents and materials retained by the Recipient. "
+  },
+  {
+   "id": "s100",
+   "text": "3.2 If the Recipient develops or uses a product or a process which, in the reasonable opinion of the Disclosing Party, might have involved the use of any of the Disclosing Party's Confidential Information, the Recipient shall, at the request of the Disclosing Party, supply to the Disclosing Party information reasonably necessary to establish that the Disclosing Party's Confidential Information has not been used or disclosed."
+  },
+  {
+   "id": "s101",
+   "text": "4. RESERVATION OF RIGHTS AND ACKNOWLEDGEMENT"
+  },
+  {
+   "id": "s102",
+   "text": "4.1 All Confidential Information shall remain the property of the Disclosing Party. "
+  },
+  {
+   "id": "s103",
+   "text": "Each party reserves all rights in its Confidential Information. "
+  },
+  {
+   "id": "s104",
+   "text": "No rights, including, but not limited to, intellectual property rights, in respect of a party's Confidential Information are granted to the other party and no obligations are imposed on the Disclosing Party other than those expressly stated in this Agreement."
+  },
+  {
+   "id": "s105",
+   "text": "4.2 "
+  },
+  {
+   "id": "s106",
+   "text": "Except as expressly stated in this Agreement, no party makes any express or implied warranty or representation concerning its Confidential Information, or the accuracy or completeness of the Confidential Information."
+  },
+  {
+   "id": "s107",
+   "text": "4.3 "
+  },
+  {
+   "id": "s108",
+   "text": "The disclosure of Confidential Information by the Disclosing Party shall not form any offer by, or representation or warranty on the part of, the Disclosing Party to enter into any further agreement."
+  },
+  {
+   "id": "s109",
+   "text": "4.4 "
+  },
+  {
+   "id": "s110",
+   "text": "The Recipient acknowledges that damages alone would not be an adequate remedy for the breach of any of the provisions of this Agreement. "
+  },
+  {
+   "id": "s111",
+   "text": "Accordingly, without prejudice to any other rights and remedies it may have, the Disclosing Party shall be entitled to the granting of equitable relief (including without limitation injunctive relief) concerning any threatened or actual breach of any of the provisions of this Agreement."
+  },
+  {
+   "id": "s112",
+   "text": "5. WARRANTY AND INDEMNITY"
+  },
+  {
+   "id": "s113",
+   "text": "5.1 Each Disclosing "
+  },
+  {
+   "id": "s114",
+   "text": "Party warrants that it has the right to disclose its Confidential Information to the Recipient and to authorise the Recipient to use such Confidential Information for the Purpose."
+  },
+  {
+   "id": "s115",
+   "text": "5.2 Each Recipient shall indemnify and keep fully indemnified the Disclosing Party at all times against all liabilities, costs (including legal costs on an indemnity basis), expenses, damages and losses (including any direct, indirect or consequential losses, loss of profit, loss of reputation and all interest, penalties and other reasonable costs and expenses suffered or incurred by the Disclosing Party) arising from any breach of this Agreement by the Recipient and from the actions or omissions of any Representative of the Recipient."
+  },
+  {
+   "id": "s116",
+   "text": "6. TERM AND TERMINATION"
+  },
+  {
+   "id": "s117",
+   "text": "6.1 "
+  },
+  {
+   "id": "s118",
+   "text": "If either party decides not to become, or continue to be involved in the Purpose with the other party it shall notify the other party in writing immediately. "
+  },
+  {
+   "id": "s119",
+   "text": "The obligations of each party shall, notwithstanding any earlier termination of negotiations or discussions between the parties in relation to the Purpose, continue for a period of two (2) years from the termination of this Agreement."
+  },
+  {
+   "id": "s120",
+   "text": "6.2 Termination of this Agreement shall not affect any accrued rights or remedies to which either party is entitled."
+  },
+  {
+   "id": "s121",
+   "text": "7. ENTIRE AGREEMENT AND VARIATION"
+  },
+  {
+   "id": "s122",
+   "text": "7.1 "
+  },
+  {
+   "id": "s123",
+   "text": "This Agreement constitutes the entire agreement between the Parties and supersedes and extinguishes all previous drafts, agreements, arrangements and understandings between them, whether written or oral, relating to its subject matter."
+  },
+  {
+   "id": "s124",
+   "text": "7.2 Each party agrees that it shall have no remedies in respect of any representation or warranty (whether made innocently or negligently) that is not set out in this Agreement. "
+  },
+  {
+   "id": "s125",
+   "text": "Each party agrees that its only liability in respect of those representations and warranties that are set out in this Agreement (whether made innocently or negligently) shall be for breach of contract."
+  },
+  {
+   "id": "s126",
+   "text": "7.3 "
+  },
+  {
+   "id": "s127",
+   "text": "No variation of this Agreement shall be effective unless it is in writing and signed by each of the Parties (or their authorised representatives)."
+  },
+  {
+   "id": "s128",
+   "text": "8. NO WAIVER"
+  },
+  {
+   "id": "s129",
+   "text": "8.1 Failure to exercise, or any delay in exercising, any right or remedy provided under this Agreement or by law shall not constitute a waiver of that or any other right or remedy, nor shall it preclude or restrict any further exercise of that or any other right or remedy."
+  },
+  {
+   "id": "s130",
+   "text": "8.2 "
+  },
+  {
+   "id": "s131",
+   "text": "No single or partial exercise of any right or remedy provided under this Agreement or by law shall preclude or restrict the further exercise of that or any other right or remedy."
+  },
+  {
+   "id": "s132",
+   "text": "8.3 "
+  },
+  {
+   "id": "s133",
+   "text": "A party that waives a right or remedy provided under this Agreement or by law in relation to another party, or takes or fails to take any action against that party, does not affect its rights in relation to any other party."
+  },
+  {
+   "id": "s134",
+   "text": "9. ASSIGNMENT"
+  },
+  {
+   "id": "s135",
+   "text": "Except as otherwise provided in this Agreement, no party may assign, sub-contract or deal in any way with, any of its rights or obligations under this Agreement or any document referred to in it."
+  },
+  {
+   "id": "s136",
+   "text": "10. NOTICES"
+  },
+  {
+   "id": "s137",
+   "text": "10.1 "
+  },
+  {
+   "id": "s138",
+   "text": "Any notice required to be given under this Agreement, shall be in writing and shall be delivered personally, or sent by pre-paid first class post or recorded delivery or by commercial courier, to each party required to receive the notice at its address as set out below:"
+  },
+  {
+   "id": "s139",
+   "text": "(a) LSE: [CONTACT NAME] "
+  },
+  {
+   "id": "s140",
+   "text": "[ADDRESS]"
+  },
+  {
+   "id": "s141",
+   "text": "(b) [PARTY 2]: [CONTACT NAME] [ADDRESS]"
+  },
+  {
+   "id": "s142",
+   "text": "or as otherwise specified by the relevant party by notice in writing to each other party."
+  },
+  {
+   "id": "s143",
+   "text": "10.2 "
+  },
+  {
+   "id": "s144",
+   "text": "Any notice shall be deemed to have been duly received:"
+  },
+  {
+   "id": "s145",
+   "text": "(a) If delivered personally, when left at the address and for the contact referred to in this clause; or"
+  },
+  {
+   "id": "s146",
+   "text": "(b) If sent by pre-paid first class post or recorded delivery, at 9.00 am on the second Business Day after posting; or"
+  },
+  {
+   "id": "s147",
+   "text": "(c) If delivered by commercial courier, on the date and at the time that the courier's delivery receipt is signed."
+  },
+  {
+   "id": "s148",
+   "text": "10.3 [A notice required to be given under this Agreement shall not be validly given if sent by e-mail.]"
+  },
+  {
+   "id": "s149",
+   "text": "11. NO PARTNERSHIP"
+  },
+  {
+   "id": "s150",
+   "text": "Nothing in this Agreement is intended to, or shall be deemed to, establish any partnership or joint venture between any of the parties, constitute any party the agent of another party, nor authorise any party to make or enter into any commitments for or on behalf of any other party."
+  },
+  {
+   "id": "s151",
+   "text": "12. THIRD PARTY RIGHTS"
+  },
+  {
+   "id": "s152",
+   "text": "A person who is not a party to this Agreement shall not have any rights under or in connection with it."
+  },
+  {
+   "id": "s153",
+   "text": "13. GOVERNING LAW AND JURISDICTION"
+  },
+  {
+   "id": "s154",
+   "text": "13.1 "
+  },
+  {
+   "id": "s155",
+   "text": "This Agreement and any dispute or claim arising out of or in connection with it or its subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with English law."
+  },
+  {
+   "id": "s156",
+   "text": "13.2 "
+  },
+  {
+   "id": "s157",
+   "text": "The parties irrevocably agree that the courts of England and Wales shall have non-exclusive jurisdiction to settle any dispute or claim that arises out of or in connection with this Agreement or its subject matter or formation (including non-contractual disputes or claims)."
+  },
+  {
+   "id": "s158",
+   "text": "This Agreement has been entered into on the date stated at the beginning of it."
+  },
+  {
+   "id": "s159",
+   "text": "Signed by Andrew Webb for and on behalf of LSE ....................................... "
+  },
+  {
+   "id": "s160",
+   "text": "Acting School Secretary"
+  },
+  {
+   "id": "s161",
+   "text": "Signed by [NAME OF DIRECTOR] for and on behalf of [NAME OF ....................................... "
+  },
+  {
+   "id": "s162",
+   "text": "DEFINED TERM FOR PARTY] "
+  },
+  {
+   "id": "s163",
+   "text": "[title]"
+  }
+ ]
+}

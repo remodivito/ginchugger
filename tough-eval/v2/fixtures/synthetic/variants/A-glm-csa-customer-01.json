@@ -1,0 +1,48 @@
+{
+ "id": "A-glm-csa-customer-01",
+ "revision": 1,
+ "title": "Cloud Service Agreement (synthetic fixture)",
+ "paragraphs": [
+  {
+   "id": "p1",
+   "text": "Cloud Service Agreement"
+  },
+  {
+   "id": "p2",
+   "text": "Key Terms between Northgate Systems Ltd (\"Provider\") and Fairhaven Retail Ltd (\"Customer\")."
+  },
+  {
+   "id": "p3",
+   "text": "General Cap Amount: 1x the Fees paid or payable by Customer in the 12 months before the claim."
+  },
+  {
+   "id": "p4",
+   "text": "Payment Period: 30 days from the invoice date."
+  },
+  {
+   "id": "p5",
+   "text": "Term: The Agreement starts on the Effective Date and continues for 12 months."
+  },
+  {
+   "id": "p6",
+   "text": "Security. Provider will maintain reasonable administrative, physical and technical safeguards to protect Customer Content."
+  },
+  {
+   "id": "p7",
+   "text": "Breach notice. Provider will notify Customer of any Security Breach without undue delay and in any event within 72 hours."
+  },
+  {
+   "id": "p8",
+   "text": "Definitions. \"Customer Content\" means data that Customer designates in writing as confidential."
+  },
+  {
+   "id": "p9",
+   "text": "Governing Law: the laws of England and Wales."
+  },
+  {
+   "id": "p10",
+   "text": "Liability. Each party's total liability under this Agreement will not exceed the General Cap Amount."
+  }
+ ],
+ "canary": "5f0c1e2a-9b7d-4c3e-8a61-0d2f4b6c8e10"
+}

@@ -1,0 +1,217 @@
+{
+ "format": "ginchugger-store-seed/1",
+ "note": "Tools smoke fixture on the flat store (plan task 10), converted from seed.json (the record seed, kept for the trail): fictional parties, written for this prototype. Quillon has an earlier NDA signed in 2025 where five years was accepted, and our 2026 draft; Merrow Bay is another counterparty that was conceded seven years. Our standard NDA is held as a document tagged 'standard form'.",
+ "documents": [
+  {
+   "key": "standard-form-nda",
+   "title": "Helix standard mutual NDA",
+   "counterparty": null,
+   "type": "NDA",
+   "created": "2025-01-01",
+   "tags": [
+    "standard form"
+   ],
+   "notes": [
+    "Our standard form for NDAs."
+   ],
+   "paragraphs": [
+    {
+     "id": "s1",
+     "text": "Mutual Non-Disclosure Agreement between Helix Analytics Ltd and [Counterparty]."
+    },
+    {
+     "id": "s2",
+     "text": "Purpose. Each party may use the other's Confidential Information solely to evaluate [the proposed relationship]."
+    },
+    {
+     "id": "s3",
+     "text": "Term. The obligations in this Agreement continue for three years after termination."
+    },
+    {
+     "id": "s4",
+     "text": "Retention. A party may keep copies in routine backups or as the law requires, and those copies remain subject to this Agreement."
+    },
+    {
+     "id": "s5",
+     "text": "Governing law. This Agreement is governed by the laws of England and Wales."
+    }
+   ]
+  },
+  {
+   "key": "m-quillon-2025#1",
+   "title": "Quillon NDA 2025 - our draft 1",
+   "counterparty": "Quillon Instruments Ltd",
+   "type": "NDA",
+   "created": "2025-02-03",
+   "tags": [],
+   "paragraphs": [
+    {
+     "id": "p1",
+     "text": "Mutual Non-Disclosure Agreement between Helix Analytics Ltd and Quillon Instruments Ltd."
+    },
+    {
+     "id": "p2",
+     "text": "Purpose. Each party may use the other's Confidential Information solely to evaluate a possible supply of calibration services."
+    },
+    {
+     "id": "p3",
+     "text": "Term. The obligations in this Agreement continue for three years after termination."
+    },
+    {
+     "id": "p4",
+     "text": "Retention. A party may keep copies in routine backups or as the law requires, and those copies remain subject to this Agreement."
+    },
+    {
+     "id": "p5",
+     "text": "Governing law. This Agreement is governed by the laws of England and Wales."
+    }
+   ]
+  },
+  {
+   "key": "m-quillon-2025#2",
+   "title": "Quillon NDA 2025 - their markup 2",
+   "counterparty": "Quillon Instruments Ltd",
+   "type": "NDA",
+   "created": "2025-02-17",
+   "tags": [],
+   "paragraphs": [
+    {
+     "id": "p1",
+     "text": "Mutual Non-Disclosure Agreement between Helix Analytics Ltd and Quillon Instruments Ltd."
+    },
+    {
+     "id": "p2",
+     "text": "Purpose. Each party may use the other's Confidential Information solely to evaluate a possible supply of calibration services."
+    },
+    {
+     "id": "p3",
+     "text": "Term. The obligations in this Agreement continue for five years after termination.",
+     "originalText": "Term. The obligations in this Agreement continue for three years after termination."
+    },
+    {
+     "id": "p4",
+     "text": "Retention. A party may keep copies in routine backups or as the law requires, and those copies remain subject to this Agreement."
+    },
+    {
+     "id": "p5",
+     "text": "Governing law. This Agreement is governed by the laws of England and Wales."
+    }
+   ]
+  },
+  {
+   "key": "m-quillon-2025#2-email",
+   "title": "Quillon comments on the NDA",
+   "counterparty": "Quillon Instruments Ltd",
+   "type": "Email",
+   "created": "2025-02-17",
+   "email": {
+    "from": "legal@quillon.example",
+    "to": "legal@helix.example",
+    "subject": "Quillon comments on the NDA",
+    "date": "2025-02-17T09:28:00Z",
+    "text": "We need five years because our calibration data stays sensitive for that long. Everything else is fine."
+   }
+  },
+  {
+   "key": "m-quillon-2025#3",
+   "title": "Quillon NDA 2025 - our draft 3",
+   "counterparty": "Quillon Instruments Ltd",
+   "type": "NDA",
+   "created": "2025-02-20",
+   "tags": [
+    "signed"
+   ],
+   "paragraphs": [
+    {
+     "id": "p1",
+     "text": "Mutual Non-Disclosure Agreement between Helix Analytics Ltd and Quillon Instruments Ltd."
+    },
+    {
+     "id": "p2",
+     "text": "Purpose. Each party may use the other's Confidential Information solely to evaluate a possible supply of calibration services."
+    },
+    {
+     "id": "p3",
+     "text": "Term. The obligations in this Agreement continue for five years after termination."
+    },
+    {
+     "id": "p4",
+     "text": "Retention. A party may keep copies in routine backups or as the law requires, and those copies remain subject to this Agreement."
+    },
+    {
+     "id": "p5",
+     "text": "Governing law. This Agreement is governed by the laws of England and Wales."
+    }
+   ]
+  },
+  {
+   "key": "m-merrow-2025#1",
+   "title": "Merrow Bay NDA 2025 - our draft 1",
+   "counterparty": "Merrow Bay Logistics Ltd",
+   "type": "NDA",
+   "created": "2025-06-02",
+   "tags": [],
+   "paragraphs": [
+    {
+     "id": "p1",
+     "text": "Mutual Non-Disclosure Agreement between Helix Analytics Ltd and Merrow Bay Logistics Ltd."
+    },
+    {
+     "id": "p3",
+     "text": "Term. The obligations in this Agreement continue for three years after termination."
+    }
+   ]
+  },
+  {
+   "key": "m-merrow-2025#2",
+   "title": "Merrow Bay NDA 2025 - their markup 2",
+   "counterparty": "Merrow Bay Logistics Ltd",
+   "type": "NDA",
+   "created": "2025-06-10",
+   "tags": [
+    "signed"
+   ],
+   "paragraphs": [
+    {
+     "id": "p1",
+     "text": "Mutual Non-Disclosure Agreement between Helix Analytics Ltd and Merrow Bay Logistics Ltd."
+    },
+    {
+     "id": "p3",
+     "text": "Term. The obligations in this Agreement continue for seven years after termination.",
+     "originalText": "Term. The obligations in this Agreement continue for three years after termination."
+    }
+   ]
+  },
+  {
+   "key": "m-quillon-2026#1",
+   "title": "Quillon NDA 2026 (service pilot) - our draft 1",
+   "counterparty": "Quillon Instruments Ltd",
+   "type": "NDA",
+   "created": "2026-09-01",
+   "tags": [],
+   "paragraphs": [
+    {
+     "id": "p1",
+     "text": "Mutual Non-Disclosure Agreement between Helix Analytics Ltd and Quillon Instruments Ltd."
+    },
+    {
+     "id": "p2",
+     "text": "Purpose. Each party may use the other's Confidential Information solely to evaluate a possible pilot of remote calibration services."
+    },
+    {
+     "id": "p3",
+     "text": "Term. The obligations in this Agreement continue for three years after termination."
+    },
+    {
+     "id": "p4",
+     "text": "Retention. A party may keep copies in routine backups or as the law requires, and those copies remain subject to this Agreement."
+    },
+    {
+     "id": "p5",
+     "text": "Governing law. This Agreement is governed by the laws of England and Wales."
+    }
+   ]
+  }
+ ]
+}

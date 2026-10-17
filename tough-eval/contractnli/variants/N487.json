@@ -1,0 +1,269 @@
+{
+ "id": "N487",
+ "revision": 1,
+ "title": "1105503_0000950123-00-006736_ex10-14.txt",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 487,
+  "type": "sec-text",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001105503/000095012300006736/0000950123-00-006736.txt"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "This Agreement is made and entered into by and between NATIONAL NETWORK TECHNOLOGIES, LLC, a Delaware limited liability company, and its affiliates (collectively \"NNT\"), and LEVEL 3 COMMUNICATIONS, LLC a Delaware limited liability company, and its affiliates (collectively \"LEVEL 3\") (each being a \"party\" or collective \"parties\")."
+  },
+  {
+   "id": "s2",
+   "text": "1. DISCLOSURE. "
+  },
+  {
+   "id": "s3",
+   "text": "The parties intend to engage in discussions concerning a potential business relationship (the \"Proposed Relationship\"). "
+  },
+  {
+   "id": "s4",
+   "text": "In connection therewith, Level 3 and NNT may disclose to each other technical, financial and/or other information, material, or data which is written, oral or in any other form, electronic or otherwise (collectively \"Data\") which is considered confidential and proprietary."
+  },
+  {
+   "id": "s5",
+   "text": "2. CONFIDENTIAL DATA. \"Confidential Data\" means "
+  },
+  {
+   "id": "s6",
+   "text": "(a) any Data disclosed by or on behalf of a party (\"disclosing party\") to the other party (\"receiving party\"), including, without limitation, "
+  },
+  {
+   "id": "s7",
+   "text": "(i) any materials, trade secrets, know-how, formulas, processes, algorithms, ideas, strategies, inventions, data, network configurations, system architecture, designs, flow charts, drawings, proprietary information, business and marketing plans, financial and operational information, and all other non-public information, material or data relating to the current and/or future business and operations of the disclosing party, and "
+  },
+  {
+   "id": "s8",
+   "text": "(ii) any information, material or data provided by third party vendors of the disclosing party; and "
+  },
+  {
+   "id": "s9",
+   "text": "(b) any analyses, compilations, studies, summaries, extracts or other documentation prepared by the receiving party based on the Data disclosed by the disclosing party."
+  },
+  {
+   "id": "s10",
+   "text": "3. PUBLIC DATA. "
+  },
+  {
+   "id": "s11",
+   "text": "Notwithstanding any other provision of this Agreement, Data shall not be, or shall cease to be, Confidential Data hereunder: "
+  },
+  {
+   "id": "s12",
+   "text": "(a) if such Data is known to the receiving party prior to disclosure thereof by the disclosing party; "
+  },
+  {
+   "id": "s13",
+   "text": "(b) after such Data is published or becomes available to others, without restriction and without breach of this Agreement by the receiving party; "
+  },
+  {
+   "id": "s14",
+   "text": "(c) after such Data becomes available to the receiving party from others having no obligation to hold such Data in confidence; or "
+  },
+  {
+   "id": "s15",
+   "text": "(d) if such Data is developed by the receiving party independently of any disclosure of such Data by the disclosing party."
+  },
+  {
+   "id": "s16",
+   "text": "4. NON-DISCLOSURE OBLIGATION. "
+  },
+  {
+   "id": "s17",
+   "text": "Unless otherwise agreed to in writing by the disclosing party, the receiving party agrees "
+  },
+  {
+   "id": "s18",
+   "text": "(a) not to disclose the Confidential Data; "
+  },
+  {
+   "id": "s19",
+   "text": "(b) use the same degree of care and diligence to protect such Confidential Data from disclosure to others as such party employs or should reasonably employ to so protect its own information of like importance (but in no event less than reasonable care); and "
+  },
+  {
+   "id": "s20",
+   "text": "(c) not to reproduce or copy the Confidential Data, in whole or in part, except as necessary for the evaluation or conduct of the Proposed Relationship. "
+  },
+  {
+   "id": "s21",
+   "text": "Notwithstanding the foregoing, the receiving party may disclose the Confidential Data, to such of the receiving party's consultants, agents and affiliates (collectively \"receiving party representative\") which the receiving party reasonably and in good faith believes should be involved in the evaluation or performance of the Proposed Relationship, provided such receiving party representative is informed of this Agreement and agrees to be bound by the terms hereof, and the receiving party uses best efforts to cause the receiving party representative to observe the terms of this Agreement. "
+  },
+  {
+   "id": "s22",
+   "text": "The receiving party agrees that a breach of this Agreement by a receiving party representative shall constitute a breach by the receiving party. "
+  },
+  {
+   "id": "s23",
+   "text": "In the event that the receiving party is required by applicable law, rule, regulation or lawful order or ruling of any court, government agency or regulatory commission to disclose any Confidential Data, the receiving party agrees that it will provide the disclosing party with prompt notice of such request(s) to enable the disclosing party to seek an appropriate protective order or to take steps to protect the confidentiality of such Confidential Data."
+  },
+  {
+   "id": "s24",
+   "text": "5. NO ADDITIONAL RIGHTS. "
+  },
+  {
+   "id": "s25",
+   "text": "The receiving party shall not have any rights or obligations respecting the Confidential Data other than those specifically set forth in this Agreement. "
+  },
+  {
+   "id": "s26",
+   "text": "Without limiting the generality of any other provision of this Agreement: "
+  },
+  {
+   "id": "s27",
+   "text": "(a) no license is hereby or otherwise granted, directly or indirectly, under any patent, copyright or other proprietary right of the disclosing party or its third party vendors; and "
+  },
+  {
+   "id": "s28",
+   "text": "(b) neither party shall be obligated to disclose Data to the other party or to enter into any further agreements relating to the Proposed Relationship or Data. "
+  },
+  {
+   "id": "s29",
+   "text": "A party may terminate discussions regarding the Proposed Relationship at any time. "
+  },
+  {
+   "id": "s30",
+   "text": "The receiving party shall, upon written request of the disclosing party, return to the disclosing party all Confidential Data, including all copies thereof, disclosed hereunder. "
+  },
+  {
+   "id": "s31",
+   "text": "The receiving party's obligations under this Agreement respecting the Confidential Data shall survive termination of said discussions."
+  },
+  {
+   "id": "s32",
+   "text": "6. INJUNCTIVE RELIEF. "
+  },
+  {
+   "id": "s33",
+   "text": "Both parties acknowledge and agree that the disclosing party and/or its third party vendors (as the case may be) own all rights, title and interest in the Confidential Data. "
+  },
+  {
+   "id": "s34",
+   "text": "Both parties further acknowledge and agree that the unauthorized disclosure of the Confidential Data will cause irreparable harm to the disclosing party. "
+  },
+  {
+   "id": "s35",
+   "text": "As a result of the unique nature of the Confidential Data, in addition to all other remedies available, the disclosing party shall be entitled to seek injunctive and other extraordinary relief in a court of competent jurisdiction in order to enforce the receiving party's obligations hereunder."
+  },
+  {
+   "id": "s36",
+   "text": "7. OTHER PROVISIONS. "
+  },
+  {
+   "id": "s37",
+   "text": "The parties further agree that: "
+  },
+  {
+   "id": "s38",
+   "text": "(a) this Agreement shall be governed by the laws of the State of Nebraska; "
+  },
+  {
+   "id": "s39",
+   "text": "(b) this Agreement sets forth the entire agreement and understanding between the parties with respect to the subject matter hereof, and none of the terms of this Agreement may be amended or modified except by a written instrument signed by both parties; "
+  },
+  {
+   "id": "s40",
+   "text": "(c) a party may waive any rights under this Agreement only by written waiver duly signed by such party, and no failure to exercise or delay in exercising a right under this Agreement shall constitute a waiver of such right; "
+  },
+  {
+   "id": "s41",
+   "text": "(d) this Agreement shall inure only to the benefit of the parties hereto, and the rights and obligations of each party under this Agreement may not be assigned or delegated without the consent of the other party; "
+  },
+  {
+   "id": "s42",
+   "text": "(e) no provision of this Agreement shall affect, limit or restrict either party's right to engage in any business in any place and at any time, whatsoever, provided the receiving party does not disclose the Confidential Data in violation of this Agreement; "
+  },
+  {
+   "id": "s43",
+   "text": "(f) each party agrees not to advertise, or otherwise make known to others, any information regarding this Agreement or the Proposed Relationship except as may be required by law; "
+  },
+  {
+   "id": "s44",
+   "text": "(g) neither party makes any representations or warranties as to the accuracy or completeness of any Data disclosed hereunder; "
+  },
+  {
+   "id": "s45",
+   "text": "(h) the invalidity or unenforceability of any provision of this Agreement shall not affect the validity or enforceability of any other provision of this Agreement; "
+  },
+  {
+   "id": "s46",
+   "text": "(i) all notices under this Agreement must be in writing and shall be deemed to have been delivered to and received by a party, and will otherwise become effective, on the date of actual delivery thereof (by personal delivery, express delivery service or certified mail) to the Notice Address of such party set forth below; "
+  },
+  {
+   "id": "s47",
+   "text": "(j) this Agreement may be executed in counterparts; and "
+  },
+  {
+   "id": "s48",
+   "text": "(k) this Agreement is dated for all reference purposes October 14, 1998."
+  },
+  {
+   "id": "s49",
+   "text": "LEVEL 3 COMMUNICATIONS, LLC NATIONAL NETWORK"
+  },
+  {
+   "id": "s50",
+   "text": "(\"LEVEL 3\") TECHNOLOGIES, LLC (\"NNT\")"
+  },
+  {
+   "id": "s51",
+   "text": "By: "
+  },
+  {
+   "id": "s52",
+   "text": "_______________________________ "
+  },
+  {
+   "id": "s53",
+   "text": "By: "
+  },
+  {
+   "id": "s54",
+   "text": "______________________________"
+  },
+  {
+   "id": "s55",
+   "text": "Name: "
+  },
+  {
+   "id": "s56",
+   "text": "_____________________________ "
+  },
+  {
+   "id": "s57",
+   "text": "Name: "
+  },
+  {
+   "id": "s58",
+   "text": "____________________________"
+  },
+  {
+   "id": "s59",
+   "text": "Notice Address: Notice Address:"
+  },
+  {
+   "id": "s60",
+   "text": "3555 Farnam Street 26 Broadway"
+  },
+  {
+   "id": "s61",
+   "text": "Suite 200 Suite 400"
+  },
+  {
+   "id": "s62",
+   "text": "Omaha, Nebraska 68131 New York, New York 10005"
+  },
+  {
+   "id": "s63",
+   "text": "Attn: General Counsel Attn: Larry Lundy"
+  }
+ ]
+}

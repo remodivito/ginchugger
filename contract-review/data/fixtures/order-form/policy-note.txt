@@ -1,0 +1,12 @@
+Order forms on our paper: policy note (demonstration only; fictional; not any organisation's policy and not lawyer validated)
+
+This note is for the demonstration of playbook generation. It describes the positions of a fictional software supplier when a customer returns its standard order form with changes.
+
+1. Payment. We ask for payment of undisputed invoices within 30 days. Up to 60 days is acceptable without escalation. Anything longer needs approval from the finance director.
+2. Price changes. We keep the right to increase fees at renewal on 90 days' notice, capped at 5% a year. A lower cap of no less than 3% is acceptable. A price freeze beyond the first term needs approval from the sales director.
+3. Renewal. Subscriptions renew automatically for 12 months unless either party gives 60 days' notice. A shorter notice period of no less than 30 days is acceptable.
+4. Termination for convenience. We do not offer termination for convenience during a subscription term. A customer request for it goes to the general counsel, and any refund of prepaid fees is a hard line we do not cross without the general counsel's written approval.
+5. Liability. Each party's liability is capped at the fees paid and payable in a 12-month period. Up to twice that amount is acceptable. Uncapped liability other than what the law does not allow us to limit is a hard line.
+6. Indemnity. We defend third-party intellectual property claims about our software. Wider indemnities go to the general counsel.
+7. Customer terms. The customer's purchase order terms never apply to our order form. This is a hard line.
+8. Governing law. English law and the courts of England and Wales. Another law needs approval from the general counsel.

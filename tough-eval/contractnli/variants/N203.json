@@ -1,0 +1,705 @@
+{
+ "id": "N203",
+ "revision": 1,
+ "title": "NDA-Instructions-Agreement-Attachment.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 203,
+  "type": "search-pdf",
+  "url": "http://tjpa.org/uploads/2017/01/NDA-Instructions-Agreement-Attachment.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "SECTION 01 35 70/AT1 – NON-DISCLOSURE AGREEMENT FOR BIDDERS AND CONTRACTORS & INSTRUCTIONS"
+  },
+  {
+   "id": "s1",
+   "text": "Contract Documents and reference documents for the Bus Storage Project may contain protected information pertaining to sensitive, financial, commercial, or proprietary business information and/or the security of the Project. "
+  },
+  {
+   "id": "s2",
+   "text": "Such protected information is classified as Confidential Information, Sensitive Security Information (SSI), or Protected Critical Infrastructure Information (PCII). "
+  },
+  {
+   "id": "s3",
+   "text": "Bidders and Trade Subcontractors shall follow the procedures for the safeguarding of protected information specified in Section 01 35 70, Document Control Procedure for Protected Information."
+  },
+  {
+   "id": "s4",
+   "text": "Bid Plans and Specifications and reference documents (collectively, “project documents”) may be obtained as follows:"
+  },
+  {
+   "id": "s5",
+   "text": "1. Project documents that do not contain any SSI are available for viewing and purchase from ARC Northern California via its online planroom. "
+  },
+  {
+   "id": "s6",
+   "text": "ARC’s online planroom can be accessed from the contract page of the TJPA’s website at www.transbaycenter.org."
+  },
+  {
+   "id": "s7",
+   "text": "2. Project documents containing SSI are available to Bidders for viewing, downloading, and printing at the TJPA’s secure website after the Bidder has submitted a signed Non-Disclosure Agreement (NDA) and list of Designated Individuals to the TJPA. "
+  },
+  {
+   "id": "s8",
+   "text": "The TJPA’s NDA and a template for the Designated Individuals list may be downloaded from the relevant contract page of the TJPA’s website at www.transbaycenter.org, and the completed forms uploaded using the “upload” button on the same page. "
+  },
+  {
+   "id": "s9",
+   "text": "A unique login will be provided to each Designated Individual granted access to the TJPA’s secure website. "
+  },
+  {
+   "id": "s10",
+   "text": "Refer to the attachment to this Section 01 35 70/AT1 for a list of Plans and Specifications containing SSI."
+  },
+  {
+   "id": "s11",
+   "text": "3. Bidders may purchase printed sets of Bid Plans and Specifications from ARC Northern California’s planroom."
+  },
+  {
+   "id": "s12",
+   "text": "In accordance with Section 01 35 70, Document Control Procedure for Protected Information, Bidder shall not provide documents containing SSI to unauthorized individuals, planrooms, or printers. "
+  },
+  {
+   "id": "s13",
+   "text": "Planrooms and printers other than ARC Northern California must be authorized by the TJPA to print SSI. "
+  },
+  {
+   "id": "s14",
+   "text": "Bidders are obligated to ensure that they have obtained and/or reviewed all documents necessary to prepare and submit a complete bid."
+  },
+  {
+   "id": "s15",
+   "text": "END OF SECTION 01 35 70/AT1"
+  },
+  {
+   "id": "s16",
+   "text": "SPECIFICATION ISSUE LOG"
+  },
+  {
+   "id": "s17",
+   "text": "Revision Date"
+  },
+  {
+   "id": "s18",
+   "text": "A October 31, 2016"
+  },
+  {
+   "id": "s19",
+   "text": "01 35 70/ATI – NON-DISCLOSURE AGREEMENTFOR BIDDERS AND CONTRACTORS"
+  },
+  {
+   "id": "s20",
+   "text": "I, "
+  },
+  {
+   "id": "s21",
+   "text": "_______________________________, the Designated Individual by and for ___________________ (“Contractor”), intending to be legally bound, hereby consent to the terms in this Non-Disclosure Agreement for Bidders and Contractors (the “Agreement”) in consideration of my being granted conditional access to certain Confidential Information, Sensitive Security Information (“SSI”), and Protected Critical Infrastructure Information (“PCII”), as defined below, that may be owned by, produced by or for, or in the possession of the Transbay Joint Powers Authority (“TJPA”) relating to the Bus Storage Project (the “Project”). "
+  },
+  {
+   "id": "s22",
+   "text": "The classification of information as Confidential Information, SSI, and/or PCII is made by the TJPA and/or the United States Department of Transportation and the United States Department of Homeland Security (Transportation Security Administration)."
+  },
+  {
+   "id": "s23",
+   "text": "The TJPA recognizes the need to share certain Confidential Information, SSI, and/or PCII with the Designated Individual and Contractor to allow them to prepare and submit a bid for a portion of the work at the Project and/or perform a portion of the work at the Project. "
+  },
+  {
+   "id": "s24",
+   "text": "The Designated Individual and Contractor acknowledge that in order for them to perform their duties and/or obligations with regard to preparing and submitting a bid or performing their work at the Project, they may require access to certain Confidential Information, SSI, and/or PCII, and that the TJPA, by granting the Designated Individual access to such information, has placed a special confidence and trust in him/her to ensure that such information is not subject to unauthorized disclosure and use. "
+  },
+  {
+   "id": "s25",
+   "text": "Therefore, for good and valuable consideration, the receipt of which is hereby acknowledged, the Designated Individual, for himself/herself and on behalf of the Contractor, agrees as follows:"
+  },
+  {
+   "id": "s26",
+   "text": "1. Applicable Definitions."
+  },
+  {
+   "id": "s27",
+   "text": "a. Confidential Information. "
+  },
+  {
+   "id": "s28",
+   "text": "As used herein, the term “Confidential Information” includes "
+  },
+  {
+   "id": "s29",
+   "text": "(1) information that contains sensitive financial, commercial, or other proprietary business information concerning or relating to the TJPA or the Project; "
+  },
+  {
+   "id": "s30",
+   "text": "(2) information that contains sensitive financial, commercial, or other proprietary business information received from third parties under Non-Disclosure and/or Confidentiality Agreements; or "
+  },
+  {
+   "id": "s31",
+   "text": "(3) information that the TJPA has determined, in its sole discretion, to constitute confidential, privileged, sensitive, or proprietary information concerning the Project’s security, operations, or facilities."
+  },
+  {
+   "id": "s33",
+   "text": "b. Sensitive Security Information or SSI. "
+  },
+  {
+   "id": "s34",
+   "text": "As used herein, the terms “Sensitive Security Information” or “SSI” includes information about security, operations, facilities or other assets or capital projects whose disclosure would be detrimental to the security of TJPA’s employees or patrons, or would invade an individual’s privacy, or reveal trade secrets or privileged or confidential information."
+  },
+  {
+   "id": "s35",
+   "text": "c. Protected Critical Infrastructure Information or PCII. "
+  },
+  {
+   "id": "s36",
+   "text": "As used herein, the terms “Protected Critical"
+  },
+  {
+   "id": "s37",
+   "text": "Infrastructure Information” or “PCII” includes information that is not customarily in the public domain and relates to the security of critical infrastructure or protected systems and includes information regarding systems, facilities, or operational security, or that is proprietary, business sensitive, or which might be used to identify a person who submits such information to a federal agency, such as the Department of Homeland Security."
+  },
+  {
+   "id": "s38",
+   "text": "d. Specification. "
+  },
+  {
+   "id": "s39",
+   "text": "As used herein, the term “Specification” refers to the Specification set forth in Section 01 35 70, entitled “Document Control Procedure For Protected Information” (“TJPA’s Document Control Procedure”)."
+  },
+  {
+   "id": "s40",
+   "text": "2. Non-Disclosure Of Confidential Information, SSI, Or PCII."
+  },
+  {
+   "id": "s41",
+   "text": "Confidential Information, SSI, and PCII shall be held and treated in the strictest confidence in a manner designed to prevent the unauthorized disclosure to third parties. "
+  },
+  {
+   "id": "s42",
+   "text": "Confidential Information, SSI, and PCII may appear in records in written or electronic form, including but not limited to, drawings, photographs, schematics, plans, memorandums, reports, emails, videos, tape recordings, and Powerpoint presentations. "
+  },
+  {
+   "id": "s43",
+   "text": "Confidential Information, SSI, and/or PCII shall not be disclosed to third parties without the express written permission of the Executive Director of the TJPA or her designee; and if such permission is granted, then said information will be provided only upon the execution of a Non-Disclosure Agreement by that third party."
+  },
+  {
+   "id": "s44",
+   "text": "If at any time Confidential Information, SSI, or PCII is disclosed in violation of this Agreement, including but not limited to any loss, theft, misuse, misplacement, unauthorized disclosure, or other security violation that the Designated Individual has knowledge of (whether or not he/she is personally involved), the Designated Individual shall immediately give the TJPA written notice of that fact and a detailed account of the circumstances regarding such disclosure. "
+  },
+  {
+   "id": "s45",
+   "text": "The Designated Individual’s anonymity shall be kept to the extent possible when reporting security violations."
+  },
+  {
+   "id": "s46",
+   "text": "3. Use and Handling of Information."
+  },
+  {
+   "id": "s47",
+   "text": "Confidential Information, SSI, or PCII so marked shall be used solely for the purpose of preparing and submitting a bid for a portion of the work at the Project and/or performing work at the Project, and shall not be used for any other purpose without the express written consent by the Executive Director of the TJPA or her designee."
+  },
+  {
+   "id": "s48",
+   "text": "Confidential Information, SSI, and PCII shall be handled and safeguarded by the Designated Individual in a manner that affords sufficient protection to prevent the unauthorized disclosure of or access to such information, consistent with the laws, regulations, or directives applicable to the specific categories of information."
+  },
+  {
+   "id": "s49",
+   "text": "The Designated Individual shall not alter or remove the protective markings of “Confidential Information,” “Sensitive Security Information,” or “Protected Critical Infrastructure Information,” which may appear on documents that the Designated Individual reviews. "
+  },
+  {
+   "id": "s50",
+   "text": "Confidential Information, SSI, or PCII may be used for the sole purpose of preparing and submitting a bid for a portion of the work at the Project and/or performing work at the Project. "
+  },
+  {
+   "id": "s51",
+   "text": "If the Designated Individual must use Confidential Information, SSI, or PCII to create derivative documents for the purpose of preparing and submitting a bid for a portion of the work and/or performing work at the Project, the appropriate protective marking shall be carried forward to the derivative documents. "
+  },
+  {
+   "id": "s52",
+   "text": "All derivative documents shall be protected in the same manner as the original documents."
+  },
+  {
+   "id": "s53",
+   "text": "4. Representations And Warranties."
+  },
+  {
+   "id": "s54",
+   "text": "The Designated Individual represents and warrants that he/she has reviewed, understands, and is familiar with the TJPA’s Document Control Procedure, the Contractor’s Document Control Procedure, and the standards for protecting Confidential Information, SSI, and PCII as set forth in the TJPA’s Document Control Procedure and as set forth in the relevant laws, regulations, and/or directives applicable to the specific categories of information to which the Designated Individual may be granted access."
+  },
+  {
+   "id": "s55",
+   "text": "The Designated Individual further represents and warrants that he/she understands that the TJPA may conduct inspections, at any time or place, for the purpose of ensuring compliance with the conditions for access, dissemination, handling, and safeguarding information under this Agreement."
+  },
+  {
+   "id": "s56",
+   "text": "The Designated Individual further represents and warrants that he/she is an employee, officer, director, agent, representative, subcontractor, or consultant that has been designated by the Contractor as a person with a need to know the Confidential Information, SSI, or PCII to prepare and submit a bid for a portion of the work and/or perform work at the Project, and is fully authorized to enter into this Agreement by the Contractor."
+  },
+  {
+   "id": "s57",
+   "text": "5. Requests For Disclosure By Third Parties."
+  },
+  {
+   "id": "s58",
+   "text": "If a subpoena, discovery request, Court order, Freedom Of Information Act Request, or any other request or demand authorized by law seeking disclosure of the Confidential Information, SSI, or PCII is received by the Designated Individual, individually or on behalf of the Contractor, the Designated Individual shall immediately notify the TJPA thereof in order to permit the TJPA to investigate the circumstances, prepare any appropriate documentation, seek to quash the subpoena, to seek a protective order, or to take such other action regarding the request as it deems appropriate; and the undersigned will fully cooperate in the TJPA’s efforts in this regard. "
+  },
+  {
+   "id": "s59",
+   "text": "The Designated Individual, the Contractor, and its respective counsel will use their best efforts to obtain confidential treatment thereof by cooperating with the TJPA to obtain a protective order. "
+  },
+  {
+   "id": "s60",
+   "text": "In the absence of a protective order, disclosure shall be made of only that part of the Confidential Information, SSI, or PCII as is required to be disclosed, after advisement and consultation with the TJPA. "
+  },
+  {
+   "id": "s61",
+   "text": "If Confidential Information, SSI, or PCII is inappropriately disclosed, the undersigned will immediately report that fact and the circumstances to the TJPA."
+  },
+  {
+   "id": "s62",
+   "text": "6. Retention Limitations; Return Of Information."
+  },
+  {
+   "id": "s63",
+   "text": "Upon the earlier occurrence of: "
+  },
+  {
+   "id": "s64",
+   "text": "(1) the TJPA’s written request; "
+  },
+  {
+   "id": "s65",
+   "text": "(2) ten (10) business days after Final Completion of the Project (or for non-successful Bidders, within ten (10) business days after the award of the Trade Work subcontract); "
+  },
+  {
+   "id": "s66",
+   "text": "(3) upon the conclusion of the Designated Individual’s duties, association, or support to the Contractor in connection with the Project; or "
+  },
+  {
+   "id": "s67",
+   "text": "(4) upon the determination that the Designated Individual’s official duties do not require further access to Confidential Information, SSI, or PCII, any and all documents containing Confidential Information, SSI, or PCII in the possession of the Designated Individual shall be promptly destroyed, or, if requested by the TJPA, returned to the TJPA."
+  },
+  {
+   "id": "s68",
+   "text": "Upon returning or destroying the aforementioned documents, the Designated Individual shall sign the Affidavit of Return or Destruction in the form set forth in Section 01 35 70/AT2. "
+  },
+  {
+   "id": "s69",
+   "text": "The Designated Individual understands and acknowledges that for documents returned to the TJPA, it is within the TJPA’s sole discretion to determine whether to destroy or maintain any returned documents."
+  },
+  {
+   "id": "s70",
+   "text": "Notwithstanding the foregoing, if required by law, the Designated Individual may retain documents containing Confidential Information, SSI, or PCII only if: "
+  },
+  {
+   "id": "s71",
+   "text": "(1) the TJPA is notified in writing of such retention; and "
+  },
+  {
+   "id": "s72",
+   "text": "(2) the Designated Individual continues to abide by the requirements of this Agreement with respect to protection of Confidential Information, SSI, or PCII."
+  },
+  {
+   "id": "s73",
+   "text": "7. Violations And Remedies."
+  },
+  {
+   "id": "s74",
+   "text": "Unauthorized Disclosure: "
+  },
+  {
+   "id": "s75",
+   "text": "If a Contractor or any Designated Individual knows or has a reasonable belief that documents subject to the Specification have been or may be disclosed to an unauthorized person(s), the Contractor and/or Designated Individual shall immediately notify the TJPA. "
+  },
+  {
+   "id": "s76",
+   "text": "The TJPA shall make the final determination as to whether a violation of the Specification occurred and the course of action to address the violation."
+  },
+  {
+   "id": "s77",
+   "text": "Remedies: Any Contractor or Designated Individual that violates the Specification with respect to Confidential Information, SSI and/or PCII shall, at the TJPA’s election, be subject to any of the following: "
+  },
+  {
+   "id": "s78",
+   "text": "(1) written reprimand of the Contractor and/or Designated Individual; "
+  },
+  {
+   "id": "s79",
+   "text": "(2) termination of the Contractor or Designated Individual’s access to Confidential Information, SSI, or PCII; "
+  },
+  {
+   "id": "s80",
+   "text": "(3) directive to the Contractor to immediately suspended the Designated Individual from performing any further work relating to the Project; "
+  },
+  {
+   "id": "s81",
+   "text": "(4) if a contract has been awarded, treatment of the unauthorized disclosure of Confidential Information, SSI, or PCII as a material breach of the contract, warranting the termination of the contract for cause; "
+  },
+  {
+   "id": "s82",
+   "text": "(5) commencement of legal proceedings for any other legal rights and remedies, including injunctive relief and monetary damages arising from the breach of contract; "
+  },
+  {
+   "id": "s83",
+   "text": "(6) reporting of any violation related to SSI or PCII to the Department of Homeland Security, the Transportation Security Administration, or the Department of Transportation (these agencies may also independently assess penalties and/or take corrective action as provided under Federal law, including 49 C.F.R. §§ 15.17 and 1520.17); "
+  },
+  {
+   "id": "s84",
+   "text": "(7) disqualification of a Contractor from bidding on any work for the Project; and/or "
+  },
+  {
+   "id": "s85",
+   "text": "(8) written directive to retrieve all Confidential Information, SSI, and/or PCII disclosed to unauthorized persons at Contractor’s expense and to cease future unauthorized disclosure. "
+  },
+  {
+   "id": "s86",
+   "text": "If legal proceedings to enforce any remedy set forth under this paragraph are commenced by the TJPA, the prevailing party in such legal action shall be entitled to reasonable attorney’s fees and costs. "
+  },
+  {
+   "id": "s87",
+   "text": "Furthermore, Contractor agrees to indemnify the TJPA for any expenses or damages (including attorney’s fees or costs) incurred by the TJPA arising out of or relating to the Contractor and/or Designated Individual’s unauthorized disclosure of Confidential Information, SSI, and/or PCII."
+  },
+  {
+   "id": "s88",
+   "text": "8. Duration And Survival Of Confidentiality Obligations."
+  },
+  {
+   "id": "s89",
+   "text": "The obligations under this Agreement shall be perpetual (unless otherwise provided for herein) or until such time as the information is no longer considered Confidential Information, SSI, or PCII and a written notice to that fact is provided to the Designated Individual and/or the Contractor by the Executive Director of the TJPA."
+  },
+  {
+   "id": "s90",
+   "text": "9. Severability."
+  },
+  {
+   "id": "s91",
+   "text": "Each provision of this Agreement is severable and, if a court should find any provision of this Agreement to be unenforceable, all other provisions of this Agreement shall remain in full force and effect."
+  },
+  {
+   "id": "s92",
+   "text": "10. Governing Law."
+  },
+  {
+   "id": "s93",
+   "text": "This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to conflict of laws principles. "
+  },
+  {
+   "id": "s94",
+   "text": "The Designated Individual specifically and irrevocably consents to the exclusive jurisdiction of any Federal or State court in the County of San Francisco and State of California with respect to all matters concerning this Agreement and its enforcement."
+  },
+  {
+   "id": "s95",
+   "text": "11. Modification."
+  },
+  {
+   "id": "s96",
+   "text": "This Agreement may not be changed, modified, discharged, or terminated, except by an instrument in writing signed by the Executive Director of the TJPA or her designee."
+  },
+  {
+   "id": "s97",
+   "text": "ACCEPTED AND AGREED:"
+  },
+  {
+   "id": "s98",
+   "text": "I declare under penalty of perjury under the laws of the United States that I have read, understood, and will comply, in full, with the obligations set forth under this Non-Disclosure Agreement for Bidders and Contractors."
+  },
+  {
+   "id": "s99",
+   "text": "DESIGNATED INDIVIDUAL"
+  },
+  {
+   "id": "s100",
+   "text": "NAME: (typed/printed) "
+  },
+  {
+   "id": "s101",
+   "text": "________________________________ "
+  },
+  {
+   "id": "s102",
+   "text": "CONTRACTOR: "
+  },
+  {
+   "id": "s103",
+   "text": "________________________"
+  },
+  {
+   "id": "s104",
+   "text": "(EMPLOYER)"
+  },
+  {
+   "id": "s105",
+   "text": "SIGNATURE "
+  },
+  {
+   "id": "s106",
+   "text": "_______________________________________ "
+  },
+  {
+   "id": "s107",
+   "text": "EMAIL: "
+  },
+  {
+   "id": "s108",
+   "text": "_______________________________"
+  },
+  {
+   "id": "s109",
+   "text": "TITLE: ____________________________________________ "
+  },
+  {
+   "id": "s110",
+   "text": "DATE: "
+  },
+  {
+   "id": "s111",
+   "text": "________________________________"
+  },
+  {
+   "id": "s112",
+   "text": "ACKNOWLEDGED:"
+  },
+  {
+   "id": "s113",
+   "text": "The Designated Individual above is an employee, officer, director, agent, representative, subcontractor, or consultant that has been designated by the Contractor as a Designated Individual of the Contractor and is duly authorized to execute this Agreement. "
+  },
+  {
+   "id": "s114",
+   "text": "I declare under penalty of perjury under the laws of the United States that the foregoing is true and correct."
+  },
+  {
+   "id": "s115",
+   "text": "CONTRACTOR"
+  },
+  {
+   "id": "s116",
+   "text": "NAME: (typed/printed) "
+  },
+  {
+   "id": "s117",
+   "text": "________________________________ "
+  },
+  {
+   "id": "s118",
+   "text": "SIGNATURE "
+  },
+  {
+   "id": "s119",
+   "text": "__________________________"
+  },
+  {
+   "id": "s120",
+   "text": "TITLE: ____________________________________________ "
+  },
+  {
+   "id": "s121",
+   "text": "DATE: "
+  },
+  {
+   "id": "s122",
+   "text": "________________________________"
+  },
+  {
+   "id": "s123",
+   "text": "ADDRESS: "
+  },
+  {
+   "id": "s124",
+   "text": "_________________________________________ "
+  },
+  {
+   "id": "s125",
+   "text": "BUSINESS LICENSE # __________________"
+  },
+  {
+   "id": "s126",
+   "text": "PHONE: "
+  },
+  {
+   "id": "s127",
+   "text": "___________________________________________ "
+  },
+  {
+   "id": "s128",
+   "text": "CONTRACTOR’S"
+  },
+  {
+   "id": "s129",
+   "text": "LICENSE # ____________________________"
+  },
+  {
+   "id": "s130",
+   "text": "EMAIL: "
+  },
+  {
+   "id": "s131",
+   "text": "___________________________________________"
+  },
+  {
+   "id": "s132",
+   "text": "WITNESSED:"
+  },
+  {
+   "id": "s133",
+   "text": "I declare under penalty of perjury under the laws of the United States that the Designated Individual identified above is personally known to me and the information concerning said Designated Individual as set forth above is true and correct."
+  },
+  {
+   "id": "s134",
+   "text": "WITNESS"
+  },
+  {
+   "id": "s135",
+   "text": "NAME: (typed/printed) "
+  },
+  {
+   "id": "s136",
+   "text": "__________________________________"
+  },
+  {
+   "id": "s137",
+   "text": "SIGNATURE "
+  },
+  {
+   "id": "s138",
+   "text": "_________________________________________"
+  },
+  {
+   "id": "s139",
+   "text": "DATE"
+  },
+  {
+   "id": "s140",
+   "text": "SPECIFICATION ISSUE LOG"
+  },
+  {
+   "id": "s141",
+   "text": "Revision Date"
+  },
+  {
+   "id": "s142",
+   "text": "A October 31, 2016"
+  },
+  {
+   "id": "s143",
+   "text": "SECTION 01 35 70/AT1b – NON DISCLOSURE AGREEMENT ATTACHMENT"
+  },
+  {
+   "id": "s144",
+   "text": "Plans and Specifications for the Transit Center Project may contain information designated as Sensitive Security Information (SSI). "
+  },
+  {
+   "id": "s145",
+   "text": "Such Plans and Specifications are available to Bidders who have completed the TJPA’s Non-Disclosure Agreement. "
+  },
+  {
+   "id": "s146",
+   "text": "This attachment identifies the Plans and Specifications for the Bus Storage project containing SSI."
+  },
+  {
+   "id": "s147",
+   "text": "Section/Plan Title"
+  },
+  {
+   "id": "s148",
+   "text": "SE-0000 Security & Fire Alarm Index – Bus Storage Project – SSI"
+  },
+  {
+   "id": "s149",
+   "text": "SE-0001 Security & Fire Alarm General Notes – Bus Storage Project – SSI"
+  },
+  {
+   "id": "s150",
+   "text": "SE-0002 "
+  },
+  {
+   "id": "s151",
+   "text": "Security & Fire Alarm Legend – Bus Storage Project – SSI"
+  },
+  {
+   "id": "s152",
+   "text": "SE-0003 Security & Fire Alarm Abbreviations – Bus Storage Project – SSI"
+  },
+  {
+   "id": "s153",
+   "text": "SE-2003 Security & Fire Alarm Enlarged Site Plan - South – Bus Storage Project – SSI"
+  },
+  {
+   "id": "s154",
+   "text": "SE-2004 Security & Fire Alarm Enlarged Plan - North – Bus Storage Project – SSI"
+  },
+  {
+   "id": "s155",
+   "text": "SE-2005 Security & Fire Alarm Enlarged Plans – Bus Storage Project – SSI"
+  },
+  {
+   "id": "s156",
+   "text": "SE-5001 "
+  },
+  {
+   "id": "s157",
+   "text": "Fire Alarm Details & Single "
+  },
+  {
+   "id": "s158",
+   "text": "Line Diagram – Bus Storage Project – SSI"
+  },
+  {
+   "id": "s159",
+   "text": "SE-5002 "
+  },
+  {
+   "id": "s160",
+   "text": "Security Details – Bus Storage Project – SSI"
+  },
+  {
+   "id": "s161",
+   "text": "SE-5003 CCTV Details – Bus Storage Project – SSI"
+  },
+  {
+   "id": "s162",
+   "text": "SE-6001 "
+  },
+  {
+   "id": "s163",
+   "text": "Security Single Line Diagrams – Bus Storage Project – SSI"
+  },
+  {
+   "id": "s164",
+   "text": "TE-1000 Telecommunications "
+  },
+  {
+   "id": "s165",
+   "text": "Site Plan Overall – Bus Storage Project – SSI"
+  },
+  {
+   "id": "s166",
+   "text": "TE-5001 Telecommunications Pull Box Details – Bus Storage Project – SSI"
+  },
+  {
+   "id": "s167",
+   "text": "TE-5002 Telecommunications "
+  },
+  {
+   "id": "s168",
+   "text": "Single Line Diagram – Bus Storage Project – SSI"
+  },
+  {
+   "id": "s169",
+   "text": "13 34 23 26 Guard Booth – SSI"
+  },
+  {
+   "id": "s170",
+   "text": "END OF SECTION"
+  },
+  {
+   "id": "s171",
+   "text": "SPECIFICATION ISSUE LOG"
+  },
+  {
+   "id": "s172",
+   "text": "Revision Date"
+  },
+  {
+   "id": "s173",
+   "text": "A October 31, 2016"
+  }
+ ]
+}

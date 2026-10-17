@@ -1,0 +1,35 @@
+{
+ "canary": "2eb20c99-e785-485c-b97c-b5e8d177c40a",
+ "format": "tough-eval-documents/1",
+ "documents": {
+  "nda": {
+   "base": "v2/base-nda.json",
+   "baseSha256": "1ef2f6f357b3d8de58e8c14b5340cce8ff0962ab1ae28fe3d0de7942390a1ce7",
+   "paragraphs": 24,
+   "file": "sources/common-paper-mutual-nda-v1.0.docx",
+   "sourceSha256": "18e07001c3ebfc749833e10836eda4fe0d302ab0a7519a0388696be3df86b566",
+   "title": "Common Paper Mutual Non-Disclosure Agreement, Version 1.0 (Cover Page and Standard Terms)",
+   "url": "https://commonpaper.com/standards/mutual-nda/1.0",
+   "downloadedFrom": "https://commonpaper.com/standards/mutual-nda/1.0/mutual-nda-cover-page-and-standard-terms-docx",
+   "retrieved": "2026-10-15",
+   "licence": "CC BY 4.0, Common Paper, Inc. (https://creativecommons.org/licenses/by/4.0/)",
+   "standardTermsFrom": "p14",
+   "coverWrittenForSuite": true
+  },
+  "csa": {
+   "base": "v2/base-csa.json",
+   "baseSha256": "2df23c7f6f1b4217ae8d3068973cba2aad392f166a0e463fc650829d625ae35f",
+   "paragraphs": 263,
+   "file": "base-bundle.json",
+   "sourceSha256": "72d2ec2543e1aa4af1e035c3ff90aa44b34a282ec20a52752bf5d865f9f2d092",
+   "title": "Common Paper Cloud Service Agreement v2.1, DPA v1.1 and SLA v2.0 standard terms with Key Terms written for this suite (build.mjs, build-bundle.mjs)",
+   "licence": "CC BY 4.0, Common Paper, Inc.",
+   "standardTermsFrom": "p26",
+   "coverWrittenForSuite": true,
+   "annexes": {
+    "dpa": "a1",
+    "sla": "a89"
+   }
+  }
+ }
+}

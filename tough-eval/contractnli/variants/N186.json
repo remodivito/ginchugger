@@ -1,0 +1,313 @@
+{
+ "id": "N186",
+ "revision": 1,
+ "title": "nda_16.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 186,
+  "type": "search-pdf",
+  "url": "https://www.rm.dk/siteassets/om-os/a_udbud/hardware-til-prahospitale-koretojer_2/nda.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "Non-Disclosure Agreement (NDA)"
+  },
+  {
+   "id": "s1",
+   "text": "Between"
+  },
+  {
+   "id": "s2",
+   "text": "Central Denmark Region"
+  },
+  {
+   "id": "s3",
+   "text": "Business reg.-no. 29190925"
+  },
+  {
+   "id": "s4",
+   "text": "Skottenborg 26"
+  },
+  {
+   "id": "s5",
+   "text": "DK-8800 Viborg"
+  },
+  {
+   "id": "s7",
+   "text": "(hereinafter referred to as ”Central Denmark Region”)"
+  },
+  {
+   "id": "s8",
+   "text": "and"
+  },
+  {
+   "id": "s9",
+   "text": "Name: "
+  },
+  {
+   "id": "s10",
+   "text": "____________________________"
+  },
+  {
+   "id": "s11",
+   "text": "Business reg. no. "
+  },
+  {
+   "id": "s12",
+   "text": "_________________"
+  },
+  {
+   "id": "s13",
+   "text": "Address: "
+  },
+  {
+   "id": "s14",
+   "text": "__________________________"
+  },
+  {
+   "id": "s15",
+   "text": "Country: "
+  },
+  {
+   "id": "s16",
+   "text": "___________________________"
+  },
+  {
+   "id": "s17",
+   "text": "(hereinafter referred to as “the Tenderer”)"
+  },
+  {
+   "id": "s18",
+   "text": "(each a \"Party\" and together the \"Parties\")"
+  },
+  {
+   "id": "s19",
+   "text": "this Non-Disclosure "
+  },
+  {
+   "id": "s20",
+   "text": "Agreement has been entered into in connection with \"Udbud, hardware til præhospitale køretøjer (ambulancer, akutlægebiler mv.)\"."
+  },
+  {
+   "id": "s21",
+   "text": "1. Confidentiality undertakings"
+  },
+  {
+   "id": "s22",
+   "text": "1.1"
+  },
+  {
+   "id": "s23",
+   "text": "In this Agreement \"Confidential Information\" shall, with respect to each Party, mean any and all information which a Party, its directors, employees, representatives or advisors, have received or shall receive in connection with the Business Purpose from the other Party (whether disclosed or obtained in writing, orally, in electronic form, by demonstration or otherwise or in other forms) which "
+  },
+  {
+   "id": "s24",
+   "text": "(i) by its nature should be treated confidentially or "
+  },
+  {
+   "id": "s25",
+   "text": "(ii) which have been marked or otherwise designated by the disclosing Party as confidential prior to or after disclosure or receipt. "
+  },
+  {
+   "id": "s26",
+   "text": "Confidential Information shall furthermore include any and all information regarding the existence, nature, subject matter, or progress of or relating to the Business Purpose."
+  },
+  {
+   "id": "s27",
+   "text": "However, Confidential Information shall not include such information which "
+  },
+  {
+   "id": "s28",
+   "text": "(i) is or has become publicly known other than through a breach of a confidentiality obligation, "
+  },
+  {
+   "id": "s29",
+   "text": "(ii) has been received from an independent third party without any restrictions or obligation of confidentiality, or "
+  },
+  {
+   "id": "s30",
+   "text": "(iii) which the receiving Party can demonstrate has been independently developed by that Party prior to disclosure."
+  },
+  {
+   "id": "s31",
+   "text": "1.2"
+  },
+  {
+   "id": "s32",
+   "text": "In consideration of the Parties’ making available to each other Confidential Information as defined in Sub-clause 1.1, each Party hereby agrees to the following confidentiality undertakings for and on behalf of itself and for and on behalf of the Party’s employees, advisors and representatives:"
+  },
+  {
+   "id": "s33",
+   "text": "• All Confidential Information received by a Party shall be held in complete confidence by such Party and by the Party’s directors, employees, advisors or representatives, and shall not without the prior written consent of the other Party be used for any purpose other than in connection with the purpose for which such Confidential Information was disclosed or received."
+  },
+  {
+   "id": "s34",
+   "text": "• A Party shall not disclose any Confidential Information received by it to any person other than those of Party’s employees, advisors and representatives who are directly concerned with the purpose for which such Confidential Information was disclosed or received and who need to know such Confidential Information."
+  },
+  {
+   "id": "s35",
+   "text": "• Each Party shall ensure "
+  },
+  {
+   "id": "s36",
+   "text": "(i) that all persons mentioned in Paragraph 1.2.2 above are made aware, prior to any disclosure, of the confidential nature of the Confidential Information and of the contents of this Agreement and "
+  },
+  {
+   "id": "s37",
+   "text": "(ii) [that such persons are bound by confidentially with respect to the Confidential Information as If they were a party to this Agreement."
+  },
+  {
+   "id": "s38",
+   "text": "• The Parties shall have in effect and maintain adequate security measures to safeguard the Confidential Information from unauthorized access, disclosure, use, and/or misappropriation."
+  },
+  {
+   "id": "s39",
+   "text": "1.3"
+  },
+  {
+   "id": "s40",
+   "text": "Notwithstanding Sub-clause 1.1, the obligations undertaken by a Party under this Agreement to maintain confidentiality shall not apply to the extent that the Party is or becomes under an obligation to disclose Confidential Information "
+  },
+  {
+   "id": "s41",
+   "text": "(i) by order of a court of competent jurisdiction, or "
+  },
+  {
+   "id": "s42",
+   "text": "(ii) under statutory law including according to The Danish Access to Public Administration Files Act, provided that where possible the Party shall first notify the other Party of such obligation and upon request allow the other Party to advance any defense against such obligation where appropriate. "
+  },
+  {
+   "id": "s43",
+   "text": "In any event, a Party shall notify the other Party of any disclosure made under this Sub-clause 1.3 promptly after disclosure."
+  },
+  {
+   "id": "s44",
+   "text": "1.4"
+  },
+  {
+   "id": "s45",
+   "text": "A Party shall promptly notify the other Party of, without limitation, any unauthorized access, use, copying or disclosure of Confidential Information of which a Party becomes aware and shall use its best endeavors to terminate such access, use etc. and shall provide all reasonable assistance requested by the other Party in this connection."
+  },
+  {
+   "id": "s46",
+   "text": "2. Intellectual property rights"
+  },
+  {
+   "id": "s47",
+   "text": "2.1"
+  },
+  {
+   "id": "s48",
+   "text": "All right, title and interest (including without limitation all intellectual property and other proprietary rights) throughout the world in and to any and all Confidential Information disclosed by a Party as well as inventions, discoveries, improvements, ideas, concepts, designs, know-how, data, code, software, products, information, documentation, techniques, materials and/or other work product in any form and on whatever media and any enhancements, upgrades, modifications and/or alterations thereto in any form, created, conceived, prepared, made, developed, originated and/or delivered (in whole or in part) by or for a Party shall belong exclusively and absolutely to such Party, its sub-contractors and/or licensors (as the case may be)."
+  },
+  {
+   "id": "s49",
+   "text": "2.2"
+  },
+  {
+   "id": "s50",
+   "text": "Nothing in this Agreement shall grant or be construed as granting or conferring to a Party any rights, licenses of whatsoever nature, expressly or implied, in the other Party’s intellectual property and Confidential Information."
+  },
+  {
+   "id": "s51",
+   "text": "2.3"
+  },
+  {
+   "id": "s52",
+   "text": "To the extent a Party receives software programs from the other Party, the receiving Party is not entitled to carry out reverse engineering of any such software programs or parts thereof, or to utilize such software programs for purposes other than those for which they were clearly and evidently disclosed or received."
+  },
+  {
+   "id": "s53",
+   "text": "2.4"
+  },
+  {
+   "id": "s54",
+   "text": "Each Party shall not make, nor permit others to make, any references to or use the name of the other Party in any public announcements, promotional, marketing or sales material or efforts without the prior written consent (in each instance) from the other Party."
+  },
+  {
+   "id": "s55",
+   "text": "3. Remedies"
+  },
+  {
+   "id": "s56",
+   "text": "3.1"
+  },
+  {
+   "id": "s57",
+   "text": "Each Party shall be liable in accordance with Danish law for damages (including claims, expenses and indirect losses of whatsoever nature) arising out of or in connection with that Party’s breach of its obligations under this Agreement, without prejudice to other rights and remedies available including, but not limited to, restrictive injunction and other equitable relief."
+  },
+  {
+   "id": "s58",
+   "text": "3.2"
+  },
+  {
+   "id": "s59",
+   "text": "A Party’s payment of damages or the application of any other remedies shall not release such Party from its obligations of confidentiality as set forth in this Agreement."
+  },
+  {
+   "id": "s60",
+   "text": "3.3"
+  },
+  {
+   "id": "s61",
+   "text": "The Parties make no warranties, expressly or implied, in this Agreement with respect to the accuracy and completeness of and ownership or rightful access to the Confidential Information, and shall bear no responsibility in this respect."
+  },
+  {
+   "id": "s62",
+   "text": "4. Law and venue"
+  },
+  {
+   "id": "s63",
+   "text": "4.1"
+  },
+  {
+   "id": "s64",
+   "text": "This Agreement shall be governed by and construed in accordance with Danish law."
+  },
+  {
+   "id": "s65",
+   "text": "4.2"
+  },
+  {
+   "id": "s66",
+   "text": "Any dispute arising between the Parties under or as a result of this Agreement shall be settled by Danish Institute of Arbitration in accordance with the rules of the Danish Institute of Arbitration in force at the time when such proceedings are commenced. "
+  },
+  {
+   "id": "s67",
+   "text": "However, restrictive injunctions and similar actions may be sought from any court of competent jurisdiction."
+  },
+  {
+   "id": "s68",
+   "text": "5. Effect"
+  },
+  {
+   "id": "s69",
+   "text": "This Agreement shall become effective upon signing, but shall apply also to Confidential Information disclosed to or received by a Party prior to signing."
+  },
+  {
+   "id": "s71",
+   "text": ", on _______________ , on"
+  },
+  {
+   "id": "s72",
+   "text": "_______________"
+  },
+  {
+   "id": "s73",
+   "text": "For Central Denmark Region For"
+  },
+  {
+   "id": "s74",
+   "text": "____________________________________ "
+  },
+  {
+   "id": "s75",
+   "text": "__________________________________"
+  },
+  {
+   "id": "s77",
+   "text": "[Name]"
+  }
+ ]
+}

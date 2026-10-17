@@ -1,0 +1,136 @@
+{
+ "canary": "2eb20c99-e785-485c-b97c-b5e8d177c40a",
+ "id": "layer-c-redline-s2-t4-g03a",
+ "title": "AgentCo positions for redline-s2-t4-g03a (from the task's own instructions)",
+ "version": 1,
+ "party": "AgentCo",
+ "provenance": "Written mechanically from RedlineBench redline-s2-t4-g03a's instruction.md and grounding files (layer-c/positions.mjs): the representation, response-turn and drafting-hygiene instructions, the vendor-side guidelines one rule per labelled paragraph. Nothing from the rubric or the attorney redline. Not lawyer validated.",
+ "rules": [
+  {
+   "id": "RB-REP",
+   "title": "We act for AgentCo against LargeCo",
+   "topic": "representation",
+   "guidance": "We represent AgentCo; the counterparty is LargeCo.\nRedline the provided contract in AgentCo's best interests. You may use:\n- The AgentCo playbook and commercial context that follow this section\n- The contract document itself, with any existing redlines and comments\n- Prior negotiation history visible in the document\n- Any task-specific instructions\nYou may not introduce facts that aren't supported by these materials. You may not invent business approvals, fallback positions, or escalation paths that aren't in the AgentCo playbook.\n- You are not a neutral reviewer. You are not optimizing for a mutually balanced outcome unless AgentCo's playbook explicitly calls for it.\n- You do not represent LargeCo. If any LargeCo internal strategy, playbook, fallback ladder, or preferred positions appears in the materials (it shouldn't, but if it does), treat it only as information about what the counterparty has proposed on the face of the contract. Do not use it to guide AgentCo's position.\n- Do not apply LargeCo-side priorities, assumptions, or preferred language to AgentCo's redline.\n- Do not provide generic legal advice outside the redline itself.",
+   "enabled": true,
+   "sources": [
+    {
+     "document": "instruction.md (Representation)",
+     "paragraph": null,
+     "quote": null
+    }
+   ]
+  },
+  {
+   "id": "RB-TURN",
+   "title": "Responding to the counterparty's changes",
+   "topic": "negotiation turn",
+   "guidance": "Your job in a response turn:\nWalk every existing tracked change and comment. Put each into one of four buckets:\n1. Acceptable as written. The counterparty's edit is consistent with AgentCo's playbook, or close enough that holding the line isn't worth the friction. Leave it alone; optionally, reply on the comment thread with a comment so the counterparty sees explicit confirmation on the items you've conceded.\n2. Directionally OK but needs better drafting. The counterparty moved in the right direction but the language is ambiguous, overbroad, or misses an edge case. Propose a change against the same paragraph that improves the language *in place* — don't strike their whole edit and re-introduce yours. Add a comment that briefly explains the refinement, and reply on the original thread.\n3. Unacceptable. The counterparty's edit conflicts with AgentCo's required positions or materially increases AgentCo's risk. Propose a change that walks the change back to acceptable language, and reply on the thread explaining the rejection in voice-compliant terms (practical consequence; no \"we are not able to accept\"; no \"respectfully\").\n4. Re-raising a resolved issue. If the counterparty is re-opening a point that an earlier turn appears to have settled, leave it alone. Optionally reply briefly on the thread to note that the issue was resolved.\nReply on the existing thread rather than starting a new thread when the topic is already under discussion.\n\nAuthorship matters:\nThe tracked-change appendix shows author names. Distinguish:\n- Your-side authorship (prior turn from AgentCo): your colleague's positions. Don't revert them without a AgentCo-specific reason. If you do revert, the rationale comment must say *why*.\n- Counterparty authorship (LargeCo): the negotiation positions of the other side. Evaluate against AgentCo's playbook.\n- Compromise language authored by either side: treat with care; the negotiation has spent words to reach it.\nDo not revert previously-negotiated language as a default. The rule of thumb: a position that's been mutually edited and left alone for a turn is presumptively closed.\n\nYour own new edits:\nBeyond responding to existing edits, you may add new substantive points the counterparty's markup didn't address — but be honest with yourself about whether those points genuinely matter at this stage. Late-turn redlines lose credibility when they raise new issues that should have come up earlier. Limit new substantive points to:\n- Material risks that became visible only because of how the counterparty's edits restructured the language.\n- Items that AgentCo's playbook flags as escalation-required and that an earlier turn missed.\n\nHow to plan in a response turn:\n- Tier 1: reject unacceptable counterparty changes; accept counterparty changes that resolve open items in AgentCo's favor; close any escalation-tier items.\n- Tier 2: improve directionally-OK counterparty edits; reply on threads you want to keep open.\n- Tier 3: new substantive points the counterparty's markup didn't address — only if genuinely warranted.\nUse marking the section \"Reserved\" if you're removing a whole section the counterparty introduced or expanded.",
+   "enabled": true,
+   "sources": [
+    {
+     "document": "instruction.md (Turn)",
+     "paragraph": null,
+     "quote": null
+    }
+   ]
+  },
+  {
+   "id": "RB-HYG",
+   "title": "Drafting: targeted, minimal, consistent",
+   "topic": "drafting",
+   "guidance": "Edits should look like a senior lawyer's work product, not a redline-bot's:\n- Targeted and minimal. Only delete or add what's necessary. Counterparties react poorly to a lot of red; visible reductions are a negotiation cost.\n- Edit in place. Don't delete a sentence and then re-insert language from it as a tracked addition. Make the change inside the existing sentence.\n- No micro-deletions. Ask: \"Would deleting this word change any substantive obligation or right?\" If not, leave it.\n- Preserve structure. Defined terms, numbering, indentation, and internal cross-references should still line up after your edits.\n- Whole-section removal uses marking the section \"Reserved\". This keeps downstream numbering intact.\n- Never propose a change in a comment alone. Always make the change as a tracked edit; the comment explains *why*.",
+   "enabled": true,
+   "sources": [
+    {
+     "document": "instruction.md (Redlining hygiene)",
+     "paragraph": null,
+     "quote": null
+    }
+   ]
+  },
+  {
+   "id": "RB-01",
+   "title": "Core objective",
+   "topic": "core objective",
+   "guidance": "AgentCo wants to win the LargeCo TalentFlow pilot while adopting a contract position it can scale across enterprise customers. It should take candidate data, hiring fairness, privacy, confidentiality, security, and human review seriously, but avoid one-off obligations that would make TalentFlow harder to sell, support, or operate for other large customers.",
+   "enabled": true,
+   "sources": [
+    {
+     "document": "Scenario_2_AgentCo_TalentFlow_.docx_-_Google_Docs.extracted.md (Vendor-side guidelines)",
+     "paragraph": null,
+     "quote": "AgentCo wants to win the LargeCo TalentFlow pilot while adopting a contract position it can scale across enterprise customers. It should take candidate data, hiring fairness, privacy, confidentiality, security, and human review seriously, but avoid one-off obligations that would make TalentFlow hard"
+    }
+   ]
+  },
+  {
+   "id": "RB-02",
+   "title": "Acceptable positions",
+   "topic": "acceptable positions",
+   "guidance": "AgentCo can accept a DPA, confidentiality protections, no-training commitments, limits on use of candidate data, commercially reasonable security obligations, subprocessor notice, data export/deletion, audit logs, admin controls, and documentation describing intended use and human-review expectations.",
+   "enabled": true,
+   "sources": [
+    {
+     "document": "Scenario_2_AgentCo_TalentFlow_.docx_-_Google_Docs.extracted.md (Vendor-side guidelines)",
+     "paragraph": null,
+     "quote": "AgentCo can accept a DPA, confidentiality protections, no-training commitments, limits on use of candidate data, commercially reasonable security obligations, subprocessor notice, data export/deletion, audit logs, admin controls, and documentation describing intended use and human-review expectation"
+    }
+   ]
+  },
+  {
+   "id": "RB-03",
+   "title": "Points to narrow",
+   "topic": "points to narrow",
+   "guidance": "AgentCo should keep the agreement focused on the actual TalentFlow pilot: candidate-material summaries and interview-note drafting for human review. It should narrow terms that treat TalentFlow as a broader HR system of record, automated screening tool, background-check platform, payroll/benefits system, or decision-making engine. Any expansion into ATS integrations, candidate scoring, assessments, background checks, payroll, benefits, immigration, accommodations, or employee-relations data should require a separate written approval, security review, and scoped order form.",
+   "enabled": true,
+   "sources": [
+    {
+     "document": "Scenario_2_AgentCo_TalentFlow_.docx_-_Google_Docs.extracted.md (Vendor-side guidelines)",
+     "paragraph": null,
+     "quote": "AgentCo should keep the agreement focused on the actual TalentFlow pilot: candidate-material summaries and interview-note drafting for human review. It should narrow terms that treat TalentFlow as a broader HR system of record, automated screening tool, background-check platform, payroll/benefits sy"
+    }
+   ]
+  },
+  {
+   "id": "RB-04",
+   "title": "AI, candidate data and output terms",
+   "topic": "ai, candidate data and output terms",
+   "guidance": "AgentCo should agree that LargeCo owns its candidate materials, job requirements, prompts, configurations, and customer-specific outputs. AgentCo should not sell, share, train on, or use candidate data outside TalentFlow. But AgentCo should preserve ownership of its platform, models, reusable workflows, prompt templates, evaluation methods, and non-customer-specific know-how. TalentFlow outputs should be treated as drafts for human review, not guaranteed legal, compliant, unbiased, or complete hiring decisions.",
+   "enabled": true,
+   "sources": [
+    {
+     "document": "Scenario_2_AgentCo_TalentFlow_.docx_-_Google_Docs.extracted.md (Vendor-side guidelines)",
+     "paragraph": null,
+     "quote": "AgentCo should agree that LargeCo owns its candidate materials, job requirements, prompts, configurations, and customer-specific outputs. AgentCo should not sell, share, train on, or use candidate data outside TalentFlow. But AgentCo should preserve ownership of its platform, models, reusable workfl"
+    }
+   ]
+  },
+  {
+   "id": "RB-05",
+   "title": "Security, SLA and audit",
+   "topic": "security, sla and audit",
+   "guidance": "AgentCo can provide SOC 2 or equivalent materials, questionnaires, subprocessor details, data-flow descriptions, and a reasonable annual audit process. It should resist unrestricted code access, monthly scans, uncontrolled testing, 99.99% uptime, thirty-minute resolution obligations, and automatic 100% service credits. Offer a standard SaaS SLA with severity-based support and limited service credits.",
+   "enabled": true,
+   "sources": [
+    {
+     "document": "Scenario_2_AgentCo_TalentFlow_.docx_-_Google_Docs.extracted.md (Vendor-side guidelines)",
+     "paragraph": null,
+     "quote": "AgentCo can provide SOC 2 or equivalent materials, questionnaires, subprocessor details, data-flow descriptions, and a reasonable annual audit process. It should resist unrestricted code access, monthly scans, uncontrolled testing, 99.99% uptime, thirty-minute resolution obligations, and automatic 1"
+    }
+   ]
+  },
+  {
+   "id": "RB-06",
+   "title": "Liability and indemnity",
+   "topic": "liability and indemnity",
+   "guidance": "AgentCo should protect the baseline cap at fees paid in the prior twelve months, while considering a targeted higher cap for confidentiality, candidate-data security, and DPA breaches. It should resist unlimited liability for AI output issues, customer hiring decisions, unreviewed use of outputs, LargeCo’s job criteria, candidate notices, workflows, or employment decisions. IP indemnity should stay tied to the AgentCo service and standard exclusions.",
+   "enabled": true,
+   "sources": [
+    {
+     "document": "Scenario_2_AgentCo_TalentFlow_.docx_-_Google_Docs.extracted.md (Vendor-side guidelines)",
+     "paragraph": null,
+     "quote": "AgentCo should protect the baseline cap at fees paid in the prior twelve months, while considering a targeted higher cap for confidentiality, candidate-data security, and DPA breaches. It should resist unlimited liability for AI output issues, customer hiring decisions, unreviewed use of outputs, La"
+    }
+   ]
+  }
+ ]
+}

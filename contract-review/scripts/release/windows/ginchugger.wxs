@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-or-later -->
+<!-- The Windows installer (PR-REL-01), built with WiX Toolset v5 by scripts/release/build-win-msi.ps1 from the folder
+     scripts/release/stage.mjs writes. Per machine, into Program Files; a login item (the Run key) starts the app for
+     each person who signs in, with no window. Upgrades replace the previous version; nothing updates itself. -->
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+  <Package Name="GinChugger" Manufacturer="GinChugger" Version="$(var.Version)"
+           UpgradeCode="b20f4966-a848-4b99-97ad-118a4a8ef9c6" Scope="perMachine" Compressed="yes">
+    <MajorUpgrade DowngradeErrorMessage="A newer version of GinChugger is already installed." />
+    <MediaTemplate EmbedCab="yes" />
+    <StandardDirectory Id="ProgramFiles64Folder">
+      <!-- The folder name predates the rename to GinChugger (decision 194) and stays, like the data folder. -->
+      <Directory Id="INSTALLFOLDER" Name="GinChugger Legal" />
+    </StandardDirectory>
+    <Feature Id="Main" Title="GinChugger">
+      <Files Directory="INSTALLFOLDER" Include="$(var.StageDir)\**" />
+      <Component Id="LoginItem" Directory="INSTALLFOLDER">
+        <RegistryValue Root="HKLM" Key="Software\Microsoft\Windows\CurrentVersion\Run" Name="GinChugger" Type="string" KeyPath="yes"
+                       Value="powershell.exe -NoProfile -NonInteractive -WindowStyle Hidden -Command &quot;&amp; '[INSTALLFOLDER]node\node.exe' '[INSTALLFOLDER]app\scripts\launch.mjs' --log&quot;" />
+      </Component>
+    </Feature>
+  </Package>
+</Wix>

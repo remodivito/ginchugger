@@ -1,0 +1,365 @@
+{
+ "id": "N314",
+ "revision": 1,
+ "title": "nondisclosureagreement.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 314,
+  "type": "search-pdf",
+  "url": "http://rheinindia.com/nondisclosureagreement.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "THIS NON-DISCLOSURE AGREEMENT (this \"Agreement\") is entered into on by and between the undersigned parties on the date specified below."
+  },
+  {
+   "id": "s2",
+   "text": "WHEREAS, either Party possesses certain confidential proprietary information; and"
+  },
+  {
+   "id": "s3",
+   "text": "WHEREAS, in connection with the pursuit, evaluation and/or feasibility of a business relationship, and/or the consummation of a transaction (collectively, the \"Business Purposes\") between the two parties hereto, including their affiliates, subsidiaries, stockholders, partners, co-venture, trading partners, employees and other organizations (hereinafter referred to as Affiliates), confidential proprietary information of one Party may become available to the other Party."
+  },
+  {
+   "id": "s4",
+   "text": "WHEREAS, either Party desires to prevent the unauthorized use and disclosure of its confidential proprietary information."
+  },
+  {
+   "id": "s5",
+   "text": "NOW THEREFORE, in consideration of these premises and for other good and valuable consideration, Receipt of which is hereby acknowledged, the parties agree as follows:"
+  },
+  {
+   "id": "s6",
+   "text": "I. \"Confidential Information\". "
+  },
+  {
+   "id": "s7",
+   "text": "For purposes of this Agreement, Confidential Information shall mean all strategic and development plans, financial condition, business plans, co-developer identities, data, business records, customer lists, project records, market reports, employee lists and business manuals, policies and procedures, information relating to processes, technologies or theory and all other information which may be disclosed by one Party or to which the other Party may be provided access by the disclosing Party or others in accordance with this Agreement, or which is generated as a result of , incidental to or in connection with the Business Purposes, which is not generally available to the public."
+  },
+  {
+   "id": "s8",
+   "text": "II. Non-disclosure "
+  },
+  {
+   "id": "s9",
+   "text": "Obligations. "
+  },
+  {
+   "id": "s10",
+   "text": "The Receiving Party promises and agrees to receive and hold the Confidential Information in confidence. "
+  },
+  {
+   "id": "s11",
+   "text": "Without limiting the generality of the foregoing, the Receiving Party further promises and agrees:"
+  },
+  {
+   "id": "s12",
+   "text": "A. to protect and safeguard the Confidential Information against unauthorized use, publication or disclosure;"
+  },
+  {
+   "id": "s13",
+   "text": "B. not to use any of the Confidential Information except for the Business Purposes."
+  },
+  {
+   "id": "s14",
+   "text": "C. not to, directly or indirectly, in any way, reveal, report, publish, disclose, transfer or otherwise use any of the Confidential Information except as specifically authorized by the Disclosing Party in accordance with this Non-Disclosure Agreement."
+  },
+  {
+   "id": "s15",
+   "text": "D. not to use any Confidential Information to unfairly compete or obtain unfair advantage vis-a-vis Disclosing Party in any commercial activity which may be comparable to the commercial activity contemplated by the parties in connection with the Business Purposes."
+  },
+  {
+   "id": "s16",
+   "text": "E. to restrict access to the Confidential Information to those of its officers, directors, and employees who clearly need such access to carry out the Business Purposes."
+  },
+  {
+   "id": "s17",
+   "text": "F. to advise each of the persons to whom it provides access to any of the Confidential Information, that such persons are strictly prohibited from making any use, publishing or otherwise disclosing to others, or permitting others to use for their benefit or to the detriment of the Disclosing Party, any of the Confidential Information, and, upon Request of the Disclosing Party, to provide the Disclosing Party with a copy of a written agreement to that effect signed by such persons."
+  },
+  {
+   "id": "s18",
+   "text": "G. to comply with any other reasonable security measures requested in writing by the Disclosing Party."
+  },
+  {
+   "id": "s19",
+   "text": "H. To refrain from directly contacting or communicating by whatsoever means to the Source(s) of Information without written consent of the Disclosing Party."
+  },
+  {
+   "id": "s20",
+   "text": "I. To undertake not to disclose any names and their particulars to third parties without the written consent by the Disclosing party."
+  },
+  {
+   "id": "s21",
+   "text": "III. Exceptions. "
+  },
+  {
+   "id": "s22",
+   "text": "The confidentiality obligations hereunder shall not apply to Confidential Information which:"
+  },
+  {
+   "id": "s23",
+   "text": "A. is, or later becomes, public knowledge other than by breach of the provisions of this Agreement; or"
+  },
+  {
+   "id": "s24",
+   "text": "B. is in the possession of the Party with the full right to disclose prior to its receipt from the Disclosing Party, as evidenced by written records; or"
+  },
+  {
+   "id": "s25",
+   "text": "C. is independently received by the Receiving Party from a third party, with no restrictions on disclosure."
+  },
+  {
+   "id": "s26",
+   "text": "IV. Return of Confidential Information. "
+  },
+  {
+   "id": "s27",
+   "text": "The Receiving Party agrees, upon termination of the Business Purposes or upon the written request of the other Party, whichever is earlier, to promptly deliver to the other Party all records, notes, and other written, printed, or tangible materials in the possession of the Receiving Party, embodying or pertaining to the Confidential Information."
+  },
+  {
+   "id": "s28",
+   "text": "V. No Right to Confidential Information."
+  },
+  {
+   "id": "s29",
+   "text": "A. The Receiving Party hereby agrees and acknowledges that no license, either express or implied, is hereby granted to the Receiving Party by the other Party to use any of the Confidential Information."
+  },
+  {
+   "id": "s30",
+   "text": "B. The Receiving Party further agrees that all inventions, improvements, copyrightable works and designs relating to machines, methods, compositions, or products of the other Party directly resulting from or relating to the Confidential Information and the right to market, use, license and franchise the Confidential Information or the ideas, concepts, methods or practices embodied therein shall be the exclusive property of the other Party, and the Receiving Party has no right or title thereto."
+  },
+  {
+   "id": "s31",
+   "text": "VI. No Warranty. "
+  },
+  {
+   "id": "s32",
+   "text": "The Disclosing Party has not made and will not make any representation or warranty as to the accuracy or completeness of its Confidential Information or of any other information provided to the Receiving Party, and the Receiving Party agrees that the Disclosing Party shall have no liability resulting from the use of the Confidential Information or such other information."
+  },
+  {
+   "id": "s33",
+   "text": "VII. No Commitment. "
+  },
+  {
+   "id": "s34",
+   "text": "The disclosure of Confidential Information does not, and is not intended to, represent a commitment by the Disclosing Party to enter into any business relationship with the Receiving Party or with any other entity. "
+  },
+  {
+   "id": "s35",
+   "text": "If the Parties desire to pursue business opportunities, they will execute a separate written agreement to govern such business relationship."
+  },
+  {
+   "id": "s36",
+   "text": "VIII. Compelled Disclosure. "
+  },
+  {
+   "id": "s37",
+   "text": "If the Party faces legal action to disclose Confidential Information received under this Agreement, then the Party shall promptly notify the other Party in order that it may have the opportunity to intercede and contest such disclosure and, upon request, shall cooperate with the other Party in contesting such a disclosure. "
+  },
+  {
+   "id": "s38",
+   "text": "Except in connection with failure to discharge the responsibilities set forth in the preceding sentence, neither Party shall be liable in damages for any disclosures pursuant to such legal action."
+  },
+  {
+   "id": "s39",
+   "text": "IX. Losses. "
+  },
+  {
+   "id": "s40",
+   "text": "The Receiving Party agrees to indemnify the other Party against any and all losses, damages, claims, or expenses incurred or suffered by the other Party as a result of the Receiving Party's breach of this Agreement."
+  },
+  {
+   "id": "s41",
+   "text": "X. Communication: "
+  },
+  {
+   "id": "s42",
+   "text": "The two parties agree that the communication between the parties is considered delivered and reached other party if transmitted by fax or electronic means with proof of sending machine. "
+  },
+  {
+   "id": "s43",
+   "text": "The date of receiving the messages, notices or letters is the date of sending authenticated by the sending machine. "
+  },
+  {
+   "id": "s44",
+   "text": "All notices under this Agreement shall be deemed to have been duly given upon the mailing of the notice, postpaid to the addresses listed above, or upon the facsimile transmission, to the party entitled to such notice at the facsimile number set forth below."
+  },
+  {
+   "id": "s45",
+   "text": "XI. "
+  },
+  {
+   "id": "s46",
+   "text": "Counterparts. "
+  },
+  {
+   "id": "s47",
+   "text": "Either the original or copies, including facsimile transmissions, of this Agreement, may be executed in counterparts, each of which shall be an original as against any party whose signature appears on such counterpart and all of which together shall constitute one and the same instrument."
+  },
+  {
+   "id": "s48",
+   "text": "XII. "
+  },
+  {
+   "id": "s49",
+   "text": "No Solicitation of Employees. "
+  },
+  {
+   "id": "s50",
+   "text": "The Receiving Party agrees that it will not, for a period of five (5) years from the date of this Agreement, initiate contact with the other Party's employees in order to solicit, entice or induce any employee of the other Party to terminate an employment relationship with the other Party to accept employment with the Receiving Party."
+  },
+  {
+   "id": "s51",
+   "text": "XIII. "
+  },
+  {
+   "id": "s52",
+   "text": "Term and Termination. "
+  },
+  {
+   "id": "s53",
+   "text": "This Agreement shall commence on the date first written above. "
+  },
+  {
+   "id": "s54",
+   "text": "The Receiving Party's right to use the Confidential Information in connection with the Business Purposes shall continue in effect until the period of one year from the date above or the other Party provides the Receiving Party with written notice of termination of such right, whichever is earlier. "
+  },
+  {
+   "id": "s55",
+   "text": "Notwithstanding the foregoing, the Receiving Party's obligations with respect to the Confidential Information hereunder shall continue in full force for at least five years from the termination date and/or effect until further notice from the other Party."
+  },
+  {
+   "id": "s56",
+   "text": "XIV. Remedies. "
+  },
+  {
+   "id": "s57",
+   "text": "The Receiving Party understands and acknowledges that any disclosure or misappropriation of any of the Confidential Information in violation of this Agreement may cause the Disclosing Party irreparable harm, the amount of which may be difficult to ascertain and, therefore, agrees that the Disclosing Party shall have the right to apply to a court of competent jurisdiction for an order restraining any such further disclosure or misappropriation and for such other relief as the Disclosing Party shall deem appropriate. "
+  },
+  {
+   "id": "s58",
+   "text": "Such right of the Disclosing Party shall be in addition to Remedies otherwise available to the Disclosing Party at law or in equity."
+  },
+  {
+   "id": "s59",
+   "text": "XV. "
+  },
+  {
+   "id": "s60",
+   "text": "Entire Agreement.. "
+  },
+  {
+   "id": "s61",
+   "text": "This Agreement embodies the entire understanding between the parties respecting the subject matter of this Agreement and supersedes any and all prior negotiations, correspondence, understandings and agreements between the parties respecting the subject matter of this Agreement. "
+  },
+  {
+   "id": "s62",
+   "text": "This Agreement shall not be modified except by a writing duly executed on behalf of the party against whom such modification is sought to be enforced. "
+  },
+  {
+   "id": "s63",
+   "text": "Should any provisions of this Agreement be found unenforceable, the remainder shall still be in effect."
+  },
+  {
+   "id": "s64",
+   "text": "XVI. "
+  },
+  {
+   "id": "s65",
+   "text": "No Waiver. "
+  },
+  {
+   "id": "s66",
+   "text": "The failure of either Party to require performance by the other Party of any provision of this Agreement shall in no way effect the full right to require such performance at any time thereafter."
+  },
+  {
+   "id": "s67",
+   "text": "XVII. "
+  },
+  {
+   "id": "s68",
+   "text": "Successors and Assigns. "
+  },
+  {
+   "id": "s69",
+   "text": "Neither shall any Party have any right to assign its rights under this Agreement, whether expressly or by operation of law, without the written consent of the other Party. "
+  },
+  {
+   "id": "s70",
+   "text": "This Agreement and the Party's obligations hereunder shall be binding on their Representatives, permitted assigns, and successors of the Parties and shall ensure to the benefit of Representatives, assigns and successors of the Parties."
+  },
+  {
+   "id": "s71",
+   "text": "XVIII. "
+  },
+  {
+   "id": "s72",
+   "text": "Governing Law. "
+  },
+  {
+   "id": "s73",
+   "text": "This Agreement shall be governed by and construed in accordance with the laws of India and the Party’s country laws on equal force. "
+  },
+  {
+   "id": "s74",
+   "text": "If there is any conflict of laws, the law of India shall prevail."
+  },
+  {
+   "id": "s75",
+   "text": "XIX. Attorneys' Fees. "
+  },
+  {
+   "id": "s76",
+   "text": "If any action at law or in equity is brought to enforce or interpret the provisions of this Agreement, the prevailing party in such action shall be entitled to attorneys' fees."
+  },
+  {
+   "id": "s77",
+   "text": "XX. "
+  },
+  {
+   "id": "s78",
+   "text": "Modification: "
+  },
+  {
+   "id": "s79",
+   "text": "This Agreement constitutes the sole understanding of the parties about this subject matter and may not be amended or modified except in writing signed by each of the parties to the Agreement."
+  },
+  {
+   "id": "s80",
+   "text": "XXI. "
+  },
+  {
+   "id": "s81",
+   "text": "Legal Address of the Parties:"
+  },
+  {
+   "id": "s82",
+   "text": "Party A: Party B:"
+  },
+  {
+   "id": "s83",
+   "text": "Company: Rhein India Technologies Private Limited Company:"
+  },
+  {
+   "id": "s84",
+   "text": "A-61,Sector 16 ,Noida (India) Address :"
+  },
+  {
+   "id": "s85",
+   "text": "________________ "
+  },
+  {
+   "id": "s86",
+   "text": "sign"
+  },
+  {
+   "id": "s87",
+   "text": "Ajay Singh:"
+  }
+ ]
+}

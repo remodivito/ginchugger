@@ -1,0 +1,40 @@
+{
+ "id": "A-deepseek-nda-discloser-01",
+ "revision": 1,
+ "title": "Mutual Non-Disclosure Agreement (synthetic fixture)",
+ "paragraphs": [
+  {
+   "id": "p1",
+   "text": "Mutual Non-Disclosure Agreement"
+  },
+  {
+   "id": "p2",
+   "text": "This Agreement is between Ashcombe Labs Ltd and Brightwater Devices Ltd."
+  },
+  {
+   "id": "p3",
+   "text": "Purpose. The Receiving Party will use Confidential Information only to evaluate a possible collaboration (the \"Purpose\")."
+  },
+  {
+   "id": "p4",
+   "text": "Representatives. The Receiving Party may share Confidential Information with its employees and advisers who need to know it for the Purpose and are bound by duties of confidentiality."
+  },
+  {
+   "id": "p5",
+   "text": "Compelled disclosure. If the law requires the Receiving Party to disclose Confidential Information, it may do so without notice to the Disclosing Party."
+  },
+  {
+   "id": "p6",
+   "text": "Return. On request, the Receiving Party will return or destroy Confidential Information."
+  },
+  {
+   "id": "p7",
+   "text": "Term. The obligations in this Agreement continue for 3 years after the Effective Date."
+  },
+  {
+   "id": "p8",
+   "text": "Governing law. This Agreement is governed by the laws of England and Wales."
+  }
+ ],
+ "canary": "5f0c1e2a-9b7d-4c3e-8a61-0d2f4b6c8e10"
+}

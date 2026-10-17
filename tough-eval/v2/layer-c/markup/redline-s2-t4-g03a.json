@@ -1,0 +1,309 @@
+{
+ "canary": "2eb20c99-e785-485c-b97c-b5e8d177c40a",
+ "task": "redline-s2-t4-g03a",
+ "note": "Earlier rounds' tracked changes, authors as in the .docx; read by render.mjs only.",
+ "markup": {
+  "p-003": [
+   {
+    "text": "1.1. This Services Agreement (the “Agreement”) is entered into by AgentCo (as defined herein) and Customer (as defined herein, and together with AgentCo, the “Parties”),",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": " ",
+    "kind": "ins",
+    "author": "Trainer 2 - LargeCo"
+   },
+   {
+    "text": "and sets out the terms on which Customer may access and use the Service (as defined herein).  ",
+    "kind": null,
+    "author": null
+   }
+  ],
+  "p-028": [
+   {
+    "text": "3.4    No PHI or Highly Regulated Data. Customer will not submit to the Service any Protected Health Information, payment card data, or other categories of data subject to heightened statutory protection beyond generally applicable personal information, unless the Parties first execute a separate written agreement expressly addressing such data.",
+    "kind": "del",
+    "author": "Trainer 1 - AgentCo"
+   }
+  ],
+  "p-033": [
+   {
+    "text": "4.3.  No Model Training or Productization. AgentCo will not, and will not permit any of its Affiliates, subprocessors, or thirdparty providers to: (a) use Content to train, finetune, or otherwise improve the Service; (b) combine Customer Content with data from other customers to generate generalized models or features; or (c) retain Content for human review, except as necessary to investigate security incidents, provide support services requested by Customer, or comply with applicable law.",
+    "kind": "del",
+    "author": "Trainer 2 - LargeCo"
+   }
+  ],
+  "p-042": [
+   {
+    "text": "7.1. These Terms commence on the Effective Date and continue in effect until terminated. ",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": "Notwithstanding anything to the contrary, Customer may terminate this Agreement or any Order upon thirty (30) days’ prior written notice, in such event all fees outstanding become immediately due and payable. . ",
+    "kind": "del",
+    "author": "Trainer 2 - LargeCo"
+   },
+   {
+    "text": "In that event of such termination, AgentCo will refund any prepaid Fees attributable to the unused portion of the Service.",
+    "kind": "del",
+    "author": "Trainer 1 - AgentCo"
+   }
+  ],
+  "p-048": [
+   {
+    "text": "8.1.  AgentCo will defend, indemnify, and hold harmless Customer and its officers, directors, employees, and agents from and against any claim, suit, action, or proceeding brought by a third party (a “Third-Party Claim”) alleging that ",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": "(i)",
+    "kind": "del",
+    "author": "Trainer 1 - AgentCo"
+   },
+   {
+    "text": " ",
+    "kind": "ins",
+    "author": "Trainer 1 - LargeCo"
+   },
+   {
+    "text": "the Service infringes or misappropriates that third party's intellectual property rights,",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": " ",
+    "kind": "ins",
+    "author": "Trainer 1 - LargeCo"
+   },
+   {
+    "text": "or (ii) AgentCo’s failure to comply with its data security obligations under this Agreement caused a Personal Data Breach (as defined in the DPA)",
+    "kind": "del",
+    "author": "Trainer 1 - AgentCo"
+   },
+   {
+    "text": ",",
+    "kind": "ins",
+    "author": "Trainer 1 - LargeCo"
+   },
+   {
+    "text": " and will pay any losses, damages, liabilities, and costs (including reasonable attorneys' fees) (“Losses”) finally awarded against Customer or agreed in settlement by AgentCo in connection with such Third-Party Claim. If a Third-Party Claim of this type is asserted, or AgentCo reasonably believes one is likely, Customer will permit AgentCo, at AgentCo's option, to: (i) modify or replace the Service so that it is non-infringing; or (ii) procure for Customer the right to continue using the Service in accordance with this Agreement. If neither option is, in either Party's reasonable judgment, available on commercially reasonable terms, either Party may terminate this Agreement (in whole or with respect to the affected component) on immediate written notice, in which case AgentCo will provide Customer with a pro-rated refund of any prepaid Fees for the unused portion of the terminated Service. This Section 8.1 does not apply to any portion or component of the Service: (A) not developed by AgentCo, including Customer Data; (B) modified by anyone other than AgentCo where the alleged infringement relates to that modification; (C) combined with products, processes, or materials not approved by AgentCo in writing where the alleged infringement relates to that combination; (D) used by Customer after AgentCo has notified Customer of the alleged infringement or has provided modifications that would have avoided it; or (E) used in a manner inconsistent with this Agreement.",
+    "kind": null,
+    "author": null
+   }
+  ],
+  "p-059": [
+   {
+    "text": "10.3. The exclusions set forth in Section 10.1 and the limitations set forth in Section 10.2 do not apply to a Party’s liability for: (i) its breach of Section 11.5 (Confidentiality); (ii) its breach of the Data Processing Addendum’s data‑security obligations resulting in a Personal Data Breach; (iii) its breach of Section 11.7 (No Training) or any other provision prohibiting the use of Customer Data or Content to train models or provide services to other customers; or (iv) its indemnification obligations under Section 8",
+    "kind": "ins",
+    "author": "Trainer 1 - LargeCo"
+   },
+   {
+    "text": " and shall in all circumstances be capped, in the aggregate, at one million dollars ($1,000,000)",
+    "kind": "ins",
+    "author": "Trainer 1 - AgentCo"
+   },
+   {
+    "text": ".",
+    "kind": "ins",
+    "author": "Trainer 1 - LargeCo"
+   }
+  ],
+  "p-068": [
+   {
+    "text": "11.7. No Training. AgentCo will not, and will not permit any Subprocessor",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": ", Affiliate, or third-party provider",
+    "kind": "ins",
+    "author": "Trainer 2 - LargeCo"
+   },
+   {
+    "text": " to, ",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": "(a) ",
+    "kind": "ins",
+    "author": "Trainer 2 - LargeCo"
+   },
+   {
+    "text": "train any AI model",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": " or train, fine tune, or otherwise improve the Service",
+    "kind": "ins",
+    "author": "Trainer 2 - LargeCo"
+   },
+   {
+    "text": " using Customer's Content or Customer Data",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": " or (b) combine Customer Content with data from other customers to generate generalized models or features;",
+    "kind": "ins",
+    "author": "Trainer 2 - LargeCo"
+   },
+   {
+    "text": ". Other than cloud storage providers, Subprocessors will not retain or log Customer's Content or Customer Data for human review",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": ", ",
+    "kind": "ins",
+    "author": "Trainer 2 - LargeCo"
+   },
+   {
+    "text": ".",
+    "kind": "del",
+    "author": "Trainer 2 - LargeCo"
+   },
+   {
+    "text": "except as necessary to investigate security incidents, provide support services requested by Customer, or comply with applicable law.",
+    "kind": "ins",
+    "author": "Trainer 2 - LargeCo"
+   }
+  ],
+  "p-074": [
+   {
+    "text": "11.10.3. Judgment on the arbitration award may be entered in any court of competent jurisdiction. Nothing in this Section prevents either Party from seeking provisional remedies in aid of arbitration from a court of competent jurisdiction.",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": " ",
+    "kind": "ins",
+    "author": "Trainer 1 - LargeCo"
+   },
+   {
+    "text": "Notwithstanding the foregoing, either party may seek temporary, preliminary, or permanent injunctive or other equitable relief in any court of competent jurisdiction to protect its Confidential Information",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": ".",
+    "kind": "ins",
+    "author": "Trainer 1 - AgentCo"
+   },
+   {
+    "text": ", intellectual property rights, or data‑security interests",
+    "kind": "del",
+    "author": "Trainer 1 - AgentCo"
+   },
+   {
+    "text": ".",
+    "kind": "ins",
+    "author": "Trainer 1 - LargeCo"
+   }
+  ],
+  "p-079": [
+   {
+    "text": "11.15. Force Majeure. Neither Party will be liable to the other for any delay in or failure to perform any obligation under these Terms caused by circumstances beyond that Party's reasonable control that could not have been avoided by the use of commercially reasonable safeguards — including acts of God; labor disputes or other industrial disturbances; systemic failures of electricity, telecommunications, or other utilities; earthquakes, storms, or other natural events; blockages or embargoes; riots; public health emergencies (including pandemics and epidemics); acts or orders of government; acts of terrorism; or war",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": " (each, a “Force Majeure Event”)",
+    "kind": "ins",
+    "author": "Trainer 1 - LargeCo"
+   },
+   {
+    "text": ".",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": " If a Force Majeure Event lasts more than",
+    "kind": "ins",
+    "author": "Trainer 1 - LargeCo"
+   },
+   {
+    "text": " thirty",
+    "kind": "ins",
+    "author": "Trainer 1 - AgentCo"
+   },
+   {
+    "text": " fifteen",
+    "kind": "del",
+    "author": "Trainer 1 - AgentCo"
+   },
+   {
+    "text": " (",
+    "kind": "ins",
+    "author": "Trainer 1 - LargeCo"
+   },
+   {
+    "text": "30",
+    "kind": "ins",
+    "author": "Trainer 1 - AgentCo"
+   },
+   {
+    "text": "15",
+    "kind": "del",
+    "author": "Trainer 1 - AgentCo"
+   },
+   {
+    "text": ") consecutive days, Customer shall have the right to immediately terminate this Agreement and AgentCo shall refund Customer any pre-paid, unused Fees for the Services within thirty (30) days of such termination.",
+    "kind": "ins",
+    "author": "Trainer 1 - LargeCo"
+   }
+  ],
+  "p-139": [
+   {
+    "text": "3.6 Personal Data Breaches. AgentCo will notify Customer of any Personal Data Breach without undue delay",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": ", and in any event within ",
+    "kind": "ins",
+    "author": "Trainer 1 - LargeCo"
+   },
+   {
+    "text": "48",
+    "kind": "ins",
+    "author": "Trainer 1 - AgentCo"
+   },
+   {
+    "text": "24",
+    "kind": "del",
+    "author": "Trainer 1 - AgentCo"
+   },
+   {
+    "text": " hours,",
+    "kind": "ins",
+    "author": "Trainer 1 - LargeCo"
+   },
+   {
+    "text": " after becoming aware of it, and will provide reasonable assistance to Customer in meeting Customer's obligations under Data Protection Laws with respect to such Personal Data Breach.",
+    "kind": null,
+    "author": null
+   }
+  ],
+  "p-209": [
+   {
+    "text": "3. Scheduled Maintenance. AgentCo shall only conduct Scheduled Maintenance mutually agreed upon hours",
+    "kind": null,
+    "author": null
+   },
+   {
+    "text": ". ",
+    "kind": "ins",
+    "author": "Trainer 1 - LargeCo"
+   },
+   {
+    "text": "AgentCo shall notify LargeCo in writing (email being sufficient) of Scheduled Maintenance at least ten (10) business days in advance. In the event of non-Scheduled Maintenance, including any emergency maintenance, AgentCo shall, as soon as practical, notify LargeCo in writing (email being sufficient) of any instance of non-Scheduled Maintenance and shall keep LargeCo regularly informed of progress towards complete restoration of Availability of the Service(s). ",
+    "kind": null,
+    "author": null
+   }
+  ]
+ }
+}

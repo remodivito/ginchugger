@@ -1,0 +1,441 @@
+{
+ "id": "N318",
+ "revision": 1,
+ "title": "One-Way-Non-Disclosure-Agreement-EN.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 318,
+  "type": "search-pdf",
+  "url": "https://www.iprhelpdesk.eu/sites/default/files/newsdocuments/One-Way-Non-Disclosure-Agreement-EN.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "THIS AGREEMENT [the Agreement] is entered into on this [insert number of day] day of [insert Month and year] by and between:"
+  },
+  {
+   "id": "s2",
+   "text": "1. [Insert official name of the potential partner or participant], having its registered office or based in [insert the Legal Address of the Entity] hereinafter referred to as [the Disclos-er] and"
+  },
+  {
+   "id": "s3",
+   "text": "2. [Insert official name of the potential partner or participant], having its registered of-fice or based in [insert the Legal Address of the Entity] hereinafter referred to as [the Recipient]"
+  },
+  {
+   "id": "s4",
+   "text": "WHEREAS:"
+  },
+  {
+   "id": "s5",
+   "text": "The Discloser and Recipient hereto desire [to participate in early discussions regarding the entering into future collaboration as a European Funded Project in the field of (….)] or [to submit a proposal for a collaborative project in response to the call (identify the call) under (identify the EU-funded Programme)] or [to evaluate entering into partnership or business collaboration for the purpose of (identify the undertaking intended to perform)] "
+  },
+  {
+   "id": "s6",
+   "text": "Throughout the aforementioned discussions, the Discloser may share proprietary infor-mation or Confidential Information with the Recipient subject to the terms and cove-nants set forth below."
+  },
+  {
+   "id": "s7",
+   "text": "NOW IT IS AGREED AS FOLLOWS:"
+  },
+  {
+   "id": "s8",
+   "text": "1. Confidential Information"
+  },
+  {
+   "id": "s9",
+   "text": "1.1 "
+  },
+  {
+   "id": "s10",
+   "text": "For the purposes of this Agreement, Confidential Information means any data or proprietary information of the Discloser that is not generally known to the public or has not yet been revealed, whether in tangible or intangible form, whenever and however disclosed, including, but not limited to:"
+  },
+  {
+   "id": "s11",
+   "text": "(i) any scientific or technical information, invention, design, process, procedure, formula, improvement, technology or method;"
+  },
+  {
+   "id": "s12",
+   "text": "(ii) any concepts, samples, reports, data, know-how, works-in-progress, designs, drawings, photographs, development tools, specifications, software pro-grams, source code, object code, flow charts, and databases;"
+  },
+  {
+   "id": "s13",
+   "text": "(iii) any marketing strategies, plans, financial information, or projections, opera-tions, sales estimates, business plans and performance results relating to the Discloser’s past, present or future business activities, or those of its affiliates, subsidiaries and affiliated companies;"
+  },
+  {
+   "id": "s14",
+   "text": "(iv) trade secrets; plans for products or services, and customer or supplier lists;"
+  },
+  {
+   "id": "s15",
+   "text": "(v) any other information that should reasonably be recognized as Confidential Information by the Discloser."
+  },
+  {
+   "id": "s16",
+   "text": "1.2 "
+  },
+  {
+   "id": "s17",
+   "text": "The Discloser and the Recipient agree hereby that Confidential Information needs not to be novel, unique, patentable, copyrightable or constitutes a trade secret in order to be designated Confidential Information and therefore protected."
+  },
+  {
+   "id": "s18",
+   "text": "1.3 Confidential Information shall be identified either by marking it, in the case of writ-ten materials, or, in the case of information that is disclosed orally or written materials that are not marked, by notifying the Recipient of the confidential nature of the infor-mation. "
+  },
+  {
+   "id": "s19",
+   "text": "Such notification shall be done orally, by e-mail or written correspondence, or via other appropriate means of communication."
+  },
+  {
+   "id": "s20",
+   "text": "1.4 "
+  },
+  {
+   "id": "s21",
+   "text": "The Recipient hereby acknowledge that the Confidential Information proprietary of the Discloser has been developed and obtained through great efforts and shall be re-garded and kept as Confidential Information."
+  },
+  {
+   "id": "s22",
+   "text": "1.5 Notwithstanding the aforementioned Confidential Information shall exclude infor-mation that:"
+  },
+  {
+   "id": "s23",
+   "text": "(i) is already in the public domain at the time of disclosure by the Discloser to the Recipient or thereafter enters the public domain without any breach of the terms of this Agreement;"
+  },
+  {
+   "id": "s24",
+   "text": "(ii) was already known by the Recipient before the moment of disclosure (under evidence of reasonable proof or written record of such disclosure);"
+  },
+  {
+   "id": "s25",
+   "text": "(iii) is subsequently communicated to the Recipient without any obligation of confidence from a third party who is in lawful possession thereof and under no obligation of confidence to the Discloser;"
+  },
+  {
+   "id": "s26",
+   "text": "(iv) becomes publicly available by other means than a breach of the confi-dentiality obligations by the Recipient (not through fault or failure to act by the Recipient);"
+  },
+  {
+   "id": "s27",
+   "text": "(iv) is or has been developed independently by employees, consultants or agents of the Recipient (proved by reasonable means) without violation of the terms of this Agreement or reference or access to any Confidential Information pertaining to the Discloser."
+  },
+  {
+   "id": "s28",
+   "text": "2. Purpose of the Disclosure of Confidential Information"
+  },
+  {
+   "id": "s29",
+   "text": "The Discloser and Recipient will enter on discussions regarding future collaboration to-ward European Funded Project in the field of (cid:896)….] or [will submit a proposal for a collabo-rative project in response to the call (identify the call) under (identify the EU funded Pro-gramme)] or [will enter into or evaluate alternatives for partnership or collaboration with [name of the Recipient] for the purpose of [identify the undertaking intended to perform or achieve]."
+  },
+  {
+   "id": "s30",
+   "text": "3. Undertakings of the Recipient"
+  },
+  {
+   "id": "s31",
+   "text": "3.1 "
+  },
+  {
+   "id": "s32",
+   "text": "In the context of discussions, preparations or negotiations, the Discloser may disclose Confidential Information to the Recipient. "
+  },
+  {
+   "id": "s33",
+   "text": "The Recipient agrees to use the Confidential Information solely in connection with purposes contemplated in this Agreement and not to use it for any other purpose or without the prior written consent of the Discloser."
+  },
+  {
+   "id": "s34",
+   "text": "3.2 "
+  },
+  {
+   "id": "s35",
+   "text": "The Recipient will not disclose and will keep confidential the information received, except to its employees, representatives or agents who need to have access to the Con-fidential Information for the purpose of carrying out their duties in connection with the permitted purposes specified in clause "
+  },
+  {
+   "id": "s36",
+   "text": "2. "
+  },
+  {
+   "id": "s37",
+   "text": "The Recipient will inform them about the con-fidential quality of the information provided and will ensure that their agreement is ob-tained to keep it confidential on the same terms as set forth in this Agreement. "
+  },
+  {
+   "id": "s38",
+   "text": "Hence the Recipient will be responsible for ensuring that the obligations of confidentiality and non-use contained herein will be strictly observed and will assume full liability for the acts or omissions made for its personnel representatives or agents."
+  },
+  {
+   "id": "s39",
+   "text": "3.3 "
+  },
+  {
+   "id": "s40",
+   "text": "The Recipient will use the Confidential Information exclusively for the permitted pur-pose stated in clause 2 and not use the information for its own purposes or benefit."
+  },
+  {
+   "id": "s41",
+   "text": "3.4 "
+  },
+  {
+   "id": "s42",
+   "text": "The Recipient will not disclose any Confidential Information received to any third parties, except as otherwise provided for herein."
+  },
+  {
+   "id": "s43",
+   "text": "3.5 "
+  },
+  {
+   "id": "s44",
+   "text": "The Recipient shall treat all Confidential Information with the same degree of care as it accords to its own Confidential Information."
+  },
+  {
+   "id": "s45",
+   "text": "3.6 All Confidential Information disclosed under this Agreement shall be and remain un-der the property of the Discloser and nothing contained in this Agreement shall be con-strued as granting or conferring any rights to such Confidential Information on the Recip-ient. "
+  },
+  {
+   "id": "s46",
+   "text": "Principally, nothing in this Agreement shall be deemed to grant to the Recipient a licence expressly or by implication under any patent, copyright or other intellectual property right. "
+  },
+  {
+   "id": "s47",
+   "text": "The Recipient hereby acknowledges and confirms that all the existing and future intellectual property rights related to the Confidential Information are exclusive titles of the Discloser. "
+  },
+  {
+   "id": "s48",
+   "text": "For the sake of clarity based in good faith, the Recipient will not apply for or obtain any intellectual property protection in respect of the Confidential Information received. "
+  },
+  {
+   "id": "s49",
+   "text": "Likewise any modifications and improvements thereof by the Re-cipient shall be the sole property of the Discloser."
+  },
+  {
+   "id": "s50",
+   "text": "3.7 "
+  },
+  {
+   "id": "s51",
+   "text": "The Recipient shall promptly return or destroy all copies (in whatever form repro-duced or stored), including all notes and derivatives of the Confidential Information dis-closed under this Agreement, upon the earlier of "
+  },
+  {
+   "id": "s52",
+   "text": "(i) the completion or termination of the dealings contemplated in this Agreement; "
+  },
+  {
+   "id": "s53",
+   "text": "(ii) or the termination of this Agreement; "
+  },
+  {
+   "id": "s54",
+   "text": "(iii) or at the time the Discloser may request it to the Recipient."
+  },
+  {
+   "id": "s55",
+   "text": "3.8 Notwithstanding the foregoing, the Recipient may retain such of its documents as required to comply with mandatory law, provided that such Confidentiality Information or copies thereof shall be subject to an indefinite confidentiality obligation."
+  },
+  {
+   "id": "s56",
+   "text": "3.9 "
+  },
+  {
+   "id": "s57",
+   "text": "In the event that the Recipient is asked to communicate the Confidential Information to any judicial, administrative, regulatory authority or similar or obliged to reveal such information by mandatory law, it shall notify promptly the Discloser of the terms of such disclosure and will collaborate to the extent practicable with the Discloser in order to comply with the order and preserve the confidentiality of the Confidential Information."
+  },
+  {
+   "id": "s58",
+   "text": "3.10 "
+  },
+  {
+   "id": "s59",
+   "text": "The Recipient agrees that the Discloser will suffer irreparable damage if its Confi-dential Information is made public, released to a third party, or otherwise disclosed in breach of this Agreement and that the Discloser shall be entitled to obtain injunctive relief against a threatened breach or continuation of any such a breach and, in the event of such breach, an award of actual and exemplary damages from any court of competent jurisdiction."
+  },
+  {
+   "id": "s60",
+   "text": "3.11 "
+  },
+  {
+   "id": "s61",
+   "text": "The Recipient shall immediately notify upon becoming aware of any breach of con-fidence by anybody to whom it has disclosed the Confidential Information and give all necessary assistance in connection with any steps which the Discloser may wish to take prevent, stop or obtain compensation for such a breach or threatened breach."
+  },
+  {
+   "id": "s62",
+   "text": "3.12 "
+  },
+  {
+   "id": "s63",
+   "text": "The Confidential Information subject to this Agreement is made available \"as such\" and no warranties of any kind are granted or implied with respect to the quality of such information including but not limited to, its applicability for any purpose, non-infringement of third party rights, accuracy, completeness or correctness. "
+  },
+  {
+   "id": "s64",
+   "text": "Further, the Discloser shall not have any liability to the Recipient resulting from any use of the Confi-dential Information."
+  },
+  {
+   "id": "s65",
+   "text": "3.13 "
+  },
+  {
+   "id": "s66",
+   "text": "The Discloser is not under any obligation under this Agreement to disclose any Con-fidential Information it chooses not to disclose."
+  },
+  {
+   "id": "s67",
+   "text": "3.14 "
+  },
+  {
+   "id": "s68",
+   "text": "Nothing in this Agreement shall be construed to constitute an agency, partnership, joint venture, or other similar relationship between the Discloser and Recipient."
+  },
+  {
+   "id": "s69",
+   "text": "4. Miscellaneous"
+  },
+  {
+   "id": "s70",
+   "text": "4.1 Duration and Termination"
+  },
+  {
+   "id": "s71",
+   "text": "4.1.1 "
+  },
+  {
+   "id": "s72",
+   "text": "This Agreement shall remain in effect for a term of [number of months or years] term. "
+  },
+  {
+   "id": "s73",
+   "text": "Notwithstanding the foregoing, the Recipient’s duty to hold in confidence Confi-dential Information that was disclosed during the term shall remain in effect indefinitely, save otherwise agreed."
+  },
+  {
+   "id": "s74",
+   "text": "4.1.2 "
+  },
+  {
+   "id": "s75",
+   "text": "If the Discloser and Recipient succeed in the call for proposal referred to in clause 2 and sign the corresponding Grant Agreement (GA) and Consortium Agreement (CA), or entered into partnership under any other kind of collaborative agreement (COA) or asso-ciation agreement (AA), the non-disclosure provisions of the CA, COA and AA shall [sup-plement or supersede] this Agreement. "
+  },
+  {
+   "id": "s76",
+   "text": "In the event that non-disclosure provisions are not provided for the said private agreements in equal terms as stated herein, this Agreement shall remain in force until the end of the collaboration undertaken or after [months or years] of its termination."
+  },
+  {
+   "id": "s77",
+   "text": "4.2 Applicable Law and Jurisdiction"
+  },
+  {
+   "id": "s78",
+   "text": "This Agreement shall be construed and interpreted by the laws of [choose the applicable law]. "
+  },
+  {
+   "id": "s79",
+   "text": "The court of [choose the jurisdiction to settle disputes] shall have jurisdiction."
+  },
+  {
+   "id": "s80",
+   "text": "4.3 Validity"
+  },
+  {
+   "id": "s81",
+   "text": "If any provisions of this Agreement are invalid or unenforceable, the validity of the re-maining provisions shall not be affected. "
+  },
+  {
+   "id": "s82",
+   "text": "The invalid or unenforceable provision shall be replaced by a valid and enforceable provision that will meet the purpose of the invalid or unenforceable provision as closely as possible."
+  },
+  {
+   "id": "s83",
+   "text": "4.4 Subsequent Agreements"
+  },
+  {
+   "id": "s84",
+   "text": "Ancillary agreements, amendments or additions hereto shall be made in writing."
+  },
+  {
+   "id": "s85",
+   "text": "4.5 Communications"
+  },
+  {
+   "id": "s86",
+   "text": "Any notices or communications required may be delivered by hand or e-mail, mailed by registered mail to the address of the Recipient/Discloser as indicated above. "
+  },
+  {
+   "id": "s87",
+   "text": "Any subse-quent modification of addresses should be reasonably communicated in advance to the effect of this Agreement."
+  },
+  {
+   "id": "s88",
+   "text": "IN WITNESS WHEREOF, the Parties hereto have caused this Non-Disclosure Agreement to be executed as of the date stated above."
+  },
+  {
+   "id": "s89",
+   "text": "FOR [insert name of participant or potential or current partner]"
+  },
+  {
+   "id": "s90",
+   "text": "[insert name of representative]"
+  },
+  {
+   "id": "s91",
+   "text": "[insert title]"
+  },
+  {
+   "id": "s92",
+   "text": "Done at [place] on [date]"
+  },
+  {
+   "id": "s93",
+   "text": "For more information, please consult our fact sheets on “How to manage confidential business information” and “Non-disclosure agreement: a business tool” which are available in our online library:"
+  },
+  {
+   "id": "s94",
+   "text": "http://www.iprhelpdesk.eu/node/1265"
+  },
+  {
+   "id": "s95",
+   "text": "http://www.iprhelpdesk.eu/node/969"
+  },
+  {
+   "id": "s96",
+   "text": "GET IN TOUCH"
+  },
+  {
+   "id": "s97",
+   "text": "For comments, suggestions or further information, please contact"
+  },
+  {
+   "id": "s98",
+   "text": "European IPR "
+  },
+  {
+   "id": "s99",
+   "text": "Helpdesk"
+  },
+  {
+   "id": "s100",
+   "text": "c/o infeurope S.A."
+  },
+  {
+   "id": "s101",
+   "text": "62, rue Charles Martel"
+  },
+  {
+   "id": "s102",
+   "text": "L-2134, Luxembourg"
+  },
+  {
+   "id": "s103",
+   "text": "Email: service@iprhelpdesk.eu"
+  },
+  {
+   "id": "s104",
+   "text": "Phone: +352 25 22 33 - 333"
+  },
+  {
+   "id": "s105",
+   "text": "Fax: +352 25 22 33 – 334"
+  },
+  {
+   "id": "s106",
+   "text": "www.iprhelpdesk.eu"
+  }
+ ]
+}

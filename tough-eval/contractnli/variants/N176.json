@@ -1,0 +1,129 @@
+{
+ "id": "N176",
+ "revision": 1,
+ "title": "NDA_5.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 176,
+  "type": "search-pdf",
+  "url": "http://web.mit.edu/andersk/Public/NDA.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s2",
+   "text": "This Non-Disclosure Agreement (\"Agreement\") is entered into between Google Inc., for itself and its subsidiaries and affiliates (\"Google\"), and ____________, for themselves and any company they may represent (\"Participant\"). "
+  },
+  {
+   "id": "s3",
+   "text": "In connection with Participant’s visit, Google may disclose or expose to Participant certain information that is proprietary to Google (\"Confidential Information\"). "
+  },
+  {
+   "id": "s4",
+   "text": "Participant will use the Confidential Information only for the purpose associated with Participant’s visit. "
+  },
+  {
+   "id": "s5",
+   "text": "Participant will use the same degree of care, but no less than a reasonable degree of care, as Participant uses with respect to its own similar information to protect the Confidential Information and to prevent "
+  },
+  {
+   "id": "s6",
+   "text": "(i) any use of Confidential Information not authorized in this Agreement, "
+  },
+  {
+   "id": "s7",
+   "text": "(ii) dissemination of Confidential Information to any third party. "
+  },
+  {
+   "id": "s8",
+   "text": "This Agreement imposes no obligation upon Participant with respect to Confidential Information that "
+  },
+  {
+   "id": "s9",
+   "text": "(a) was known to Participant before receipt from Google, as evidenced by Participant’s files and records in existence before the time of disclosure; "
+  },
+  {
+   "id": "s10",
+   "text": "(b) is or becomes publicly available through no fault of Participant; "
+  },
+  {
+   "id": "s11",
+   "text": "(c) is rightfully received by Participant from a third party without a duty of confidentiality; "
+  },
+  {
+   "id": "s12",
+   "text": "(d) is disclosed by Google to a third party without a duty of confidentiality on the third party; or "
+  },
+  {
+   "id": "s13",
+   "text": "(e) is disclosed by Participant with Google’s prior written approval. "
+  },
+  {
+   "id": "s14",
+   "text": "If Confidential Information is required to be produced by law, court order, or governmental authority, Participant must immediately notify Google of that obligation."
+  },
+  {
+   "id": "s16",
+   "text": "Participant acknowledges and understands that hardware, technology, source code, and software to which Participant may have access or which are disclosed to Participant as a result of his/her visit to Google may be subject to U.S. export control laws and regulations. "
+  },
+  {
+   "id": "s17",
+   "text": "Participant hereby certifies that he/she shall not -- directly or indirectly -- sell, export, reexport, transfer, divert, or otherwise dispose of any hardware, software, source code, or technology (including products derived from or based on such technology or software) received from Google to any country (or national thereof) without obtaining prior authorization from Google and the appropriate government authorities."
+  },
+  {
+   "id": "s19",
+   "text": "In addition, Participant certifies that he/she is not a citizen of Cuba, Iran, North Korea, Sudan, or Syria. "
+  },
+  {
+   "id": "s20",
+   "text": "This Agreement shall remain in effect until such time as all Confidential Information of Google disclosed hereunder becomes publicly known and made generally available through no action or inaction of Participant. "
+  },
+  {
+   "id": "s21",
+   "text": "Participant, upon Google’s written request, will promptly return all Confidential Information received from Google, together with all copies, or certify in writing that all such Confidential Information and copies thereof have been destroyed. "
+  },
+  {
+   "id": "s22",
+   "text": "This Agreement between the parties supersedes any other prior or collateral agreements, whether oral or written, with respect to the subject matter hereof and constitutes the entire agreement with respect to the subject matter hereof. "
+  },
+  {
+   "id": "s23",
+   "text": "This Agreement shall be governed by the laws of the State of California, without reference to conflict of laws principles. "
+  },
+  {
+   "id": "s24",
+   "text": "The exclusive venue for any dispute relating to this Agreement shall be in the state or federal courts within Santa Clara County, California."
+  },
+  {
+   "id": "s25",
+   "text": "Signature: "
+  },
+  {
+   "id": "s26",
+   "text": "__________________________________"
+  },
+  {
+   "id": "s27",
+   "text": "Print Name: "
+  },
+  {
+   "id": "s28",
+   "text": "_________________________________"
+  },
+  {
+   "id": "s29",
+   "text": "Address: "
+  },
+  {
+   "id": "s30",
+   "text": "___________________________________"
+  },
+  {
+   "id": "s31",
+   "text": "_______________________________________"
+  }
+ ]
+}

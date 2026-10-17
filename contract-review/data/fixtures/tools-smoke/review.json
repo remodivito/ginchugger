@@ -1,0 +1,33 @@
+{
+  "note": "The fixed review of the tools smoke test (PR-MODEL-03) and of scripts/smoke-agentic.mjs: Quillon's markup of our 2026 draft, reviewed agentically with the NDA playbook over the store seeded from store-seed.json. The document under review is not in the store; its counterparty is named.",
+  "counterparty": "Quillon Instruments Ltd",
+  "playbook": "../../playbook.json",
+  "reviewMode": "own-paper",
+  "document": {
+    "id": "tools-smoke-current",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "text": "Mutual Non-Disclosure Agreement between Helix Analytics Ltd and Quillon Instruments Ltd."
+      },
+      {
+        "id": "p2",
+        "text": "Purpose. Each party may use the other's Confidential Information to evaluate a possible pilot of remote calibration services and to develop its own products.",
+        "originalText": "Purpose. Each party may use the other's Confidential Information solely to evaluate a possible pilot of remote calibration services."
+      },
+      {
+        "id": "p3",
+        "text": "Term. The obligations in this Agreement continue for seven years after termination.",
+        "originalText": "Term. The obligations in this Agreement continue for three years after termination."
+      },
+      {
+        "id": "p4",
+        "text": "Retention. A party may keep copies in routine backups or as the law requires, and those copies remain subject to this Agreement."
+      },
+      {
+        "id": "p5",
+        "text": "Governing law. This Agreement is governed by the laws of England and Wales."
+      }
+    ]
+  }
+}

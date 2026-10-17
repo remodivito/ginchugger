@@ -1,0 +1,634 @@
+{
+ "canary": "2eb20c99-e785-485c-b97c-b5e8d177c40a",
+ "format": "tough-eval-layer-c-tasks/1",
+ "source": {
+  "dataset": "crosbylegal/RedlineBench",
+  "revision": "eee1b6790982ed1279e86bec7616b662a61993e6",
+  "url": "https://huggingface.co/datasets/crosbylegal/RedlineBench/tree/eee1b6790982ed1279e86bec7616b662a61993e6",
+  "licence": {
+   "data": "CC BY 4.0",
+   "code": "MIT",
+   "attribution": "RedlineBench by Crosby Legal and micro1"
+  },
+  "attribution": "tough-eval/sources/ATTRIBUTION.md"
+ },
+ "selection": "The 2 October audit (eval-feasibility/redline-task-audit.md): criteria classed U (transfer as written) and A (transfer with output adaptation) are judged; I (incompatible) are excluded with the audit's reason. Adapted wording in layer-c/criteria.mjs.",
+ "reviewMode": "third-party (as review-one.mjs runs every layer); the document carries originalText for paragraphs with earlier tracked changes; no separate context: the positions reach the reviewer as the playbook",
+ "counts": {
+  "tasks": 3,
+  "criteria": 22,
+  "transferAsWritten": 9,
+  "adapted": 13,
+  "change": 12,
+  "keep": 10,
+  "excluded": 11
+ },
+ "files": {
+  "v2/layer-c/documents/redline-s1-t3-g01a.json": "b61634f6fe8b80ba6871e15e050534e877476a0e970a84e58e150251f8abd990",
+  "v2/layer-c/markup/redline-s1-t3-g01a.json": "ed40d8036dc368754195f2cfef890a17590a6891c87053ddaab529775f1c97a8",
+  "v2/layer-c/playbooks/redline-s1-t3-g01a.json": "d4cc2c980876c917c6e81bb91a09cf90d7467855696bee952fac1c006389dd44",
+  "v2/layer-c/golden/redline-s1-t3-g01a.json": "b5d791b13e1545f51fa8945ee631def2555a3d96a6e40e734d1491979767c538",
+  "v2/layer-c/documents/redline-s2-t4-g03a.json": "d38fd1a95196301705dbb01bf105adcc19b08e671008023764cc57815baa9819",
+  "v2/layer-c/markup/redline-s2-t4-g03a.json": "b60832e675d1cee005e1471d0855428824f10202f267dd3aaf7c0431759ac3ed",
+  "v2/layer-c/playbooks/redline-s2-t4-g03a.json": "9e3da69a9d7fb6c8c4e904e9b743460964302883e5d7762ba2897a6e436880a7",
+  "v2/layer-c/golden/redline-s2-t4-g03a.json": "74e4e0148d5afc5e08a6450a37694fa89c90b172fcf6fb474cf0fa3ffc2dfb0e",
+  "v2/layer-c/documents/redline-s3-t4-g02a.json": "33374c806d8dab0ce3d7cad4dfe76b589b8c98304b0c10d0959c0a9584c1759b",
+  "v2/layer-c/markup/redline-s3-t4-g02a.json": "5fb0fd815f2d2345734bca29ae39146b9812aa5fe0cf3e3b123f9635171d3a4a",
+  "v2/layer-c/playbooks/redline-s3-t4-g02a.json": "7d87fd2acf082248f407e1b8f4527189a045a788167d5ba8b1054032de1591ef",
+  "v2/layer-c/golden/redline-s3-t4-g02a.json": "07b36a396576ded1ab963fb7e4712feba87231fd8953101ccba242ea83559cc6"
+ },
+ "tasks": [
+  {
+   "id": "redline-s1-t3-g01a",
+   "platformTaskId": "25",
+   "scenario": "Vendor-led SaaS MSA",
+   "inputGroup": "s1-t3-g01",
+   "variant": "a",
+   "turn": 3,
+   "represented": "AgentCo",
+   "counterparty": "LargeCo",
+   "document": "v2/layer-c/documents/redline-s1-t3-g01a.json",
+   "markup": "v2/layer-c/markup/redline-s1-t3-g01a.json",
+   "playbook": "v2/layer-c/playbooks/redline-s1-t3-g01a.json",
+   "golden": {
+    "file": "v2/layer-c/golden/redline-s1-t3-g01a.json",
+    "source": "attorney-redline"
+   },
+   "paragraphs": 402,
+   "revisedParagraphs": 216,
+   "playbookRules": 25,
+   "sources": {
+    "environment/app/contract.docx": "b3f02ab482133343f5113b83ce270649f8baade391e7350026837c7226ffb76e",
+    "environment/app/grounding/AgentCo_-_Platform_Agreement.extracted.md": "cc48ef41b620688e55b56e7bcc56e4ddbd4c00c0efb40d496ba7d253b8948953",
+    "environment/app/grounding/Contract_Review_Guidelines_for_Reviewing_Attorneys_v1.extracted.md": "98153395455c06728cd2eeb98bc626c13abb626508b84511c87c2287c02fbdfd",
+    "environment/app/grounding/Project_Veritas_Scenario_1_AgentCo_TalentFlow_.docx_-_Google_Docs.extracted.md": "0ebdf938028d56d9349c63055b4f3054ea7913ed75efde9ffa9622b891d83227",
+    "instruction.md": "3bf6326fcd3d0f668b54b95f78f8daaab48a043134d3904280371df163c9c345",
+    "task.toml": "e68f75f214974086d1b1b8936f9d210cfebea7271b924435caf50dffbbb79104",
+    "tests/attorney_redlines.docx": "a76d1a8cc58cf5c42ccae125ed8cc9659256d2c98d97d80c89093875ce7caf71",
+    "tests/rubrics.json": "47b9aab847581ffe0b63248c1f37f7d9c1510ea4dcb6c9176f0e4303252a2346"
+   },
+   "criteria": [
+    {
+     "id": "C-s1-01",
+     "rubricId": "rubric_1778170166070_fze5i",
+     "class": "U",
+     "kind": "keep",
+     "section": "1.7",
+     "adapted": "Section 1.7, the definition of \"Derivative Work\" (\"“Derivative Work” means a work which is based upon one or more preexisting works ...\"), which LargeCo restored, stays in the agreement: no proposed change deletes the definition or removes the defined term.",
+     "attorney": {
+      "criterion": "Accepts Section 1.7 LargeCo's restoration of \"Derivative Works\"",
+      "justification": "LargCo is correct in rejecting deletion of Derivative works as it is used throughout the document. Deleting this definition would result in confusion as to what that term means.",
+      "category": "Legal correctness",
+      "weight": 9
+     },
+     "expect": {
+      "golden": true,
+      "empty": true
+     }
+    },
+    {
+     "id": "C-s1-02",
+     "rubricId": "rubric_1778279895663_xwc1a",
+     "class": "A",
+     "kind": "change",
+     "section": "1.19",
+     "adapted": "In the definition of \"User Information\" (Section 1.19), the output proposes deleting the reference to \"User data\" (limb (b): \"all User data that is generated, collected, stored, processed or used in connection with or derived from Provider’s performance of the Services\"), so the definition no longer conflicts with the statement at its end about what User Information does not include. Wording with the same effect counts; an explanation without a proposed change does not.",
+     "attorney": {
+      "criterion": "Deletes of Section 1.19 LargeCo's reference to \"User Data\" in the definition of \"User Information\".",
+      "justification": "By not deleting the statement, it conflicts with AgentCo's addition that User Information does not include User Data.",
+      "category": "Commercial Context",
+      "weight": 9
+     },
+     "expect": {
+      "golden": true,
+      "empty": false
+     }
+    },
+    {
+     "id": "C-s1-03",
+     "rubricId": "rubric_1778280533741_f4jsc",
+     "class": "A",
+     "kind": "change",
+     "section": "2.2",
+     "adapted": "In Section 2.2 (LargeCo's paragraph beginning \"LargeCo may permit its Affiliates and their Authorized Users to access and use the Services\"), the output proposes deleting the word \"Authorized\", so the provision refers to \"Users\" (the defined term) rather than \"Authorized Users\" (Provider personnel given access to LargeCo systems). Deleting it at each place in that paragraph, or wording with the same effect, counts.",
+     "attorney": {
+      "criterion": "Deletes in Section 2.2 the word \"Authorized\" .",
+      "justification": "The capitalized term of \"Authorized User\" is incorrect. The correct term is \"User\". By referencing \"Authorized User\", it is referencing the wrong type of User thereby allowing non-LargeCo employees to use their licenses.",
+      "category": "Legal correctness",
+      "weight": 6
+     },
+     "expect": {
+      "golden": true,
+      "empty": false
+     }
+    },
+    {
+     "id": "C-s1-04",
+     "rubricId": "rubric_1778626575064_vbamo",
+     "class": "U",
+     "kind": "keep",
+     "section": "2.3.2",
+     "adapted": "In Section 2.3.2, LargeCo's inserted sentence \"The foregoing does not authorize Provider to disclose LargeCo’s actual AI Inputs or AI Outputs (in whole or part) to any third party, and any AI Input or AI Output that contains LargeCo Data, User Information, Personal Information, or other LargeCo Confidential Information remains LargeCo’s Confidential Information regardless of similarity to inputs or outputs of other customers\" stays in substance: no proposed change deletes or weakens it.",
+     "attorney": {
+      "criterion": "Accepts in Section 2.3.2 LargeCo's insertion of \"The foregoing does not authorize Provider to disclose LargeCo’s actual AI Inputs or AI Outputs (in whole or part) to any third party, and any AI Input or AI Output that contains LargeCo Data, User Information, Personal Information, or other LargeCo Confidential Information remains LargeCo’s Confidential Information regardless of similarity to inputs or outputs of other customers\".",
+      "justification": "In Section 2.3.2- Since the AI inputs and AI outputs will contain LargeCo's Confidential information, AgentCo is ok accepting that clarification.",
+      "category": "Commercial Context",
+      "weight": 2
+     },
+     "expect": {
+      "golden": true,
+      "empty": true
+     }
+    },
+    {
+     "id": "C-s1-05",
+     "rubricId": "rubric_1778626785236_uokwz",
+     "class": "U",
+     "kind": "change",
+     "section": "2.3.2",
+     "adapted": "In Section 2.3.2, the output proposes restoring the sentence LargeCo deleted, \"Queries submitted by, and responses delivered to other customers and their users do not constitute LargeCo’s Confidential Information\", or wording with the same effect (outputs delivered to other customers are not LargeCo's Confidential Information merely because they resemble LargeCo's).",
+     "attorney": {
+      "criterion": "Rejects in Section 2.3.2 LargeCo's deletion of  \"Queries submitted by, and responses delivered to other customers and their users do not constitute LargeCo’s Confidential Information\"",
+      "justification": "Section 2.3.2-AgentCo must be clear that even though AI Outputs may be substantially similar to LargeCo's, it will not be considered LargeCo's Confidential information because it did not use LargeCo's Confidential Information.",
+      "category": "Legal correctness",
+      "weight": 10
+     },
+     "expect": {
+      "golden": true,
+      "empty": false
+     }
+    },
+    {
+     "id": "C-s1-06",
+     "rubricId": "rubric_1778627032732_o08ok",
+     "class": "A",
+     "kind": "change",
+     "section": "2.3.4",
+     "adapted": "In Section 2.3.4 (Third-Party AI Technology), item (c) reads \"... a written agreement with the licensor of such AI Technology that imposes obligations that impose obligations substantially consistent ...\". The output proposes deleting the duplicated words \"that impose obligations\" that LargeCo inserted, leaving the clause otherwise as it stands.",
+     "attorney": {
+      "criterion": "Deletes in Section 2.3.4 LargeCo's insertion of \"that impose obligations\".",
+      "justification": "LargeCo inserted language that was already in the clause. Just deleted duplicate language.",
+      "category": "Deal-closing Orientation",
+      "weight": 1
+     },
+     "expect": {
+      "golden": true,
+      "empty": false
+     }
+    },
+    {
+     "id": "C-s1-07",
+     "rubricId": "rubric_1778284114514_h2o5q",
+     "class": "U",
+     "kind": "keep",
+     "section": "2.3.4",
+     "adapted": "In Section 2.3.4 (Third-Party AI Technology), item (c), LargeCo's replacement of \"at least as restrictive as those imposed on or required of Provider\" with \"substantially consistent with the relevant obligations of Provider\" stays: no proposed change restores \"at least as restrictive\" or otherwise makes the standard stricter.",
+     "attorney": {
+      "criterion": "Accepts in Section 2.3.4 LargeCo's replacement of the term \"at least as restrictive\" with \"substantially consistent\"",
+      "justification": "The term \"substantially consistent\" is a less restrictive obligation then \"at least as restrictive\" that is favorable to AgentCo, but it will hurt LargeCo because it allows AgentCo's Vendor to not necessarily have the same restrictive obligations as AgentCo.",
+      "category": "Counterparty Acceptance Prediction",
+      "weight": 5
+     },
+     "expect": {
+      "golden": true,
+      "empty": true
+     }
+    },
+    {
+     "id": "C-s1-08",
+     "rubricId": "rubric_1778280982895_peq13",
+     "class": "A",
+     "kind": "change",
+     "section": "3.1",
+     "adapted": "In Section 3.1 (Restrictions), item (f) prohibits probing, scanning or attempting to penetrate the Service, and LargeCo added \"except for security testing of LargeCo’s own configuration, integrations, and Authorized User behavior or as otherwise expressly permitted by Provider in writing\". The output proposes removing that exception, or rewriting it so that LargeCo gains no right to test, probe or scan Provider's systems beyond what Provider permits in writing.",
+     "attorney": {
+      "criterion": "Rejects in Section 3.1 LargeCo's addition of \"except for security testing of LargeCo’s own configuration, integrations, and Authorized User behavior or as otherwise expressly permitted by Provider in writing\"",
+      "justification": "Section 3.1-This addition allows LargeCo to penetrate, probe, and scan AgentCo's systems. Regardless of the reason, it would be a non-starter for most software that is performing this function. This  type of testing should be reserved for critical services. Allowing penetration, probing, or scanning is indistinguishable from a malicious attack. These activities can't be allowed safely without losing control of our threat model.",
+      "category": "Counterparty Acceptance Prediction",
+      "weight": 9
+     },
+     "expect": {
+      "golden": true,
+      "empty": false
+     }
+    },
+    {
+     "id": "C-s1-09",
+     "rubricId": "rubric_1778628747533_53cse",
+     "class": "U",
+     "kind": "keep",
+     "section": "8",
+     "adapted": "LargeCo's inserted Section 8, \"Term and Termination\" (heading \"TERM AND TERMINATION.\" and its subsections), stays in the agreement as a section: no proposed change deletes the section as a whole. Changes to individual termination rights, renumbering or cross-reference corrections do not count against this criterion.",
+     "attorney": {
+      "criterion": "Accepts in Section 8 LargeCo's insertion of  Section 8 \"Term and Termination\" Clause.",
+      "justification": "This clause is important because it allows the parties to not only set the term of the contract but allows parties to terminate the contract. Without this language, a court could rule this an evergreen contract that can't be terminated.",
+      "category": "Commercial Context",
+      "weight": 7
+     },
+     "expect": {
+      "golden": true,
+      "empty": true
+     }
+    },
+    {
+     "id": "C-s1-10",
+     "rubricId": "rubric_1778629615266_d8qvf",
+     "class": "A",
+     "kind": "change",
+     "section": "14.1",
+     "adapted": "In Section 14.1 (General Cap), LargeCo inserted a floor so the cap is \"the greater of (a) the total of all payments actually received by Provider ... during the twelve (12) month period ... or (b) US$1,000,000\". The output proposes deleting the US$1,000,000 alternative so the general cap is the fees paid in the preceding twelve months.",
+     "attorney": {
+      "criterion": "Rejects in Section 14.1 LargeCo's insertion of \"or $1,000,000\"",
+      "justification": "This follows AgentCo's policy that the Liability should only be capped to the fees paid in the preceding 12 months from claim.",
+      "category": "Negotiation Quality",
+      "weight": 5
+     },
+     "expect": {
+      "golden": true,
+      "empty": false
+     }
+    },
+    {
+     "id": "C-s1-11",
+     "rubricId": "rubric_1778282563375_ie4qn",
+     "class": "A",
+     "kind": "change",
+     "section": "16.7",
+     "adapted": "The output proposes removing LargeCo's inserted \"Exceptions to Indirect-Damages Exclusion. The exclusion set forth in Section 11.4 shall not apply to, and shall not limit liability arising from: (i) Provider's breach of Confidentiality; (ii) Provider's breach of Training; (iii) Provider's breach of Data Security or Exhibit C; (iv) any Party's indemnification obligations; or (v) fraud, gross negligence, or willful misconduct\", or a change with the same effect (the indirect-damages exclusion applies without those exceptions).",
+     "attorney": {
+      "criterion": "Rejects in Section 16.7 LargeCo's insertion of  \"16.7.\tExceptions to Indirect-Damages Exclusion. The exclusion set forth in Section 11.4 shall not apply to, and shall not limit liability arising from:\n16.8.\t(i) Provider's breach of Confidentiality; (ii) Provider's breach of Training; (iii) Provider's breach of Data Security or Exhibit C; (iv) any Party's indemnification obligations; or (v) fraud, gross negligence, or willful misconduct.\"",
+      "justification": "Indirect damages are inherently speculative, potentially unlimited which would bankrupt a company, and not aligned with the economic framework of this Agreement or available insurance coverage. Removing these breaches from the Indirect damages cap would introduce a disproportionate and unquantifiable risks, which is not commercially reasonable.",
+      "category": "Counterparty Acceptance Prediction",
+      "weight": 10
+     },
+     "expect": {
+      "golden": true,
+      "empty": false
+     }
+    },
+    {
+     "id": "C-s1-12",
+     "rubricId": "rubric_1778282787793_44itt",
+     "class": "A",
+     "kind": "change",
+     "section": "15.1",
+     "adapted": "In Section 15.1 (Indemnification Obligations), LargeCo inserted item (a) \"Provider's breach of Confidentiality, Training, Data Security, Exhibit C, or any Applicable Law applicable to Provider's performance under this Agreement\" and item (c) \"the fraud, gross negligence, or willful misconduct of Provider\". The output proposes deleting both, so Provider's indemnity covers only third-party infringement claims (item (b)). Deleting only one of the two fails.",
+     "attorney": {
+      "criterion": "Rejects in Section 15.1. LargeCo's insertion of Section 15.1(a) and 15.1(c).",
+      "justification": "Section 15.1 (a) and (c) Our firm position was that we only offer infringement indemnification.",
+      "category": "Negotiation Quality",
+      "weight": 5
+     },
+     "expect": {
+      "golden": true,
+      "empty": false
+     }
+    },
+    {
+     "id": "C-s1-13",
+     "rubricId": "rubric_1778367242768_ne2wr",
+     "class": "U",
+     "kind": "keep",
+     "section": "12(k)",
+     "adapted": "In the warranty disclaimer (Section 12(k), last paragraph), LargeCo's opening \"Except for the warranties expressly set forth in this Agreement (including Sections 2.3 (AI), ... (Reps & Warranties), ... (Indemnification), and Exhibit C)\" stays in substance: no proposed change deletes it or narrows the warranties it preserves. Correcting its section cross-references does not count against this criterion.",
+     "attorney": {
+      "criterion": "Accepts in Section 12(k) LargeCo's  addition of \"Except for warranties expressly set forth in this Agreement (including Sections 2.3 (AI), 12 (Reps & Warranties), 15 (Indemnification), and Exhibit C)\"",
+      "justification": "12.k Beginning of last paragraph. This redline correctly recognizes that warranties appear in other clauses. By failing to carve them out, those warranties would have been invalidated.",
+      "category": "Commercial Context",
+      "weight": 6
+     },
+     "expect": {
+      "golden": true,
+      "empty": true
+     }
+    }
+   ],
+   "excluded": [
+    {
+     "rubricId": "rubric_1778627352768_14epr",
+     "class": "I",
+     "reason": "A surviving embedded-technology licence is a substantive commercial grant the guidance does not settle (audit).",
+     "attorney": {
+      "criterion": "Accepts in Section 5.1 LargeCo's reinsertion of \"5.1.\tTo the extent any Provider Technology is incorporated into AI Outputs or other materials Provider provides to LargeCo for use under this Agreement, Provider grants LargeCo a non-exclusive, royalty-free, worldwide license to use such Provider Technology solely as embedded in such AI Outputs or materials and solely for LargeCo’s internal business purposes\"",
+      "weight": 7
+     }
+    },
+    {
+     "rubricId": "rubric_1778627729352_xaol8",
+     "class": "I",
+     "reason": "Rejecting privacy safeguards as redundant needs a lawyer to confirm no protection is lost; the guidance favours confidentiality (audit).",
+     "attorney": {
+      "criterion": "Rejects in Section 5.2 LargeCo's  insertion of \"Provider will not use the Feedback in a manner that identifies LargeCo as its source or that discloses any of LargeCo’s Confidential Information, and the foregoing license does not extend to any LargeCo Data, User Information, Personal Information, AI Inputs, or AI Outputs included in or derivable from the Feedback.\"",
+      "weight": 1
+     }
+    },
+    {
+     "rubricId": "rubric_1778281577635_o8678",
+     "class": "I",
+     "reason": "No guidance chooses the lesser of insurance and five times fees; considering a higher cap does not authorise this formula (audit).",
+     "attorney": {
+      "criterion": "Replaces in Section 14.2 LargeCo's word \"greater\" with \"lesser\".",
+      "weight": 5
+     }
+    },
+    {
+     "rubricId": "rubric_1778366650412_gcsvm",
+     "class": "I",
+     "reason": "Mutual convenience termination is not established by the guidance; the precedent uses breach and insolvency termination (audit).",
+     "attorney": {
+      "criterion": "Changed in Section 8.3 LargeCo's word \"LargeCo\" to \"Either Party\"",
+      "weight": 3
+     }
+    },
+    {
+     "rubricId": "rubric_1778629186668_mw748",
+     "class": "I",
+     "reason": "Removing SLA and subprocessor exit rights is unresolved; the precedent itself permits termination for unresolved subprocessor objections (audit).",
+     "attorney": {
+      "criterion": "Rejects in Section 8.4 LargeCo's insertion of \"(a) chronic SLA failure as set forth in Exhibit A, Section 9 (Failure to Correct); (b) unresolved Sub-Processor objection under Exhibit C, Section 3.8(d)\"",
+      "weight": 5
+     }
+    },
+    {
+     "rubricId": "rubric_1778629488058_wsjwv",
+     "class": "I",
+     "reason": "Blanket acceptance \"with edits\" is not a determined response; the specific cap criteria are separate (audit).",
+     "attorney": {
+      "criterion": "Accepts in Section 14  LargeCo's replacement of Section 14 \"Limitation of Liability\" clause.",
+      "weight": 2
+     }
+    },
+    {
+     "rubricId": "rubric_1778630731656_9x8tw",
+     "class": "I",
+     "reason": "SOC 2 not covering security terms does not settle whether all of Schedule 2 is commercially reasonable (audit).",
+     "attorney": {
+      "criterion": "Accepts in Exhibit C, Schedule 2 LargeCo's reinsertion of Schedule 2 Security Requirements.",
+      "weight": 5
+     }
+    }
+   ]
+  },
+  {
+   "id": "redline-s2-t4-g03a",
+   "platformTaskId": "104",
+   "scenario": "Customer-led SaaS MSA",
+   "inputGroup": "s2-t4-g03",
+   "variant": "a",
+   "turn": 4,
+   "represented": "AgentCo",
+   "counterparty": "LargeCo",
+   "document": "v2/layer-c/documents/redline-s2-t4-g03a.json",
+   "markup": "v2/layer-c/markup/redline-s2-t4-g03a.json",
+   "playbook": "v2/layer-c/playbooks/redline-s2-t4-g03a.json",
+   "golden": {
+    "file": "v2/layer-c/golden/redline-s2-t4-g03a.json",
+    "source": "none"
+   },
+   "paragraphs": 262,
+   "revisedParagraphs": 11,
+   "playbookRules": 9,
+   "sources": {
+    "environment/app/contract.docx": "5555338b589633d4ace64001b2c88c3c7a8254b9fb29e101f58e2cd3720e7cf8",
+    "environment/app/grounding/Scenario_2_AgentCo_TalentFlow_.docx_-_Google_Docs.extracted.md": "2e8f3898ab2665ab452f4a47556291532a86c9826d7274884529c9d205b24972",
+    "instruction.md": "5a71fc24cf9512b4d935bced4915e63cde5d304a9e4c4346100114416bcb30b7",
+    "task.toml": "5ff65d39123c4d75e7e1a7062f0b389f1905d48a3a52ccc5cba5130ddad8be0b",
+    "tests/rubrics.json": "3cc8527de648b241496a0b1fd8b05044bf8f55aef1da64ecdc385040dcee91ca"
+   },
+   "criteria": [
+    {
+     "id": "C-s2-01",
+     "rubricId": "rubric_1780090370814_z7wqk",
+     "class": "A",
+     "kind": "keep",
+     "section": "4.3",
+     "adapted": "LargeCo deleted Section 4.3, a no-training clause whose obligations Section 11.7 now carries. The deletion stays: no proposed change restores Section 4.3 or its wording. (The adaptation: consolidating under Section 11.7 is accepted on the attorney's reading that 11.7 preserves 4.3's obligations.)",
+     "attorney": {
+      "criterion": "Accepts LargeCo's deletion of Section 4.3 in whole.",
+      "justification": "Section 4.3 - This is substantially the same as 11.7.  Consolidating this under 11.7.",
+      "category": "Legal correctness",
+      "weight": 5
+     },
+     "expect": {
+      "golden": true,
+      "empty": true
+     }
+    },
+    {
+     "id": "C-s2-02",
+     "rubricId": "rubric_1780090468793_2reog",
+     "class": "U",
+     "kind": "keep",
+     "section": "11.7",
+     "adapted": "In Section 11.7 (No Training: \"AgentCo will not, and will not permit any Subprocessor ... to ... train any AI model ... using Customer's Content or Customer Data\"), LargeCo's inserted wording that widens the prohibition on AgentCo training AI models on LargeCo data (the added Affiliates and third-party providers, \"or train, fine tune, or otherwise improve the Service\", and item (b) on combining Customer Content with other customers' data to generate generalized models or features) stays in substance: no proposed change deletes or weakens it.",
+     "attorney": {
+      "criterion": "Accepts in Section 11.7 the insertion of a prohibition on AgentCo training AI models on LargeCo data.",
+      "justification": "Section 11.7 - this is reasonable as we have explicit business instructions to allow these obligations to not train AI.",
+      "category": "Commercial Context",
+      "weight": 7
+     },
+     "expect": {
+      "golden": true,
+      "empty": true
+     }
+    }
+   ],
+   "excluded": [
+    {
+     "rubricId": "rubric_1780082769895_bezkj",
+     "class": "I",
+     "reason": "No PHI today does not authorise deleting a preventive no-regulated-data covenant; the rubric's justification also names Section 4.3 while the criterion names 3.4 (audit).",
+     "attorney": {
+      "criterion": "Accepts LargeCo's deletion of Section 3.4 in whole.",
+      "weight": 4
+     }
+    }
+   ]
+  },
+  {
+   "id": "redline-s3-t4-g02a",
+   "platformTaskId": "119",
+   "scenario": "GiantCo professional-services MSA",
+   "inputGroup": "s3-t4-g02",
+   "variant": "a",
+   "turn": 4,
+   "represented": "GiantCo",
+   "counterparty": "AgentCo",
+   "document": "v2/layer-c/documents/redline-s3-t4-g02a.json",
+   "markup": "v2/layer-c/markup/redline-s3-t4-g02a.json",
+   "playbook": "v2/layer-c/playbooks/redline-s3-t4-g02a.json",
+   "golden": {
+    "file": "v2/layer-c/golden/redline-s3-t4-g02a.json",
+    "source": "attorney-redline"
+   },
+   "paragraphs": 241,
+   "revisedParagraphs": 7,
+   "playbookRules": 8,
+   "sources": {
+    "environment/app/contract.docx": "a9ba38faae7c36e9cea7d4d8f640663c37b441e6cef14cbf85500d7c4ce96ae5",
+    "environment/app/grounding/Project_Veritas_Scenario_3_TalentFlow_Production_GiantCo_Context.extracted.md": "88057d64be4f16675b755645e0d2dde0239bf1312fcf2d599af4df8965aba52d",
+    "instruction.md": "c4f5ad6a1d5226ebe8edd8edc2bb37722670a1b848ff8a5583677d96c82ff7a1",
+    "task.toml": "8d41c2fda5762ef0693ee946a1a4638d0345ca31c081b7583f7bb84d2db82e32",
+    "tests/attorney_redlines.docx": "57144bc640fa2cadd568c772fdee5145e1070d99f14ae1334a4e0869c1c62b36",
+    "tests/rubrics.json": "2603371015700b5b2cbbf1065ba0cdc75a3d4f8ff58774eaef8f552f559986c7"
+   },
+   "criteria": [
+    {
+     "id": "C-s3-01",
+     "rubricId": "rubric_1780175485702_6zw9x",
+     "class": "A",
+     "kind": "change",
+     "section": "4.3",
+     "adapted": "In Section 4.3 (Results of Service: \"All Results of Service shall be accurate, complete, and in accordance with: ...\"), the output proposes removing AgentCo's inserted item \"(iii) after human review of Results of Service;\", or rewording the sentence so it is unambiguous; a rewording must not drop a requirement of human review that the agreement states elsewhere.",
+     "attorney": {
+      "criterion": "Rejects in Article 4, Section 4.3 AgentCo’s insertion of “(iii) after human review of Results of Service;”",
+      "justification": "This edit is unclear in the broader context of the sentence and clause so it should be removed to avoid ambiguity.",
+      "category": "Legal correctness",
+      "weight": 8
+     },
+     "expect": {
+      "golden": true,
+      "empty": false
+     }
+    },
+    {
+     "id": "C-s3-02",
+     "rubricId": "rubric_1780178120084_sgbs7",
+     "class": "U",
+     "kind": "keep",
+     "section": "5.1",
+     "adapted": "In Section 5.1, AgentCo's insertion of the word \"applicable\" stays: no proposed change removes it.",
+     "attorney": {
+      "criterion": "Accepts in Article 5, Section 5.1 AgentCo’s insertion of “applicable”",
+      "justification": "This term is not necessary given the language already covers the ‘covenants in this Section,’ however, it does no harm, so GiantCo can accept in an effort to close the deal quicker.",
+      "category": "Deal-closing Orientation",
+      "weight": 6
+     },
+     "expect": {
+      "golden": true,
+      "empty": true
+     }
+    },
+    {
+     "id": "C-s3-03",
+     "rubricId": "rubric_1780178145299_zvmmk",
+     "class": "U",
+     "kind": "keep",
+     "section": "6.1",
+     "adapted": "In Section 6.1, AgentCo's inserted description \"candidate-material summaries and interview-note drafting\" stays: no proposed change removes or replaces it.",
+     "attorney": {
+      "criterion": "Accepts in Article 6, Section 6.1 AgentCo’s insertion of “candidate-material summaries and interview-note drafting”",
+      "justification": "This language is an accurate description of AgentCo’s Services, so accepting the language here is logical.",
+      "category": "Commercial Context",
+      "weight": 9
+     },
+     "expect": {
+      "golden": true,
+      "empty": true
+     }
+    },
+    {
+     "id": "C-s3-04",
+     "rubricId": "rubric_1780178175444_2xdok",
+     "class": "A",
+     "kind": "change",
+     "section": "6.1",
+     "adapted": "In Section 6.1, the output proposes removing AgentCo's inserted \"(collectively the “Services)\", because \"Services\" is already a defined term.",
+     "attorney": {
+      "criterion": "Rejects in Article 6, Section 6.1 AgentCo’s insertion of “(collectively the “Services)”",
+      "justification": "The term “Services” is already defined so this should be removed to avoid ambiguity.",
+      "category": "Legal correctness",
+      "weight": 8
+     },
+     "expect": {
+      "golden": true,
+      "empty": false
+     }
+    },
+    {
+     "id": "C-s3-05",
+     "rubricId": "rubric_1780178802342_58f90",
+     "class": "A",
+     "kind": "change",
+     "section": "7.5",
+     "adapted": "In Section 7.5 (License to Background Intellectual Property Rights), the output proposes inserting \"worldwide\" (or wording with the same geographic meaning, such as \"throughout the world\") to state where the licence to Client applies, without extending the licence beyond that geographic scope.",
+     "attorney": {
+      "criterion": "Inserts in Article 7, Section 7.5 \"worldwide,\"",
+      "justification": "\"Worldwide\" is clearer and more widely accepted than the alternative terms \"everywhere\" or \"at mutual locations\" proposed earlier in negotiations.",
+      "category": "Legal correctness",
+      "weight": 9
+     },
+     "expect": {
+      "golden": true,
+      "empty": false
+     }
+    },
+    {
+     "id": "C-s3-06",
+     "rubricId": "rubric_1780178229200_6q2kg",
+     "class": "A",
+     "kind": "change",
+     "section": "7.5",
+     "adapted": "In Section 7.5 (License to Background Intellectual Property Rights), the output proposes removing AgentCo's inserted \"at mutual locations\" (or replacing it with clear geographic wording).",
+     "attorney": {
+      "criterion": "Rejects in Article 7, Section 7.5 AgentCo’s insertion of “at mutual locations”",
+      "justification": "The license being granted “at mutual locations” is vague and should be removed and clarified with alternative language.",
+      "category": "Legal correctness",
+      "weight": 9
+     },
+     "expect": {
+      "golden": true,
+      "empty": false
+     }
+    },
+    {
+     "id": "C-s3-07",
+     "rubricId": "rubric_1780178248945_pwoht",
+     "class": "A",
+     "kind": "keep",
+     "section": "7.5",
+     "adapted": "In Section 7.5 (License to Background Intellectual Property Rights), AgentCo's deletion of \"everywhere\" stays: no proposed change restores the word \"everywhere\". Replacing it with \"worldwide\" or equivalent clear wording is consistent with this criterion.",
+     "attorney": {
+      "criterion": "Accepts in Article 7, Section 7.5 AgentCo’s deletion of “everywhere”",
+      "justification": "The license being granted “everywhere” is vague and should be removed and clarified with alternative language.",
+      "category": "Legal correctness",
+      "weight": 9
+     },
+     "expect": {
+      "golden": true,
+      "empty": true
+     }
+    }
+   ],
+   "excluded": [
+    {
+     "rubricId": "rubric_1780178191520_ci0ap",
+     "class": "I",
+     "reason": "No evidence that a vendor portal exists cannot settle whether deleting the policy-access language is acceptable (audit).",
+     "attorney": {
+      "criterion": "Accepts in Article 6, Section 6.2 AgentCo’s deletion of “Consultant may be provided access to Client’s “proprietary” (See “Confidentiality of Client Information” below) website wherein Consultant may obtain access to Client’s current Guidelines, Policies, Protocols, Processes, Specifications, including Client’s Travel Policies for Consultants and other requirements”",
+      "weight": 7
+     }
+    },
+    {
+     "rubricId": "rubric_1780178340016_om6yv",
+     "class": "I",
+     "reason": "Revocability on customer breach is a substantive IP-licence choice with no approved fallback (audit).",
+     "attorney": {
+      "criterion": "Accepts in Article 7, Section 7.5 AgentCo’s deletion of “irrevocable”",
+      "weight": 8
+     }
+    },
+    {
+     "rubricId": "rubric_1780178393941_3vos1",
+     "class": "I",
+     "reason": "A general request for stronger remedies does not settle this payment, IP and indemnity carve-out package (audit).",
+     "attorney": {
+      "criterion": "Accepts in Article 15, Section 15.12 AgentCo’s insertion of “OBLIGATION TO PAY UNDISPUTED AMOUNTS DUE AND OWING UNDER THIS AGREEMENT; (C) EITHER PARTY'S INFRINGEMENT OR MISAPPROPRIATION OF THE OTHER PARTY'S INTELLECTUAL PROPERTY RIGHTS; OR (D) EITHER PARTY'S INDEMNIFICATION OBLIGATIONS WITH RESPECT TO THIRD-PARTY CLAIMS UNDER THIS AGREEMENT”",
+      "weight": 9
+     }
+    }
+   ]
+  }
+ ]
+}

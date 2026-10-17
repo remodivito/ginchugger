@@ -1,0 +1,45 @@
+{
+ "version": 1,
+ "id": "fixture-nda-recipient",
+ "title": "Fixture NDA playbook (recipient-weighted)",
+ "party": "Receiving Party",
+ "rules": [
+  {
+   "id": "NDA-04",
+   "title": "Use only for the Purpose",
+   "guidance": "A clear purpose.",
+   "preferred": "Use for the Purpose.",
+   "acceptable": "Use for the Purpose.",
+   "escalation": "A purpose so narrow we cannot evaluate.",
+   "enabled": true
+  },
+  {
+   "id": "NDA-07",
+   "title": "Sharing with advisers",
+   "guidance": "We need our advisers.",
+   "preferred": "Employees and advisers.",
+   "acceptable": "Employees and professional advisers who need to know.",
+   "escalation": "Employees only.",
+   "enabled": true
+  },
+  {
+   "id": "NDA-16",
+   "title": "Return or destroy",
+   "guidance": "Workable return.",
+   "preferred": "Return or destroy on request.",
+   "acceptable": "Return or destroy on request, within a reasonable time.",
+   "escalation": "Return within days with certification.",
+   "enabled": true
+  },
+  {
+   "id": "NDA-19",
+   "title": "Duration of obligations",
+   "guidance": "Short protection.",
+   "preferred": "2 years.",
+   "acceptable": "At most 5 years.",
+   "escalation": "More than 5 years.",
+   "enabled": true
+  }
+ ],
+ "canary": "5f0c1e2a-9b7d-4c3e-8a61-0d2f4b6c8e10"
+}

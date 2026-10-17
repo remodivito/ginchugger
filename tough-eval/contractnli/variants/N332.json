@@ -1,0 +1,425 @@
+{
+ "id": "N332",
+ "revision": 1,
+ "title": "RFP20171008-RFPPublishingNotice.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 332,
+  "type": "search-pdf",
+  "url": "http://www.kwsh.org.sg/sites/default/files/doc/Tender/RFP20171008-RFPPublishingNotice.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "ONE-WAY NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "THIS NON-DISCLOSURE AGREEMENT is made on the [Date]______________________ "
+  },
+  {
+   "id": "s2",
+   "text": "(hereinafter referred to as the \"Effective Date\") between:"
+  },
+  {
+   "id": "s3",
+   "text": "(1) KWONG WAI SHIU HOSPITAL, having its registered office at 705 Serangoon Road Singapore 328127 (\"KWSH\");"
+  },
+  {
+   "id": "s4",
+   "text": "And"
+  },
+  {
+   "id": "s5",
+   "text": "(2) [Company "
+  },
+  {
+   "id": "s6",
+   "text": "Name]_________________________________ "
+  },
+  {
+   "id": "s7",
+   "text": "(Company Registration No. [CRN No: "
+  },
+  {
+   "id": "s8",
+   "text": "________________________ ) a company incorporated in the Republic of Singapore and having its registered offices at [Registed Address: ________________________________________ "
+  },
+  {
+   "id": "s9",
+   "text": "(\"Participant\")"
+  },
+  {
+   "id": "s10",
+   "text": "(each a \"Party\" and collectively the \"Parties\".)"
+  },
+  {
+   "id": "s11",
+   "text": "WHEREAS:"
+  },
+  {
+   "id": "s12",
+   "text": "(A) KWSH has been engaging the Participant for Participation of Request for Proposal (RFP) for the Provision for Server, Storage and Backup Solution at Kwong Wai Shiu Hospital and the Participant understands that it may obtain certain Confidential Information (as defined below) pertaining to the KWSH and/or its subsidiaries in the course of discussions on, working with and/or performing the Project, and/or any matters arising out of or in connection with the Project; and"
+  },
+  {
+   "id": "s13",
+   "text": "(B) KWSH wishes to ensure that the Participant maintains the confidentiality of all information to be disclosed at all times as hereinafter provided."
+  },
+  {
+   "id": "s14",
+   "text": "NOW IT IS HEREBY AGREED AS FOLLOWS:"
+  },
+  {
+   "id": "s15",
+   "text": "1. INTERPRETATION"
+  },
+  {
+   "id": "s16",
+   "text": "1.1 "
+  },
+  {
+   "id": "s17",
+   "text": "Subject to the exceptions in clause 1.2, the term \"Confidential Information\" shall mean any of the following information (which may, without limitation, be related to regulatory policies and matters, research, products, software, development, inventions, processes, specifications, designs, drawings, diagrams, procedures, data, concepts, services, business and marketing plans, documentation, personal data / information, pricing information and/or financial information) which is disclosed by KWSH to the Participant:"
+  },
+  {
+   "id": "s18",
+   "text": "(a) Information marked at the time of its disclosure as being of a confidential and/or proprietary nature (including but not limited to information marked by means of words such as \"Confidential,\" \"Private,\" \"Proprietary,\" \"Secret,\" etc.);"
+  },
+  {
+   "id": "s19",
+   "text": "(b) Unmarked information of a confidential and/or proprietary nature, including information which is disclosed orally, visually or electronically, and:"
+  },
+  {
+   "id": "s20",
+   "text": "(i) which is made known to the Participant as being of a confidential and/or proprietary nature by way of a written notice which sufficiently identifies or summarises such information and which is sent to the Participant either before or after the information is disclosed, or"
+  },
+  {
+   "id": "s21",
+   "text": "(ii) which is otherwise known to the Participant or should under the circumstances reasonably be known to the Participant to be of a confidential and/or proprietary nature (including but not limited to any discussions, negotiations, conversations or meetings during which any information which is otherwise within the definition of Confidential Information is discussed or disclosed);"
+  },
+  {
+   "id": "s22",
+   "text": "(c) The terms and conditions of this Agreement;"
+  },
+  {
+   "id": "s23",
+   "text": "(d) Information relating to the Project and the fact that discussions pertaining to the Project are taking and/or have taken place and the content of such discussions; and"
+  },
+  {
+   "id": "s24",
+   "text": "(e) The fact that KWSH has in its possession, custody or control, or is or may be utilizing for any purpose whatsoever, any of the foregoing Confidential Information."
+  },
+  {
+   "id": "s25",
+   "text": "1.2 "
+  },
+  {
+   "id": "s26",
+   "text": "The term \"Confidential Information\" shall NOT include any of the following:"
+  },
+  {
+   "id": "s27",
+   "text": "(a) Information which is independently learned or developed by the Participant without use of any of the Information referred to in clause 1.1;"
+  },
+  {
+   "id": "s28",
+   "text": "(b) Information that is or becomes publicly available without the Participant's breach of this Agreement; and"
+  },
+  {
+   "id": "s29",
+   "text": "(c) Information that KWSH has given or gives its written authorisation for release or use."
+  },
+  {
+   "id": "s30",
+   "text": "2. OBLIGATION OF CONFIDENTIALITY"
+  },
+  {
+   "id": "s31",
+   "text": "2.1 "
+  },
+  {
+   "id": "s32",
+   "text": "In consideration of KWSH's disclosure of Confidential Information (including any part thereof), and subject to the exceptions hereinafter provided, the Participant hereby agrees and undertakes:"
+  },
+  {
+   "id": "s33",
+   "text": "(a) not to directly or indirectly disclose or make available any Confidential Information, in whole or in part, to any person or party who is not expressly authorised to receive such information pursuant to or in accordance with the terms of this Agreement;"
+  },
+  {
+   "id": "s34",
+   "text": "(b) to take all reasonable precautions to prevent unauthorised access to Confidential Information by any person or party by using at least the same protective measures as are used by the Participant to protect its own confidential and/or proprietary information and in any event, not less that at a reasonable standard of care; and"
+  },
+  {
+   "id": "s35",
+   "text": "(c) to notify KWSH in writing immediately upon discovery of any unauthorised use or disclosure of Confidential Information, or any other breach of this Agreement by the Participant, and to co-operate with KWSH in every reasonable way to help KWSH regain possession of the Confidential Agreement and prevent further unauthorised use and/or disclosure of the same."
+  },
+  {
+   "id": "s36",
+   "text": "2.2 "
+  },
+  {
+   "id": "s37",
+   "text": "Subject to clause 4.1 below, the obligation not to disclose shall not be affected by bankruptcy, receivership, scheme of arrangement, assignment, attachment or seizure procedures, whether initiated by or against the Participant, nor by the rejection of any agreement between the Parties, by a trustee of the Participant in bankruptcy (or its equivalent of any of the foregoing)."
+  },
+  {
+   "id": "s38",
+   "text": "2.3 "
+  },
+  {
+   "id": "s39",
+   "text": "The obligations of the Parties under this Agreement shall be in addition to and not in lieu of any obligations under other confidentiality agreement(s) or obligations of confidence between the Parties and/or between the Parties, solely or jointly, and/or any third party."
+  },
+  {
+   "id": "s40",
+   "text": "3. USE OF CONFIDENTIAL INFORMATION"
+  },
+  {
+   "id": "s41",
+   "text": "3.1 "
+  },
+  {
+   "id": "s42",
+   "text": "The Participant may use Confidential Information strictly in accordance with this Agreement and solely for the purpose of performing its obligations and responsibilities in relation to the Project."
+  },
+  {
+   "id": "s43",
+   "text": "3.2 "
+  },
+  {
+   "id": "s44",
+   "text": "The Participant may not alter, modify and/or disassemble any Confidential Information or merge Confidential Information with any of its existing information or databases unless expressly permitted for the above purpose(s) or with the prior written approval of KWSH."
+  },
+  {
+   "id": "s45",
+   "text": "3.3 "
+  },
+  {
+   "id": "s46",
+   "text": "All written Confidential Information or any part thereof (including, without limitation, information incorporated in computer software or held in electronic storage media) together with any analyses, compilations, studies, reports or other documents or materials prepared by the Participant or on its behalf which reflect or are prepared from any of the Confidential Information provided by KWSH shall be returned to KWSH or destroyed by the Participant, when requested by KWSH at any time, or when the Participant's need for such information has ended or when this Agreement expires or is terminated, whichever is earlier. "
+  },
+  {
+   "id": "s47",
+   "text": "In the event of destruction, the Participant shall certify in writing to KWSH within thirty (30) days that such destruction has been accomplished. "
+  },
+  {
+   "id": "s48",
+   "text": "Participant shall make no further use of such Confidential Information nor retain such Confidential Information in any form whatsoever."
+  },
+  {
+   "id": "s49",
+   "text": "3.4 KWSH may from time to time inform the Participant by way of a written notice that particular items of Confidential Information (as specifically or generally identified in the said notice) are not to be reproduced, in whole or in part, and/or are not to be converted, stored or transmitted in electronic or other form."
+  },
+  {
+   "id": "s50",
+   "text": "4. PERMITTED DISCLOSURE"
+  },
+  {
+   "id": "s51",
+   "text": "4.1 "
+  },
+  {
+   "id": "s52",
+   "text": "The Participant may disclose Confidential Information:"
+  },
+  {
+   "id": "s53",
+   "text": "(a) with the prior written consent of KWSH but subject to any terms and/or limitations which may be imposed by KWSH for such disclosure,"
+  },
+  {
+   "id": "s54",
+   "text": "(b) if required to do so pursuant to law, subpoena, order of court or pursuant to other judicial or administrative process, except that the Participant shall give prompt notice of any such impending disclosure to KWSH so as to enable KWSH to take action, by way of due process of law, to prevent the disclosure of its Confidential Information; or"
+  },
+  {
+   "id": "s55",
+   "text": "(c) to such of its officers, employees and/or professional advisors who need to know the same for the purpose(s) of this Agreement or for seeking advice on any matter arising out of this Agreement provided that the Participant shall ensure that any of its officers, employees and professional advisors to whom Confidential Information is to be disclosed are made aware of and agree to abide by the terms of this Agreement before any disclosure to them is made."
+  },
+  {
+   "id": "s56",
+   "text": "5. REMEDIES"
+  },
+  {
+   "id": "s57",
+   "text": "5.1 "
+  },
+  {
+   "id": "s58",
+   "text": "The Participant hereby acknowledges that any disclosure of Confidential Information by the Participant, except as and to the extent permitted herein, may result in irreparable injury and damage to KWSH which cannot be adequately compensated in monetary damages alone. "
+  },
+  {
+   "id": "s59",
+   "text": "The Participant therefore agrees that KWSH may, in addition to any other legal remedies which may be available, seek such injunctive or other equitable relief as may be necessary to protect itself against any such breach or threatened breach of this Agreement, including but not limited to obtaining an injunction to prevent any unauthorised disclosure of its Confidential Information by the Participant, its officer and/or employees, and shall be indemnified against any costs (on a full indemnity basis), expenses, losses and damages incurred or sustained as a result of such breach or threatened breach."
+  },
+  {
+   "id": "s60",
+   "text": "5.2 "
+  },
+  {
+   "id": "s61",
+   "text": "The observance of any term of this Agreement may be waived in writing by KWSH either generally or in a particular instance and either retroactively or prospectively."
+  },
+  {
+   "id": "s62",
+   "text": "5.3 Acquiescence or forbearance on the part of KWSH to enforce its rights under this Agreement and/or to seek any available remedy shall not amount to a waiver of any breach by the Participant nor shall a waiver of any particular breach amount to a waiver of any antecedent or subsequent breach of this Agreement."
+  },
+  {
+   "id": "s63",
+   "text": "6. CONFIDENTIALITY PERIOD, AMENDMENT AND ASSIGNMENT"
+  },
+  {
+   "id": "s64",
+   "text": "6.1 "
+  },
+  {
+   "id": "s65",
+   "text": "This Agreement shall come into force on the Effective Date and shall remain in force until and unless terminated in accordance with clause 6.2. "
+  },
+  {
+   "id": "s66",
+   "text": "The obligation to maintain confidentiality of the Confidential Information provided hereof and the undertakings and obligations in this Agreement shall continue even after the termination of this Agreement."
+  },
+  {
+   "id": "s67",
+   "text": "6.2 "
+  },
+  {
+   "id": "s68",
+   "text": "The Parties may, by mutual written agreement, terminate this Agreement or amend any term herein contained at any time."
+  },
+  {
+   "id": "s69",
+   "text": "6.3 "
+  },
+  {
+   "id": "s70",
+   "text": "The obligations of the Participant under this Agreement may not be assigned, sub-contracted or otherwise transferred without the prior written consent of KWSH."
+  },
+  {
+   "id": "s71",
+   "text": "6.4 "
+  },
+  {
+   "id": "s72",
+   "text": "This Agreement shall be deemed to cover any Confidential Information that had been disclosed for the purpose(s) set out herein notwithstanding that such disclosure took place prior to the Effective Date."
+  },
+  {
+   "id": "s73",
+   "text": "7. WARRANTIES"
+  },
+  {
+   "id": "s74",
+   "text": "7.1 Except as expressly set forth in any representations or warranties made to the Participant by the KWSH in any final written agreement regarding the Project (when, as, and if executed) and subject to such limitations and restrictions as may be specified in such final written agreement, the Participant acknowledges and agrees that all Confidential Information is provided \"AS IS\" and the entire risk arising out of the use of the Confidential Information remains with the Participant at all times. "
+  },
+  {
+   "id": "s75",
+   "text": "In particular:"
+  },
+  {
+   "id": "s76",
+   "text": "(a) KWSH makes no express or implied representation or warranty as to the accuracy or completeness of the Confidential Information and neither KWSH nor any of its officers, representatives or agents shall have any liability to the Participant or any other person in connection with the use of such information or for any errors therein or omissions therefrom;"
+  },
+  {
+   "id": "s77",
+   "text": "(b) the Participant is not entitled to rely upon the accuracy or completeness of the Confidential Information and that the Participant will rely solely upon the Participant's own investigations; and"
+  },
+  {
+   "id": "s78",
+   "text": "(c) prior to entering into any possible transaction with the KWSH, the Participant shall conduct its own due diligence investigation regarding such transaction as the Participant deems necessary and prudent."
+  },
+  {
+   "id": "s79",
+   "text": "8. APPLICABLE LAW AND JURISDICTION"
+  },
+  {
+   "id": "s80",
+   "text": "8.1 "
+  },
+  {
+   "id": "s81",
+   "text": "The validity, interpretation and performance of this Agreement shall be governed by and construed in accordance with the laws of the Republic of Singapore."
+  },
+  {
+   "id": "s82",
+   "text": "8.2 "
+  },
+  {
+   "id": "s83",
+   "text": "The Parties hereby submit to the exclusive jurisdiction of the Courts of the Republic of Singapore."
+  },
+  {
+   "id": "s84",
+   "text": "9. SEVERABILITY"
+  },
+  {
+   "id": "s85",
+   "text": "9.1 "
+  },
+  {
+   "id": "s86",
+   "text": "If any term of this Agreement is held by the Courts of the Republic of Singapore to be invalid or unenforceable, then this Agreement, including all of the remaining terms, will remain in full force and effect as if such invalid or unenforceable term had never been included."
+  },
+  {
+   "id": "s87",
+   "text": "10. GENERAL"
+  },
+  {
+   "id": "s88",
+   "text": "10.1 KWSH does not intend nor does KWSH hereby transfer any intellectual property or other rights in the Confidential Information nor grant any licence in respect thereof by disclosing the same except as may be required for the purposes of this Agreement."
+  },
+  {
+   "id": "s89",
+   "text": "10.2 "
+  },
+  {
+   "id": "s90",
+   "text": "This Agreement does not create any relationship of agency, partnership, joint venture or other business relationship between the Parties."
+  },
+  {
+   "id": "s91",
+   "text": "10.3 "
+  },
+  {
+   "id": "s92",
+   "text": "This Agreement shall be binding on the successors, if any, of the Parties."
+  },
+  {
+   "id": "s93",
+   "text": "10.4 Notices sent pursuant to this Agreement shall be effective if made in writing and sent or delivered by hand, courier, prepaid post or registered post to the Parties at their respective principal office or place of business as set out herein. "
+  },
+  {
+   "id": "s94",
+   "text": "Notices sent by telex or telefax shall be effective if a copy thereof is subsequently sent by hand, courier, prepaid post or registered post within seven (7) days from the date of the telex or telefax. "
+  },
+  {
+   "id": "s95",
+   "text": "Either Party may inform the other by way of a written notice of any change in the address to which notices are to be sent in accordance with this section."
+  },
+  {
+   "id": "s96",
+   "text": "10.5 "
+  },
+  {
+   "id": "s97",
+   "text": "This Agreement may be signed in counterparts that shall be effective as if Parties had signed a single original. "
+  },
+  {
+   "id": "s98",
+   "text": "A facsimile of an original signature transmitted from one Party to the other shall be effective to bind the first Party to this Agreement as if the signed original had been sent to the other Party."
+  },
+  {
+   "id": "s99",
+   "text": "Signed for and on behalf of :-"
+  },
+  {
+   "id": "s100",
+   "text": "<COMPANY NAME>"
+  },
+  {
+   "id": "s102",
+   "text": "Name:"
+  },
+  {
+   "id": "s104",
+   "text": "Designation:"
+  }
+ ]
+}

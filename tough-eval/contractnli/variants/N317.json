@@ -1,0 +1,597 @@
+{
+ "id": "N317",
+ "revision": 1,
+ "title": "OOR104E_Non-Disclosure_Agreement-Company.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 317,
+  "type": "search-pdf",
+  "url": "https://www.concordia.ca/content/dam/concordia/offices/vprgs/docs/OOR104E_Non-Disclosure_Agreement-Company.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "This Agreement is entered into by and between:"
+  },
+  {
+   "id": "s2",
+   "text": "__________________________, having its principal place of business at "
+  },
+  {
+   "id": "s3",
+   "text": "________________________________ (“Company”), herein represented by _______________ duly authorized to sign the present agreement on behalf of Company as s/he so declares;"
+  },
+  {
+   "id": "s4",
+   "text": "AND"
+  },
+  {
+   "id": "s5",
+   "text": "CONCORDIA UNIVERSITY, a corporation duly incorporated by the Concordia University Act, S.Q. 1948, "
+  },
+  {
+   "id": "s6",
+   "text": "c. 91 as amended by S.Q. 1959-60, "
+  },
+  {
+   "id": "s7",
+   "text": "c. 191 and S.Q. 2006, "
+  },
+  {
+   "id": "s8",
+   "text": "c. 69 having its head office at 1455 de Maisonneuve Blvd. "
+  },
+  {
+   "id": "s9",
+   "text": "West, City of Montreal, Province of Quebec H3G 1M8, (“Concordia”) herein acting and represented by Dr. Justin Powlowski, Associate Vice-President Research, Strategic Initiatives and Partnerships, duly authorized to sign the present Agreement on behalf of University, as he so declares."
+  },
+  {
+   "id": "s10",
+   "text": "Hereinafter individually referred to as a “Party” and collectively as the “Parties”."
+  },
+  {
+   "id": "s11",
+   "text": "WHEREAS the Parties wish to exchange information for the sole purpose of [DESCRIPTION OF PURPOSE FOR WHICH INFORMATION IS TO BE EXCHANGED] (the “Purpose”); and"
+  },
+  {
+   "id": "s12",
+   "text": "WHEREAS the Parties desire to protect the confidentiality of such information;"
+  },
+  {
+   "id": "s13",
+   "text": "NOW THEREFORE in consideration of the mutual covenants and obligations contained herein and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:"
+  },
+  {
+   "id": "s14",
+   "text": "1. DEFINITIONS"
+  },
+  {
+   "id": "s15",
+   "text": "In this Agreement, the following terms will have the following meanings:"
+  },
+  {
+   "id": "s16",
+   "text": "“Affiliate” means any legal entity that a Receiving Party Controls, is Controlled by, or with which it is under common Control, where Control means to own or control, directly or indirectly, over 50% of voting shares."
+  },
+  {
+   "id": "s17",
+   "text": "“Business Day” means any day other than a Saturday, Sunday or statutory holiday in the Province of Quebec;"
+  },
+  {
+   "id": "s18",
+   "text": "“Confidential Information” means any information which is confidential in nature or that is treated as confidential by a Party and that is furnished or transferred by or on behalf of such Party (the “Disclosing Party”) to the other Party (the “Receiving Party”), whether such information is or has been conveyed verbally or in written or tangible form, and whether such information is acquired directly or indirectly such as in the course of discussions, site visits or other investigations by the Receiving Party, including but not limited to, scientific, technical, financial or business information, data, ideas, concepts or know-how, formula, analysis, process, design, sketch, photograph, plan, drawing, specification, sample, report, study, finding, prototype and non-published patent applications, that are considered and treated as being confidential by the Disclosing Party. "
+  },
+  {
+   "id": "s19",
+   "text": "Confidential Information disclosed in tangible or electronic form may be identified by Disclosing Party as confidential with conspicuous markings, or otherwise identified with a legend as being confidential. "
+  },
+  {
+   "id": "s20",
+   "text": "Where the information is disclosed verbally or visually and the Disclosing Party requires that the Receiving Party maintain the confidential nature of the information, the Disclosing Party shall express a verbal statement of confidentiality at the time of disclosure followed by confirmation in writing within thirty (30) days of such disclosure. "
+  },
+  {
+   "id": "s21",
+   "text": "Notwithstanding the foregoing, in no event shall the absence of such a mark, legend or verbal confirmation preclude disclosed information, or information accessed through discussions or site visits, which would be considered as confidential by a party exercising reasonable judgment from being treated as Confidential Information by the Receiving Party."
+  },
+  {
+   "id": "s22",
+   "text": "“Corporate Advisors” means any lawyers, accountants, financial and other professional advisors of Receiving Party who are required by law, by contract or otherwise to keep all Confidential Information that may be disclosed to them by Receiving Party."
+  },
+  {
+   "id": "s23",
+   "text": "“Disclosing Party” means a Party that discloses Confidential Information to the other Party pursuant to this Agreement."
+  },
+  {
+   "id": "s24",
+   "text": "“Effective Date” shall mean XXXX"
+  },
+  {
+   "id": "s25",
+   "text": "“Receiving Party” means a Party that receives Confidential Information from the other Party pursuant to this Agreement."
+  },
+  {
+   "id": "s26",
+   "text": "“Retained Information” shall mean one (1) copy of the Disclosing Party’s Confidential Information that is retained by the Receiving Party: "
+  },
+  {
+   "id": "s27",
+   "text": "(i) if and to the extent such Confidential Information is required by law, regulation, administrative or court order, and "
+  },
+  {
+   "id": "s28",
+   "text": "(ii) where such Confidential Information is stored as electronic data due to automatic archiving and back up procedures."
+  },
+  {
+   "id": "s29",
+   "text": "2. USE AND DISCLOSURE OF CONFIDENTIAL INFORMATION"
+  },
+  {
+   "id": "s30",
+   "text": "2.1 Receiving Party agrees that it shall not:"
+  },
+  {
+   "id": "s31",
+   "text": "2.1.1 use any of the Disclosing Party’s Confidential Information for any reason other than the Purpose; or"
+  },
+  {
+   "id": "s32",
+   "text": "2.1.2 disclose, disseminate or otherwise communicate, in whole or in part, any of Disclosing Party’s Confidential Information to any third party."
+  },
+  {
+   "id": "s33",
+   "text": "2.2 Receiving Party may disclose the Disclosing Party’s Confidential Information to those of its officers, directors, employees, (including those of its Affiliates) or Corporate Advisors who have a need to know such Confidential Information provided that such individuals are bound by obligations of confidentiality to the Receiving Party or have entered into agreements with the Receiving Party with obligations of confidentiality no less stringent than those of this Agreement."
+  },
+  {
+   "id": "s34",
+   "text": "2.3 "
+  },
+  {
+   "id": "s35",
+   "text": "The Receiving Party shall be liable to Disclosing Party for all actions of its Affiliates, Corporate Advisors, employees, officers, directors and those of its Affiliates that result in the unauthorized disclosure of the Disclosing Party’s Confidential Information."
+  },
+  {
+   "id": "s36",
+   "text": "2.4 Receiving Party shall not disclose Disclosing Party’s Confidential Information to anyone other than as permitted herein and shall use efforts commensurate with those that it employs for protecting the confidentiality of its own information, which efforts shall in no event be less than a reasonable degree of care."
+  },
+  {
+   "id": "s37",
+   "text": "2.5 "
+  },
+  {
+   "id": "s38",
+   "text": "In the event that a Receiving Party becomes legally compelled by law, regulation or order of court or administrative body to disclose any of a Disclosing Party’s Confidential Information, such Receiving Party shall be entitled to disclose such Confidential Information subject to the requirements of this Section 2.5. "
+  },
+  {
+   "id": "s39",
+   "text": "Such Receiving Party shall provide the Disclosing Party with prompt written notice of such requirements so that the Disclosing Party may, at its sole expense, seek a protective order or other appropriate remedy and/or waive compliance with the terms of this Agreement. "
+  },
+  {
+   "id": "s40",
+   "text": "In the event that such protective order or other remedy is not obtained, or that the Disclosing Party waives compliance with the provisions hereof, the Receiving Party agrees to furnish only that portion of the Disclosing Party’s Confidential Information which is legally required."
+  },
+  {
+   "id": "s41",
+   "text": "3. EXCEPTIONS"
+  },
+  {
+   "id": "s42",
+   "text": "3.1 Notwithstanding anything to the contrary herein, the following will not constitute Confidential Information for the purposes of this Agreement:"
+  },
+  {
+   "id": "s43",
+   "text": "3.1.1 information that a Receiving Party can show, by documentary and competent evidence, was known by it prior to the disclosure thereof by the Disclosing Party;"
+  },
+  {
+   "id": "s44",
+   "text": "3.1.2 information that is or becomes generally available to the public other than as a result of disclosure directly or indirectly by a Receiving Party in breach of this Agreement;"
+  },
+  {
+   "id": "s45",
+   "text": "3.1.3 information that is or becomes available to a Receiving Party on a non-confidential basis from a source other than the Disclosing Party, provided that such source is not in breach of its obligations of non-disclosure towards the Disclosing Party;"
+  },
+  {
+   "id": "s46",
+   "text": "3.1.4 information that a Receiving Party can show, by documentary and competent evidence, to have been developed independently by Receiving Party without using the Disclosing Party’s Confidential Information; or"
+  },
+  {
+   "id": "s47",
+   "text": "3.1.5 information of which the Disclosing Party has authorized the unrestricted disclosure."
+  },
+  {
+   "id": "s48",
+   "text": "4. NO IMPLIED OBLIGATIONS"
+  },
+  {
+   "id": "s49",
+   "text": "Except for the matters specifically agreed to herein, no Party will be under any legal obligation of any kind to enter into any further agreement with respect to the Purpose or any other matter whatsoever, absent a further written agreement between the Parties executed by their duly authorized representatives."
+  },
+  {
+   "id": "s50",
+   "text": "5. OWNERSHIP"
+  },
+  {
+   "id": "s51",
+   "text": "The Disclosing Party will remain the owner of its intellectual property, including any title, ownership, or license under any patents, copyrights or other intellectual property rights in the Disclosing Party’s Confidential Information. "
+  },
+  {
+   "id": "s52",
+   "text": "Nothing in this Agreement is to be construed as granting a Receiving Party any title, ownership, or any license under any patents, copyrights or other intellectual property rights in any of the Disclosing Party’s Confidential Information."
+  },
+  {
+   "id": "s53",
+   "text": "6. INDEPENDENT DEVELOPMENT"
+  },
+  {
+   "id": "s54",
+   "text": "Nothing in this Agreement will be construed as a representation that a Receiving Party will not develop, communicate or use technology, information or products that, without violation of this Agreement, compete with, are the same as, or similar to the Disclosing Party’s Confidential Information."
+  },
+  {
+   "id": "s55",
+   "text": "7. NO WARRANTY OF ACCURACY"
+  },
+  {
+   "id": "s56",
+   "text": "The Disclosing Party’s Confidential Information is provided on an ‘AS IS’ basis, without any representations or warranties as to its accuracy or completeness. "
+  },
+  {
+   "id": "s57",
+   "text": "The Disclosing Party shall have no liability to the Receiving Party resulting from any use by the Receiving Party of the Disclosing Party’s Confidential Information and all implied warranties of merchantability and fitness for a particular purpose are expressly disclaimed and excluded."
+  },
+  {
+   "id": "s58",
+   "text": "8. TERM, TERMINATION AND CONFIDENTIALITY PERIOD"
+  },
+  {
+   "id": "s59",
+   "text": "8.1 "
+  },
+  {
+   "id": "s60",
+   "text": "This Agreement shall commence on the Effective Date, and unless earlier terminated in accordance herewith, shall continue in force for a period of [NUMBER OF] year(s) from the Effective Date. "
+  },
+  {
+   "id": "s61",
+   "text": "Notwithstanding the expiration or earlier termination of this Agreement, the obligations of confidentiality with respect to any Confidential Information exchanged between the Parties prior to the expiration or earlier termination of this Agreement, shall remain in full force and effect until such Confidential Information falls within the scope of the exceptions set out in Article 3."
+  },
+  {
+   "id": "s62",
+   "text": "8.2 A Party may terminate this Agreement, without cause, upon twenty (20) Business Days’ prior written notice to the other Party."
+  },
+  {
+   "id": "s63",
+   "text": "8.3 "
+  },
+  {
+   "id": "s64",
+   "text": "Unless otherwise requested in writing by the Disclosing Party within fifteen (15) days of the expiration or earlier termination of this Agreement, or upon written notice given at any time during the Term of this Agreement requesting the return of the Disclosing Party’s Confidential Information, following the expiration of the fifteen (15) day delay provided for above the Receiving Party shall destroy all tangible forms and destroy/delete all intangible forms of Disclosing Party’s Confidential Information (including any originals and all copies thereof) in its possession. "
+  },
+  {
+   "id": "s65",
+   "text": "Notwithstanding the foregoing, the Receiving Party shall be permitted to retain one copy of the Retained Information and such Retained Information shall be treated by the Receiving Party in accordance with this Agreement. "
+  },
+  {
+   "id": "s66",
+   "text": "Upon written request by the Disclosing Party, the Receiving Party shall provide to the Disclosing Party or shall cause to be provided to the Disclosing Party, a written confirmation executed by a duly authorized officer of the Receiving Party that all originals and any copies of Disclosing Party’s Confidential Information (other than Retained Information) or any portion thereof have been returned or destroyed, as the case may be, and shall no longer be used in any manner whatsoever by the Receiving Party."
+  },
+  {
+   "id": "s67",
+   "text": "9. REMEDIES"
+  },
+  {
+   "id": "s68",
+   "text": "Receiving Party acknowledges that the disclosure of the Disclosing Party’s Confidential Information in breach of this Agreement may result in irreparable injury to Disclosing Party for which monetary damages alone would not be an adequate remedy. "
+  },
+  {
+   "id": "s69",
+   "text": "Therefore, Receiving Party agrees that in the event of a breach or threatened breach of Receiving Party’s confidentiality obligations hereunder, Disclosing Party will be entitled to seek specific performance and injunctive relief as remedy for any such breach or anticipated breach. "
+  },
+  {
+   "id": "s70",
+   "text": "Any such relief shall be in addition to and not in lieu of monetary damages."
+  },
+  {
+   "id": "s71",
+   "text": "10. GENERAL PROVISIONS"
+  },
+  {
+   "id": "s72",
+   "text": "10.1 Assignment: "
+  },
+  {
+   "id": "s73",
+   "text": "This Agreement may not be assigned by either Party, in whole or in part, without the prior written consent of a duly authorized representative of the other Party. "
+  },
+  {
+   "id": "s74",
+   "text": "Any such assignment shall not relieve a Party of its obligations hereunder."
+  },
+  {
+   "id": "s75",
+   "text": "10.2 Advice of Counsel: Each Party to this Agreement represents and warrants to the other that such Party has read and fully understands the terms and provisions hereof and has executed this Agreement based upon such Party's own judgment and advice of independent legal counsel (if sought)."
+  },
+  {
+   "id": "s76",
+   "text": "10.3 Amendment: This Agreement may only be amended by a written agreement executed by the duly authorized representatives of the Parties."
+  },
+  {
+   "id": "s77",
+   "text": "10.4 Entire Agreement: "
+  },
+  {
+   "id": "s78",
+   "text": "This Agreement, and any amendments thereto signed by the duly authorized representatives of the Parties, constitute the complete and exclusive statement of terms and conditions between the Parties with respect to the subject matter hereof and supersedes all prior and/or contemporaneous agreements, oral or written statements which are inconsistent herewith, whether or not such other agreements have been signed by the employees, students or other agents of the Parties."
+  },
+  {
+   "id": "s79",
+   "text": "10.5 Export Controls: "
+  },
+  {
+   "id": "s80",
+   "text": "The Parties shall comply with any law, by-law, regulation, rule, order, ruling, policy or directive, from any relevant jurisdictional authority or body, governing or controlling the transfer, export, retransfer, re-export or furnishing of information. "
+  },
+  {
+   "id": "s81",
+   "text": "Each Party shall inform the other Party of any restriction or control applying to the circulation of any given information prior to disclosing such information to such other Party, or as soon as possible after such restriction or control comes into force. "
+  },
+  {
+   "id": "s82",
+   "text": "Neither Party will disclose information under this Agreement that is controlled or otherwise restricted from use or export under the International Traffic in Arms Regulations (ITAR)."
+  },
+  {
+   "id": "s83",
+   "text": "10.6 Governing Law: "
+  },
+  {
+   "id": "s84",
+   "text": "This Agreement shall be governed by and construed in accordance with the laws of Quebec and the laws of Canada applicable therein. "
+  },
+  {
+   "id": "s85",
+   "text": "The Parties hereby irrevocably attorn to the exclusive jurisdiction of the courts of the Province of Quebec for any legal proceedings arising out of this Agreement or the performance of the obligations hereunder."
+  },
+  {
+   "id": "s86",
+   "text": "10.7 "
+  },
+  {
+   "id": "s87",
+   "text": "Language: The Parties hereto have requested that this Agreement and all correspondence and all documentation relating to this Agreement, be written in the English language. "
+  },
+  {
+   "id": "s88",
+   "text": "Les parties aux présentes ont exigé que la présente entente, de même que toute la correspondance et la documentation relative à cette entente, soient rédigées en langue anglaise."
+  },
+  {
+   "id": "s89",
+   "text": "10.8 "
+  },
+  {
+   "id": "s90",
+   "text": "Notices: "
+  },
+  {
+   "id": "s91",
+   "text": "All notices under the terms of this Agreement shall be given in writing and sent by registered mail, electronic mail, or delivered by hand to the following addresses."
+  },
+  {
+   "id": "s92",
+   "text": "CONCORDIA UNIVERSITY (COMPANY)"
+  },
+  {
+   "id": "s93",
+   "text": "1455 de Maisonneuve Blvd. West GM-910 Address:"
+  },
+  {
+   "id": "s94",
+   "text": "Montréal, Québec H3G 1M8"
+  },
+  {
+   "id": "s95",
+   "text": "Attention: Attention:"
+  },
+  {
+   "id": "s96",
+   "text": "Email : Email :"
+  },
+  {
+   "id": "s97",
+   "text": "All notices shall be presumed to have been received when they are hand delivered or transmitted via email, or five (5) Business days after their mailing by registered mail or courier."
+  },
+  {
+   "id": "s98",
+   "text": "10.9 Publicity and use of name: Neither Party shall, without prior written authorization from the other, use the logo, any trade or service mark(s) owned or controlled by the other Party. "
+  },
+  {
+   "id": "s99",
+   "text": "Additionally, neither Party shall use the name of the other Party, nor of any employee of the other Party, in any advertising or publicity without the prior written approval of an authorized representative of the other Party. "
+  },
+  {
+   "id": "s100",
+   "text": "Notwithstanding the foregoing, the Parties agree that each Party shall be free to disclose the following without prior authorization of the other Party: the names of the Parties; the nature of the relationship established herein; and, the duration of the Agreement."
+  },
+  {
+   "id": "s101",
+   "text": "10.10 "
+  },
+  {
+   "id": "s102",
+   "text": "Remedies cumulative: "
+  },
+  {
+   "id": "s103",
+   "text": "No single or partial exercise of any right or remedy under this Agreement shall preclude any other or further exercise of any other right or remedy in this Agreement or as provided at law or in equity. "
+  },
+  {
+   "id": "s104",
+   "text": "Rights and remedies provided in this Agreement are cumulative and not exclusive of any right or remedy provided at law or in equity."
+  },
+  {
+   "id": "s105",
+   "text": "10.11 "
+  },
+  {
+   "id": "s106",
+   "text": "Severability: "
+  },
+  {
+   "id": "s107",
+   "text": "If any provision, or portion thereof, of this Agreement is determined by a court of competent jurisdiction to be invalid, illegal or unenforceable, such determination shall not impair or affect the validity, legality or enforceability of the remaining provisions of this Agreement, and each provision, or portion thereof, is hereby declared to be separate, severable and distinct."
+  },
+  {
+   "id": "s108",
+   "text": "10.12 "
+  },
+  {
+   "id": "s109",
+   "text": "Signatures: "
+  },
+  {
+   "id": "s110",
+   "text": "This Agreement may be executed in counterparts, each of which shall be deemed an original and all of which together shall constitute one and the same instrument, and signatures transmitted in electronic form, including without limitation a PDF file, shall be acceptable to bind each Party and shall not affect the validity of the Agreement in any way."
+  },
+  {
+   "id": "s111",
+   "text": "10.13 "
+  },
+  {
+   "id": "s112",
+   "text": "Waiver: A term or condition of this Agreement can be waived or modified only by written consent of the Parties. "
+  },
+  {
+   "id": "s113",
+   "text": "No failure or delay in exercising any right, power or privilege hereunder shall operate as a waiver thereof, nor shall any single or partial exercise thereof preclude any other or further exercise thereof or the exercise of any right, power or privilege hereunder."
+  },
+  {
+   "id": "s114",
+   "text": "AGREED TO AND SIGNED by the duly authorized representatives of the Parties."
+  },
+  {
+   "id": "s115",
+   "text": "CONCORDIA UNIVERSITY COMPANY"
+  },
+  {
+   "id": "s116",
+   "text": "By: By:"
+  },
+  {
+   "id": "s117",
+   "text": "Name: Name:"
+  },
+  {
+   "id": "s118",
+   "text": "Title: Title:"
+  },
+  {
+   "id": "s119",
+   "text": "Date: Date:"
+  },
+  {
+   "id": "s120",
+   "text": "Acknowledgement to a Non-Disclosure "
+  },
+  {
+   "id": "s121",
+   "text": "Agreement"
+  },
+  {
+   "id": "s122",
+   "text": "I, Dr. [researcher’s name], having read and understood the Non-Disclosure Agreement (the “NDA”) to be entered into between [company name] (“Company”) and Concordia University (“Concordia”), hereby agree to act in accordance with all the terms and conditions therein."
+  },
+  {
+   "id": "s123",
+   "text": "I further agree to ensure that all Concordia participants who will be provided access to Company’s Confidential Information, as such term is defined in the NDA, are informed of their obligations under such terms and conditions, and to procure from them an executed Intervention of a Participant, attached hereto as Appendix A, prior to providing them access to the Confidential Information."
+  },
+  {
+   "id": "s124",
+   "text": "Date:"
+  },
+  {
+   "id": "s125",
+   "text": "[print name]"
+  },
+  {
+   "id": "s126",
+   "text": "Recipient Scientist"
+  },
+  {
+   "id": "s127",
+   "text": "Appendix A"
+  },
+  {
+   "id": "s128",
+   "text": "INTERVENTION OF A PARTICIPANT"
+  },
+  {
+   "id": "s129",
+   "text": "IMPORTANT: IT IS THE RECIPIENT SCIENTIST’S RESPONSIBILITY TO ENSURE THAT THIS INTERVENTION IS SIGNED BY ALL PARTICIPANTS WHO SHALL BE RECEIVING CONFIDENTIAL INFORMATION UNDER THE NON-DISCLOSURE AGREEMENT AND COPIES ARE PROVIDED TO OOR."
+  },
+  {
+   "id": "s130",
+   "text": "Whereas Concordia University (“Concordia”) has entered into a non-disclosure agreement dated _________ (the “NDA”) with XXX (the “Company”);"
+  },
+  {
+   "id": "s131",
+   "text": "Whereas, "
+  },
+  {
+   "id": "s132",
+   "text": "I ______________________ "
+  },
+  {
+   "id": "s133",
+   "text": "understand that information related to discussions with the Company to explore a collaboration on XXXX, received, or accessed directly or indirectly, by me (the “Confidential Information”), is subject to the terms and conditions of the NDA;"
+  },
+  {
+   "id": "s134",
+   "text": "I hereby agree to:"
+  },
+  {
+   "id": "s135",
+   "text": "i. treat the Confidential Information as confidential at all times;"
+  },
+  {
+   "id": "s136",
+   "text": "ii. use the Confidential Information only as directed by Dr. _________________;"
+  },
+  {
+   "id": "s137",
+   "text": "iii. maintain the Confidential Information in a secure manner that restricts access by any individual not approved and/or directed by Dr. _______________________;"
+  },
+  {
+   "id": "s138",
+   "text": "iv. maintain the confidentiality of Confidential Information and not disclose Confidential Information to any third party;"
+  },
+  {
+   "id": "s139",
+   "text": "v. to return to Dr. "
+  },
+  {
+   "id": "s140",
+   "text": "________________________ "
+  },
+  {
+   "id": "s141",
+   "text": "the Confidential Information, and all copies thereof, upon receipt of a written request to this effect from Dr. _____________________ "
+  },
+  {
+   "id": "s142",
+   "text": "and/or prior to the termination of my studies/employment at Concordia;"
+  },
+  {
+   "id": "s143",
+   "text": "vi. cooperate with Concordia in ensuring compliance with all applicable export regulations and restrictions which may apply to the Confidential Information."
+  },
+  {
+   "id": "s144",
+   "text": "Signature:"
+  },
+  {
+   "id": "s145",
+   "text": "Date:______"
+  }
+ ]
+}

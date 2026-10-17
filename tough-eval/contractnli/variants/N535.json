@@ -1,0 +1,465 @@
+{
+ "id": "N535",
+ "revision": 1,
+ "title": "881790_0001104659-12-052730_a12-17284_1ex99d1.htm",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 535,
+  "type": "sec-html",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000881790/000110465912052730/a12-17284_1ex99d1.htm"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "Exhibit 99.1"
+  },
+  {
+   "id": "s1",
+   "text": "CONFIDENTIALITY AGREEMENT"
+  },
+  {
+   "id": "s2",
+   "text": "THIS CONFIDENTIALITY AGREEMENT (this “Agreement”) is entered into this 30th day of July, 2012, by and among HF Financial Corp., a Delaware corporation (along with its affiliates, the “Company”), and Jacobs Asset Management, L.L.C. (the “Recipient” or “JAM”). "
+  },
+  {
+   "id": "s3",
+   "text": "The Company and the Recipient are sometimes referred to in this Agreement individually as a “Party” and collectively as the “Parties."
+  },
+  {
+   "id": "s4",
+   "text": "”"
+  },
+  {
+   "id": "s5",
+   "text": "RECITALS"
+  },
+  {
+   "id": "s6",
+   "text": "A. The Company desires to exchange views and information with JAM, its largest shareholder."
+  },
+  {
+   "id": "s7",
+   "text": "B. The Company intends to provide JAM access to certain non-public, confidential or proprietary information concerning the Company."
+  },
+  {
+   "id": "s8",
+   "text": "C. In order to induce the Company to provide access to the Confidential Information (as hereinafter defined), the Recipient hereby agrees to be bound by the terms and conditions of this Agreement."
+  },
+  {
+   "id": "s9",
+   "text": "NOW, THEREFORE, in consideration of the mutual promises and covenants set forth, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties hereby agree as follows:"
+  },
+  {
+   "id": "s10",
+   "text": "ARTICLE "
+  },
+  {
+   "id": "s11",
+   "text": "I"
+  },
+  {
+   "id": "s12",
+   "text": "DEFINITIONS"
+  },
+  {
+   "id": "s13",
+   "text": "Section 1.1 Certain Definitions. "
+  },
+  {
+   "id": "s14",
+   "text": "In addition to the terms defined elsewhere in this Agreement, the following terms used in this Agreement shall be construed to have the meanings set forth or referenced below:"
+  },
+  {
+   "id": "s15",
+   "text": "The term “Confidential Information” refers to "
+  },
+  {
+   "id": "s16",
+   "text": "(i) all business or financial information (including business plans, budgets, forecasts and financial projections) of the Company or its subsidiaries (or of others having business relationships with the Company), or concerning the Matter, whether or not marked or otherwise identified as confidential or proprietary, "
+  },
+  {
+   "id": "s17",
+   "text": "(ii) any other information or materials marked or designated as “confidential” or “proprietary” by the Company at the time of its disclosure to the Recipient and"
+  },
+  {
+   "id": "s18",
+   "text": "(iii) any other information or materials that the Company maintains as confidential or that is proprietary to the Company, the nature of which or the circumstances surrounding the disclosure of which would indicate to a reasonable person that such information or materials are confidential or proprietary. "
+  },
+  {
+   "id": "s19",
+   "text": "The foregoing information and materials shall be “Confidential Information” whether evidenced, transferred or transmitted in writing, orally, visually, electronically or by any other means, and whether disclosed before or after the date of this Agreement. "
+  },
+  {
+   "id": "s20",
+   "text": "“Confidential Information” shall also include all Derivative Materials."
+  },
+  {
+   "id": "s21",
+   "text": "Notwithstanding anything to the contrary in this Agreement, “Confidential Information” shall not include information that"
+  },
+  {
+   "id": "s22",
+   "text": "(A) is or becomes generally available to the public other than"
+  },
+  {
+   "id": "s23",
+   "text": "as a result of a breach of this Agreement by the Recipient; or "
+  },
+  {
+   "id": "s24",
+   "text": "(B) is or becomes available to the Recipient on a non-confidential basis from any source other than the Company or its Representatives, which source has represented to the Recipient (and that the Recipient reasonably believes after due inquiry) that such source is entitled to disclose such information without the Recipient being bound by any obligation of confidentiality, provided that upon the Recipient becoming aware that such information is Confidential Information that the source was not entitled to disclose, this Agreement shall thereafter apply to such Confidential Information."
+  },
+  {
+   "id": "s25",
+   "text": "The term “Derivative Materials” refers to all summaries, analyses, compilations, data, studies or other documents prepared by the Recipient "
+  },
+  {
+   "id": "s26",
+   "text": "(i) containing, or based in whole or in part on, any Confidential Information provided by the Company or its Representatives, or "
+  },
+  {
+   "id": "s27",
+   "text": "(ii) reflecting the Recipient’s review of the Company or the Recipient’s interest in the Matter."
+  },
+  {
+   "id": "s28",
+   "text": "The term “Person” refers to any natural person, corporation, limited liability company, partnership, trust or other legal entity. "
+  },
+  {
+   "id": "s29",
+   "text": "The term “Representatives” refers to a Person’s directors, officers, employees, attorneys, accountants, consultants, financial advisors and other agents and representatives."
+  },
+  {
+   "id": "s30",
+   "text": "The term “Recipient” shall include "
+  },
+  {
+   "id": "s31",
+   "text": "(i) the Recipient, "
+  },
+  {
+   "id": "s32",
+   "text": "(ii) its affiliates, subsidiaries, and divisions, "
+  },
+  {
+   "id": "s33",
+   "text": "(iii) any Person that directly or indirectly, through intermediaries or otherwise, controls or owns a controlling interest in the Recipient and "
+  },
+  {
+   "id": "s34",
+   "text": "(iv) the Representatives of any of the foregoing Persons."
+  },
+  {
+   "id": "s35",
+   "text": "ARTICLE II"
+  },
+  {
+   "id": "s36",
+   "text": "CONFIDENTIALITY"
+  },
+  {
+   "id": "s37",
+   "text": "Section 2.1 Non-Disclosure and Non-Use Covenants. "
+  },
+  {
+   "id": "s38",
+   "text": "As a condition to the Company’s disclosure of the Confidential Information to the Recipient, the Recipient hereby covenants and agrees that all Confidential Information will be kept confidential by the Recipient and will not, without the prior written consent of the Company, be disclosed by the Recipient, in any manner whatsoever, in whole or in part, and will not be used by the Recipient, directly or indirectly, for any purpose other than facilitating discussion with the Company. "
+  },
+  {
+   "id": "s39",
+   "text": "Moreover, the Recipient agrees to transmit the Confidential Information to only those Representatives who need to know the Confidential Information for the purpose of facilitating the Recipient’s discussion with the Company and who are informed of the confidential nature of the Confidential Information and the terms of this Agreement. "
+  },
+  {
+   "id": "s40",
+   "text": "The Recipient hereby acknowledges that it is aware, and the Recipient agrees that it will advise its Representatives who are informed as to the matters which are the subject of this Agreement, that "
+  },
+  {
+   "id": "s41",
+   "text": "(i) the Confidential Information being furnished may contain or may itself be material, non-public information concerning the Company, and "
+  },
+  {
+   "id": "s42",
+   "text": "(ii) securities laws in the United States prohibit any person who has received material, non-public information concerning the Company or the matters which are the subject of this Agreement from purchasing or selling securities of the Company or from communicating such information to any other person under circumstances in which it is reasonably foreseeable that such person is likely to purchase or sell such securities. "
+  },
+  {
+   "id": "s43",
+   "text": "The Recipient agrees to not engage, directly or indirectly, in transactions in Company securities while in possession of Confidential"
+  },
+  {
+   "id": "s44",
+   "text": "Information, and further agrees that is will be responsible for its compliance with federal and state securities laws. "
+  },
+  {
+   "id": "s45",
+   "text": "The Recipient will be responsible for any breach of this Agreement by the Recipient or by its Representatives."
+  },
+  {
+   "id": "s46",
+   "text": "Section 2.2 Confidentiality of Discussions. "
+  },
+  {
+   "id": "s47",
+   "text": "The Recipient will not, without the prior written consent of the Company, disclose the status of any discussions between the Parties, except as may be required by law or by the rules of any recognized stock exchange and then, if circumstances permit, only with prompt advance written notice to the Company. "
+  },
+  {
+   "id": "s48",
+   "text": "Any disclosure made pursuant to the prior sentence shall be no more extensive than is necessary to meet the minimum requirement imposed on the Person making such disclosure."
+  },
+  {
+   "id": "s49",
+   "text": "Section 2.3 Compelled Disclosure. "
+  },
+  {
+   "id": "s50",
+   "text": "In the event that the Recipient is requested (by oral questions, interrogatories, requests for information or documents, subpoena, civil investigate demand or similar process) to disclose any part of the Confidential Information, the Recipient shall notify the Company promptly of such request(s), and the documents requested thereby, so that the Company may seek an appropriate protective order and/or waive in writing the Recipient’s obligation not to disclose the Confidential Information. "
+  },
+  {
+   "id": "s51",
+   "text": "If, in the absence of a protective order or the receipt of a waiver hereunder, the Recipient is nonetheless compelled to disclose all or part of the Confidential Information or else stand liable for contempt or suffer other censure or penalty from any tribunal or governmental or similar authority, the Recipient may disclose such portion of the Confidential Information required to be disclosed without liability hereunder; provided, however, that the Recipient shall deliver to the Company written notice of the Confidential Information to be disclosed as far in advance of its disclosure as is practicable, and shall use commercially reasonable efforts (at the Company’s expense) to obtain an order or other reliable assurance that confidential treatment will be accorded to such portion of the Confidential Information required to be disclosed. "
+  },
+  {
+   "id": "s52",
+   "text": "Notwithstanding the foregoing, the Recipient may disclose the Confidential Information to any regulatory agency in the normal course of an examination, audit or investigation involving the Recipient."
+  },
+  {
+   "id": "s53",
+   "text": "Section 2.4 Document Disposition. "
+  },
+  {
+   "id": "s54",
+   "text": "The Confidential Information (except for Derivative Materials), and all copies thereof, will remain the absolute property of the Company and will be returned to the Company or destroyed (and such destruction confirmed in writing by an officer of the Recipient) without retaining any copies thereof immediately upon the Company’s request. "
+  },
+  {
+   "id": "s55",
+   "text": "Derivative Materials will be immediately destroyed at the request of the Company and such destruction will be confirmed to the Company in writing by an officer of the Recipient."
+  },
+  {
+   "id": "s56",
+   "text": "Section 2.5 Disclaimers. "
+  },
+  {
+   "id": "s57",
+   "text": "The Recipient acknowledges that neither the Company nor any of its Representatives makes any representation or warranty as to the accuracy or completeness of the Confidential Information. "
+  },
+  {
+   "id": "s58",
+   "text": "The Recipient agrees that neither the Company nor any of its Representatives shall have any liability to the Recipient as a result of their reliance on the Confidential Information. "
+  },
+  {
+   "id": "s59",
+   "text": "The Recipient hereby agrees that in no event will the Recipient have or assert any claims whatsoever against the Company or any of the Company’s Representatives relating to or in any way connected with the subject matter of this Agreement."
+  },
+  {
+   "id": "s60",
+   "text": "Section 2.6 Designated Representatives. "
+  },
+  {
+   "id": "s61",
+   "text": "The Recipient shall have no discussion, correspondence or other contact with the Company or any of its employees, customers or suppliers concerning the Matter except with “Designated Representatives” of the Company. "
+  },
+  {
+   "id": "s62",
+   "text": "“Designated Representatives” shall mean the Chairman of the Board of Directors of the Company and persons designated by him."
+  },
+  {
+   "id": "s63",
+   "text": "Section 2.7 Survival. "
+  },
+  {
+   "id": "s64",
+   "text": "The restrictions imposed on the disclosure of Confidential Information shall continue until the lesser of such time as the information disclosed hereunder is no longer Confidential Information and one (1) year from the date first written above, provided, that no such termination shall relieve Recipient from any liability relating to any prior breach of this Agreement."
+  },
+  {
+   "id": "s65",
+   "text": "ARTICLE III"
+  },
+  {
+   "id": "s66",
+   "text": "COVENANT OF THE COMPANY"
+  },
+  {
+   "id": "s67",
+   "text": "Section 3.1 Information and Access. "
+  },
+  {
+   "id": "s68",
+   "text": "The Company will provide JAM access to certain non-public, confidential or proprietary information about the Company (the “Confidential Information”) and receive and consider JAM’s input on the financial services industry, market conditions and trends and the Company’s operational performance, opportunities and direction."
+  },
+  {
+   "id": "s69",
+   "text": "ARTICLE IV"
+  },
+  {
+   "id": "s70",
+   "text": "TERM AND TERMINATION"
+  },
+  {
+   "id": "s71",
+   "text": "Section 4.1 Term. "
+  },
+  {
+   "id": "s72",
+   "text": "Except as set forth in Article II, this Agreement shall terminate upon the earlier of "
+  },
+  {
+   "id": "s73",
+   "text": "(i) the Company’s 2012 Annual Meeting of Shareholders or "
+  },
+  {
+   "id": "s74",
+   "text": "(ii) the Company’s receipt of the notice required under the Company’s bylaws from JAM or its affiliates required to nominate a director for election at a meeting of the Company’s shareholders."
+  },
+  {
+   "id": "s75",
+   "text": "ARTICLE V"
+  },
+  {
+   "id": "s76",
+   "text": "MISCELLANEOUS"
+  },
+  {
+   "id": "s77",
+   "text": "Section 5.1 Disclosure of Agreement. "
+  },
+  {
+   "id": "s78",
+   "text": "The parties contemplate that JAM will file with the SEC an amendment to its Schedule 13D with respect to the Company attaching this Agreement and that the Company will file with the SEC a current report on Form 8-K attaching this Agreement."
+  },
+  {
+   "id": "s79",
+   "text": "Section 5.2 Compliance with Securities Laws. "
+  },
+  {
+   "id": "s80",
+   "text": "As of the date hereof and during the Term of the Agreement, JAM is and will remain in compliance with all applicable state and federal securities laws with regard to its investment in the Company and its rights and responsibilities under this Agreement, including but not limited to, the Securities Act of 1933, the Securities Exchange Act of 1934, and the rules and regulations promulgated thereunder."
+  },
+  {
+   "id": "s81",
+   "text": "Section 5.3 Compliance with Banking Laws. "
+  },
+  {
+   "id": "s82",
+   "text": "As of the date hereof and during the Term of the Agreement, JAM is and will remain in compliance with all applicable banking laws with regard to its investment in the Company and its rights and responsibilities under this Agreement, including but not limited to, the Bank Holding Company Act of 1956, the National Bank Act, the Federal Deposit Insurance Act, the Bank Merger Act, the Change in Bank Control Act and the Federal Reserve Board, Office of Comptroller of the Currency and Federal Deposit Insurance Corporation regulations thereunder."
+  },
+  {
+   "id": "s83",
+   "text": "Section 5.4 Remedies. "
+  },
+  {
+   "id": "s84",
+   "text": "The Recipient agrees that due to the nature of this Agreement and the Confidential Information, money damages would not be a sufficient remedy for any breach of this Agreement by the Recipient and that the Company shall be entitled to seek specific performance, injunctive and/or other equitable relief as a remedy for any such breach. "
+  },
+  {
+   "id": "s85",
+   "text": "Such remedy shall not be deemed to be the exclusive remedy of the Company for any breach by the Recipient of this Agreement, but shall be in addition to all other remedies available to the Company at law or in equity. "
+  },
+  {
+   "id": "s86",
+   "text": "The Recipient hereby waives any requirement for the securing or posting of any bond in connection with such remedy."
+  },
+  {
+   "id": "s87",
+   "text": "Section 5.5 Expenses. "
+  },
+  {
+   "id": "s88",
+   "text": "The Parties will pay their own expenses with respect to this Agreement."
+  },
+  {
+   "id": "s89",
+   "text": "Section 5.6 Severability. "
+  },
+  {
+   "id": "s90",
+   "text": "In the event that any one or more of the provisions contained in this Agreement, or the application thereof in any circumstances, is held invalid, illegal or unenforceable in any respect for any reason, the validity, legality and enforceability of any such provision in every other respect and of the remaining provisions contained in this Agreement shall not be in any way impaired thereby, it being intended that all of the rights and privileges of the Parties hereto shall be enforceable to the fullest extent permitted by law. "
+  },
+  {
+   "id": "s91",
+   "text": "If any court determines that any of the provisions of this Agreement, or any part thereof, are unenforceable because of the duration or scope of such provision, the duration or scope of such provision, as the case may be, shall be reduced so that such provision becomes enforceable and, in its reduced form, such provision shall then be enforceable and shall be enforced."
+  },
+  {
+   "id": "s92",
+   "text": "Section 5.7 Governing Law. "
+  },
+  {
+   "id": "s93",
+   "text": "This Agreement shall be governed and construed in accordance with the laws of the State of Delaware applicable to agreements made and to be performed within such state, without giving effect to any choice of law principles."
+  },
+  {
+   "id": "s94",
+   "text": "Section 5.8 Miscellaneous. "
+  },
+  {
+   "id": "s95",
+   "text": "This Agreement constitutes the entire agreement of the Parties with respect to the subject matter hereof and it replaces and supersedes all prior agreements between the Parties. "
+  },
+  {
+   "id": "s96",
+   "text": "No provision of this Agreement may be waived or amended unless such waiver or amendment is in writing. "
+  },
+  {
+   "id": "s97",
+   "text": "No failure or delay by the Company in exercising any right, power or privilege under this Agreement shall operate as a waiver thereof nor shall any single or partial exercise thereof preclude any other or further exercise of any right, power or privilege hereunder. "
+  },
+  {
+   "id": "s98",
+   "text": "This Agreement may not be assigned by the Recipient, by operation of law or otherwise, without the Company’s prior written consent."
+  },
+  {
+   "id": "s99",
+   "text": "Section 5.9 Execution. "
+  },
+  {
+   "id": "s100",
+   "text": "This Agreement may be executed in one or more counterparts, and by facsimile signatures, each of which shall be an original document, and all of which together shall constitute one and the same instrument."
+  },
+  {
+   "id": "s101",
+   "text": "{Remainder of Page Intentionally Left Blank}"
+  },
+  {
+   "id": "s102",
+   "text": "IN WITNESS WHEREOF, the Parties have entered into this Agreement as of the date first written above."
+  },
+  {
+   "id": "s103",
+   "text": "COMPANY:"
+  },
+  {
+   "id": "s104",
+   "text": "HF Financial Corp."
+  },
+  {
+   "id": "s105",
+   "text": "/s/ Michael Vekich"
+  },
+  {
+   "id": "s106",
+   "text": "Name: Michael Vekich"
+  },
+  {
+   "id": "s107",
+   "text": "Title: Chairman"
+  },
+  {
+   "id": "s108",
+   "text": "RECIPIENT:"
+  },
+  {
+   "id": "s109",
+   "text": "JACOBS ASSET MANAGEMENT, LLC"
+  },
+  {
+   "id": "s110",
+   "text": "/s/ Sy Jacobs"
+  },
+  {
+   "id": "s111",
+   "text": "Name: Sy Jacobs"
+  },
+  {
+   "id": "s112",
+   "text": "Title: Managing Member"
+  }
+ ]
+}

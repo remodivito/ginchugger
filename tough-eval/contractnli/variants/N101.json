@@ -1,0 +1,401 @@
+{
+ "id": "N101",
+ "revision": 1,
+ "title": "EUNCL_NDA_2016.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 101,
+  "type": "search-pdf",
+  "url": "http://www.euncl.eu/working-with-us/submission-procedure/EUNCL_NDA_2016.pdf?m=1458234633"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "Effective Date:"
+  },
+  {
+   "id": "s1",
+   "text": "Disclosure Period: 12 months"
+  },
+  {
+   "id": "s2",
+   "text": "(Month Day, Year to Month Day, Year)"
+  },
+  {
+   "id": "s3",
+   "text": "End of confidentiality obligations:"
+  },
+  {
+   "id": "s4",
+   "text": "NON DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s5",
+   "text": "This non disclosure agreement (hereinafter referred to as the “Agreement”) is made by and between:"
+  },
+  {
+   "id": "s6",
+   "text": "Commissariat à l'énergie atomique et aux énergies alternatives, a French state-owned research entity with a scientific, technical or industrial activity duly organised under the laws of France and having its registered office located at 25 rue Leblanc, Bâtiment « Le Ponant D » - 75015 Paris, FRANCE, declared at the Paris Register of Commerce and Trade (“Registre du Commerce et des Sociétés de Paris”) under the following registration number R.C.S. Paris B 775 685 019, acting for its Laboratoire d’électronique et de technologie de l’information (« LETI »), whose principal place of business is at 17 rue des Martyrs, 38054 Grenoble Cedex 9, and represented by Mrs Catherine de Mazancourt, LETI Intellectual Property Contracts Manager,"
+  },
+  {
+   "id": "s7",
+   "text": "hereinafter referred to as “CEA” or “Coordinator”"
+  },
+  {
+   "id": "s8",
+   "text": "acting for and on behalf of the project 654190 “EUNCL” partners,"
+  },
+  {
+   "id": "s9",
+   "text": "hereinafter referred to as “EUNCL Partners”"
+  },
+  {
+   "id": "s10",
+   "text": "and"
+  },
+  {
+   "id": "s11",
+   "text": "__________________________, incorporated under the laws of _________________, with its head office located at "
+  },
+  {
+   "id": "s12",
+   "text": "__________________________________________________________, "
+  },
+  {
+   "id": "s13",
+   "text": "represented by "
+  },
+  {
+   "id": "s14",
+   "text": "____________________________________[function] "
+  },
+  {
+   "id": "s15",
+   "text": "___________________,"
+  },
+  {
+   "id": "s16",
+   "text": "hereinafter referred to as “The Sponsor”,"
+  },
+  {
+   "id": "s17",
+   "text": "hereinafter called individually and alternatively the “Receiving Party” and the “Disclosing Party” or a “Party” and together the “Parties”."
+  },
+  {
+   "id": "s18",
+   "text": "WHEREAS, there is, within the context of EU-NCL project, a collaboration agreement between CEA and EUNCL-Partners:"
+  },
+  {
+   "id": "s19",
+   "text": "- EUROPEAN UNION represented by EUROPEAN COMMISSION - JOINT RESEARCH CENTRE (JRC), established in Rue de la Loi 200 – 1049 Brussels – Belgium,"
+  },
+  {
+   "id": "s20",
+   "text": "- The European Research Services GmbH, having its registered office at Mendelstr. 17, 48149 Münster, Germany,"
+  },
+  {
+   "id": "s21",
+   "text": "- Leidos Biomedical Research, Inc., the Operations and Technical Support contractor to the Frederick National Laboratory for Cancer Research, on behalf of the Nano-Characterization Laboratory, having an office located at 1050 Boyles Street, Frederick, Maryland, 21702,"
+  },
+  {
+   "id": "s22",
+   "text": "- The Provost, Fellows, Foundation Scholars, and the other members of Board, of the College of the Holy and Undivided Trinity of Queen Elizabeth near Dublin, a Body Corporate incorporated by Charter - having its registered office at College Green, Dublin 2, Ireland"
+  },
+  {
+   "id": "s23",
+   "text": "- Stiftelsen SINTEF by its institute Materials and Chemistry, incorporated, having its registered office at Strindveien 4, N-7465 Trondheim, Norway"
+  },
+  {
+   "id": "s24",
+   "text": "- The University of Liverpool, incorporated by Royal Charter having its registered office at the University of Liverpool, Foundation Building, 765 Brownlow Hill, Liverpool, L69 7ZX, United Kingdom,"
+  },
+  {
+   "id": "s25",
+   "text": "- The Swiss federal Laboratories for Material sciences and technology, incorporated under the laws of Switzerland and having their registered office at Überlandstrasse 129, 8600 Dübendorf, Switzerland,"
+  },
+  {
+   "id": "s26",
+   "text": "- Gesellschaft für Bioanalytik Münster e. V., incorporated under the laws of Germany and having its registered office at Mendelstr. 17, D-48149 Münster, Germany EUNCL "
+  },
+  {
+   "id": "s27",
+   "text": "Partners, which are concerned together with CEA by the present Agreement. "
+  },
+  {
+   "id": "s28",
+   "text": "for the needs of the present Agreement, said EUNCL Partners have delegated to CEA the authority to sign the present Agreement in their name and on their behalf."
+  },
+  {
+   "id": "s29",
+   "text": "CEA and EUNCL Partners are active in the characterisation of nanomedicines and owns considerable proprietary and valuable experience and information related to the same;"
+  },
+  {
+   "id": "s30",
+   "text": "The Sponsor is active in the development, production and commercialisation "
+  },
+  {
+   "id": "s31",
+   "text": "of____________________________ for the "
+  },
+  {
+   "id": "s32",
+   "text": "______________________________ "
+  },
+  {
+   "id": "s33",
+   "text": "industry and owns considerable proprietary and valuable experience and information related to the same, their production, their processing and their use."
+  },
+  {
+   "id": "s34",
+   "text": "• The Parties to this Agreement wish to pursue exploratory discussions between them related to "
+  },
+  {
+   "id": "s35",
+   "text": "_______________________________________, in order to evaluate the interest in an eventual technical collaboration relating to this subject matter (the “Purpose”)."
+  },
+  {
+   "id": "s36",
+   "text": "• In this context, it is necessary for the Parties to disclose to each other certain of their proprietary information pertaining to the above subject matter, concerning notably: "
+  },
+  {
+   "id": "s37",
+   "text": "____________________________________________________________________________ "
+  },
+  {
+   "id": "s38",
+   "text": "____________________________________________________________________________ "
+  },
+  {
+   "id": "s39",
+   "text": "which information the Parties regard as confidential."
+  },
+  {
+   "id": "s40",
+   "text": "NOW THEREFORE, the Parties hereto agree as follows:"
+  },
+  {
+   "id": "s41",
+   "text": "1 - As used in the Agreement the term \"Confidential Information\" shall mean any information or data whether of financial, commercial, technical, legal or whatever nature disclosed by the Disclosing Party to the Receiving Party under this Agreement, whether in writing or drawings, orally, in the form of samples, models, computer program or in any form whatsoever including information derivable by visual inspection, provided that such written information is clearly and conspicuously marked as proprietary or confidential and that such oral or visual information is designated as proprietary or confidential upon disclosure and confirmed by the Disclosing Party in writing within thirty (30) days from the date of disclosure, provided that such information shall be treated as Confidential Information by the Receiving Party during this thirty (30) day period."
+  },
+  {
+   "id": "s42",
+   "text": "However, that information disclosed by the Disclosing Party hereunder shall not be Confidential Information if it is, as proven by the Receiving Party by appropriate documentation:"
+  },
+  {
+   "id": "s43",
+   "text": "(a) already available to the public or becomes available to the public through no breach of the Agreement by the Receiving Party; or"
+  },
+  {
+   "id": "s44",
+   "text": "(b) in the Receiving Party's possession prior to receipt from the Disclosing Party; or"
+  },
+  {
+   "id": "s45",
+   "text": "(c) received independently from a third party free to disclose such information to the Receiving Party; or"
+  },
+  {
+   "id": "s46",
+   "text": "(d) the result of developments undertaken by the Receiving Party’s personnel which had no access to such information."
+  },
+  {
+   "id": "s47",
+   "text": "2 - Nothing in this Agreement shall be construed as compelling a Party to disclose any Confidential Information to the other, or to enter into any further contractual relationship with the other Party."
+  },
+  {
+   "id": "s48",
+   "text": "3 - The Confidential Information, all copies thereof and all rights thereto, shall remain the exclusive property of the Disclosing Party."
+  },
+  {
+   "id": "s49",
+   "text": "All Confidential Information, whether original or copies thereof, including any document, note, meeting report containing such information, shall be promptly returned by the Receiving Party to the Disclosing Party on receipt of the Disclosing Party's written request therefor. "
+  },
+  {
+   "id": "s50",
+   "text": "The Receiving Party will not retain any copies, extracts or reproductions in whole or in part of the Confidential Information."
+  },
+  {
+   "id": "s51",
+   "text": "4 - The Receiving Party undertakes during the term of this Agreement and for a period of five (5) years after the date of its expiry or termination:"
+  },
+  {
+   "id": "s52",
+   "text": "- to safeguard Confidential Information as it does for its own proprietary information of like importance, but at least with a reasonable degree of care,"
+  },
+  {
+   "id": "s53",
+   "text": "- to use Confidential Information only for the Purpose and to divulge Confidential Information to its personnel for said Purpose only and on a \"need to know\" basis,"
+  },
+  {
+   "id": "s54",
+   "text": "- not to duplicate or otherwise reproduce Confidential Information except for such copies as the Receiving Party may require for the Purpose as aforesaid, provided that all copies shall contain the same proprietary and confidential notices and legends as appear on the original Confidential Information,"
+  },
+  {
+   "id": "s55",
+   "text": "- not to divulge Confidential Information to any third party for any purpose, unless and until expressly authorized in writing to do so by the Disclosing Party,"
+  },
+  {
+   "id": "s56",
+   "text": "- not to reverse-compile, reverse-assemble or reverse-engineer Confidential Information or any part thereof, unless directed to do so by the disclosing Party as proven by appropriate documentation"
+  },
+  {
+   "id": "s57",
+   "text": "- not to claim nor to register any Intellectual Property right, nor to exercise any Intellectual Property right or any other right on Confidential Information received under the Agreement."
+  },
+  {
+   "id": "s58",
+   "text": "5 - Nothing contained in this Agreement shall be construed as granting or conferring upon the Receiving Party, whether expressly or impliedly, any right by license or otherwise under any proprietary or statutory right of the Disclosing Party existing prior to or coming into existence after the Effective Date of the Agreement."
+  },
+  {
+   "id": "s59",
+   "text": "6 - Disclosure period: this Agreement governs communication of Confidential Information from "
+  },
+  {
+   "id": "s60",
+   "text": "________________________ "
+  },
+  {
+   "id": "s61",
+   "text": "(the “Effective Date”) for twelve (12) month duration and shall then terminate. "
+  },
+  {
+   "id": "s62",
+   "text": "The Receiving Party’s duty to protect Confidential Information as foreseen in article 4 above shall continue for a period of five (5) years after expiry or termination."
+  },
+  {
+   "id": "s63",
+   "text": "7 - The Confidential Information is disclosed, “as is”. "
+  },
+  {
+   "id": "s64",
+   "text": "The Disclosing Party makes no representations or warranties, whether express or implied, with respect to Confidential Information, and notably their fitness for a commercial technical purpose. "
+  },
+  {
+   "id": "s65",
+   "text": "The use of Confidential Information is made at the sole risk of the Receiving Party."
+  },
+  {
+   "id": "s66",
+   "text": "8 - The Agreement is personal to the Parties (« intuitu personae ») and the Receiving Party undertakes not to assign nor transfer its rights or obligations under the Agreement to any third party, including an affiliated company, without the Disclosing Party’s prior written approval."
+  },
+  {
+   "id": "s67",
+   "text": "9 - Any dispute arising in connection with this Agreement, including any dispute related to the validity, interpretation, implementation and/or termination of the Agreement, which cannot be amicably settled within the sixty (60) days following its occurrence shall be finally settled under the Rules of Arbitration of the International Chamber of Commerce by one arbitrator appointed in accordance with those Rules. "
+  },
+  {
+   "id": "s68",
+   "text": "The arbitration proceedings shall take place in Paris (France). "
+  },
+  {
+   "id": "s69",
+   "text": "The language to be used in the arbitral proceedings shall be English."
+  },
+  {
+   "id": "s70",
+   "text": "The applicable law shall be Belgian Law, under which the dispute, controversy or claim referred to arbitration shall be decided without regard to its conflict of laws principles."
+  },
+  {
+   "id": "s71",
+   "text": "10 - Any notices for technical correspondence in connection with the Agreement shall be sent to:"
+  },
+  {
+   "id": "s72",
+   "text": "Mrs Fanny CAPUTO ……………, if to CEA"
+  },
+  {
+   "id": "s73",
+   "text": "CEA "
+  },
+  {
+   "id": "s74",
+   "text": "Grenoble/LETI/DTBS"
+  },
+  {
+   "id": "s75",
+   "text": "17 avenue des Martyrs – 38054 "
+  },
+  {
+   "id": "s76",
+   "text": "Grenoble Cedex 09"
+  },
+  {
+   "id": "s77",
+   "text": "Tel: 04 38 78 15 06"
+  },
+  {
+   "id": "s78",
+   "text": "Email: fanny.caputo@cea.fr"
+  },
+  {
+   "id": "s79",
+   "text": "_________________________ "
+  },
+  {
+   "id": "s80",
+   "text": "if to __________"
+  },
+  {
+   "id": "s81",
+   "text": "________________________________________"
+  },
+  {
+   "id": "s82",
+   "text": "________________________________________"
+  },
+  {
+   "id": "s83",
+   "text": "Tel: "
+  },
+  {
+   "id": "s84",
+   "text": "___________________"
+  },
+  {
+   "id": "s85",
+   "text": "Email: "
+  },
+  {
+   "id": "s86",
+   "text": "___________________"
+  },
+  {
+   "id": "s87",
+   "text": "11 - The Agreement cancels and supersedes all previous written or oral agreements and understandings between the Parties with regard to the Purpose, and constitutes the Parties’ entire agreement as to such Purpose. "
+  },
+  {
+   "id": "s88",
+   "text": "No addition or modification of the terms of the Agreement shall be valid between the Parties unless made in writing and signed by their duly authorised representatives."
+  },
+  {
+   "id": "s89",
+   "text": "Executed in two (2) original counterparts, one (1) for each Party:"
+  },
+  {
+   "id": "s90",
+   "text": "For The Sponsor:"
+  },
+  {
+   "id": "s91",
+   "text": "Date:"
+  },
+  {
+   "id": "s92",
+   "text": "NAME/Function"
+  },
+  {
+   "id": "s93",
+   "text": "For CEA"
+  },
+  {
+   "id": "s94",
+   "text": "acting for and on behalf of EUNCL Partners:"
+  },
+  {
+   "id": "s95",
+   "text": "Date:"
+  },
+  {
+   "id": "s96",
+   "text": "Catherine de Mazancourt, LETI Intellectual Property Contracts Manager"
+  }
+ ]
+}

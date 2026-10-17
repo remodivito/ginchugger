@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "nda",
+  "title": "NDAs (demonstration)",
+  "appliesTo": {
+    "label": "Mutual NDAs",
+    "phrases": [
+      "non-disclosure agreement",
+      "nondisclosure agreement",
+      "confidentiality agreement",
+      "nda",
+      "mnda"
+    ]
+  },
+  "provenance": "Demonstration only: explicit prototype assumptions, not any organisation's policy and not lawyer validated.",
+  "rules": [
+    {
+      "id": "DUR-01",
+      "title": "General confidentiality duration",
+      "topic": "duration",
+      "guidance": "General confidentiality should last 3 years after termination; up to 5 years is within the demonstration ceiling. Trade-secret protection may last while information qualifies as a trade secret.",
+      "conditions": {
+        "maxYears": 5,
+        "preferredYears": 3
+      },
+      "fallback": "Consider a period of no more than 5 years, or ask for a matter-specific decision.",
+      "enabled": true
+    },
+    {
+      "id": "USE-01",
+      "title": "Use only for the stated purpose",
+      "topic": "purpose",
+      "guidance": "Use Confidential Information solely to evaluate the stated business relationship. Broader business or product-development use needs judgment.",
+      "conditions": {
+        "purposeLimited": true
+      },
+      "fallback": "Restore the stated-purpose restriction or ask the reviewer to decide.",
+      "enabled": true
+    },
+    {
+      "id": "RET-01",
+      "title": "Protection follows retained copies",
+      "topic": "retention",
+      "guidance": "Ordinary backup and legally required retention are permitted only while confidentiality and purpose restrictions continue.",
+      "conditions": {
+        "requiresContinuingProtection": true
+      },
+      "fallback": "Preserve confidentiality and limited-use protection for retained copies.",
+      "enabled": true
+    }
+  ]
+}

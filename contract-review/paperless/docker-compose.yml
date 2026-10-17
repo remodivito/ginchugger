@@ -1,0 +1,60 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# The document store: Paperless-ngx (GPL-3.0), run unmodified as a separate local service (decision 191;
+# tasks/paperless-store-plan.md task 1). Derived from upstream v3.3.2 docker/compose/docker-compose.sqlite-tika.yml
+# (https://github.com/paperless-ngx/paperless-ngx/blob/v3.3.2/docker/compose/docker-compose.sqlite-tika.yml).
+# Changes from upstream:
+#   - every image pinned (paperless 3.3.2, valkey 9-alpine, tika 3.3.1.0, gotenberg 8.37: the spike's set);
+#   - the web server published on 127.0.0.1 only (plan decision 8); nothing else is published;
+#   - bind mounts under one data folder (GCL_PAPERLESS_DATA) instead of named volumes;
+#   - secrets (secret key, admin user and password) from paperless.env in that folder, written 0600 on first start by
+#     server/store/service.js and never in the repo;
+#   - restart "unless-stopped", so the store comes back with Docker; the app starts it if it is down;
+#   - the scheduled classifier training is off: our taxonomy has matching off, so labels are only what we set (spike gap 9).
+#   - the scheduled emptying of the trash is off (decision 188: nothing is purged automatically unless switched on).
+#     Paperless's default empties, daily at 01:00, documents in its trash for more than 30 days
+#     (PAPERLESS_EMPTY_TRASH_TASK_CRON "0 1 * * *", PAPERLESS_EMPTY_TRASH_DELAY 30, at least 1: src/paperless/settings in
+#     v3.3.2). The app sets GCL_PAPERLESS_EMPTY_TRASH_CRON to "disable" and the delay to 36500 days as a backstop, or,
+#     when trash.purgeAfterDays is set in the settings file (solo app or team server), to the daily schedule and that many days.
+# The app runs it as: docker compose -f paperless/docker-compose.yml -p <project> up -d, with GCL_PAPERLESS_PORT and
+# GCL_PAPERLESS_DATA in the environment. By hand, from this folder:
+#   GCL_PAPERLESS_DATA=../.local/paperless-data docker compose -p gcl-store up -d
+services:
+  broker:
+    image: docker.io/valkey/valkey:9-alpine
+    restart: unless-stopped
+    volumes:
+      - ${GCL_PAPERLESS_DATA:?set GCL_PAPERLESS_DATA}/redisdata:/data
+  webserver:
+    image: ghcr.io/paperless-ngx/paperless-ngx:3.3.2
+    restart: unless-stopped
+    depends_on: [broker, gotenberg, tika]
+    ports:
+      - "127.0.0.1:${GCL_PAPERLESS_PORT:-8011}:8000"
+    volumes:
+      - ${GCL_PAPERLESS_DATA}/data:/usr/src/paperless/data
+      - ${GCL_PAPERLESS_DATA}/media:/usr/src/paperless/media
+      - ${GCL_PAPERLESS_DATA}/export:/usr/src/paperless/export
+      - ${GCL_PAPERLESS_DATA}/consume:/usr/src/paperless/consume
+    env_file: ${GCL_PAPERLESS_DATA}/paperless.env
+    environment:
+      PAPERLESS_REDIS: redis://broker:6379
+      PAPERLESS_DBENGINE: sqlite
+      PAPERLESS_TIKA_ENABLED: 1
+      PAPERLESS_TIKA_GOTENBERG_ENDPOINT: http://gotenberg:3000
+      PAPERLESS_TIKA_ENDPOINT: http://tika:9998
+      PAPERLESS_URL: http://127.0.0.1:${GCL_PAPERLESS_PORT:-8011}
+      PAPERLESS_TIME_ZONE: Europe/London
+      PAPERLESS_OCR_LANGUAGE: eng
+      PAPERLESS_TRAIN_TASK_CRON: disable
+      PAPERLESS_EMPTY_TRASH_TASK_CRON: ${GCL_PAPERLESS_EMPTY_TRASH_CRON:-disable}
+      PAPERLESS_EMPTY_TRASH_DELAY: ${GCL_PAPERLESS_EMPTY_TRASH_DELAY:-36500}
+  gotenberg:
+    image: docker.io/gotenberg/gotenberg:8.37
+    restart: unless-stopped
+    command:
+      - "gotenberg"
+      - "--chromium-disable-javascript=true"
+      - "--chromium-allow-list=^file:///tmp/.*"
+  tika:
+    image: docker.io/apache/tika:3.3.1.0
+    restart: unless-stopped

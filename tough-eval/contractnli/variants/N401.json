@@ -1,0 +1,253 @@
+{
+ "id": "N401",
+ "revision": 1,
+ "title": "1002276_0001036050-99-002047_document_13.txt",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 401,
+  "type": "sec-text",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001002276/000103605099002047/0001036050-99-002047.txt"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "MUTUAL NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "Each undersigned party (the \"Receiving Party\") understands that the other party (the \"Disclosing Party\") has disclosed or may disclose information relating to the Disclosing Party's business particularly relating to uniform informer libraries, chemi-informatic tools and the nature of chemical libraries (including, with limitation, names and expertise of employees and consultants, know-how, formulas, processes, ideas, inventions (whether patentable or not), schematics, computer programs, software code, algorithms, development tools, manufacturing capability or processes, chemical routes, chemical structures, relationships with other businesses, business plans, and other technical, business, financial, customer and product development plans, forecasts, strategies and information), which to the extent previously, presently, or subsequently disclosed to the Receiving Party is hereinafter referred to as \"Proprietary Information\" of the Disclosing Party. "
+  },
+  {
+   "id": "s2",
+   "text": "Proprietary Information also includes any information which the Disclosing Party has received from a third party which the Disclosing Party is obligated to treat as confidential or proprietary."
+  },
+  {
+   "id": "s3",
+   "text": "Notwithstanding the foregoing, nothing will be considered \"Proprietary Information\" of the Disclosing Party unless either "
+  },
+  {
+   "id": "s4",
+   "text": "(1) it is first disclosed in tangible form and is conspicuously marked \"Confidential\", \"Proprietary\" or the like or "
+  },
+  {
+   "id": "s5",
+   "text": "(2) it is first disclosed in non-tangible form and orally identified as confidential at the time of disclosure and is summarized in tangible form conspicuously marked \"Confidential\" within thirty (30) days of the original disclosure."
+  },
+  {
+   "id": "s6",
+   "text": "In consideration of and solely for the purpose of the parties' discussion regarding a possible business transaction and any access the Receiving Party may have to Proprietary Information of the Disclosing Party, each party (as the Receiving Party) hereby agrees as follows:"
+  },
+  {
+   "id": "s7",
+   "text": "1. Non-Disclosure and Non-Use Obligations. "
+  },
+  {
+   "id": "s8",
+   "text": "The Receiving Party agrees "
+  },
+  {
+   "id": "s9",
+   "text": "(i) to hold the Disclosing Party's Proprietary Information in strict confidence and to take all reasonable precautions to protect such Proprietary Information (including, without limitation, all precautions the Receiving Party employs with respect to its most confidential materials), "
+  },
+  {
+   "id": "s10",
+   "text": "(ii) not to divulge any such Proprietary Information or any information derived therefrom to any third person (except consultants or agents, subject to the conditions stated below), "
+  },
+  {
+   "id": "s11",
+   "text": "(iii) not to make any use whatsoever at any time of such Proprietary Information except to evaluate internally whether to enter into a proposed business transaction with the Disclosing Party without the prior written permission of the disclosing party, "
+  },
+  {
+   "id": "s12",
+   "text": "(iv) not to remove or export from the United States or re-export any such Proprietary Information or any direct product thereof except in compliance with all licenses and approvals required under applicable export laws and regulations, including without limitation, those of the U.S. Department of Commerce, and "
+  },
+  {
+   "id": "s13",
+   "text": "(v) not to copy or reverse engineer any such Proprietary Information. "
+  },
+  {
+   "id": "s14",
+   "text": "Any employee, consultant or agent given access to any such Proprietary Information must have a legitimate \"need to know\" and shall be similarly bound in writing. "
+  },
+  {
+   "id": "s15",
+   "text": "The parties shall be entitled to exchange Proprietary Information under the terms of this Agreement for a period not to exceed two (2) years from the date hereof, unless otherwise extended by mutual written agreement of the parties or incorporated into a separate agreement. "
+  },
+  {
+   "id": "s16",
+   "text": "Without granting any right or license, the Disclosing Party agrees that the foregoing clauses "
+  },
+  {
+   "id": "s17",
+   "text": "(i), "
+  },
+  {
+   "id": "s18",
+   "text": "(ii), "
+  },
+  {
+   "id": "s19",
+   "text": "(iii) and "
+  },
+  {
+   "id": "s20",
+   "text": "(v) shall not apply with respect to all obligations after five (5) years following the disclosure thereof or any information that the Receiving Party can document "
+  },
+  {
+   "id": "s21",
+   "text": "(i) is or (through no improper action or inaction by the Receiving Party or any agent, consultant or employee) becomes generally known to the public, "
+  },
+  {
+   "id": "s22",
+   "text": "(i) was in its possession or the possession of an affiliate or consultant or known by it prior to receipt from the Disclosing Party, "
+  },
+  {
+   "id": "s23",
+   "text": "(iii) was rightfully disclosed to it, an affiliate or a consultant by a third party without restriction, or "
+  },
+  {
+   "id": "s24",
+   "text": "(iv) was independently developed without use of any Proprietary Information of the Disclosing Party by employees of the Receiving Party who can be demonstrated to have had no access to such information. "
+  },
+  {
+   "id": "s25",
+   "text": "The Receiving Party may make disclosures required by court order provided the Receiving Party uses diligent efforts to limit disclosure and to obtain confidential treatment or a protective order and has allowed the Disclosing Party to participate in the proceeding."
+  },
+  {
+   "id": "s26",
+   "text": "2. Patent or Copyright Infringement. "
+  },
+  {
+   "id": "s27",
+   "text": "Nothing in this Agreement is intended to grant any rights under any patent or copyright of the Disclosing Party, nor shall this Agreement grant the Receiving Party any rights in or to the Disclosing Party's Proprietary Information, except the limited right to review such Proprietary Information solely for the purpose of evaluating a possible business transaction."
+  },
+  {
+   "id": "s28",
+   "text": "3. Return of Materials. "
+  },
+  {
+   "id": "s29",
+   "text": "Immediately upon "
+  },
+  {
+   "id": "s30",
+   "text": "(i) the decision by either party not to enter into a relationship as a result of the exchange of information hereunder, or "
+  },
+  {
+   "id": "s31",
+   "text": "(ii) a request by the Disclosing Party at any time, the Receiving Party will turn over to the Disclosing Party all Proprietary Information of the Disclosing Party and all documents or media containing any such Proprietary Information and any and all copies or extracts or derivatives thereof to the extent it is requested by either party in writing, except that a single copy may be retained for legal archival purposes, subject to protection and non-disclosure in accordance with the term of this agreement. "
+  },
+  {
+   "id": "s32",
+   "text": "The Receiving Party understands that nothing herein "
+  },
+  {
+   "id": "s33",
+   "text": "(i) requires the disclosure of any Proprietary Information of the Disclosing Party, which shall be disclosed if at all solely at the option of the Disclosing Party, or "
+  },
+  {
+   "id": "s34",
+   "text": "(ii) requires the Disclosing Party to proceed with any proposed transaction or relationship in connection with which Proprietary Information may be disclosed."
+  },
+  {
+   "id": "s35",
+   "text": "4. No Publicity. "
+  },
+  {
+   "id": "s36",
+   "text": "Except to the extent required by law, neither party shall disclose the existence or subject matter of the negotiations or business relationship contemplated by this Agreement."
+  },
+  {
+   "id": "s37",
+   "text": "5. Securities Law Considerations. "
+  },
+  {
+   "id": "s38",
+   "text": "Each party is aware, and will advise its employees, consultants and agents who are informed of the matters that are the subject of this agreement, of the restrictions imposed by the United States securities laws on the purchase and sale of securities by any person who has received material, non-public information from the issuer of such securities and on the communication of such information to any other person when it is reasonably foreseeable that such other person is likely to purchase or sell such securities in reliance upon such information."
+  },
+  {
+   "id": "s39",
+   "text": "6. Miscellaneous. "
+  },
+  {
+   "id": "s40",
+   "text": "The Receiving Party acknowledges and agrees that due to the unique nature of the Disclosing Party's Proprietary Information, there can be no adequate remedy at law for any breach of its obligations hereunder, that any such breach may allow the Receiving Party or third parties to unfairly compete with the Disclosing Party resulting in irreparable harm to the Disclosing Party, and therefore, that upon any such breach or any threat thereof, the Disclosing Party may seek appropriate equitable relief (without the need to post bond or other security) in addition to whatever remedies it might have at law. "
+  },
+  {
+   "id": "s41",
+   "text": "The Receiving Party will notify the Disclosing Party in writing immediately upon the occurrence of any such unauthorized release or other breach of which it is aware. "
+  },
+  {
+   "id": "s42",
+   "text": "In the event that any of the provisions of this Agreement shall be held by a court or other tribunal of competent jurisdiction to be to any extent illegal, invalid or unenforceable, such provisions shall be limited or eliminated to the minimum extent necessary so that this Agreement shall otherwise remain in full force and effect. "
+  },
+  {
+   "id": "s43",
+   "text": "This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to principles of conflicts of law. "
+  },
+  {
+   "id": "s44",
+   "text": "The parties agree that any dispute regarding the interpretation or validity of this Agreement shall be subject to the exclusive jurisdiction of the state and federal courts in and for the County of San Diego, California, and each party hereby agrees to submit to the personal and exclusive jurisdiction and venue of such courts. "
+  },
+  {
+   "id": "s45",
+   "text": "This Agreement supersedes all prior discussions and writings and constitutes the entire agreement between the parties with respect to the subject matter hereof. "
+  },
+  {
+   "id": "s46",
+   "text": "This Agreement may not be amended except in an express writing signed by officers of both parties. "
+  },
+  {
+   "id": "s47",
+   "text": "No waiver or modification of this Agreement will be binding upon either party unless made in writing and signed by a duly authorized representative of such party and no failure or delay in enforcing any right will be deemed a waiver."
+  },
+  {
+   "id": "s48",
+   "text": "Each party warrants to the other that it is duly authorized to enter into this Agreement and that the terms of this Agreement are not inconsistent with any of its respective outstanding contractual obligations. "
+  },
+  {
+   "id": "s49",
+   "text": "The execution and performance of this Agreement does not obligate the parties to enter into any other agreement or to perform any obligations other than as specified herein."
+  },
+  {
+   "id": "s50",
+   "text": "IN WITNESS WHEREOF, the parties have executed this Agreement as of the day and year set forth below."
+  },
+  {
+   "id": "s51",
+   "text": "Date: 3-10-99"
+  },
+  {
+   "id": "s52",
+   "text": "COMBICHEM, INC., DUPONT PHARMACEUTICALS COMPANY,"
+  },
+  {
+   "id": "s53",
+   "text": "a Delaware corporation a Delaware general partnership"
+  },
+  {
+   "id": "s54",
+   "text": "By: /s/ Vicente Anido, Jr. By: /s/ David S. Block"
+  },
+  {
+   "id": "s55",
+   "text": "Vicente Anido, Jr., "
+  },
+  {
+   "id": "s56",
+   "text": "Ph.D. "
+  },
+  {
+   "id": "s57",
+   "text": "David S. Block, M.D."
+  },
+  {
+   "id": "s58",
+   "text": "Its: President and Its: Vice President, Product Planning"
+  },
+  {
+   "id": "s59",
+   "text": "Chief Executive Officer and Acquisition"
+  }
+ ]
+}

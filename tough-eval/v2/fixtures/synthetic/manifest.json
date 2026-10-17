@@ -1,0 +1,564 @@
+{
+ "suite": "tough-eval v2a (synthetic fixture)",
+ "version": "v2a-fixture-1",
+ "builtAt": "2026-10-15T00:00:00.000Z",
+ "canary": "5f0c1e2a-9b7d-4c3e-8a61-0d2f4b6c8e10",
+ "documents": {
+  "csa": {
+   "base": "v2/fixtures/synthetic/base-csa.json",
+   "sha256": "cf14bd3afc5c6166789a8d37bab5e17f2d6c249f5093cee4653f4e943b699c2e"
+  },
+  "nda": {
+   "base": "v2/fixtures/synthetic/base-nda.json",
+   "sha256": "9d0e4a6aba77dc8db6708e4a1ccbaa6cceb50c80ac6e50d5e6c3587f72e00301"
+  }
+ },
+ "playbooks": {
+  "v2/fixtures/synthetic/playbook-customer.json": "25d53673da5d7d663ba669f73d4ff368c78c0d745365f2a7d66240f50b821a13",
+  "v2/fixtures/synthetic/playbook-vendor.json": "6e343dc90ff231a865da4cde55598c958304790ce2a0e4409971d96e3f3a362a",
+  "v2/fixtures/synthetic/playbook-nda-discloser.json": "45082aeb5e3a04f0d88cee4f2b50a51b0a6041ab57fca3f2f2683abe488b8ccb",
+  "v2/fixtures/synthetic/playbook-nda-recipient.json": "23cf7a2b80de53cad2df12be2145e1c4598f1330b347cd5efc9916faf3c04a57"
+ },
+ "variants": [
+  {
+   "id": "A-opus-csa-customer-01",
+   "sha256": "88c2a7d2a51adaea77269500b8afe4d988fb939bb1c22920a5cab94a45442780",
+   "base": "v2/fixtures/synthetic/base-csa.json",
+   "playbook": "v2/fixtures/synthetic/playbook-customer.json",
+   "document": "csa",
+   "side": "customer",
+   "author": "opus",
+   "markup": false,
+   "status": "verified",
+   "plants": [
+    {
+     "id": "A-opus-csa-customer-01",
+     "kind": "deviation",
+     "level": "easy",
+     "family": "value",
+     "rules": [
+      "C-01"
+     ],
+     "targets": [
+      "p3"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p3",
+       "restore": "General Cap Amount: 1x the Fees paid or payable by Customer in the 12 months before the claim.",
+       "planted": "General Cap Amount: 0.25x the Fees paid or payable by Customer in the 12 months before the claim.",
+       "check": {
+        "require": [],
+        "forbid": [],
+        "num": "([0-9.]+)x",
+        "min": 1
+       },
+       "inserted": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "A-opus-csa-customer-02",
+   "sha256": "a98f5f37e4fd62670e8e8b5efc081843c7b891770973da5f3dd61be075c767ac",
+   "base": "v2/fixtures/synthetic/base-csa.json",
+   "playbook": "v2/fixtures/synthetic/playbook-customer.json",
+   "document": "csa",
+   "side": "customer",
+   "author": "opus",
+   "markup": false,
+   "status": "verified",
+   "plants": [
+    {
+     "id": "A-opus-csa-customer-02",
+     "kind": "benign",
+     "level": null,
+     "family": "near-threshold",
+     "rules": [
+      "C-02"
+     ],
+     "targets": [
+      "p4"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "A-opus-csa-customer-03",
+   "sha256": "cb0572c1fbd7e4039680e0a6cd1c6c91d08bb8fd5a020842131a547af111005a",
+   "base": "v2/fixtures/synthetic/base-csa.json",
+   "playbook": "v2/fixtures/synthetic/playbook-customer.json",
+   "document": "csa",
+   "side": "customer",
+   "author": "opus",
+   "markup": false,
+   "status": "verified",
+   "plants": [
+    {
+     "id": "A-opus-csa-customer-03",
+     "kind": "deviation",
+     "level": "medium",
+     "family": "wording",
+     "rules": [
+      "C-04"
+     ],
+     "targets": [
+      "p6"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p6",
+       "restore": "Security. Provider will maintain reasonable administrative, physical and technical safeguards to protect Customer Content.",
+       "planted": "Security. Provider will maintain such safeguards as Provider considers appropriate to protect Customer Content.",
+       "check": {
+        "require": [
+         "reasonable"
+        ],
+        "forbid": [
+         "considers appropriate"
+        ]
+       },
+       "inserted": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "A-glm-csa-customer-01",
+   "sha256": "23bf47b0bf12303970e74dcb932d318eab553c3e14f37916b9a69d05dce250d1",
+   "base": "v2/fixtures/synthetic/base-csa.json",
+   "playbook": "v2/fixtures/synthetic/playbook-customer.json",
+   "document": "csa",
+   "side": "customer",
+   "author": "glm",
+   "markup": false,
+   "status": "verified",
+   "plants": [
+    {
+     "id": "A-glm-csa-customer-01",
+     "kind": "deviation",
+     "level": "hard",
+     "family": "definition-crossclause",
+     "rules": [
+      "C-04"
+     ],
+     "targets": [
+      "p8"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p8",
+       "restore": "Definitions. \"Customer Content\" means all data submitted to the Cloud Service by or for Customer.",
+       "planted": "Definitions. \"Customer Content\" means data that Customer designates in writing as confidential.",
+       "check": {
+        "require": [
+         "all data"
+        ],
+        "forbid": [
+         "designates in writing"
+        ]
+       },
+       "inserted": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "A-deepseek-csa-customer-01",
+   "sha256": "8c922e64e1a372b3306bf8adee59451667fdd9f9bfc180b178c382f66cfef807",
+   "base": "v2/fixtures/synthetic/base-csa.json",
+   "playbook": "v2/fixtures/synthetic/playbook-customer.json",
+   "document": "csa",
+   "side": "customer",
+   "author": "deepseek",
+   "markup": false,
+   "status": "verified",
+   "plants": [
+    {
+     "id": "A-deepseek-csa-customer-01",
+     "kind": "deviation",
+     "level": "medium",
+     "family": "deletion",
+     "rules": [
+      "C-03"
+     ],
+     "targets": [
+      "p7"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p7",
+       "restore": "Breach notice. Provider will notify Customer of any Security Breach without undue delay and in any event within 72 hours.",
+       "planted": "Breach notice. Provider will notify Customer of any Security Breach without undue delay.",
+       "check": {
+        "num": "within ([0-9]+) hours",
+        "max": 72
+       },
+       "inserted": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "A-glm-csa-vendor-01",
+   "sha256": "c428b30fe14c5723fab0619b4c9d043f1b89b44ed9eca077547a5ae6c66e3f45",
+   "base": "v2/fixtures/synthetic/base-csa.json",
+   "playbook": "v2/fixtures/synthetic/playbook-vendor.json",
+   "document": "csa",
+   "side": "vendor",
+   "author": "glm",
+   "markup": false,
+   "status": "verified",
+   "plants": [
+    {
+     "id": "A-glm-csa-vendor-01",
+     "kind": "deviation",
+     "level": "easy",
+     "family": "value",
+     "rules": [
+      "V-01"
+     ],
+     "targets": [
+      "p3"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p3",
+       "restore": "General Cap Amount: 1x the Fees paid or payable by Customer in the 12 months before the claim.",
+       "planted": "General Cap Amount: 5x the Fees paid or payable by Customer in the 12 months before the claim.",
+       "check": {
+        "num": "([0-9.]+)x",
+        "max": 2
+       },
+       "inserted": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "A-deepseek-csa-vendor-01",
+   "sha256": "9ce693eef91d48b399a0a39b6b84b69fb6f2321d2050f4559febb49b237951c7",
+   "base": "v2/fixtures/synthetic/base-csa.json",
+   "playbook": "v2/fixtures/synthetic/playbook-vendor.json",
+   "document": "csa",
+   "side": "vendor",
+   "author": "deepseek",
+   "markup": false,
+   "status": "verified",
+   "plants": [
+    {
+     "id": "A-deepseek-csa-vendor-01",
+     "kind": "benign",
+     "level": null,
+     "family": "wording",
+     "rules": [
+      "V-02"
+     ],
+     "targets": [
+      "p4"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "A-opus-csa-vendor-01",
+   "sha256": "3ff9b2885c621d70afa95f26b8ba0594e12a6c23ca69cd8245a75804d994c67d",
+   "base": "v2/fixtures/synthetic/base-csa.json",
+   "playbook": "v2/fixtures/synthetic/playbook-vendor.json",
+   "document": "csa",
+   "side": "vendor",
+   "author": "opus",
+   "markup": false,
+   "status": "verified",
+   "plants": [
+    {
+     "id": "A-opus-csa-vendor-01",
+     "kind": "deviation",
+     "level": "hard",
+     "family": "insertion-omission",
+     "rules": [
+      "V-03"
+     ],
+     "targets": [
+      "p7a"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p7a",
+       "restore": "",
+       "planted": "Provider will also notify Customer of any suspected Security Breach within 12 hours.",
+       "inserted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "A-deepseek-nda-discloser-01",
+   "sha256": "e2cfb24a0a6c7d4f7b77f2e9438945d8092ede9ebbc4dbfc4a26431bcdffe732",
+   "base": "v2/fixtures/synthetic/base-nda.json",
+   "playbook": "v2/fixtures/synthetic/playbook-nda-discloser.json",
+   "document": "nda",
+   "side": "discloser",
+   "author": "deepseek",
+   "markup": false,
+   "status": "verified",
+   "plants": [
+    {
+     "id": "A-deepseek-nda-discloser-01",
+     "kind": "deviation",
+     "level": "medium",
+     "family": "wording",
+     "rules": [
+      "NDA-08"
+     ],
+     "targets": [
+      "p5"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p5",
+       "restore": "Compelled disclosure. If the law requires the Receiving Party to disclose Confidential Information, it will give the Disclosing Party prompt notice where legally permitted.",
+       "planted": "Compelled disclosure. If the law requires the Receiving Party to disclose Confidential Information, it may do so without notice to the Disclosing Party.",
+       "check": {
+        "require": [
+         "notice"
+        ],
+        "forbid": [
+         "without notice"
+        ]
+       },
+       "inserted": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "A-opus-nda-discloser-01",
+   "sha256": "f773a6e08681fa45ba2253e2d9afe28a750361f01b03ed801ee1bdaf39c82d96",
+   "base": "v2/fixtures/synthetic/base-nda.json",
+   "playbook": "v2/fixtures/synthetic/playbook-nda-discloser.json",
+   "document": "nda",
+   "side": "discloser",
+   "author": "opus",
+   "markup": false,
+   "status": "verified",
+   "plants": [
+    {
+     "id": "A-opus-nda-discloser-01",
+     "kind": "benign",
+     "level": null,
+     "family": "near-threshold",
+     "rules": [
+      "NDA-19"
+     ],
+     "targets": [
+      "p7"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "A-glm-nda-recipient-01",
+   "sha256": "8cffdd57e94a2ccf36eb65a378375ac37d28d284c350d077f251dfad7156162b",
+   "base": "v2/fixtures/synthetic/base-nda.json",
+   "playbook": "v2/fixtures/synthetic/playbook-nda-recipient.json",
+   "document": "nda",
+   "side": "recipient",
+   "author": "glm",
+   "markup": false,
+   "status": "verified",
+   "plants": [
+    {
+     "id": "A-glm-nda-recipient-01",
+     "kind": "deviation",
+     "level": "easy",
+     "family": "value",
+     "rules": [
+      "NDA-19"
+     ],
+     "targets": [
+      "p7"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p7",
+       "restore": "Term. The obligations in this Agreement continue for 3 years after the Effective Date.",
+       "planted": "Term. The obligations in this Agreement continue for 10 years after the Effective Date.",
+       "check": {
+        "num": "([0-9]+) years",
+        "max": 5
+       },
+       "inserted": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "A-opus-nda-recipient-01",
+   "sha256": "f37a3146d85224c7bad3ab48d368322c7441f218d0a1d9e3fa7941d0239964b3",
+   "base": "v2/fixtures/synthetic/base-nda.json",
+   "playbook": "v2/fixtures/synthetic/playbook-nda-recipient.json",
+   "document": "nda",
+   "side": "recipient",
+   "author": "opus",
+   "markup": false,
+   "status": "verified",
+   "plants": [
+    {
+     "id": "A-opus-nda-recipient-01",
+     "kind": "deviation",
+     "level": "medium",
+     "family": "wording",
+     "rules": [
+      "NDA-07"
+     ],
+     "targets": [
+      "p4"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p4",
+       "restore": "Representatives. The Receiving Party may share Confidential Information with its employees and advisers who need to know it for the Purpose and are bound by duties of confidentiality.",
+       "planted": "Representatives. The Receiving Party may share Confidential Information with its employees who need to know it for the Purpose and are bound by duties of confidentiality.",
+       "check": {
+        "require": [
+         "advis"
+        ]
+       },
+       "inserted": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "A-deepseek-nda-recipient-01",
+   "sha256": "8701e5fa0fe7f3ff10bec1e5048fed54d080908592a94ec9e518473f725ac07c",
+   "base": "v2/fixtures/synthetic/base-nda.json",
+   "playbook": "v2/fixtures/synthetic/playbook-nda-recipient.json",
+   "document": "nda",
+   "side": "recipient",
+   "author": "deepseek",
+   "markup": false,
+   "status": "contested",
+   "plants": [
+    {
+     "id": "A-deepseek-nda-recipient-01",
+     "kind": "deviation",
+     "level": "hard",
+     "family": "near-threshold",
+     "rules": [
+      "NDA-16"
+     ],
+     "targets": [
+      "p6"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p6",
+       "restore": "Return. On request, the Receiving Party will return or destroy Confidential Information.",
+       "planted": "Return. Within 2 days of request, the Receiving Party will return and certify the destruction of Confidential Information.",
+       "check": {
+        "require": [
+         "return or destroy"
+        ],
+        "forbid": [
+         "certify",
+         "within 2 days"
+        ]
+       },
+       "inserted": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "M-opus-csa-customer",
+   "sha256": "85bf1b4e1d90febd339aa4de0f4cd0276aa702b47e52c8d7370dd8301faaf7c2",
+   "base": "v2/fixtures/synthetic/base-csa.json",
+   "playbook": "v2/fixtures/synthetic/playbook-customer.json",
+   "document": "csa",
+   "side": "customer",
+   "author": "opus",
+   "markup": true,
+   "status": "verified",
+   "plants": [
+    {
+     "id": "A-opus-csa-customer-01",
+     "kind": "deviation",
+     "level": "easy",
+     "family": "value",
+     "rules": [
+      "C-01"
+     ],
+     "targets": [
+      "p3"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p3",
+       "restore": "General Cap Amount: 1x the Fees paid or payable by Customer in the 12 months before the claim.",
+       "planted": "General Cap Amount: 0.25x the Fees paid or payable by Customer in the 12 months before the claim.",
+       "check": {
+        "require": [],
+        "forbid": [],
+        "num": "([0-9.]+)x",
+        "min": 1
+       },
+       "inserted": false
+      }
+     ]
+    },
+    {
+     "id": "A-opus-csa-customer-03",
+     "kind": "deviation",
+     "level": "medium",
+     "family": "wording",
+     "rules": [
+      "C-04"
+     ],
+     "targets": [
+      "p6"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p6",
+       "restore": "Security. Provider will maintain reasonable administrative, physical and technical safeguards to protect Customer Content.",
+       "planted": "Security. Provider will maintain such safeguards as Provider considers appropriate to protect Customer Content.",
+       "check": {
+        "require": [
+         "reasonable"
+        ],
+        "forbid": [
+         "considers appropriate"
+        ]
+       },
+       "inserted": false
+      }
+     ]
+    },
+    {
+     "id": "A-opus-csa-customer-02",
+     "kind": "benign",
+     "level": null,
+     "family": "near-threshold",
+     "rules": [
+      "C-02"
+     ],
+     "targets": [
+      "p4"
+     ]
+    }
+   ]
+  }
+ ]
+}

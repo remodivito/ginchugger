@@ -1,0 +1,157 @@
+{
+ "id": "N442",
+ "revision": 1,
+ "title": "1017545_0001012870-97-001500_document_2.txt",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 442,
+  "type": "sec-text",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001017545/000101287097001500/0001012870-97-001500.txt"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "EXHIBIT E: NON-DISCLOSURE AGREEMENT BETWEEN PBIS AND SOLOPOINT, INC. "
+  },
+  {
+   "id": "s1",
+   "text": "AND PACIFIC BELL AND SOLOPOINT, INC."
+  },
+  {
+   "id": "s2",
+   "text": "CONFIDENTIAL NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s3",
+   "text": "This agreement is made on August 21, 1996 between SoloPoint, Inc., a California corporation (\"SoloPoint\") and Pacific Bell Information Services (\"PBIS\")."
+  },
+  {
+   "id": "s4",
+   "text": "1. Purpose. "
+  },
+  {
+   "id": "s5",
+   "text": "Company and SoloPoint wish to explore a business possibility under which each party may disclose its Confidential Information to the other party."
+  },
+  {
+   "id": "s6",
+   "text": "2. Definition. "
+  },
+  {
+   "id": "s7",
+   "text": "\"Confidential Information\" means any information, technical data, or know-how, including, but not limited to that which relates to research, products, software, services, development, inventions, processes, designs, drawings, formulas, engineering, marketing, finances, financial models, and business plans, which Confidential Information is designated in writing to be confidential or proprietary, or if given orally, is confirmed promptly in writing as having been disclosed as confidential or proprietary. "
+  },
+  {
+   "id": "s8",
+   "text": "Confidential Information does not include information, technical data, or know-how "
+  },
+  {
+   "id": "s9",
+   "text": "(i) is in the possession of the receiving party at the time of disclosures shown by the receiving party's files and records immediately prior to the time of disclosure; or "
+  },
+  {
+   "id": "s10",
+   "text": "(ii) prior to or after the time of disclosure becomes part of the public knowledge or literature, not as a result of any inaction or action of the receiving party, or "
+  },
+  {
+   "id": "s11",
+   "text": "(iii) is required by law to be disclosed by the receiving party; "
+  },
+  {
+   "id": "s12",
+   "text": "(iv) is independently developed by the receiving party without utilization of the Confidential Information."
+  },
+  {
+   "id": "s13",
+   "text": "3. Non-Disclosure of Confidential Information. "
+  },
+  {
+   "id": "s14",
+   "text": "Each party agrees not to use the Confidential Information disclosed to it by the other party for its own use or for any purpose except to carry out discussions concerning the completion of any business relationship between the two. "
+  },
+  {
+   "id": "s15",
+   "text": "Each party will not disclose the Confidential Information of the other party to third parties or to its employees except employees who are required to have the information in order to carry out the contemplated business. "
+  },
+  {
+   "id": "s16",
+   "text": "Each party will have employees to whom Confidential Information of the other party is disclosed sign a Non-Disclosure Agreement in content substantially similar to this agreement if such persons have not already signed such agreements obligating them to hold the Confidential Information in confidence. "
+  },
+  {
+   "id": "s17",
+   "text": "Each party agrees that it will take all reasonable steps to protect the secrecy of and avoid disclosure or use of Confidential Information of the other party on order to prevent of unauthorized falling into the public domain or the possession of unauthorized persons. "
+  },
+  {
+   "id": "s18",
+   "text": "Each agrees to immediately notify the other party in writing of any misuse or misappropriation of such Confidential Information of the other party which may come to its attention."
+  },
+  {
+   "id": "s19",
+   "text": "4. Return of Information. "
+  },
+  {
+   "id": "s20",
+   "text": "Upon request of the disclosing party, the receiving party agrees to promptly return all documents furnishes to it by the disclosing party, together with all copies thereof in its possession."
+  },
+  {
+   "id": "s21",
+   "text": "5. Term. "
+  },
+  {
+   "id": "s22",
+   "text": "The term of this Agreement shall be five (5) years. "
+  },
+  {
+   "id": "s23",
+   "text": "6. General Provisions. "
+  },
+  {
+   "id": "s24",
+   "text": "This Agreement will be governed by the laws of the State of California. "
+  },
+  {
+   "id": "s25",
+   "text": "This Agreement will be binding upon the successors of each party, and will be for the benefit of each party, its successors, and its assigns. "
+  },
+  {
+   "id": "s26",
+   "text": "Each party agrees that it would be difficult to measure the damage to such party from the breach of the other party's obligations hereunder, that injury to such party from any such breach would be impossible to calculate, and that monetary damages would therefor be an inadequate remedy; accordingly, each party agrees that the other party shall be entitled, in addition to all other remedies it might have, to injunctions or other appropriate orders to restrain any such breach without showing or proving any actual damage."
+  },
+  {
+   "id": "s27",
+   "text": "IN WITNESS WHEREOF, the parties have executed this Agreement as of the date and year written above."
+  },
+  {
+   "id": "s28",
+   "text": "Company:"
+  },
+  {
+   "id": "s29",
+   "text": "Pacific Bell Information Services SoloPoint, Inc."
+  },
+  {
+   "id": "s30",
+   "text": "By: By:"
+  },
+  {
+   "id": "s31",
+   "text": "---------------------------------- "
+  },
+  {
+   "id": "s32",
+   "text": "----------------------------------"
+  },
+  {
+   "id": "s33",
+   "text": "Title: Title:"
+  },
+  {
+   "id": "s34",
+   "text": "------------------------------- "
+  },
+  {
+   "id": "s35",
+   "text": "-------------------------------"
+  }
+ ]
+}

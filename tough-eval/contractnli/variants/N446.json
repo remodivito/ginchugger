@@ -1,0 +1,65 @@
+{
+ "id": "N446",
+ "revision": 1,
+ "title": "1023734_0000912057-96-023266_document_16.txt",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 446,
+  "type": "sec-text",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001023734/000091205796023266/0000912057-96-023266.txt"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "NAVIDEC, INCORPORATED"
+  },
+  {
+   "id": "s1",
+   "text": "TRADE SECRET/NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s2",
+   "text": "In consideration of the mutual promises made herein, as well as the agreement between Navidec, Incorporated and _______________ , the parties hereby agree as follows:"
+  },
+  {
+   "id": "s3",
+   "text": "____________________ , agrees that, in consideration for being shown or told about certain trade secrets or property belonging to Navidec, Incorporated, ____________________, shall not disclose or cause to be disclosed, disseminated or distributed any information concerning said trade secret or property to any person, entity, business or other individual or company without the prior written permission of Navidec, Incorporated."
+  },
+  {
+   "id": "s4",
+   "text": "Further, ___________________ , agrees not to use, either directly or indirectly any of the material, ideas, objects or portions thereof of said trade secret or property disclosed by Navidec, Incorporated in any manner whatsoever without the prior written consent of Navidec, Incorporated."
+  },
+  {
+   "id": "s5",
+   "text": "Any dispute that arises hereunder shall be resolved by arbitration pursuant to the rules of the American Arbitration Association or the rules of the State of Colorado."
+  },
+  {
+   "id": "s6",
+   "text": "In the event that any litigation or arbitration is commenced to enforce any of the provisions of this agreement, the prevailing party of said litigation shall be entitled to all costs thereof including reasonable attorney's fees."
+  },
+  {
+   "id": "s7",
+   "text": "This agreement shall be governed by and interpreted in accordance without the laws of the State of Colorado."
+  },
+  {
+   "id": "s8",
+   "text": "EXECUTED this "
+  },
+  {
+   "id": "s9",
+   "text": "_____________ day of "
+  },
+  {
+   "id": "s10",
+   "text": "__________________ 1996, in Englewood, in the State of Colorado."
+  },
+  {
+   "id": "s11",
+   "text": "Navidec, Incorporated"
+  },
+  {
+   "id": "s12",
+   "text": "(Signature of Agreeing Party)"
+  }
+ ]
+}

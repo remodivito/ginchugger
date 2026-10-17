@@ -1,0 +1,209 @@
+{
+ "id": "N104",
+ "revision": 1,
+ "title": "Example-One-Way-Non-Disclosure-Agreement.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 104,
+  "type": "search-pdf",
+  "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/606993/Example-One-Way-Non-Disclosure-Agreement.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "An Example of a One-way Non-Disclosure Agreement"
+  },
+  {
+   "id": "s1",
+   "text": "Date: 201[ ]"
+  },
+  {
+   "id": "s2",
+   "text": "Parties:"
+  },
+  {
+   "id": "s3",
+   "text": "[NAME OF INDIVIDUAL RECEIVING INFORMATION] of [address of individual]"
+  },
+  {
+   "id": "s4",
+   "text": "OR"
+  },
+  {
+   "id": "s5",
+   "text": "[NAME OF COMPANY RECEIVING INFORMATION], a company registered in [England] under company number [number on Register of Companies] whose registered office is at [address of office on the Register of Companies]"
+  },
+  {
+   "id": "s6",
+   "text": "(the Recipient)"
+  },
+  {
+   "id": "s7",
+   "text": "and"
+  },
+  {
+   "id": "s8",
+   "text": "[NAME OF INDIVIDUAL DISCLOSING INFORMATION] of [address of individual]"
+  },
+  {
+   "id": "s9",
+   "text": "OR"
+  },
+  {
+   "id": "s10",
+   "text": "[NAME OF COMPANY DISCLOSING INFORMATION], a company registered in [England] under company number [number on Register of Companies] whose registered office is at [address of office on the Register of Companies]"
+  },
+  {
+   "id": "s11",
+   "text": "(the Discloser)"
+  },
+  {
+   "id": "s12",
+   "text": "1. The Discloser intends to disclose information (the Confidential Information) to the Recipient for the purpose of [insert details e.g. discussing the possibility of the Recipient and the Discloser entering into a joint venture] (the Purpose)."
+  },
+  {
+   "id": "s13",
+   "text": "2. The Recipient undertakes not to use the Confidential Information for any purpose except the Purpose, without first obtaining the written agreement of the Discloser."
+  },
+  {
+   "id": "s14",
+   "text": "3. The Recipient undertakes to keep the Confidential Information secure and not to disclose it to any third party [except to its employees [and professional advisers] who need to know the same for the Purpose, who know they owe a duty of confidence to the Discloser and who are bound by obligations equivalent to those in clause 2 above and this clause 3."
+  },
+  {
+   "id": "s15",
+   "text": "4. The undertakings in clauses 2 and 3 above apply to all of the information disclosed by the Discloser to the Recipient, regardless of the way or form in which it is disclosed or recorded but they do not apply to:"
+  },
+  {
+   "id": "s16",
+   "text": "a) any information which is or in future comes into the public domain (unless as a result of the breach of this Agreement); or"
+  },
+  {
+   "id": "s17",
+   "text": "b) any information which is already known to the Recipient and which was not subject to any obligation of confidence before it was disclosed to the Recipient by the Discloser."
+  },
+  {
+   "id": "s18",
+   "text": "5. Nothing in this Agreement will prevent the Recipient from making any disclosure of the Confidential Information required by law or by any competent authority."
+  },
+  {
+   "id": "s19",
+   "text": "6. The Recipient will, on request from the Discloser, return all copies and records of the Confidential Information to the Discloser and will not retain any copies or records of the Confidential Information."
+  },
+  {
+   "id": "s20",
+   "text": "7. Neither this Agreement nor the supply of any information grants the Recipient any licence, interest or right in respect of any intellectual property rights of the Discloser except the right to copy the Confidential Information solely for the Purpose."
+  },
+  {
+   "id": "s21",
+   "text": "8. The undertakings in clauses 2 and 3 will continue in force [indefinitely.] "
+  },
+  {
+   "id": "s22",
+   "text": "[for [insert number] years from the date of this Agreement.]"
+  },
+  {
+   "id": "s23",
+   "text": "9. This Agreement is governed by, and is to be construed in accordance with, English law. "
+  },
+  {
+   "id": "s24",
+   "text": "The English Courts will have non-exclusive jurisdiction to deal with any dispute which has arisen or may arise out of, or in connection with, this Agreement."
+  },
+  {
+   "id": "s25",
+   "text": "If the Recipient is an individual"
+  },
+  {
+   "id": "s26",
+   "text": "Signed and Delivered as a Deed by:"
+  },
+  {
+   "id": "s27",
+   "text": "[name of Recipient] in the presence of:"
+  },
+  {
+   "id": "s28",
+   "text": "_____________________________"
+  },
+  {
+   "id": "s29",
+   "text": "Signature"
+  },
+  {
+   "id": "s30",
+   "text": "_____________________________"
+  },
+  {
+   "id": "s31",
+   "text": "Signature of witness"
+  },
+  {
+   "id": "s32",
+   "text": "_____________________________"
+  },
+  {
+   "id": "s33",
+   "text": "Name of witness"
+  },
+  {
+   "id": "s34",
+   "text": "_____________________________"
+  },
+  {
+   "id": "s35",
+   "text": "_____________________________"
+  },
+  {
+   "id": "s36",
+   "text": "_____________________________"
+  },
+  {
+   "id": "s37",
+   "text": "Address of witness"
+  },
+  {
+   "id": "s38",
+   "text": "If the Recipient is a company"
+  },
+  {
+   "id": "s39",
+   "text": "Executed and Delivered as a Deed by [name of Recipient] acting by [name of director], a director, in the presence of:"
+  },
+  {
+   "id": "s40",
+   "text": "_____________________________"
+  },
+  {
+   "id": "s41",
+   "text": "Signature of Director"
+  },
+  {
+   "id": "s42",
+   "text": "_____________________________"
+  },
+  {
+   "id": "s43",
+   "text": "Signature of witness"
+  },
+  {
+   "id": "s44",
+   "text": "_____________________________"
+  },
+  {
+   "id": "s45",
+   "text": "Name of witness"
+  },
+  {
+   "id": "s46",
+   "text": "_____________________________"
+  },
+  {
+   "id": "s47",
+   "text": "_____________________________"
+  },
+  {
+   "id": "s48",
+   "text": "_____________________________"
+  }
+ ]
+}

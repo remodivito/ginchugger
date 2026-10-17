@@ -1,0 +1,64 @@
+{
+  "format": "ginchugger-tool-schemas/2",
+  "note": "The four read-only store tools (decisions 190 and 191; tasks/paperless-store-plan.md task 10). One file for the agentic review, Ask, the review's MCP server and the tools listener. No tool writes. The store is flat: documents with a counterparty, a type, tags (\"signed\" among them), a date, notes and full text; there are no matters or rounds.",
+  "tools": [
+    {
+      "name": "search_documents",
+      "description": "Full-text search over every document in the store (agreements, drafts, markups and emails). Plain words or \"quoted phrases\". Up to 20 hits, best first, each with its documentId, title, counterparty, type, date, tags (signed marked) and a snippet. Filter by counterparty, type or tag.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "query": { "type": "string", "minLength": 1, "maxLength": 200 },
+          "counterparty": { "type": "string", "maxLength": 128, "description": "Only this counterparty's documents (its name as the store holds it)." },
+          "type": { "type": "string", "maxLength": 128, "description": "Only documents of this type, such as NDA or Email." },
+          "tag": { "type": "string", "maxLength": 128, "description": "Only documents with this tag, such as signed." },
+          "limit": { "type": "integer", "minimum": 1, "maximum": 20 }
+        },
+        "required": ["query"],
+        "additionalProperties": false
+      }
+    },
+    {
+      "name": "list_documents",
+      "description": "Documents in the store, newest first (by the document's date), up to 50 per call: documentId, title, counterparty, type, date, tags (signed marked) and how many notes each has. Filter by counterparty, type, tag and a date range (from, to as YYYY-MM-DD); page through with page.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "counterparty": { "type": "string", "maxLength": 128 },
+          "type": { "type": "string", "maxLength": 128 },
+          "tag": { "type": "string", "maxLength": 128 },
+          "from": { "type": "string", "maxLength": 10, "description": "Earliest date, YYYY-MM-DD." },
+          "to": { "type": "string", "maxLength": 10, "description": "Latest date, YYYY-MM-DD." },
+          "page": { "type": "integer", "minimum": 1, "maximum": 100 },
+          "limit": { "type": "integer", "minimum": 1, "maximum": 50 }
+        },
+        "additionalProperties": false
+      }
+    },
+    {
+      "name": "read_document",
+      "description": "One document's text as paragraphs (numbered from 1; where a tracked change exists, `text` is the wording with it and `originalText` the wording before it; an email gives its sender, recipients, subject and date), with its labels (counterparty, type, date, tags, signed) and notes. Up to 24,000 characters per call: name fromParagraph and toParagraph to read part of a long document; `next` says where to continue.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "documentId": { "type": "integer", "minimum": 1 },
+          "fromParagraph": { "type": "integer", "minimum": 1, "maximum": 100000 },
+          "toParagraph": { "type": "integer", "minimum": 1, "maximum": 100000 }
+        },
+        "required": ["documentId"],
+        "additionalProperties": false
+      }
+    },
+    {
+      "name": "get_counterparty_overview",
+      "description": "Every document of one counterparty, grouped by type, newest first within each type (up to 100 documents): documentId, title, date, tags and whether it is signed. Defaults to the counterparty of the document under review.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "counterparty": { "type": "string", "maxLength": 128, "description": "Another counterparty's name. Omit for the counterparty under review." }
+        },
+        "additionalProperties": false
+      }
+    }
+  ]
+}

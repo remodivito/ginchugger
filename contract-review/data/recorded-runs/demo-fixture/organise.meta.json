@@ -1,0 +1,76 @@
+{
+  "executor": "claude",
+  "model": "claude-sonnet-5-5",
+  "effort": "medium",
+  "promptSha256": "940bf0596f81e6adab0397b9e38b5eb555a105444c2dd722d8c3e2b80801c28d",
+  "userSha256": "5845dfdc62a5ff8c612e54de68e2f2acf3bb9fe19be582092d050ca04b2fd83e",
+  "userChars": 31560,
+  "usage": {
+    "input_tokens": 2,
+    "cache_creation_input_tokens": 12930,
+    "cache_read_input_tokens": 982,
+    "output_tokens": 3062,
+    "output_tokens_details": {
+      "thinking_tokens": 1115
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 12930,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "not_available",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 3062,
+        "cache_read_input_tokens": 982,
+        "cache_creation_input_tokens": 12930,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 12930
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "modelUsage": {
+    "claude-haiku-4-5-20251001": {
+      "inputTokens": 9500,
+      "outputTokens": 17,
+      "cacheReadInputTokens": 0,
+      "cacheCreationInputTokens": 0,
+      "webSearchRequests": 0,
+      "costUSD": 0.009585,
+      "contextWindow": 200000,
+      "maxOutputTokens": 32000,
+      "thinkingTokens": 0,
+      "canonicalModel": "claude-haiku-4-5",
+      "provider": "firstParty",
+      "costBasis": "list"
+    },
+    "claude-sonnet-5-5": {
+      "inputTokens": 2,
+      "outputTokens": 3062,
+      "cacheReadInputTokens": 982,
+      "cacheCreationInputTokens": 12930,
+      "webSearchRequests": 0,
+      "costUSD": 0.0825404,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 1115,
+      "canonicalModel": "claude-sonnet-5-5",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "numTurns": 1,
+  "durationMs": 27692,
+  "stopReason": "end_turn",
+  "seconds": 28.44
+}

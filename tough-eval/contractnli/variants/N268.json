@@ -1,0 +1,321 @@
+{
+ "id": "N268",
+ "revision": 1,
+ "title": "Non_Disclosure_Agreement_2.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 268,
+  "type": "search-pdf",
+  "url": "https://www.cwfletcher.co.uk/uploads/cwfletcher_sub/downloads/files/Non_Disclosure_Agreement.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "This Non-Disclosure "
+  },
+  {
+   "id": "s1",
+   "text": "Agreement (hereinafter called the “Agreement”) is made on Date of signing (hereinafter the “Effective Date”) by and between:"
+  },
+  {
+   "id": "s2",
+   "text": "CW Fletcher & Sons Ltd"
+  },
+  {
+   "id": "s3",
+   "text": "Sterling Works"
+  },
+  {
+   "id": "s4",
+   "text": "Mansfield Road"
+  },
+  {
+   "id": "s5",
+   "text": "Wales Bar"
+  },
+  {
+   "id": "s6",
+   "text": "Sheffield"
+  },
+  {
+   "id": "s7",
+   "text": "S26 5PQ"
+  },
+  {
+   "id": "s8",
+   "text": "(Hereinafter referred to as “C.W. Fletcher”)"
+  },
+  {
+   "id": "s9",
+   "text": "Represented by Name and Title."
+  },
+  {
+   "id": "s10",
+   "text": "and"
+  },
+  {
+   "id": "s11",
+   "text": "Name of Company"
+  },
+  {
+   "id": "s12",
+   "text": "Street Name"
+  },
+  {
+   "id": "s13",
+   "text": "Name of City"
+  },
+  {
+   "id": "s14",
+   "text": "Postcode"
+  },
+  {
+   "id": "s15",
+   "text": "(Hereinafter referred to as “Company Name”)"
+  },
+  {
+   "id": "s16",
+   "text": "Represented by Name and Title."
+  },
+  {
+   "id": "s17",
+   "text": "Each referred to as a “Party” collectively as “Parties”."
+  },
+  {
+   "id": "s18",
+   "text": "CWF and Company wish to explore the possibilities of a business transaction or relationship between them relating to “PLEASE WRITE HERE THE TOPIC(S) TO BE COVERED BY THIS NDA” (hereinafter the “Purpose”). "
+  },
+  {
+   "id": "s19",
+   "text": "This may require the Parties to exchange Confidential Information. "
+  },
+  {
+   "id": "s20",
+   "text": "Such disclosure of any Confidential Information is made only for use in connection with the Purpose and only on the terms of this Agreement. "
+  },
+  {
+   "id": "s21",
+   "text": "Each Party acknowledges that the other Party enters into the Agreement for the benefit of itself and each Affiliate. "
+  },
+  {
+   "id": "s22",
+   "text": "Any disclosure of Confidential Information by a Party’s Representative shall be deemed to be a disclosure by such Party for the purposes of this Agreement. "
+  },
+  {
+   "id": "s23",
+   "text": "Accordingly, in consideration of the disclosure of Confidential information by each Party to the other Party and the mutual promises of the Parties set forth in this Agreement, the Parties agree as set forth below."
+  },
+  {
+   "id": "s24",
+   "text": "DEFINITIONS"
+  },
+  {
+   "id": "s25",
+   "text": "“Confidential Information” means all confidential and proprietary information disclosed to or obtained by the Receiving Party or its Representatives from the Disclosing Party or its Representatives, including without limitation, information relating to: proprietary technology, products, proprietary plans, services, computer programs and processes; data and source code; any inventions and associated information, manuals, plans, drawings, blueprints or schematics; information relating to Mutual Non-Disclosure Agreement C.W. Fletcher & Sons Ltd"
+  },
+  {
+   "id": "s26",
+   "text": "employees and customers of the Disclosing Party; promotional and marketing information and opportunities; financial information; trade secrets; any and all information that a Receiving Party may obtain on a walk-through examination of the Disclosing Party’s and/or its clients’ premises; the existence of discussions between the Parties regarding the Purpose, or any of the terms, conditions or other facts with respect thereto (including the status of such discussions); and all information, of any nature whatsoever, disclosed by the Disclosing Party to the Receiving Party in connection with the Purpose, whether before or after the date of this Agreement. "
+  },
+  {
+   "id": "s27",
+   "text": "In each case such information may be contained in tangible materials including, but not limited to writings, drawings, models, prototypes, test specimens, production units, data specifications, reports, analysis, methods, compilations and computer programs, or may be in the nature of verbally or visually communicated intellectual knowledge."
+  },
+  {
+   "id": "s28",
+   "text": "“Affiliates” means any entity or person controlling (directly or indirectly), controlled by or under common control with a Party; control meaning direct or indirect beneficial ownership of more than 50% of the share capital, stock or other participating interest carrying the right to vote or to distribution of profits of that entity or person."
+  },
+  {
+   "id": "s29",
+   "text": "“Disclosing Party” means a Party disclosing Confidential Information including its Affiliates and Representatives."
+  },
+  {
+   "id": "s30",
+   "text": "“Receiving Party” means a Party receiving or obtaining Confidential Information, including its Affiliates and Representatives."
+  },
+  {
+   "id": "s31",
+   "text": "“Representatives” means the employees, Affiliates, agents, contractors, consultants, representatives and professional advisors of a Party."
+  },
+  {
+   "id": "s32",
+   "text": "1. In respect of all Confidential Information in whatever form acquired prior to or during the period of this Agreement by one party (the “Receiving Party”) from the other party (the “Disclosing Party”) relating to the Purpose, the Receiving Party undertakes:-"
+  },
+  {
+   "id": "s33",
+   "text": "A. Only to use the information for evaluating or preparing quotation in respect and/or evaluation of the Purpose."
+  },
+  {
+   "id": "s34",
+   "text": "B. Only to disclose the information and then only to the extent necessary to those of its employees to whom disclosure is necessary."
+  },
+  {
+   "id": "s35",
+   "text": "C. Not to disclose the Confidential Information to any third party or the fact that the Confidential Information is being exchanged, except with the expressed authorisation in writing by the Disclosing Party and is obliged to enter into an identical confidentiality agreement with the such third party."
+  },
+  {
+   "id": "s36",
+   "text": "D. Not to copy or reduce the Confidential Information to writing or store in any computer readable form except as may be reasonably necessary for the Purpose."
+  },
+  {
+   "id": "s37",
+   "text": "E. To return to the Disclosing Party on demand all information which has been supplied to or acquired by it in the form of drawings or written material or other recorded form including all copies thereof, and to delete all information stored in computer readable form, and the Receiving Party will be responsible for the fulfilment of the above obligation on the part of its employees."
+  },
+  {
+   "id": "s38",
+   "text": "Mutual Non-Disclosure "
+  },
+  {
+   "id": "s39",
+   "text": "Agreement C.W. Fletcher & Sons Ltd"
+  },
+  {
+   "id": "s40",
+   "text": "2. Paragraph 1. will not apply to any Confidential Information which:-"
+  },
+  {
+   "id": "s41",
+   "text": "A. is in or comes into the public domain otherwise than by a breach of this Agreement or"
+  },
+  {
+   "id": "s42",
+   "text": "B. the Receiving Party has in its possessions without restriction on disclosure prior to the receipt from the Disclosing Party, or"
+  },
+  {
+   "id": "s43",
+   "text": "C. The Receiving Party lawfully receives from a bona-fide third party without restriction on disclosure, or"
+  },
+  {
+   "id": "s44",
+   "text": "D. Is developed independently by the Receiving Party without any portion of the development having been based on the Confidential Information."
+  },
+  {
+   "id": "s45",
+   "text": "3. The Receiving Party may disclose Confidential Information without liability to the extent such disclosure is:"
+  },
+  {
+   "id": "s46",
+   "text": "A. required by applicable law, government authority, duly authorised subpoena or court order, in which case the Receiving Party will provide prompt written notice to the Disclosing Party (unless such notice is prohibited by applicable law) and endeavour to give the Disclosing Party an opportunity to respond prior to making the disclosure;"
+  },
+  {
+   "id": "s47",
+   "text": "B. required to be made to a court or other judicial administrative tribunal in connection with the enforcement of either Party’s rights under the Agreement; or"
+  },
+  {
+   "id": "s48",
+   "text": "C. approved in advance by Disclosing Party’s authorised representative in writing."
+  },
+  {
+   "id": "s49",
+   "text": "4. This Agreement shall not the construed as granting expressly or implied during the term of the Agreement or thereafter any rights in respect of any patent, copyright or other intellectual property right belonging to the Disclosing Party as necessary for the Purpose."
+  },
+  {
+   "id": "s50",
+   "text": "5. This Agreement shall come into force on the Effective Date and shall automatically expire and terminate 10 year(s) from the Effective Date. "
+  },
+  {
+   "id": "s51",
+   "text": "This agreement may be terminated by either Party "
+  },
+  {
+   "id": "s52",
+   "text": "(i) at any time on fifteen (15) days prior written notice to the other Party; and "
+  },
+  {
+   "id": "s53",
+   "text": "(ii) immediately upon written notice of the other Party’s breach of any term of the Agreement. "
+  },
+  {
+   "id": "s54",
+   "text": "The Agreement will continue in full force and effect until so terminated. "
+  },
+  {
+   "id": "s55",
+   "text": "Upon the termination of the Agreement or at any time upon the Disclosing Party’s written request, Receiving Party will at its expense return all confidential information or destroy the same and certify in writing as to such destruction within five (5) business days after the date of such destruction. "
+  },
+  {
+   "id": "s56",
+   "text": "The confidentiality obligations set out in this Agreement will survive expiry and/or termination of this Agreement for a period of one (1) year. "
+  },
+  {
+   "id": "s57",
+   "text": "One archival copy of the Confidential Information shall be retained by the Receiving Party for internal audit purposes only."
+  },
+  {
+   "id": "s58",
+   "text": "6. This Agreement supersedes all prior written or oral negotiations, commitments, agreement and understandings between the Parties relating to confidentiality and constitutes the entire agreement between the Parties with respect to confidentiality. "
+  },
+  {
+   "id": "s59",
+   "text": "The Agreement will not be deemed or construed to be modified, amended, rescinded, cancelled or waived, in whole or in part, except by a writing signed by the Parties’ authorised representatives."
+  },
+  {
+   "id": "s60",
+   "text": "7. The Disclosing Party makes no representation or warranty that the confidential Information does not infringe any intellectual property right of any third party. "
+  },
+  {
+   "id": "s61",
+   "text": "The Confidential Information disclosed hereunder is provided “as is” and without any warranty, express, implied or statutory."
+  },
+  {
+   "id": "s62",
+   "text": "8. The Parties will comply with all applicable laws in the use of the Confidential Information and performance of this Agreement, including without limitation the EU, UK and U.S. export control and trading sanctions rules and regulations."
+  },
+  {
+   "id": "s63",
+   "text": "9. The Parties agree that breach of this Agreement may result in a Party suffering irreparable harm from the unauthorised use or disclosure of the Confidential Information and may not have an adequate remedy in money or damages. "
+  },
+  {
+   "id": "s64",
+   "text": "Accordingly, the Parties will be entitled to seek injunctive relief, and any other relief permitted by applicable law, from any court of competent jurisdiction to enforce its rights under this agreement. "
+  },
+  {
+   "id": "s65",
+   "text": "Failure or delay by a Party to enforce any right, power, or privilege created in this Agreement will not operate as an implied waiver thereof, nor will any single or partial enforcement preclude any other or further enforcement of any other right, power or privilege."
+  },
+  {
+   "id": "s66",
+   "text": "10. This agreement shall be governed by and interpreted in accordance with the laws of England and the Parties agree to submit to the exclusive jurisdiction of the English Courts for any and all disputes, claims and indifference arising out of, or in connection with this Agreement."
+  },
+  {
+   "id": "s67",
+   "text": "IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed by the authorised representative as of the Effective Date,"
+  },
+  {
+   "id": "s68",
+   "text": "C.W.Fletcher & Sons Ltd Company entering NDA with"
+  },
+  {
+   "id": "s69",
+   "text": "Signature……………………………. "
+  },
+  {
+   "id": "s70",
+   "text": "Signature………………………………"
+  },
+  {
+   "id": "s71",
+   "text": "Name: Name:"
+  },
+  {
+   "id": "s72",
+   "text": "Title: Title:"
+  },
+  {
+   "id": "s73",
+   "text": "Signature…………………………… "
+  },
+  {
+   "id": "s74",
+   "text": "Signature……………………………"
+  },
+  {
+   "id": "s75",
+   "text": "Name: Name:"
+  },
+  {
+   "id": "s76",
+   "text": "Title: Title:"
+  }
+ ]
+}

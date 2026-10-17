@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-29T17:30:19.327953+00:00",
+  "title": "Design System: GinChugger",
+  "extensions": {
+    "shadows": [
+      {
+        "name": "paper",
+        "value": "0 2px 9px #2335260d",
+        "purpose": "Document sheet"
+      },
+      {
+        "name": "dialog",
+        "value": "0 12px 55px #0e211633",
+        "purpose": "Modal edit surface"
+      }
+    ],
+    "motion": [
+      {
+        "name": "spinner",
+        "value": "spin .8s linear infinite",
+        "purpose": "Pending operation; disabled for reduced motion"
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide",
+        "value": "1500px"
+      },
+      {
+        "name": "compact-desktop",
+        "value": "1050px"
+      },
+      {
+        "name": "mobile",
+        "value": "760px"
+      }
+    ],
+    "focus": {
+      "outline": "2px solid var(--green)",
+      "outlineOffset": "3px"
+    },
+    "provenance": "Extracted from src/style.css and src/main.jsx; no UI changes. DM Sans and Newsreader are bundled through @fontsource imports; system fallbacks remain available."
+  },
+  "components": [
+    {
+      "name": "Primary action",
+      "kind": "button",
+      "html": "<button class=\"ds-primary\">Review against playbook</button>",
+      "css": ".ds-primary{background:var(--green,#205b49);color:white;border:1px solid var(--green,#205b49);padding:8px 11px;border-radius:6px;font:550 14px/1.35 sans-serif}.ds-primary:hover{background:#164634}.ds-primary:focus-visible{outline:2px solid var(--green,#205b49);outline-offset:3px}",
+      "refersTo": "button-primary"
+    },
+    {
+      "name": "Secondary action",
+      "kind": "button",
+      "html": "<button class=\"ds-secondary\">Open DOCX</button>",
+      "css": ".ds-secondary{background:white;color:var(--ink,#25322f);border:1px solid var(--line,#dde2dc);border-radius:6px;padding:8px 11px;font:14px/1.35 sans-serif}.ds-secondary:hover{background:#edf1ec;border-color:#bdc9be}.ds-secondary:focus-visible{outline:2px solid var(--green,#205b49);outline-offset:3px}"
+    },
+    {
+      "name": "Guidance field",
+      "kind": "input",
+      "html": "<label class=\"ds-field\">Reusable position<textarea placeholder=\"Write explicit guidance\"></textarea></label>",
+      "css": ".ds-field{display:flex;flex-direction:column;gap:7px;font:11px sans-serif}.ds-field textarea{border:1px solid #b9c5bd;background:white;border-radius:5px;padding:9px;font:12px/1.6 sans-serif;color:var(--ink,#25322f)}.ds-field textarea:focus-visible{outline:2px solid var(--green,#205b49);outline-offset:3px}"
+    },
+    {
+      "name": "Review tabs",
+      "kind": "nav",
+      "html": "<nav class=\"ds-tabs\"><button aria-current=\"page\">Review</button><button>Ask about this</button><button>Playbook</button></nav>",
+      "css": ".ds-tabs{display:flex;gap:15px;border-bottom:1px solid var(--line,#dde2dc)}.ds-tabs button{background:transparent;border:0;border-bottom:2px solid transparent;padding:12px 1px;font:12px sans-serif;color:var(--muted,#65716b)}.ds-tabs button[aria-current]{border-bottom-color:var(--green,#205b49);color:var(--green,#205b49);font-weight:600}.ds-tabs button:hover{background:#edf1ec}.ds-tabs button:focus-visible{outline:2px solid var(--green,#205b49);outline-offset:3px}"
+    },
+    {
+      "name": "Attention filter",
+      "kind": "chip",
+      "html": "<button class=\"ds-filter\">Needs a look</button>",
+      "css": ".ds-filter{font:10px sans-serif;border:0;padding:5px 7px;color:var(--green,#205b49);background:#e7eee5;border-radius:4px}.ds-filter:hover{background:#edf1ec}.ds-filter:focus-visible{outline:2px solid var(--green,#205b49);outline-offset:3px}"
+    },
+    {
+      "name": "Evidence passage",
+      "kind": "custom",
+      "html": "<button class=\"ds-evidence\">\u201cGeneral confidentiality obligations continue for 7 years after termination.\u201d</button>",
+      "css": ".ds-evidence{width:100%;font:11px/1.7 Georgia,serif;border:0;border-left:1px solid #b6c9ac;background:#f0f4e9;text-align:left;padding:10px;color:#465b3d}.ds-evidence:hover{background:#edf1ec}.ds-evidence:focus-visible{outline:2px solid var(--green,#205b49);outline-offset:3px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The agreement and its margin",
+    "overview": "Operate mode preserves the agreement as the primary reading surface and keeps assistance close to its evidence. The existing interface is restrained, compact and document-led. This record describes current source code, not a proposed visual redesign or a screenshot reconstruction.",
+    "keyCharacteristics": [
+      "Paper-like agreement surface beside a structured review pane.",
+      "Quiet green actions, amber attention and explicit text labels.",
+      "Source wording and saved guidance remain visually distinct."
+    ],
+    "dos": [
+      "Keep source wording visible while inspecting a finding.",
+      "Use text and icons alongside semantic colors.",
+      "Preserve explicit mode, scope and stale-review indicators."
+    ],
+    "donts": [
+      "Turn a guidance match into a contract-approval indicator.",
+      "Replace exact evidence with decorative summary cards.",
+      "Hide the current agreement behind a chat-first workflow."
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+ "canary": "2eb20c99-e785-485c-b97c-b5e8d177c40a",
+ "format": "layer-c-judgement/1",
+ "output": "smoke-golden",
+ "task": "redline-s3-t4-g02a",
+ "criterion": "C-s3-04",
+ "kind": "change",
+ "judge": "deepseek",
+ "family": "deepseek",
+ "executor": "openai",
+ "model": "deepseek-ai/deepseek-v4-flash",
+ "servedModel": null,
+ "effort": "provider default",
+ "maxOutputTokens": 64000,
+ "promptFile": "tough-eval/v2/layer-c/prompts/judge-c.md",
+ "promptSha256": "26e25c058dbc97265fab8072a182c1adb1a9f5c9d8fa7e5a874123c674c0ad48",
+ "userSha256": "436832edc5eba00c69848ac90d890ea9dbacef39a5801edf2ebf2ead38d55d5e",
+ "renderedSha256": "f62b98846233365786af90027eabfecb1c65491fb04dc1c1167f26a41e689453",
+ "at": "2026-10-15T22:29:28.585Z",
+ "seconds": 14.32,
+ "ok": true,
+ "pass": true,
+ "reason": "Pass: the proposed change for paragraph p-087 deletes the inserted '(collectively the “Services)' as required.",
+ "finishReason": "stop",
+ "usage": {
+  "prompt_tokens": 21826,
+  "total_tokens": 24381,
+  "completion_tokens": 2555,
+  "prompt_tokens_details": {
+   "cached_tokens": 256,
+   "created_cache_tokens": 21248
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 2519
+  }
+ },
+ "costUsd": null,
+ "attempts": [
+  {
+   "ok": true
+  }
+ ],
+ "raw": "{\"pass\": true, \"reason\": \"Pass: the proposed change for paragraph p-087 deletes the inserted '(collectively the “Services)' as required.\"}"
+}

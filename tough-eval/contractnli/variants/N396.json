@@ -1,0 +1,205 @@
+{
+ "id": "N396",
+ "revision": 1,
+ "title": "87814_0000930661-96-001456_document_4.txt",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 396,
+  "type": "sec-text",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000087814/000093066196001456/0000930661-96-001456.txt"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "VOLUMETRIC "
+  },
+  {
+   "id": "s1",
+   "text": "TOMOGRAPHY CONSORTIUM"
+  },
+  {
+   "id": "s2",
+   "text": "NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s3",
+   "text": "This Agreement, effective as of ____________, 199_, is by and between GENERAL MOTORS CORPORATION, having a place of business at "
+  },
+  {
+   "id": "s4",
+   "text": "_______________, Michigan (\"GM\"), and _______________________________, having a place of business at "
+  },
+  {
+   "id": "s5",
+   "text": "______________________ (\"Other Participant\")."
+  },
+  {
+   "id": "s6",
+   "text": "RECITALS:"
+  },
+  {
+   "id": "s7",
+   "text": "A. GM and Other Participant, together with others, are partial to a Collaboration Agreement under which they will conduct joint research on a Volumetric Computed Tomography System for characterizing critical objects three dimensionally in automotive applications (the \"Project\") in conjunction with the National Institute of Standards and Technology's ATP Program."
+  },
+  {
+   "id": "s8",
+   "text": "B. In connection with their specific work on the Project described in Task ______ of the Statement of Work for the Project, each (\"Discloser\") of GM and Other Participant desires to share with the other (\"Recipient\") certain specific Proprietary Information of the Discloser which the Recipient desires to receive and use in confidence for the specific purpose (\"Purpose\") of performing Recipient's work on the Project."
+  },
+  {
+   "id": "s9",
+   "text": "C. The specific type of Proprietary Information to be disclosed by GM is as follows: "
+  },
+  {
+   "id": "s10",
+   "text": "____________________________________________________________________, and the Specific type of Proprietary Information to be disclosed by Other Participant is as follows: "
+  },
+  {
+   "id": "s11",
+   "text": "____________________________________________________."
+  },
+  {
+   "id": "s12",
+   "text": "D. Unless extended by the mutual written agreement of the parties, all disclosures pursuant to this Agreement shall be me during the period of ______, 199_ to _______, 199_."
+  },
+  {
+   "id": "s13",
+   "text": "NOW, THEREFORE, GM and Other Participant agree as follows:"
+  },
+  {
+   "id": "s14",
+   "text": "1. As used herein, the term \"Proprietary Information\" means trade secrets or confidential commercial, technical and/or financial information of the Discloser whether developed outside of the Project or in connection with the Project, except information which the Recipient can show:"
+  },
+  {
+   "id": "s15",
+   "text": "(a) was in the public domain prior to the Recipient's receipt of the same hereunder, or which subsequently becomes part of the public domain (by publication or otherwise) other than by the wrongful act of the Recipient; or"
+  },
+  {
+   "id": "s16",
+   "text": "(b) was developed by the Recipient and in the Recipient's possession prior to the Recipient's receipt of the same from said Discloser hereunder; or"
+  },
+  {
+   "id": "s17",
+   "text": "(c) was rightfully received by the Recipient from a third person who did not acquire the same directly or indirectly from said Discloser, and who did not require or no longer requires the Recipient to hold the same in confidence; or"
+  },
+  {
+   "id": "s18",
+   "text": "(d) is independently developed by or for the Recipient by someone who had no access to the proprietary information received from said Discloser hereunder;"
+  },
+  {
+   "id": "s19",
+   "text": "it being understood that specific information received hereunder shall not be deemed to be within any of the above exceptions merely because the same is embraced by more general information within one of said exceptions, nor shall any combination of features be considered within any of said exceptions merely because the individual features, separately considered, are within said exceptions."
+  },
+  {
+   "id": "s20",
+   "text": "2. With respect to all Discloser's Proprietary Information which is initially disclosed in writing marked \"[DISCLOSER'S NAME] PROPRIETARY\" or which, if initially orally disclosed and identified as proprietary, is confirmed to Recipient in such a writing within ten [10]] business days after its initial disclosure hereunder, Recipient agrees that "
+  },
+  {
+   "id": "s21",
+   "text": "(a) Recipient will use reasonable efforts (which shall be not less than the same degree of care as Recipient uses with respect to its own Proprietary Information) to prevent the disclosure of the same to third persons, and "
+  },
+  {
+   "id": "s22",
+   "text": "(b) Recipient will use the same exclusively for the Purpose, unless and until Discloser authorizes any other disclosure or use in writing. "
+  },
+  {
+   "id": "s23",
+   "text": "Further, Recipient will only disclose Proprietary Information within its company to those of its employees who have a need to know the sane for the Purpose, and who have agreed to be bound by the use and disclosure restrictions contained herein."
+  },
+  {
+   "id": "s24",
+   "text": "3. Each Recipient's obligations under this Agreement with respect to a particular increment of the Discloser's Proprietary Information shall continue for a period which is either "
+  },
+  {
+   "id": "s25",
+   "text": "(a) _____ [__] years after Recipient's initial receipt of said increment hereunder, or "
+  },
+  {
+   "id": "s26",
+   "text": "(b) _____ [__] years after the completion or other termination of the Project, whichever of "
+  },
+  {
+   "id": "s27",
+   "text": "(a) or "
+  },
+  {
+   "id": "s28",
+   "text": "(b) is longer."
+  },
+  {
+   "id": "s29",
+   "text": "4. Nothing in this Agreement shall be construed to prohibit or restrict Recipient's use or disclosure of information received from a third party who Recipient reasonably believes did not receive such information (directly or indirectly) from Discloser."
+  },
+  {
+   "id": "s30",
+   "text": "5. This Agreement shall be governed by and interpreted in accordance with the laws of New York, not including any conflicts of law rules which may direct the application of the laws of any other jurisdiction."
+  },
+  {
+   "id": "s31",
+   "text": "IN WITNESS WHEREOF, each of GM and the Other Participant have caused this Agreement to be executed by its duly authorized representative."
+  },
+  {
+   "id": "s32",
+   "text": "GENERAL MOTORS CORPORATION [OTHER PARTICIPANT]"
+  },
+  {
+   "id": "s33",
+   "text": "By: /s/ THOMAS G. STEPHENS "
+  },
+  {
+   "id": "s34",
+   "text": "By:"
+  },
+  {
+   "id": "s35",
+   "text": "---------------------------- "
+  },
+  {
+   "id": "s36",
+   "text": "----------------------------"
+  },
+  {
+   "id": "s37",
+   "text": "Name: Thomas G. Stephens Name:"
+  },
+  {
+   "id": "s38",
+   "text": "---------------------------- "
+  },
+  {
+   "id": "s39",
+   "text": "----------------------------"
+  },
+  {
+   "id": "s40",
+   "text": "Title: Vice President Title:"
+  },
+  {
+   "id": "s41",
+   "text": "---------------------------- "
+  },
+  {
+   "id": "s42",
+   "text": "----------------------------"
+  },
+  {
+   "id": "s43",
+   "text": "Date: 11/29/95 "
+  },
+  {
+   "id": "s44",
+   "text": "Date:"
+  },
+  {
+   "id": "s45",
+   "text": "---------------------------- "
+  },
+  {
+   "id": "s46",
+   "text": "----------------------------"
+  },
+  {
+   "id": "s47",
+   "text": "-32-"
+  }
+ ]
+}

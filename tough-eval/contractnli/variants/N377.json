@@ -1,0 +1,245 @@
+{
+ "id": "N377",
+ "revision": 1,
+ "title": "ttp-nda.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 377,
+  "type": "search-pdf",
+  "url": "https://www.thettp.org/system/files/non-nda/documents/non-disclosure-agreement/ttp-nda.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "TTP Non-Disclosure "
+  },
+  {
+   "id": "s1",
+   "text": "Agreement"
+  },
+  {
+   "id": "s2",
+   "text": "1. Purpose. "
+  },
+  {
+   "id": "s3",
+   "text": "Technology Transfer Partners (“TTP”) is a group of Micro Focus network administrators and network architects working in school, college, university or government settings. "
+  },
+  {
+   "id": "s4",
+   "text": "This group meets and shares ideas and experiences, and recommendations about network environments. "
+  },
+  {
+   "id": "s5",
+   "text": "The purpose of this Non-Disclosure Agreement (“Agreement”) is to protect Confidential Information shared by the parties or by other members of the TTP group in the TTP mailing list or TTP meetings."
+  },
+  {
+   "id": "s6",
+   "text": "Micro Focus Software Inc. (\"Micro Focus\") and the \"Individual\" identified below agree to the following provisions. "
+  },
+  {
+   "id": "s7",
+   "text": "The terms “Discloser” and “Recipient” as used herein apply to both parties to this Agreement in their respective roles as discloser of Confidential Information and recipient of Confidential Information."
+  },
+  {
+   "id": "s8",
+   "text": "2. Confidential Information. "
+  },
+  {
+   "id": "s9",
+   "text": "Information that shall be considered \"Confidential Information\" shall be "
+  },
+  {
+   "id": "s10",
+   "text": "(i) any Information disclosed by Micro Focus, Individual, or another TTP member on the TTP mailing list or during a TTP meeting that contains information regarding the Discloser’s network or business environment or experiences, or information regarding the business plans or personnel or finances of the Discloser, "
+  },
+  {
+   "id": "s11",
+   "text": "(ii) any information Discloser can show should be reasonably understood to be proprietary to Discloser, and "
+  },
+  {
+   "id": "s12",
+   "text": "(iii) information marked in writing as \"confidential.\""
+  },
+  {
+   "id": "s13",
+   "text": "Confidential Information does not include information that "
+  },
+  {
+   "id": "s14",
+   "text": "(1) is already in Recipient’s possession without obligation of confidence; or "
+  },
+  {
+   "id": "s15",
+   "text": "(2) Recipient independently develops; or "
+  },
+  {
+   "id": "s16",
+   "text": "(3) is or becomes publicly available without breach of the Agreement; or "
+  },
+  {
+   "id": "s17",
+   "text": "(4) Recipient rightfully receives from a third party without obligation of confidence; or "
+  },
+  {
+   "id": "s18",
+   "text": "(5) Discloser releases for disclosure by giving written consent; or "
+  },
+  {
+   "id": "s19",
+   "text": "(6) is required to be disclosed by court or regulatory rule or order."
+  },
+  {
+   "id": "s20",
+   "text": "3. Permissible Use. "
+  },
+  {
+   "id": "s21",
+   "text": "Recipient may use and disclose the Confidential Information among its internal information technology and management staff for its own internal business purposes. "
+  },
+  {
+   "id": "s22",
+   "text": "Either party may also disclose on the TTP mailing list Confidential Information previously received on the TTP mailing list or during TTP meetings. "
+  },
+  {
+   "id": "s23",
+   "text": "Micro Focus may post for use of the TTP program a list of the organizations and individuals that have signed a Micro Focus TTP Non-disclosure Agreement."
+  },
+  {
+   "id": "s24",
+   "text": "4. Obligation of Confidentiality. "
+  },
+  {
+   "id": "s25",
+   "text": "For a period of 3 years from the date of disclosure, Recipient agrees to use the same care and discretion as it uses with its own confidential information to avoid, except as expressly permitted in this Agreement, disclosure or publication of Discloser’s Confidential Information. "
+  },
+  {
+   "id": "s26",
+   "text": "At a minimum shall Recipient use reasonable care to protect Confidential Information."
+  },
+  {
+   "id": "s27",
+   "text": "5. Ownership. "
+  },
+  {
+   "id": "s28",
+   "text": "All Confidential Information remains the property of the Discloser and/or its licensors."
+  },
+  {
+   "id": "s29",
+   "text": "6. Freedom of Use. "
+  },
+  {
+   "id": "s30",
+   "text": "Recipient shall be free to use for any purposes Residuals resulting from access to or work with Discloser’s Confidential Information. "
+  },
+  {
+   "id": "s31",
+   "text": "However, the foregoing does not give Recipient the right to disclose the financial, statistical, or personnel information or the business plans of Discloser, and shall not be deemed to grant to either party a license under the other party’s copyrights or patents. "
+  },
+  {
+   "id": "s32",
+   "text": "The term \"Residuals\" means information which may be retained in non-tangible form by persons who have had access to the Confidential Information, including without limitation general ideas, concepts, know-how or techniques contained therein. "
+  },
+  {
+   "id": "s33",
+   "text": "Neither party shall have any obligation to limit or restrict the assignment or reassignment of personnel."
+  },
+  {
+   "id": "s34",
+   "text": "Except as otherwise provided in this Agreement, the parties acknowledge that the communications hereunder will not serve to impair the right of either party to independently develop, make, use, procure or market products or services now or in the future that may be similar to or competitive with those offered by Discloser, nor require Recipient to disclose any planning or other information to Discloser. "
+  },
+  {
+   "id": "s35",
+   "text": "This Section shall survive termination of this Agreement."
+  },
+  {
+   "id": "s36",
+   "text": "7. Termination. "
+  },
+  {
+   "id": "s37",
+   "text": "This Agreement shall begin on the date it is executed and shall extend until that date which is six (6) months after the date on which Individual ceases to be a participant in TTP. "
+  },
+  {
+   "id": "s38",
+   "text": "Either party may terminate this Agreement for its convenience upon written notice to the other. "
+  },
+  {
+   "id": "s39",
+   "text": "Upon termination of this Agreement, or earlier upon Discloser’s request, Recipient shall promptly return or destroy all documents and tangible items in its possession which contain any part of the Confidential Information of Discloser. "
+  },
+  {
+   "id": "s40",
+   "text": "Upon Agreement termination, all obligations of confidentiality shall survive and continue to bind Recipient in accordance with their terms."
+  },
+  {
+   "id": "s41",
+   "text": "8. Disclaimer. "
+  },
+  {
+   "id": "s42",
+   "text": "All Confidential Information is provided AS IS, WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED. "
+  },
+  {
+   "id": "s43",
+   "text": "Discloser does not represent or warrant the accuracy or completeness of the Confidential Information, that it will release any related product, or that target dates will be met. "
+  },
+  {
+   "id": "s44",
+   "text": "The entire risk arising out of the use of the Confidential Information remains with Recipient. "
+  },
+  {
+   "id": "s45",
+   "text": "Discloser may change or cancel its plans at any time."
+  },
+  {
+   "id": "s46",
+   "text": "9. Limitation of Liability. "
+  },
+  {
+   "id": "s47",
+   "text": "IN NO EVENT SHALL DISCLOSER BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING WITHOUT LIMITATION DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, OR OTHER PECUNIARY LOSS) "
+  },
+  {
+   "id": "s48",
+   "text": "ARISING OUT OF RECIPIENT'S USE OF OR INABILITY TO USE THE CONFIDENTIAL INFORMATION."
+  },
+  {
+   "id": "s49",
+   "text": "10. General."
+  },
+  {
+   "id": "s50",
+   "text": "a. This Agreement shall be governed and construed in accordance with the laws of Utah (without regard to conflicts of laws provisions). "
+  },
+  {
+   "id": "s51",
+   "text": "In any legal proceeding arising out of this Agreement, the prevailing party shall be entitled to an award of its costs and reasonable attorneys' fees. "
+  },
+  {
+   "id": "s52",
+   "text": "The parties agree that Utah state and federal courts shall have jurisdiction and venue in any such proceeding."
+  },
+  {
+   "id": "s53",
+   "text": "b. Export Constraints. "
+  },
+  {
+   "id": "s54",
+   "text": "Recipient shall follow U.S. Export Administration laws and regulations and shall not export or re-export any technical data or products received from Discloser or the direct product of such technical data to any proscribed country listed in the U.S. Export Administration regulations unless properly authorized by the U.S. government."
+  },
+  {
+   "id": "s55",
+   "text": "c. Neither party may assign its rights or delegate its duties or obligations under this Agreement without prior written consent, which shall not be unreasonably withheld. "
+  },
+  {
+   "id": "s56",
+   "text": "The parties acknowledge that they have read this Agreement, understand it, and agree to be bound by the terms and conditions. "
+  },
+  {
+   "id": "s57",
+   "text": "Further, they agree that the complete and exclusive statement of the agreement between the parties relating to this subject shall consist of this Agreement."
+  }
+ ]
+}

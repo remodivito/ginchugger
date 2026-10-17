@@ -1,0 +1,245 @@
+{
+ "id": "N143",
+ "revision": 1,
+ "title": "MelbourneDatathon2017NDA.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 143,
+  "type": "search-pdf",
+  "url": "http://www.datasciencemelbourne.com/datathon/wp-content/uploads/2014/12/MelbourneDatathon2017NDA.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "NON DISCLOSURE AGREEMENT (NDA)"
+  },
+  {
+   "id": "s1",
+   "text": "Parties"
+  },
+  {
+   "id": "s2",
+   "text": "1 NOSTRADATA Limited (ACN 139 103 656) of 1/1-9 Derrick St, Kew VIC 3101 (\"NOSTRADATA\");and"
+  },
+  {
+   "id": "s3",
+   "text": "2 "
+  },
+  {
+   "id": "s4",
+   "text": "The person signing this agreement (\"the Confidant\")."
+  },
+  {
+   "id": "s5",
+   "text": "Background"
+  },
+  {
+   "id": "s6",
+   "text": "NostraData intends to provide the Confidant with transactional data for the purposes of the 2017 Melbourne Datathon to be held between April 13th and June 2nd 2017 (Datathon)."
+  },
+  {
+   "id": "s7",
+   "text": "NostraData is willing to disclose Confidential Information (as defined below) for the sole purpose of the Datathon. "
+  },
+  {
+   "id": "s8",
+   "text": "This deed sets out how this Confidential Information must be treated by the Confidant."
+  },
+  {
+   "id": "s9",
+   "text": "THIS DEED WITNESSES"
+  },
+  {
+   "id": "s10",
+   "text": "1 Confidential information"
+  },
+  {
+   "id": "s11",
+   "text": "In this deed, the term Confidential Information means any and all information disclosed by NostraData to the Confidant in any form (including verbally, electronically, visually, in writing or in any other tangible form, and all copies of any such information), which is identified as, notified as being, or which would be reasonably expected to be, confidential or proprietary to NostraData."
+  },
+  {
+   "id": "s12",
+   "text": "Confidential Information includes any data, software, software documentation, source code, documentation for functional specifications, development guidelines, inventions, training materials, third party confidential information, and any information about NostraData which is disclosed to the Confidant in connection with the Datathon."
+  },
+  {
+   "id": "s13",
+   "text": "2 Use of Confidential Information"
+  },
+  {
+   "id": "s14",
+   "text": "The Confidant may only use Confidential Information disclosed to it under this deed for the sole purpose of the Datathon and must use Confidential Information strictly in accordance with NostraData’s directions and otherwise in accordance with this deed."
+  },
+  {
+   "id": "s15",
+   "text": "3 Disclosure of Confidential Information"
+  },
+  {
+   "id": "s16",
+   "text": "The Confidant must not disclose any Confidential Information to any third party without the express and prior written consent of NostraData. "
+  },
+  {
+   "id": "s17",
+   "text": "The Confidant must take all reasonable precautions to avoid unauthorised disclosure and protect against unauthorised use of the Confidential Information, such precautions to be at least as stringent as those used by the Confidant for the protection of the Confidant’s own confidential information and always in accordance with the Privacy Act 1988. "
+  },
+  {
+   "id": "s18",
+   "text": "The Confidant must not store the Confidential Information on a public web server."
+  },
+  {
+   "id": "s19",
+   "text": "4 Disclosure required by law"
+  },
+  {
+   "id": "s20",
+   "text": "If the Confidant is required by law to disclose any Confidential Information to a third person, the Confidant must:"
+  },
+  {
+   "id": "s21",
+   "text": "(a) before doing so:"
+  },
+  {
+   "id": "s22",
+   "text": "(i) notify Nostra"
+  },
+  {
+   "id": "s23",
+   "text": "Data; and"
+  },
+  {
+   "id": "s24",
+   "text": "(ii) give Nostra"
+  },
+  {
+   "id": "s25",
+   "text": "Data a reasonable opportunity to take any steps that NostraData considers necessary to protect the confidentiality of that information; and"
+  },
+  {
+   "id": "s26",
+   "text": "(b) notify the third person that the information is the Confidential Information of NostraData."
+  },
+  {
+   "id": "s27",
+   "text": "5 "
+  },
+  {
+   "id": "s28",
+   "text": "Reverse engineering, decompilation and re-identification"
+  },
+  {
+   "id": "s29",
+   "text": "The Confidant must not reverse engineer or decompile any software included in any Confidential Information, or make any unauthorised copies of any Confidential Information. "
+  },
+  {
+   "id": "s30",
+   "text": "The Confidant must not attempt to re-identify any personal information that has been de-identified in the Confidential Information."
+  },
+  {
+   "id": "s31",
+   "text": "6 Indemnity"
+  },
+  {
+   "id": "s32",
+   "text": "As the disclosure of the Confidential Information may cause irreparable harm to the business of NostraData, the Confidant hereby undertakes to indemnify, and to keep indemnified, NostraData against all claims, losses or liabilities (including in particular damages, reasonable legal and professional costs, penalties and expenses) which may be suffered or incurred by NostraData arising out of or in connection with a breach of this deed by the Confidant."
+  },
+  {
+   "id": "s33",
+   "text": "7 Acknowledgement"
+  },
+  {
+   "id": "s34",
+   "text": "Notwithstanding clause 6, the Confidant acknowledges that it is aware that any breach of this deed may result in damage to NostraData and that NostraData is entitled to enforce its rights by seeking specific performance or injunction proceedings, as monetary damages may not be sufficient relief."
+  },
+  {
+   "id": "s35",
+   "text": "8 Rights in Confidential Information"
+  },
+  {
+   "id": "s36",
+   "text": "The Confidant acknowledges that it has no proprietary rights, title or interest in, and will not acquire any licence, rights, title or interest in, any Confidential Information or other information disclosed by NostraData to the Confidant."
+  },
+  {
+   "id": "s37",
+   "text": "9 Return of Confidential Information"
+  },
+  {
+   "id": "s38",
+   "text": "Following any request by NostraData, the Confidant must immediately provide to NostraData all Confidential Information and certify that no Confidential Information is retained by the Confidant. "
+  },
+  {
+   "id": "s39",
+   "text": "The obligation to return Confidential Information includes the obligation to return any and all Confidential Information in physical, electronic or other tangible form."
+  },
+  {
+   "id": "s40",
+   "text": "10 Deletion of data at the conclusion of the Datathon"
+  },
+  {
+   "id": "s41",
+   "text": "At the conclusion of the Datathon the Confidant must permanently delete all data provided by NostraData. "
+  },
+  {
+   "id": "s42",
+   "text": "The data may be retained if NostraData makes specific requests for further demonstrations."
+  },
+  {
+   "id": "s43",
+   "text": "11 Intellectual Property"
+  },
+  {
+   "id": "s44",
+   "text": "Any source code developed by the Confidant for the purpose of the Datathon will remain the intellectual property of the Confidant. "
+  },
+  {
+   "id": "s45",
+   "text": "It is not required to submit source code to be eligible to participate in the Datathon."
+  },
+  {
+   "id": "s46",
+   "text": "By making a submission at the conclusion of the Datathon, consisting of a deck of slides presenting the Confidant's insights extracted from the Confidential Information, the Confidant grants the Datathon organisers and NostraData an irrevocable, non-exclusive, royalty-free and perpetual right to use, modify, distribute to the public, and publicly display the content of the submission"
+  },
+  {
+   "id": "s47",
+   "text": "12 General"
+  },
+  {
+   "id": "s48",
+   "text": "(a) This deed is governed by the laws of the State of Victoria, Australia."
+  },
+  {
+   "id": "s49",
+   "text": "(b) This deed constitutes the entire agreement between the parties and supersedes all prior understandings and agreements concerning its subject matter."
+  },
+  {
+   "id": "s50",
+   "text": "(c) The words “includes” and “including” are not words of limitation"
+  },
+  {
+   "id": "s51",
+   "text": "Signed by the Confidant"
+  },
+  {
+   "id": "s52",
+   "text": "The information below may be collected separately during the registration process of the Datathon."
+  },
+  {
+   "id": "s53",
+   "text": "Full name ……………………………………………………………………………………………………………………"
+  },
+  {
+   "id": "s54",
+   "text": "Address ……………………………………………………………………………………………………………………"
+  },
+  {
+   "id": "s55",
+   "text": "Occupation and employer (if applicable) …………………………………………………………………………………….."
+  },
+  {
+   "id": "s56",
+   "text": "Date ……………………………………………………………………………………………………………………"
+  },
+  {
+   "id": "s57",
+   "text": "Signature ……………………………………………………………………………………………………………………"
+  }
+ ]
+}

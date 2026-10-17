@@ -1,0 +1,77 @@
+{
+  "description": "Hand-written ground truth for the order-form fixture. Item keys are filenames. Fictional parties; original text written for this prototype.",
+  "matters": {
+    "helix-northgate-order-form": {
+      "parties": [
+        "Helix Instruments Ltd",
+        "Northgate Biosciences Ltd"
+      ],
+      "items": [
+        "helix-northgate-order-form-v1.docx",
+        "helix-northgate-order-form-v2-customer-markup.docx",
+        "2026-06-04-northgate-returns-order-form.eml"
+      ]
+    }
+  },
+  "order": [
+    "helix-northgate-order-form-v1.docx",
+    "helix-northgate-order-form-v2-customer-markup.docx"
+  ],
+  "baselineOf": {
+    "helix-northgate-order-form-v2-customer-markup.docx": "helix-northgate-order-form-v1.docx"
+  },
+  "emailLinks": [
+    {
+      "email": "2026-06-04-northgate-returns-order-form.eml",
+      "document": "helix-northgate-order-form-v2-customer-markup.docx",
+      "relation": "carries"
+    }
+  ],
+  "playbook": {
+    "helix-northgate-order-form-v1.docx": "order-form",
+    "helix-northgate-order-form-v2-customer-markup.docx": "order-form"
+  },
+  "changes": {
+    "v2": [
+      {
+        "clause": "1. Subscription",
+        "paragraph": "p6",
+        "what": "licence extended to the Customer's Affiliates",
+        "playbook": null,
+        "note": "not covered by the order-form playbook"
+      },
+      {
+        "clause": "4. Price changes",
+        "paragraph": "p9",
+        "what": "price fixed for the first term and first renewal; cap 5% → 3%",
+        "playbook": "PRI-01",
+        "note": "neighbours clause 5"
+      },
+      {
+        "clause": "5. Payment",
+        "paragraph": "p10",
+        "what": "payment period 30 → 90 days",
+        "playbook": "PAY-01",
+        "note": "neighbours clause 4"
+      },
+      {
+        "clause": "6. Termination",
+        "paragraph": "p11",
+        "what": "customer termination for convenience on 30 days' notice, with refund of prepaid fees",
+        "playbook": "TFC-01"
+      },
+      {
+        "clause": "9. Entire agreement",
+        "paragraph": "p14",
+        "what": "customer purchasing terms made to prevail over the order form",
+        "playbook": "PRE-01"
+      }
+    ]
+  },
+  "sha256": {
+    "helix-northgate-order-form-v1.docx": "e5008556aa289ab54642e6a367c6c76f99543faac38daa320695455fbe0fbd0c",
+    "helix-northgate-order-form-v2-customer-markup.docx": "0e533b448fec59d414b859c49c73fe4051ce59664cef10d543ff31088b925bf0",
+    "2026-06-04-northgate-returns-order-form.eml": "66e9f1d324475ede9272b40d0f1e41bb90921dbf87d4f77c814db99698cb0377",
+    "policy-note.txt": "eacdacf2b506705fb32f83523c07e0e119b067bab6e65158791bce9826411294"
+  }
+}

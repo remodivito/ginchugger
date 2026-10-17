@@ -1,0 +1,165 @@
+{
+ "id": "N489",
+ "revision": 1,
+ "title": "1108906_0000889812-00-001212_document_45.txt",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 489,
+  "type": "sec-text",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001108906/000088981200001212/0000889812-00-001212.txt"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "CONFIDENTIAL NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "THIS AGREEMENT is made this 9 day of February, 1998 by and between Greenfield Online, a Connecticut corporation (\"GO\") and Forrester Research, a Massachusetts corporation (\"Client\")."
+  },
+  {
+   "id": "s2",
+   "text": "WHEREAS, the parties hereto are currently, and in the course of their business relationship may, from time to time continue to be, engaged in discussions and evaluations regarding the data and software services and products offered by GO and the products and services offered by Client (the \"Evaluation\")."
+  },
+  {
+   "id": "s3",
+   "text": "WHEREAS, in connection therewith one party may receive or come in contact with certain Confidential Information (as defined) of the other party or the other party's affiliates or clients;"
+  },
+  {
+   "id": "s4",
+   "text": "WHEREAS, as a condition to each of GO and Client disclosing such Confidential Information to the other, each party hereto agrees to treat such Confidential Information, whether furnished before, on or after the date of this Agreement, in accordance with the terms of this Agreement."
+  },
+  {
+   "id": "s5",
+   "text": "NOW THEREFORE, in consideration such disclosure and in further consideration of the agreements contained herein, the parties agree as follows:"
+  },
+  {
+   "id": "s6",
+   "text": "1. The term \"Confidential Information\" shall mean any information and data of a confidential nature belonging to the disclosing party, its affiliates and/or licensors (\"Discloser\"), including without limitation, proprietary, technical, developmental, marketing, sales, operating, financial, performance, cost, business and process information and plans, software, and computer programming techniques which are disclosed or made available pursuant to this Agreement in connection with the Evaluation."
+  },
+  {
+   "id": "s7",
+   "text": "2. Except for the software products and GO data, if any, disclosed hereunder, Confidential Information shall not include information which "
+  },
+  {
+   "id": "s8",
+   "text": "(a) is known to the party receiving the information from Discloser (\"Recipient\") at the time of disclosure and is not subject to restriction; "
+  },
+  {
+   "id": "s9",
+   "text": "(b) is now or subsequently becomes generally known or available to the Recipient by publication, commercial use or otherwise through no fault of Recipient; "
+  },
+  {
+   "id": "s10",
+   "text": "(c) is lawfully obtained from a third party who has the right to make such disclosure; or "
+  },
+  {
+   "id": "s11",
+   "text": "(d) is independently developed by or for the Recipient without access to the Discloser's Confidential Information."
+  },
+  {
+   "id": "s12",
+   "text": "3. Recipient hereby agrees that the Confidential Information will be used by it solely for the purposes of discussions with Discloser relating to the Evaluation and as necessary to fulfill any obligations Recipient may have to Discloser pursuant to any agreements the parties may enter into or otherwise. "
+  },
+  {
+   "id": "s13",
+   "text": "Recipient agrees not to disclose the Confidential Information of the other party, in any form, to any third party except as contemplated herein. "
+  },
+  {
+   "id": "s14",
+   "text": "Recipient agrees to maintain the confidential nature of the Confidential Information; provided however, that any such Confidential Information may be disclosed to its employees who need access to such information for such purposes and are made aware of and agree to be bound by the confidentiality obligations contained herein."
+  },
+  {
+   "id": "s15",
+   "text": "4. Upon termination of the Evaluation of the parties' relationship with respect thereto, and upon Discloser's request, Recipient shall return to Discloser all materials reflecting or containing any of Discloser's Confidential Information and shall not retain any copies, extracts or other reproductions in whole or in part of any of the foregoing."
+  },
+  {
+   "id": "s16",
+   "text": "5. Each party acknowledges that unauthorized disclosure or use of the other party's Confidential Information may cause irreparable harm to such other party. "
+  },
+  {
+   "id": "s17",
+   "text": "Each party agrees that money damages may not be a sufficient remedy for any breach by it of this Agreement and that the non-breaching party shall be entitled to seek specific performance and injunctive or other equitable relief as a remedy for any such breach."
+  },
+  {
+   "id": "s18",
+   "text": "6. This Agreement shall be governed by and construed in accordance with the internal laws of the State of Connecticut, and not the law of conflicts."
+  },
+  {
+   "id": "s19",
+   "text": "7. The parties hereto shall not be obligated to compensate each other for disclosure of any information under this Agreement and agree that no warranties of any kind are given with respect to such information, as well as any use thereof. "
+  },
+  {
+   "id": "s20",
+   "text": "It is understood that no patent, copyright, trademark or other proprietary right or license is granted by this Agreement."
+  },
+  {
+   "id": "s21",
+   "text": "8. This Agreement shall be effective as of the first date of disclosure of Confidential Information to Recipient. "
+  },
+  {
+   "id": "s22",
+   "text": "Recipient's obligations hereunder with respect to Confidential Information shall survive the termination of the parties' relationship. "
+  },
+  {
+   "id": "s23",
+   "text": "The confidentiality provisions in this Agreement shall survive termination of this Agreement and the parties' relationship relating to the Evaluation."
+  },
+  {
+   "id": "s24",
+   "text": "8, Any provision of this Agreement, which is invalid, illegal or unenforceable, shall not affect in any way the remaining provisions of this Agreement."
+  },
+  {
+   "id": "s25",
+   "text": "IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be entered into effective as of the date first written above."
+  },
+  {
+   "id": "s26",
+   "text": "<TABLE>"
+  },
+  {
+   "id": "s27",
+   "text": "<CAPTION>"
+  },
+  {
+   "id": "s28",
+   "text": "GREENFIELD ONLINE, INC. "
+  },
+  {
+   "id": "s29",
+   "text": "CLIENT NAME"
+  },
+  {
+   "id": "s30",
+   "text": "<S> <C>"
+  },
+  {
+   "id": "s31",
+   "text": "John Boynton"
+  },
+  {
+   "id": "s32",
+   "text": "By: /s/ Rudy Nadilo "
+  },
+  {
+   "id": "s33",
+   "text": "By: /s/"
+  },
+  {
+   "id": "s34",
+   "text": "Title Pres + CEO Title VP, Business Dvlt."
+  },
+  {
+   "id": "s35",
+   "text": "Date 2/9/98 "
+  },
+  {
+   "id": "s36",
+   "text": "Date 2/19/98"
+  },
+  {
+   "id": "s37",
+   "text": "</TABLE>"
+  }
+ ]
+}

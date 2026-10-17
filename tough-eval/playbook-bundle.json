@@ -1,0 +1,297 @@
+{
+ "version": 3,
+ "id": "northwind-saas-bundle",
+ "title": "Northwind Analytics — SaaS procurement playbook (customer side) (with DPA and SLA)",
+ "provenance": "Synthetic playbook written for the tough eval, 9 October 2026. Customer-side positions for buying a cloud service on the vendor's paper. Its preferred positions match the Common Paper Cloud Service Agreement v2.1 standard terms with the Key Terms used in this suite, so a clean copy deviates from nothing. Not legal advice; not lawyer validated. Versions 2 and 3 (9 October 2026): acceptable positions made explicit for clauses of the clean agreement that a first calibration run read as deviations (see tough-eval/README.md, calibration log).",
+ "rules": [
+  {
+   "id": "C-01",
+   "title": "General liability cap",
+   "topic": "liability cap",
+   "guidance": "Liability caps must be mutual and sized against what we pay. The general cap should be at least the Fees paid or payable in the 12 months before the claim, applying equally to both parties.",
+   "preferred": "Mutual general cap of 1x the Fees paid or payable in the 12 months before the claim.",
+   "acceptable": "Mutual general cap between 1x and 2x the 12-month Fees, or a fixed amount at least equal to the annual Fees.",
+   "escalation": "Any cap below 1x the 12-month Fees, or a cap measured over a shorter period. Escalate to the General Counsel.",
+   "hardLine": "A cap that limits only the Provider's liability, or a general cap below 0.5x the annual Fees.",
+   "enabled": true
+  },
+  {
+   "id": "C-02",
+   "title": "Increased cap for data, security and confidentiality breaches",
+   "topic": "super cap",
+   "guidance": "Breaches of the Provider's privacy and security obligations and of confidentiality must sit under a higher cap than the general cap, without having to prove gross negligence or wilful misconduct.",
+   "preferred": "Increased Claims cover breach of the privacy and security section and breach of confidentiality, with an Increased Cap Amount of at least 3x the 12-month Fees.",
+   "acceptable": "Increased Cap Amount of at least 2x the 12-month Fees for the same claims. A security obligation of commercially reasonable efforts, as in the Key Terms Security Policy, is acceptable.",
+   "escalation": "Increased Cap Amount below 2x, or confidentiality breaches dropped from Increased Claims.",
+   "hardLine": "No increased cap for privacy and security breaches, or the increased cap available only for gross negligence or wilful misconduct.",
+   "enabled": true
+  },
+  {
+   "id": "C-03",
+   "title": "Uncapped indemnities and damages-waiver exceptions",
+   "topic": "unlimited claims",
+   "guidance": "Indemnification obligations of both parties sit outside the caps. The waiver of lost profits and consequential damages must not apply to Increased Claims or to breach of confidentiality.",
+   "preferred": "Each Indemnifying Party's indemnification obligation is an Unlimited Claim; the damages waiver excludes Increased Claims and breach of confidentiality.",
+   "acceptable": "Indemnities capped at no less than the Increased Cap Amount, applied to both parties equally.",
+   "escalation": "Any asymmetry between the parties' indemnity caps.",
+   "hardLine": "Only the Customer's indemnity left uncapped, or the damages waiver applied to confidentiality breaches.",
+   "enabled": true
+  },
+  {
+   "id": "C-04",
+   "title": "IP indemnity from the Provider",
+   "topic": "indemnity",
+   "guidance": "The Provider must defend and indemnify us against third-party claims that the Cloud Service infringes intellectual property. Standard exclusions are acceptable. The Provider controls the defence but may not settle on terms that admit our fault or materially harm us without our written consent.",
+   "preferred": "IP infringement indemnity with exclusions limited to unauthorised modification, misuse, combination with items not provided by the Provider, and use of an old version; no settlement admitting fault or adversely affecting us without consent; remedy options ending in a prorated refund.",
+   "acceptable": "Reasonable additional exclusions tied to our own conduct.",
+   "escalation": "Removal of the consent requirement for settlements, or removal of the refund option.",
+   "hardLine": "No IP indemnity from the Provider.",
+   "enabled": true
+  },
+  {
+   "id": "C-05",
+   "title": "Use of our content",
+   "topic": "customer content",
+   "guidance": "The Provider may use Customer Content only as needed to provide and maintain the Product. We keep ownership. Everything we or our Users submit is Customer Content.",
+   "preferred": "Use limited to providing and maintaining the Product and related offerings; Customer retains all rights in Customer Content; Customer Content defined as everything submitted by or for Customer or Users, excluding only Feedback.",
+   "acceptable": "Use to provide support and to secure the service.",
+   "escalation": "Any use of Customer Content to improve the Product beyond the ML terms in C-06, or any narrowing of what counts as Customer Content.",
+   "hardLine": "Use of Customer Content to build other products, or any transfer of ownership.",
+   "enabled": true
+  },
+  {
+   "id": "C-06",
+   "title": "Machine learning on our data",
+   "topic": "ai training",
+   "guidance": "Training the Provider's models on our data is acceptable only if the data is aggregated and de-identified first, and only within the Provider's own products.",
+   "preferred": "Usage Data and Customer Content may be used for ML only after aggregation and commercially reasonable de-identification; personal data obligations unaffected. Use within the Provider's own products and services, including third-party components of the Product, is within this position.",
+   "acceptable": "The same, with an opt-out we can exercise.",
+   "escalation": "Training on Customer Content that is aggregated but not de-identified.",
+   "hardLine": "Training on Customer Content that is neither aggregated nor de-identified, or licensing it to third parties for their own models.",
+   "enabled": true
+  },
+  {
+   "id": "C-07",
+   "title": "Usage data and feedback",
+   "topic": "usage data",
+   "guidance": "The Provider may use Feedback freely and use Usage Data to run and improve its services, but may disclose Usage Data only in aggregated form that does not identify us or our Users.",
+   "preferred": "Disclosure of Usage Data only when aggregated and non-identifying.",
+   "acceptable": "Disclosure to the Provider's subprocessors bound by confidentiality.",
+   "escalation": "Disclosure of identifying Usage Data to anyone outside the Provider.",
+   "hardLine": "Sale of Usage Data that identifies us.",
+   "enabled": true
+  },
+  {
+   "id": "C-08",
+   "title": "Confidentiality",
+   "topic": "confidentiality",
+   "guidance": "Confidentiality must be mutual, must protect our non-public Customer Content, must carry the four standard exclusions only, must require advance notice of compelled disclosures where lawful, and must survive termination.",
+   "preferred": "Mutual non-use and non-disclosure with at least reasonable care; non-public Customer Content is our Confidential Information; exclusions limited to prior knowledge, public availability without fault, lawful receipt from a third party, and independent development; compelled disclosure only with advance notice where lawful; confidentiality survives termination.",
+   "acceptable": "A fixed survival period of at least 5 years for information that is not a trade secret or Customer Content. Survival through the survival clause together with the retention clause that keeps confidentiality and privacy obligations applying to retained copies is acceptable; Section 3 need not be listed separately.",
+   "escalation": "Any additional exclusion, or removal of the advance-notice requirement.",
+   "hardLine": "Customer Content outside the definition of Confidential Information, or confidentiality that ends on termination.",
+   "enabled": true
+  },
+  {
+   "id": "C-09",
+   "title": "Suspension of service",
+   "topic": "suspension",
+   "guidance": "The Provider may suspend only for an undisputed balance more than 30 days overdue, breach of the use restrictions, or use that materially harms the Product or others, should try to warn us first, and must reinstate once the issue is resolved.",
+   "preferred": "Suspension limited to those three grounds, with an attempt at prior notice and reinstatement on resolution. Suspension 'with or without notice' is within this position when the Provider commits to try to inform us first where practical.",
+   "acceptable": "Immediate suspension without notice for genuine security emergencies.",
+   "escalation": "Suspension for disputed amounts, for balances overdue 30 days or less, or without any attempt at notice.",
+   "hardLine": "Suspension at the Provider's discretion.",
+   "enabled": true
+  },
+  {
+   "id": "C-10",
+   "title": "Payment terms",
+   "topic": "payment",
+   "guidance": "We pay invoices at least 30 days after receipt, in pounds sterling, and may withhold disputed amounts in good faith while paying the rest.",
+   "preferred": "Payment within 30 days of receipt of invoice; good-faith disputes notified before the due date; undisputed amounts paid on time.",
+   "acceptable": "Payment within 30 days of the invoice date. A default currency in the standard terms is acceptable where the Order Form specifies pounds sterling.",
+   "escalation": "Payment terms shorter than 30 days, or late-payment interest above 1% per month.",
+   "hardLine": "Payment in advance of invoice, or loss of the right to dispute fees.",
+   "enabled": true
+  },
+  {
+   "id": "C-11",
+   "title": "Renewal and price increases",
+   "topic": "renewal",
+   "guidance": "Automatic renewal is acceptable if we can opt out by notice given no more than 60 days before the end of the Subscription Period. Price increases at renewal are capped at 5%.",
+   "preferred": "Non-renewal notice of 30 days before the end of the period; fee increases of up to 5% per renewal.",
+   "acceptable": "Non-renewal notice of up to 60 days; increases of up to 5%.",
+   "escalation": "Non-renewal notice above 60 days, or increases between 5% and 7%.",
+   "hardLine": "Uncapped price increases, or renewal we cannot stop.",
+   "enabled": true
+  },
+  {
+   "id": "C-12",
+   "title": "Termination and refunds",
+   "topic": "termination",
+   "guidance": "Both parties must be able to terminate for uncured material breach after no more than 30 days' notice and for insolvency. Where the service fails through no fault of ours (a long force majeure, a failed warranty, an IP remedy), prepaid fees for the unused period are refunded.",
+   "preferred": "Mutual termination for material breach uncured 30 days after notice and for insolvency; prorated refunds of prepaid Fees on termination for force majeure, warranty failure or IP remedy.",
+   "acceptable": "Cure periods of up to 45 days for both parties. The Provider's right to terminate an affected Order Form with a prorated refund as an IP remedy; the Provider's right to terminate immediately, without refund, where export controls or sanctions laws require it; and insolvency proceedings that must continue for more than 60 days, are acceptable.",
+   "escalation": "Any termination right available to only one party, or cure periods above 45 days.",
+   "hardLine": "No refund of prepaid Fees when the service fails.",
+   "enabled": true
+  },
+  {
+   "id": "C-13",
+   "title": "Return and deletion of data on exit",
+   "topic": "data deletion",
+   "guidance": "On expiry or termination the Provider deletes our content on request and both parties return or destroy confidential information. Backup retention is acceptable only while confidentiality and security obligations keep applying.",
+   "preferred": "Deletion of Customer Content within 60 days of our request; return or destruction of Confidential Information; retained copies stay protected.",
+   "acceptable": "Deletion within 90 days. Privacy and security obligations that continue for retained data through the retention clause are acceptable without a separate survival listing.",
+   "escalation": "Deletion periods longer than 90 days.",
+   "hardLine": "No deletion obligation, or retained copies without continuing protection.",
+   "enabled": true
+  },
+  {
+   "id": "C-14",
+   "title": "Provider warranty",
+   "topic": "warranty",
+   "guidance": "The Provider warrants that it will not materially reduce the general functionality of the Cloud Service during the Subscription Period. If it cannot restore functionality, we may terminate and recover prepaid fees for the rest of the period.",
+   "preferred": "Functionality warranty with a restore-or-terminate remedy and prorated refund; notice within 45 days of discovering the issue.",
+   "acceptable": "Notice periods of at least 30 days. An obligation to attempt restoration followed by our right to terminate with a refund, stated as our only remedy, is acceptable; Beta Products may be excluded from the warranty.",
+   "escalation": "Shorter notice windows, or a remedy without refund.",
+   "hardLine": "No functionality warranty.",
+   "enabled": true
+  },
+  {
+   "id": "C-15",
+   "title": "Changes to the agreement",
+   "topic": "amendments",
+   "guidance": "Nothing in the agreement may change without both parties' written agreement. Policies incorporated by reference must be fixed versions, not documents the Provider can update unilaterally.",
+   "preferred": "Waivers and changes only in writing signed or accepted by each party; no incorporation of documents 'as updated from time to time'.",
+   "acceptable": "Provider changes to operational documentation that do not reduce our rights. Compliance with the Provider's Documentation and the agreed Use Limitations is acceptable, as is incorporation of the Security Policy and DPA as agreed in the Key Terms.",
+   "escalation": "Any Provider right to change terms on notice.",
+   "hardLine": "Unilateral changes that take effect without our signature.",
+   "enabled": true
+  },
+  {
+   "id": "C-16",
+   "title": "Assignment",
+   "topic": "assignment",
+   "guidance": "Assignment needs the other party's written consent, except that either party may assign on notice in a merger, change of control or sale of the relevant business. The rule must be the same for both parties.",
+   "preferred": "Mutual consent requirement with the mutual merger and change-of-control exception on notice.",
+   "acceptable": "Assignment to Affiliates on notice, for both parties.",
+   "escalation": "Any assignment right that only the Provider has.",
+   "hardLine": "Provider free to assign to anyone without notice.",
+   "enabled": true
+  },
+  {
+   "id": "C-17",
+   "title": "Governing law and courts",
+   "topic": "governing law",
+   "guidance": "English law and the courts of London, exclusively.",
+   "preferred": "Governing Law: England and Wales. Chosen Courts: London, exclusive.",
+   "acceptable": "Non-exclusive jurisdiction of the English courts. Injunctive relief for breach of confidentiality or infringement in any competent court is acceptable.",
+   "escalation": "Any other European law.",
+   "hardLine": "Any US state law or US courts.",
+   "enabled": true
+  },
+  {
+   "id": "C-18",
+   "title": "Publicity",
+   "topic": "publicity",
+   "guidance": "The Provider may name us and show our logo as a customer. Case studies, testimonials or any description of how we use the service need our prior written consent.",
+   "preferred": "Name and logo use to identify us as a customer only.",
+   "acceptable": "The same, with a right for us to withdraw it on notice.",
+   "escalation": "Any statement about our use of the service or results.",
+   "hardLine": "Endorsements or case studies without our consent.",
+   "enabled": true
+  },
+  {
+   "id": "C-19",
+   "title": "Audits by the Provider",
+   "topic": "audit",
+   "guidance": "We do not accept audit rights over our systems. If an audit of our usage is agreed, it needs at least 30 days' notice, at most once a year, during business hours and at the Provider's expense.",
+   "preferred": "No audit right.",
+   "acceptable": "Usage audits on 30 days' notice, once a year, at the Provider's cost.",
+   "escalation": "Audit rights on shorter notice or at our cost.",
+   "hardLine": "On-site or system audits at the Provider's discretion.",
+   "enabled": true
+  },
+  {
+   "id": "C-20",
+   "title": "Security incident notification",
+   "topic": "data protection",
+   "guidance": "We must hear about any personal data breach quickly enough to meet our own 72-hour regulatory deadline, and \"Security Incident\" must cover every personal data breach, not only those the Provider has confirmed or finished investigating.",
+   "preferred": "Notice without undue delay and no later than 72 hours after the Provider becomes aware; Security Incident means any personal data breach under the GDPR.",
+   "acceptable": "A shorter notice period (e.g. 24 or 48 hours).",
+   "escalation": "Notice later than 72 hours after awareness, or a definition of Security Incident narrowed by confirmation, investigation, encryption or harm thresholds. Escalate to the Data Protection Officer.",
+   "hardLine": "No obligation to notify Customer of a Security Incident."
+  },
+  {
+   "id": "C-21",
+   "title": "Subprocessors",
+   "topic": "data protection",
+   "guidance": "Customer Personal Data may only go to subprocessors we have approved, and we must get written notice of changes early enough to object.",
+   "preferred": "Prior approval of subprocessors; at least 10 business days’ written notice of any change, with a right to object within 30 days.",
+   "acceptable": "General written authorisation with at least 10 business days’ notice and a right to object.",
+   "escalation": "Notice shorter than 10 business days, notice only by updating a web page, or no right to object.",
+   "hardLine": "Provider may engage any subprocessor without notice."
+  },
+  {
+   "id": "C-22",
+   "title": "Liability for subprocessors",
+   "topic": "data protection",
+   "guidance": "The Provider must stay fully responsible for what its subprocessors do with our data.",
+   "preferred": "Provider remains fully liable for its subprocessors’ acts and omissions.",
+   "acceptable": "Same, with the Provider passing equivalent data protection terms down to each subprocessor.",
+   "escalation": "Any limitation or removal of the Provider’s responsibility for subprocessors.",
+   "hardLine": "Provider excluded from liability for subprocessors."
+  },
+  {
+   "id": "C-23",
+   "title": "Audit and security reports",
+   "topic": "data protection",
+   "guidance": "We need enough evidence to show our own compliance: independent audit reports and answers to security questionnaires. We accept that audit rights are exercised through reports and questionnaires rather than on-site visits.",
+   "preferred": "Compliance information on request, a copy of the Provider’s current independent audit report on written request, and answers to security questionnaires at least once a year; records kept for 3 years.",
+   "acceptable": "Audit rights exercised only through reports and questionnaires, as above.",
+   "escalation": "Removal of access to independent audit reports, questionnaires less often than once a year, or Customer paying for routine compliance evidence.",
+   "hardLine": "No audit rights or compliance evidence at all."
+  },
+  {
+   "id": "C-24",
+   "title": "Return and deletion of personal data",
+   "topic": "data protection",
+   "guidance": "When the DPA ends the Provider returns or deletes our personal data as we instruct, keeping only what the law requires.",
+   "preferred": "Return or deletion at Customer’s instruction, except where storage is required or authorised by Applicable Law.",
+   "acceptable": "Deletion within a stated period, with a certificate of deletion on request.",
+   "escalation": "Any right for the Provider to keep personal data for its own purposes, or deletion only at the Provider’s discretion.",
+   "hardLine": "No obligation to return or delete personal data."
+  },
+  {
+   "id": "C-25",
+   "title": "DPA liability and precedence",
+   "topic": "data protection",
+   "guidance": "Data protection claims must keep the protection the Agreement gives them (they are Increased Claims under its 3x cap), and on data protection matters the transfer clauses and the DPA must prevail over the Agreement.",
+   "preferred": "DPA liability subject to the Agreement’s limits (so privacy breaches fall under the Increased Cap); order of precedence: transfer clauses, then the DPA, then the Agreement.",
+   "acceptable": "A separate DPA cap at least equal to the Increased Cap Amount.",
+   "escalation": "A separate DPA cap below the Increased Cap Amount, or the Agreement prevailing over the DPA or the transfer clauses.",
+   "hardLine": "DPA liability limited to service credits, or excluded."
+  },
+  {
+   "id": "C-26",
+   "title": "Service levels and credits",
+   "topic": "service levels",
+   "guidance": "The platform is business-critical: we need a monthly uptime commitment of at least 99.5% with meaningful credits, and a fair window to claim them.",
+   "preferred": "Target Uptime of 99.9% per month; credits of at least 5%, 10% and 25% of the monthly fee by band; claims within 7 days of month end; credits capped at no less than 8% of annual fees; response within 4 business hours.",
+   "acceptable": "Target Uptime from 99.5%; claim window of at least 7 days; credit cap of at least 5% of annual fees; response within one business day.",
+   "escalation": "Target Uptime below 99.5%, a claim window under 7 days, credits capped below 5% of annual fees, or no response-time commitment.",
+   "hardLine": "No uptime commitment."
+  },
+  {
+   "id": "C-27",
+   "title": "Service level remedies",
+   "topic": "service levels",
+   "guidance": "Service credits may be the exclusive remedy for missing the uptime and response targets only. They must not replace our other remedies under the Agreement, and repeated failure must let us leave with a refund.",
+   "preferred": "Credits are the exclusive remedy only for missing the Target Uptime and Target Response Time; termination with a prorated refund after failures in 2 of any 3 consecutive months.",
+   "acceptable": "Termination after failures in 3 of any 6 months, with a prorated refund.",
+   "escalation": "Credits made the exclusive remedy for other failures (performance, data loss, security), or the termination right or its refund removed.",
+   "hardLine": "No termination right for chronic failure."
+  }
+ ]
+}

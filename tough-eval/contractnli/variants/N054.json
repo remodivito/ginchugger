@@ -1,0 +1,245 @@
+{
+ "id": "N054",
+ "revision": 1,
+ "title": "C_TERMS_NDA_EN.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 54,
+  "type": "search-pdf",
+  "url": "https://www.fronius.com/~/downloads/Company/Legal%20Documents/C_TERMS_NDA_EN.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "Between ........................................ ........................................ ........................................"
+  },
+  {
+   "id": "s2",
+   "text": "(Also referred to hereinafter as the DISCLOSEE)"
+  },
+  {
+   "id": "s3",
+   "text": "and Fronius International GmbH Froniusstraße 1 4643 Pettenbach"
+  },
+  {
+   "id": "s4",
+   "text": "(Also referred to hereinafter as the DISCLOSER)"
+  },
+  {
+   "id": "s5",
+   "text": "1. Preamble"
+  },
+  {
+   "id": "s6",
+   "text": "Whereas Fronius is involved in developing battery charging systems, welding systems, alternators and related technologies and their accessories;"
+  },
+  {
+   "id": "s7",
+   "text": "And whereas Fronius protects its intellectual property rights consistently via patents, other protected rights, confidentiality etc."
+  },
+  {
+   "id": "s8",
+   "text": "And whereas Fronius as the DISCLOSER will, in the course of the business dealings established with the DISCLOSEE, provide confidential information (as defined in section 2 \"Subject matter of non-disclosure agreement\" and referred to hereinafter as 'confidential information);"
+  },
+  {
+   "id": "s9",
+   "text": "This contract does not imply any commercial obligation between the parties of any kind (purchasing and selling products, joint ventures, partnerships, etc.). "
+  },
+  {
+   "id": "s10",
+   "text": "Any commercial relations must be agreed separately."
+  },
+  {
+   "id": "s11",
+   "text": "2. Subject matter of non-disclosure agreement"
+  },
+  {
+   "id": "s13",
+   "text": "For the purposes of this non-disclosure agreement, the term 'confidential information' means information which is designated as 'confidential' or – where communicated orally – is designated as confidential or referred to similarly when communicated. "
+  },
+  {
+   "id": "s14",
+   "text": "Oral communications must be confirmed subsequently in writing."
+  },
+  {
+   "id": "s15",
+   "text": "The term 'confidential information' includes, but is not limited to, all documents, drawings, data, subjects, information, records, knowhow, protected rights, inventions, ideas, concepts, knowledge, technology, design, specifications, including dimensions, tolerances, materials and connections, blueprints, diagrams, software, improvements, production procedures, production processes, formulae, all documents and information concerning the company, in particular administrative and commercial facts and details concerning customers, products, suppliers and other business partners and any and all documents and information insofar as it relates to the collaboration proposed which is disclosed during the term of the contract and is accessible only to a limited circle of persons or where the DISCLOSER intends that it should only be available to a limited circle of persons, however that information may be disclosed, e.g. in writing, orally, by telephone, encoded, presented in graphic form, etc. and whatever the media and recording process used, e.g. optically, electronically or magnetically."
+  },
+  {
+   "id": "s17",
+   "text": "The DISCLOSEE for the purposes of this agreement is the DISCLOSEE as defined above."
+  },
+  {
+   "id": "s18",
+   "text": "3. The DISCLOSEE agrees to keep any and all written, electronic and oral information and models conveyed or made available to it directly or indirectly in the course of the collaboration strictly in confidence and not to disclose it or make it available to any third party without the DISCLOSER's consent in writing."
+  },
+  {
+   "id": "s19",
+   "text": "4. The DISCLOSEE also agrees not to use the confidential information other than for the purpose as provided herein and not to use that information commercially in any way without the DISCLOSER's consent in writing."
+  },
+  {
+   "id": "s20",
+   "text": "5. The DISCLOSEE may not make confidential information available within its enterprise or organisation other than to staff who necessarily require it to perform their duties. "
+  },
+  {
+   "id": "s21",
+   "text": "Such persons must demonstrably be bound beforehand to keep the information confidential to the same strict extent as agreed herein, including after their contractual relationships are terminated insofar as the law allows. "
+  },
+  {
+   "id": "s22",
+   "text": "The DISCLOSEE will be liable for any and all losses the DISCLOSER suffers."
+  },
+  {
+   "id": "s23",
+   "text": "6. No licence, user or similar rights to any patent, patent application or knowhow may be deduced from this agreement, either directly or indirectly."
+  },
+  {
+   "id": "s24",
+   "text": "7. As with the confidential information, no results obtained from that information may be disclosed to any third parties or made available otherwise without the DISCLOSER's consent in writing. "
+  },
+  {
+   "id": "s25",
+   "text": "This also applies without limitations to any possible termination of the business relationship between both parties."
+  },
+  {
+   "id": "s26",
+   "text": "8. Any and all confidential information, including any and all protected and other rights created and/or produced in connection with the confidential information provided, no matter when or by whom, are the property of Fronius. "
+  },
+  {
+   "id": "s27",
+   "text": "The DISCLOSEE cannot deduce any rights from knowing the information and knowhow the DISCLOSER provides in respect of applying for protected rights against the DISCLOSER, particularly in terms of prior use."
+  },
+  {
+   "id": "s28",
+   "text": "9. The supplier (supplier = contractor) assures that any and all necessary rights for the production and distribution of the furnished and delivered materials and products are available and holds Fronius harmless from all and any claims by third parties resulting from an infringement of industrial and /or intellectual property rights/patents."
+  },
+  {
+   "id": "s29",
+   "text": "10. Any and all documents containing confidential information, copies of such documents and extracts the DISCLOSEE makes from such documents and models the DISCLOSER provides must be returned or demonstrably destroyed and their destruction be confirmed in writing should the DISCLOSER so require."
+  },
+  {
+   "id": "s30",
+   "text": "11. Documents which contain confidential information must not be reproduced or extracts made from them without the DISCLOSER's prior consent in writing. "
+  },
+  {
+   "id": "s31",
+   "text": "Models sent must not be analysed."
+  },
+  {
+   "id": "s32",
+   "text": "12. These obligations will not apply, or will cease to apply, to using information where the DISCLOSEE can show that that information"
+  },
+  {
+   "id": "s33",
+   "text": "/ Passed into the public domain without breaching these obligations;"
+  },
+  {
+   "id": "s34",
+   "text": "/ Was already in the DISCLOSEE's possession before the DISCLOSER disclosed it to it."
+  },
+  {
+   "id": "s35",
+   "text": "Information will be deemed to be confidential information for the purposes of this non-disclosure agreement even if the confidential information comes under one or more of these exceptions only in part, provided the confidential information itself does not come under one or more of these exceptions in its entirety."
+  },
+  {
+   "id": "s36",
+   "text": "13. This agreement is binding on and against the parties' successors, wholly or in part."
+  },
+  {
+   "id": "s37",
+   "text": "14. This agreement enters into force when signed by all contracting parties, and applies for a term of … years."
+  },
+  {
+   "id": "s38",
+   "text": "The agreement is engrossed in duplicate."
+  },
+  {
+   "id": "s40",
+   "text": "Any amendments or additions to this agreement must be in writing."
+  },
+  {
+   "id": "s41",
+   "text": "15. This agreement is governed by Austrian law, to the exclusion of the UN Convention on the International Sale of Goods and the IPRG [law on international private law]. "
+  },
+  {
+   "id": "s42",
+   "text": "Jurisdiction is agreed to be at Wels"
+  },
+  {
+   "id": "s43",
+   "text": "If any provision of this agreement is prohibited by law or judged by a court to be unlawful, void or unenforceable, the provision shall, to the extent required, be severed from this agreement and rendered ineffective as far as possible without modifying the remaining provisions of this agreement, and shall not in any way affect any other circumstances of or the validity or enforcement of this agreement."
+  },
+  {
+   "id": "s44",
+   "text": "DISCLOSER DISCLOSEE"
+  },
+  {
+   "id": "s45",
+   "text": "Fronius International "
+  },
+  {
+   "id": "s46",
+   "text": "GmbH …………………………………."
+  },
+  {
+   "id": "s47",
+   "text": "Date: .................................... "
+  },
+  {
+   "id": "s48",
+   "text": "Date: ......................................"
+  },
+  {
+   "id": "s49",
+   "text": "……………………………………. ……………………………………."
+  },
+  {
+   "id": "s50",
+   "text": "……………………………………. ……………………………………."
+  },
+  {
+   "id": "s51",
+   "text": "(Name and signature of the representation (Name and signature of the representation"
+  },
+  {
+   "id": "s52",
+   "text": "authorized person in block letters; Company stamp) authorized person in block letters; Company stamp)"
+  },
+  {
+   "id": "s53",
+   "text": "……………………………………. ……………………………………."
+  },
+  {
+   "id": "s54",
+   "text": "……………………………………. ……………………………………."
+  },
+  {
+   "id": "s55",
+   "text": "(Name and signature of the representation (Name and signature of the representation"
+  },
+  {
+   "id": "s56",
+   "text": "authorized person in block letters) authorized person in block letters)"
+  },
+  {
+   "id": "s57",
+   "text": "……………………………………. ……………………………………."
+  },
+  {
+   "id": "s58",
+   "text": "……………………………………. ……………………………………."
+  },
+  {
+   "id": "s59",
+   "text": "(Name and signature of the representation (Name and signature of the representation"
+  },
+  {
+   "id": "s60",
+   "text": "authorized person in block letters) authorized person in block letters)"
+  }
+ ]
+}

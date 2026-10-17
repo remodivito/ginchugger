@@ -1,0 +1,413 @@
+{
+ "id": "N463",
+ "revision": 1,
+ "title": "1067797_0001032210-99-000668_document_8.txt",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 463,
+  "type": "sec-text",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001067797/000103221099000668/0001032210-99-000668.txt"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "PRIMUS KNOWLEDGE SOLUTIONS, INC."
+  },
+  {
+   "id": "s1",
+   "text": "Software Marketing and Distribution Agreement"
+  },
+  {
+   "id": "s2",
+   "text": "Schedule 1"
+  },
+  {
+   "id": "s3",
+   "text": "Confidential Information Agreement"
+  },
+  {
+   "id": "s4",
+   "text": "Insert Current NDA"
+  },
+  {
+   "id": "s5",
+   "text": "Primus Contract ID: NDA "
+  },
+  {
+   "id": "s6",
+   "text": "_________________"
+  },
+  {
+   "id": "s7",
+   "text": "PRIMUS KNOWLEDGE SOLUTIONS, INC."
+  },
+  {
+   "id": "s8",
+   "text": "Bilateral Non-Disclosure "
+  },
+  {
+   "id": "s9",
+   "text": "Agreement"
+  },
+  {
+   "id": "s10",
+   "text": "This Bilateral Non-Disclosure Agreement (\"Agreement\") is made between Primus Knowledge Solutions, Inc. (\"Primus\"), 1601 Fifth Avenue, Suite 1900, Seattle, Washington 98101 (fax: "
+  },
+  {
+   "id": "s11",
+   "text": "(206) "
+  },
+  {
+   "id": "s12",
+   "text": "292-1825), and the entity identified below, including the legal entity of which it is part (collectively, the \"Company\"). "
+  },
+  {
+   "id": "s13",
+   "text": "Company Name: "
+  },
+  {
+   "id": "s14",
+   "text": "__________________________________"
+  },
+  {
+   "id": "s15",
+   "text": "Company Address: "
+  },
+  {
+   "id": "s16",
+   "text": "_______________________________ "
+  },
+  {
+   "id": "s17",
+   "text": "_______________________________"
+  },
+  {
+   "id": "s18",
+   "text": "Fax No.: "
+  },
+  {
+   "id": "s19",
+   "text": "_______________________________"
+  },
+  {
+   "id": "s20",
+   "text": "Primus and the Company (collectively referred to as the \"Parties\" and individually referred to as a \"Party\") have determined to establish terms governing the use and protection of \"Confidential Information\" (as defined below) that one Party (the \"Owner\") may disclose to the other Party (the \"Recipient\"). "
+  },
+  {
+   "id": "s21",
+   "text": "Therefore, for good and valuable consideration, the receipt and sufficiency of which they each acknowledge, the Parties each agree as specified in the Terms and Conditions below."
+  },
+  {
+   "id": "s22",
+   "text": "EXECUTED as of the date set forth below Primus' signature (the \"Effective Date\"):"
+  },
+  {
+   "id": "s23",
+   "text": "Company Primus Knowledge Solutions, Inc."
+  },
+  {
+   "id": "s24",
+   "text": "Signature:__________________________ "
+  },
+  {
+   "id": "s25",
+   "text": "By: "
+  },
+  {
+   "id": "s26",
+   "text": "_____________________________"
+  },
+  {
+   "id": "s27",
+   "text": "(Print name)________________________ "
+  },
+  {
+   "id": "s28",
+   "text": "_____________________________"
+  },
+  {
+   "id": "s29",
+   "text": "Title:______________________________ "
+  },
+  {
+   "id": "s30",
+   "text": "Its:_____________________________"
+  },
+  {
+   "id": "s31",
+   "text": "Dated: "
+  },
+  {
+   "id": "s32",
+   "text": "_____________________________ "
+  },
+  {
+   "id": "s33",
+   "text": "Dated: "
+  },
+  {
+   "id": "s34",
+   "text": "__________________________"
+  },
+  {
+   "id": "s35",
+   "text": "Terms and Conditions"
+  },
+  {
+   "id": "s36",
+   "text": "Section 1. Definitions."
+  },
+  {
+   "id": "s37",
+   "text": "1.1 \"Confidential Information\" means any and all information disclosed by Owner that is identified as \"confidential\" or \"proprietary,\" either by legend on written or electronically stored material, or in advance if disclosed verbally. "
+  },
+  {
+   "id": "s38",
+   "text": "Confidential Information includes, without limitation, research and development, know-how, inventions, trade secrets, software, and market analysis, research, strategies, projections and forecasts. "
+  },
+  {
+   "id": "s39",
+   "text": "Confidential Information also includes, without limitation, information disclosed by Owner with permission from a third party, and combinations of or with publicly known information where the nature of the combination is not publicly known."
+  },
+  {
+   "id": "s40",
+   "text": "1.1.1 Exceptions. "
+  },
+  {
+   "id": "s41",
+   "text": "Confidential Information does not include information which:"
+  },
+  {
+   "id": "s42",
+   "text": "(a) was publicly known at the time of Owner's communication thereof to Recipient, or which subsequently becomes publicly known through no fault of Recipient;"
+  },
+  {
+   "id": "s43",
+   "text": "(b) was in the possession of Recipient prior to its being communicated to Recipient by Owner;"
+  },
+  {
+   "id": "s44",
+   "text": "(c) becomes available to Recipient on a non-confidential basis from a source other than Owner, provided that such source is not bound by any obligation of confidentiality to Owner with respect to such information; or "
+  },
+  {
+   "id": "s45",
+   "text": "(d) was independently developed by Recipient without reference to the Confidential Information communicated by Owner."
+  },
+  {
+   "id": "s46",
+   "text": "Section 2. Covenant Not to Disclose."
+  },
+  {
+   "id": "s47",
+   "text": "Recipient shall not use Owner's Confidential Information except for purposes of evaluating, maintaining and furthering a business relationship with Owner. "
+  },
+  {
+   "id": "s48",
+   "text": "Recipient shall maintain in confidence the Confidential Information received from Owner and shall not directly or indirectly disclose such information to any person or entity except Recipient's employees and consultants, and then only on a need-to-know basis. "
+  },
+  {
+   "id": "s49",
+   "text": "Recipient shall ensure that such employees and consultants are bound by a written agreement to protect the received Confidential Information from unauthorized use and disclosure. "
+  },
+  {
+   "id": "s50",
+   "text": "Recipient shall protect Owner's Confidential Information from disclosure to others using the same degree of care that it uses to protect its own most highly confidential information, but in no event less than a reasonable standard of care. "
+  },
+  {
+   "id": "s51",
+   "text": "Recipient shall not make or distribute any more copies or summaries of Owner's Confidential Information than are necessary to evaluate, maintain and further a business relationship between the Parties, and shall ensure that all such copies or summaries are marked as confidential and the property of Owner."
+  },
+  {
+   "id": "s52",
+   "text": "Section "
+  },
+  {
+   "id": "s53",
+   "text": "3. No Obligation Of Disclosure."
+  },
+  {
+   "id": "s54",
+   "text": "Neither Party shall have any obligation to disclose its Confidential Information to the other. "
+  },
+  {
+   "id": "s55",
+   "text": "Either Party may, at any time, cease providing its Confidential Information to the other Party, and may require the return of Confidential Information previously disclosed by written notice."
+  },
+  {
+   "id": "s56",
+   "text": "Section "
+  },
+  {
+   "id": "s57",
+   "text": "4. Disclosure Required By Law."
+  },
+  {
+   "id": "s58",
+   "text": "If any applicable law, regulation or court order requires Recipient to disclose any of Owner's Confidential Information, Recipient shall promptly notify Owner in writing prior to making any such disclosure, in order to facilitate Owner's efforts to protect its Confidential Information. "
+  },
+  {
+   "id": "s59",
+   "text": "In such circumstances, Recipient shall cooperate with Owner, at Owner's reasonable expense, in seeking and obtaining protection for Owner's Confidential Information."
+  },
+  {
+   "id": "s60",
+   "text": "Section 5. Title."
+  },
+  {
+   "id": "s61",
+   "text": "Owner shall retain all ownership rights in and to the Confidential Information it discloses to Recipient. "
+  },
+  {
+   "id": "s62",
+   "text": "No licenses or rights under any patent, trademark, copyright, trade secret or other intellectual property right shall be granted or implied under this Agreement. "
+  },
+  {
+   "id": "s63",
+   "text": "Neither Party shall be obligated under this Agreement to acquire from or provide to the other Party any service or product."
+  },
+  {
+   "id": "s64",
+   "text": "Section 6. Termination."
+  },
+  {
+   "id": "s65",
+   "text": "Either Party may terminate this Agreement at any time without cause upon written notice to the other party. "
+  },
+  {
+   "id": "s66",
+   "text": "All obligations of confidentiality shall survive such termination. "
+  },
+  {
+   "id": "s67",
+   "text": "Upon termination of this Agreement, Recipient shall promptly return all of Owner's Confidential Information provided to it in tangible form, together with any and all copies and/or summaries, and shall destroy all of Owner's Confidential Information that is electronically stored; provided, however, that each Party's legal department may retain one copy of the Confidential Information in its file solely for the purpose of identifying information designated as \"Confidential Information.\""
+  },
+  {
+   "id": "s68",
+   "text": "Section 7. Specific Performance."
+  },
+  {
+   "id": "s69",
+   "text": "The Parties acknowledge that Confidential Information is unique and valuable, and that Owner will have no adequate remedy at law if Recipient does not comply with its obligations under this Agreement. "
+  },
+  {
+   "id": "s70",
+   "text": "Therefore, Owner shall have the right, in addition to any other rights it may have, to obtain in any court of competent jurisdiction temporary, preliminary and permanent injunctive relief to restrain any breach, threatened breach, or otherwise to specifically enforce any obligations of Recipient if Recipient fails to perform any of its obligations under this Agreement."
+  },
+  {
+   "id": "s71",
+   "text": "Section "
+  },
+  {
+   "id": "s72",
+   "text": "8. Miscellaneous."
+  },
+  {
+   "id": "s73",
+   "text": "8.1. Dispute Resolution."
+  },
+  {
+   "id": "s74",
+   "text": "8.1.1 Governing Law. "
+  },
+  {
+   "id": "s75",
+   "text": "This Agreement shall be governed by and interpreted in accordance with the internal laws of the State of Washington, and, where such laws are preempted by the laws of the United States, by the internal laws of the United States, in each case without regard to conflicts of laws principles."
+  },
+  {
+   "id": "s76",
+   "text": "8.1.2 Arbitration. "
+  },
+  {
+   "id": "s77",
+   "text": "In the event of any controversy or claim arising out of or relating to this Agreement or the breach or interpretation thereof, the parties shall, upon five days notice from either one to the other, submit themselves and the subject-matter of the dispute to arbitration in accordance with the Commercial Arbitration Rules of the American Arbitration Association by a single, disinterested arbitrator appointed in accordance with such Rules. "
+  },
+  {
+   "id": "s78",
+   "text": "The determination of the arbitrator shall be final, conclusive and binding. "
+  },
+  {
+   "id": "s79",
+   "text": "Judgment upon the award rendered may be entered in any court of any state or country having jurisdiction. "
+  },
+  {
+   "id": "s80",
+   "text": "Each party shall ensure that any arbitration is conducted as speedily as is reasonably possible, and that all and any information disclosed during or in connection with the arbitration is treated by each party with the strictest confidence. "
+  },
+  {
+   "id": "s81",
+   "text": "Any arbitration conducted under or in connection with this Agreement shall take place in Seattle, Washington at a time and location to be determined by the arbitrator."
+  },
+  {
+   "id": "s82",
+   "text": "8.1.3 Interim and Permanent Relief. "
+  },
+  {
+   "id": "s83",
+   "text": "Upon the application of either party to this Agreement, and whether or not an arbitration has yet been initiated, all courts having jurisdiction over one or more of the parties are authorized to: "
+  },
+  {
+   "id": "s84",
+   "text": "(i) issue and enforce in any lawful manner such temporary restraining orders, preliminary injunctions and other interim measures of relief as may be necessary to prevent harm to a party's interests or as otherwise may be appropriate pending the conclusion of arbitration proceedings pursuant to this Agreement; and "
+  },
+  {
+   "id": "s85",
+   "text": "(ii) enter and enforce in any lawful manner such judgments for permanent equitable relief as may be necessary to prevent harm to a party's interests or as otherwise may be appropriate following the issuance of arbitral awards pursuant to this Agreement."
+  },
+  {
+   "id": "s86",
+   "text": "8.1.4 Legal Expenses. "
+  },
+  {
+   "id": "s87",
+   "text": "If any proceeding is brought by either party to enforce or interpret any provision of this Agreement, the substantially prevailing party in such proceeding shall be entitled to recover, in addition to all other relief arising out of this Agreement, such party's reasonable attorneys' and other experts' fees and expenses."
+  },
+  {
+   "id": "s88",
+   "text": "8.2 Waiver; Severability; Invalidity. "
+  },
+  {
+   "id": "s89",
+   "text": "No waiver of or with respect to any provision of this Agreement, nor consent by a party to the breach of or departure from any provision of this Agreement, shall in any event be binding on or effective against such party unless it be in writing and signed by such party, and then such waiver shall be effective only in the specific instance and for the purpose for which given. "
+  },
+  {
+   "id": "s90",
+   "text": "If any provision of this Agreement is held to be invalid, such invalidity shall not render invalid the remainder of this Agreement or the remainder of which such invalid provision is a part. "
+  },
+  {
+   "id": "s91",
+   "text": "If any provision of this Agreement is so broad as to be held unenforceable, such provision shall be interpreted to be only so broad as is enforceable."
+  },
+  {
+   "id": "s92",
+   "text": "8.3 Notices. "
+  },
+  {
+   "id": "s93",
+   "text": "Any notice or other communication under this Agreement given by either party to the other party shall be deemed to be properly given if given in writing and delivered "
+  },
+  {
+   "id": "s94",
+   "text": "(i) by nationally recognized private courier (e.g., Federal Express) or "
+  },
+  {
+   "id": "s95",
+   "text": "(ii) by mail (return receipt requested), properly addressed and stamped with the required postage, to the recipient at the address identified in its signature block to this Agreement. "
+  },
+  {
+   "id": "s96",
+   "text": "Either party may from time to time change its address by giving the other party notice of the change in accordance with this Section."
+  },
+  {
+   "id": "s97",
+   "text": "8.4 Entire Agreement; Amendments. "
+  },
+  {
+   "id": "s98",
+   "text": "This Agreement constitutes and embodies the entire agreement and understanding between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous written, electronic or oral communications, agreements or understandings between the parties with respect thereto. "
+  },
+  {
+   "id": "s99",
+   "text": "This Agreement may not be modified or amended except by a written instrument executed by the parties."
+  }
+ ]
+}

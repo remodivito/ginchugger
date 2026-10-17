@@ -1,0 +1,569 @@
+{
+ "id": "N258",
+ "revision": 1,
+ "title": "Non-Disclosure-Agreement_4.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 258,
+  "type": "search-pdf",
+  "url": "https://kodiak.aero/wp-content/uploads/2017/07/Non-Disclosure-Agreement.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "Mutual Non-Disclosure "
+  },
+  {
+   "id": "s1",
+   "text": "Agreement"
+  },
+  {
+   "id": "s2",
+   "text": "THIS MUTUAL NON-DISCLOSURE AGREEMENT (this “Agreement”) is effective as of the _____ day of "
+  },
+  {
+   "id": "s3",
+   "text": "________________,20____(hereinafter, \"Effective Date\"), by and between "
+  },
+  {
+   "id": "s4",
+   "text": "__________________________, "
+  },
+  {
+   "id": "s5",
+   "text": "a ___________________(insert state where business is officially organized)___________________(insert entity type, [corporation, LLC, etc]) having its principal place of business in "
+  },
+  {
+   "id": "s6",
+   "text": "____________________ (hereinafter, \"Supplier\"), and Quest Aircraft Company, an Idaho corporation having its principal place of business in Sandpoint, Idaho, U.S.A. (hereinafter \"Quest\"), either or both of which may hereinafter be referred to as \"Party\" or \"Parties,\" respectively."
+  },
+  {
+   "id": "s7",
+   "text": "WHEREAS, Quest is currently engaged in the development, manufacture, sale and support of general aviation aircraft and the design of certain components or Goods associated with such aircraft, commonly known as Build-to-Print Goods;"
+  },
+  {
+   "id": "s8",
+   "text": "WHEREAS, Supplier is engaged in the manufacture, sale and support of Build-to-Print Goods as identified herein (hereinafter, \"Goods\"); and"
+  },
+  {
+   "id": "s9",
+   "text": "WHEREAS, Quest and Supplier are, or will be, parties to that certain Quest Aircraft Company Agreement for Purchase of Quest Designed Goods or for Purchase of Supplier Designed Goods dated as of _________, 20___, (the “Supplier Agreement”) whereby Supplier agrees to manufacture, test, qualify, support and sell Goods identified in the Supplier Agreement to Quest in compliance with the technical, commercial and administrative requirements set forth in the Supplier Agreement and the requirements of the Federal Aviation Administration (the “FAA”);"
+  },
+  {
+   "id": "s10",
+   "text": "WHEREAS, the Parties may find it necessary to provide each other certain Confidential Information (as hereinafter defined) in connection with: "
+  },
+  {
+   "id": "s11",
+   "text": "(i) negotiating the Supplier Agreement or otherwise exploring the possibility of a business relationship between the Parties; "
+  },
+  {
+   "id": "s12",
+   "text": "(ii) furthering the intent or purposes of any currently existing or future business relationship between the Parties; and "
+  },
+  {
+   "id": "s13",
+   "text": "(iii) furthering the intent or purposes of the Supplier Agreement and any other existing or future written agreement between the Parties (collectively, the “Business Purpose”)."
+  },
+  {
+   "id": "s14",
+   "text": "NOW THEREFORE, for and in consideration of the above recital and the mutual promises, covenants and agreements set forth herein, the Parties hereby agree as follows:"
+  },
+  {
+   "id": "s15",
+   "text": "1. Purpose. "
+  },
+  {
+   "id": "s16",
+   "text": "Subject to the terms and conditions of this Agreement, the Parties may each find it necessary to provide to each other certain Confidential Information (as such term is defined herein) in connection with the Business Purpose. "
+  },
+  {
+   "id": "s17",
+   "text": "As a condition to either Party furnishing such Confidential Information, the Parties hereby agree to treat such Confidential Information provided to the other Party (the “Receiving Party” or “Recipient”) by or on behalf of the other Party (the “Disclosing Party”) in accordance with the terms of this Agreement and to take or abstain from taking certain other actions herein set forth. "
+  },
+  {
+   "id": "s18",
+   "text": "For the purposes of this Agreement, the terms “Disclosing Party” and “Recipient” or “Receiving Party” shall include each Party’s affiliates and subsidiaries that disclose or receive Confidential Information. "
+  },
+  {
+   "id": "s19",
+   "text": "The rights and obligations of the Parties shall therefore also inure to such affiliates and subsidiaries and may be directly enforced by or against such affiliates or subsidiaries. "
+  },
+  {
+   "id": "s20",
+   "text": "As to each party hereto, the term \"Representatives\" shall mean such party's directors (if a corporation), managers (if an LLC), and selected officers, employees, agents, representatives, and advisors (including attorneys and accountants)."
+  },
+  {
+   "id": "s21",
+   "text": "2. Use of Confidential Information. "
+  },
+  {
+   "id": "s22",
+   "text": "Each Party hereby agrees that any Confidential Information received by it will be used solely for the Business Purpose, and that such information will be kept confidential by such Party; provided, however, that such Confidential Information may be disclosed to the Representatives of the Receiving Party on a need to know basis to the extent necessary to further the Business Purpose (it being understood that such Representatives shall be informed by the Receiving Party of the confidential nature of such information and shall be directed to treat such information confidentially and that the Receiving Party shall take all reasonable measures to restrain Date: Dec. 2015"
+  },
+  {
+   "id": "s23",
+   "text": "its Representatives from the unauthorized use or disclosure of the Disclosing Party's Confidential Information). "
+  },
+  {
+   "id": "s24",
+   "text": "In addition, each Party, as a Receiving Party, shall:"
+  },
+  {
+   "id": "s25",
+   "text": "a) not directly or indirectly cause, permit or enable the disclosure, publication, transfer, misappropriation or revealing to any person or entity not specifically permitted hereunder, of any of the Disclosing Party’s Confidential Information without the clear and express prior written consent of a duly authorized officer of the Disclosing Party;"
+  },
+  {
+   "id": "s26",
+   "text": "b.) take such precautions, contractual or otherwise, as shall be required to keep the Disclosing Party’s Confidential Information strictly secret and confidential and will be responsible to the Disclosing Party for "
+  },
+  {
+   "id": "s27",
+   "text": "(i) its Representatives’ use and disclosure of the Confidential Information; and "
+  },
+  {
+   "id": "s28",
+   "text": "(ii) any third party’s use and disclosure of the Confidential Information that the Receiving Party provides to such third party in accordance with this Agreement."
+  },
+  {
+   "id": "s29",
+   "text": "c.) protect the Confidential Information disclosed to such Party by the other Disclosing Party with the higher of the standard of care which such party uses to protect its own proprietary information or the standard of care which a prudent business person would exercise to protect valuable proprietary information, and"
+  },
+  {
+   "id": "s30",
+   "text": "3. Export Control Status. "
+  },
+  {
+   "id": "s31",
+   "text": "Each Party specifically acknowledges that use or disclosure of the Confidential Information may be subject to U.S. Government’s export laws and regulations, included but not limited to, the International Traffic in Arms Regulations (ITAR) and the Export Administration Regulations (EAR) and warrants that such Party shall make no use or disclosure of the Confidential Information contrary to such laws or other applicable laws. "
+  },
+  {
+   "id": "s32",
+   "text": "Any Confidential Information disclosed, by either Party, will be marked with its control status under the regulations. "
+  },
+  {
+   "id": "s33",
+   "text": "In the case of information disclosed verbally the control status will be given prior to discussions and the subsequent memo will be marked with that status. "
+  },
+  {
+   "id": "s34",
+   "text": "The Receiving Party certifies that no portion of the Confidential Information will be exported or transferred, whether directly or indirectly, without first complying strictly and fully with all export controls that may be imposed on such information by the United States government or any country or organization or nations within whose jurisdiction the Receiving Party operates or does business. "
+  },
+  {
+   "id": "s35",
+   "text": "The Receiving Party shall indemnify and hold the Disclosing Party harmless against all claims, demands, damages, costs, fines, penalties, attorneys’ fees, and all other expenses arising from failure of the Receiving Party to comply with this Section 3 or applicable export control laws and regulations."
+  },
+  {
+   "id": "s36",
+   "text": "4. Ownership. "
+  },
+  {
+   "id": "s37",
+   "text": "Each Party hereby agrees that a Disclosing Party’s Confidential Information, and all copies and manifestations of the same, or in any way incorporating or reflecting same, including but not limited to all notes, data, reference materials, sketches, drawings, memoranda, documentation, computer files and disks incorporating or reflecting any of the Disclosing Party’s Confidential Information, are, and shall remain at all times, the exclusive property of the Disclosing Party and that no right, license title license or interest in the Disclosing Party’s Confidential Information is granted by this Agreement or by any disclosure of the Confidential Information."
+  },
+  {
+   "id": "s38",
+   "text": "5. Return. "
+  },
+  {
+   "id": "s39",
+   "text": "Within ten (10) calendar days of written request by the Disclosing Party, the Receiving Party shall return to the Disclosing Party, or at the Disclosing Party's option, shall destroy, any physical and written records containing such Confidential Information, whether such physical and written records were supplied or made available by the Disclosing Party or were prepared by the Recipient or its Representatives from information supplied or made available by the Disclosing Party. "
+  },
+  {
+   "id": "s40",
+   "text": "In such event, the Recipient shall certify in writing to the Disclosing Party that such physical or written materials have been returned or destroyed."
+  },
+  {
+   "id": "s41",
+   "text": "6. Continuing Obligation. "
+  },
+  {
+   "id": "s42",
+   "text": "The confidentiality obligations under this Agreement shall remain in effect for the longer of "
+  },
+  {
+   "id": "s43",
+   "text": "(i) five (5) years after the termination of this Agreement, or "
+  },
+  {
+   "id": "s44",
+   "text": "(ii) five (5) years after the expiration or termination of the Business Purpose. "
+  },
+  {
+   "id": "s45",
+   "text": "Notwithstanding the foregoing, with respect to Confidential Information that constitutes a Trade Secret, the confidentiality obligations under this Agreement shall survive as long as the information disclosed continues to constitute a Trade Secret under applicable law."
+  },
+  {
+   "id": "s46",
+   "text": "7. Definitions. "
+  },
+  {
+   "id": "s47",
+   "text": "For the purposes of this Agreement, the term “Confidential Information” shall mean any information furnished to the Receiving Party or its Representatives, whether oral, written or visual, and regardless of the manner in which it is furnished, by or on behalf of the Disclosing Party or its Representative, and shall include, without limitation:"
+  },
+  {
+   "id": "s48",
+   "text": "a) information constituting a \"Trade Secret\", as defined in Idaho Code, Title 48, Chapter 8; Idaho Trade Secrets Act, as amended from time to time, and will include technical or non-technical data, a formal, a pattern, a compilation, a program, a software program, a device, a method, a technique, a drawing, a process, financial data, financial plans, product plans, non-public forecasts, studies, projections, analyses, all customer data of any kind, or a list of actual or potential customers or suppliers, business and contractual relationships, or any information similar to the foregoing which "
+  },
+  {
+   "id": "s49",
+   "text": "(i) derives economic value, actual or potential, from not being generally known and not readily ascertainable by proper means to other persons who can obtain economic value from its disclosure or use; and "
+  },
+  {
+   "id": "s50",
+   "text": "(ii) is the subject of efforts that are reasonable under the circumstances to maintain its secrecy. "
+  },
+  {
+   "id": "s51",
+   "text": "Trade Secrets will include any information meeting the foregoing criteria which belongs to third parties and which the Disclosing Party under this Agreement is obligated to hold in confidence;"
+  },
+  {
+   "id": "s52",
+   "text": "b) the non-public financial statements of a party;"
+  },
+  {
+   "id": "s53",
+   "text": "c) any confidential and proprietary information which the Disclosing Party obtains from another person or entity under an obligation of confidence and which the Disclosing Party treats as proprietary; and"
+  },
+  {
+   "id": "s54",
+   "text": "d) any valuable, secret business information, other than Trade Secrets, including but not limited to all specifications, drawings, sketches, models, samples, reports, plans, forecasts, and all other technical, financial or business data that is designated or identified as confidential at the time of disclosure or by its nature is clearly recognizable as confidential information to a reasonably prudent person with knowledge of the Disclosing Party’s business and industry"
+  },
+  {
+   "id": "s55",
+   "text": "All information or material that is disclosed by a Disclosing Party to a Receiving Party before, on or after the date hereof shall only be protected as Confidential Information of the Disclosing Party: "
+  },
+  {
+   "id": "s56",
+   "text": "(i) if in writing other tangible form, such information is marked as “confidential” or “proprietary; "
+  },
+  {
+   "id": "s57",
+   "text": "(ii) if oral or in other intangible form, such information or material is identified to the Receiving Party in writing as confidential or proprietary within sixty (60) days of the date of such disclosure; or "
+  },
+  {
+   "id": "s58",
+   "text": "(iii) if due to the character or nature of such information or material, a reasonable person receiving such information or material under like circumstances would believe that Disclosing Party considered such information or material proprietary or confidential."
+  },
+  {
+   "id": "s59",
+   "text": "8. Exceptions. "
+  },
+  {
+   "id": "s60",
+   "text": "The confidentiality obligations under this Agreement shall not apply to, and the term \"Confidential Information\" shall specifically not include:"
+  },
+  {
+   "id": "s61",
+   "text": "a) information which was, or at any time becomes, available in the public domain through no wrongful act of the Recipient or Recipient's Representatives;"
+  },
+  {
+   "id": "s62",
+   "text": "b) information which is already in the Receiving Party’s lawful possession (as shown by written records) prior to the first disclosure of such information to the Recipient by the Disclosing Party or its Representatives, provided such information is not subject to another confidentiality agreement with or other obligation of secrecy to the Disclosing Party or another party;"
+  },
+  {
+   "id": "s63",
+   "text": "c) information which is documented by the Recipient as having been developed independently by it without use, directly or indirectly, of the information received from such Disclosing Party or its Representatives; and"
+  },
+  {
+   "id": "s64",
+   "text": "d) information which is documented by the Recipient as having been lawfully acquired by the Recipient from a source other than the Disclosing Party or its Representatives provided that such source is not bound by a confidentiality agreement with or other obligation of secrecy to the Disclosing Party or another party."
+  },
+  {
+   "id": "s66",
+   "text": "With regard to clause "
+  },
+  {
+   "id": "s67",
+   "text": "(a) above, the fact that certain information is in the public domain shall not affect the status of other information, which is not in the public domain, as Confidential Information hereunder, nor shall it cause such other information to be deemed to be in the public domain merely because such public domain information is embodied therein."
+  },
+  {
+   "id": "s68",
+   "text": "9. Equitable Remedy. "
+  },
+  {
+   "id": "s69",
+   "text": "The Parties acknowledge and agree that: "
+  },
+  {
+   "id": "s70",
+   "text": "(i) the covenants in this Agreement are reasonable under the circumstances and are necessary to protect the Parties and the property of such Parties; and "
+  },
+  {
+   "id": "s71",
+   "text": "(ii) the breach by one Party of any of the provisions of this Agreement would cause serious and irreparable harm to the other Party that could not be adequately remedied by monetary damages alone. "
+  },
+  {
+   "id": "s72",
+   "text": "Each Party, therefore, consents to an order specifically enforcing the provisions of this Agreement or an order being issued against such Party enjoining or restraining it from any breach of the provisions of this Agreement, and agrees that such orders may be issued against such Party without the necessity of an undertaking as to damages or posting of bond by the Party seeking such orders. "
+  },
+  {
+   "id": "s73",
+   "text": "The Provisions of this Section 9 shall not derogate from any other remedy available at law or in equity that one Party may be entitled in the event of breach hereunder by the other Party."
+  },
+  {
+   "id": "s74",
+   "text": "10. Requests for Disclosure. "
+  },
+  {
+   "id": "s75",
+   "text": "Notwithstanding anything in this Agreement to the contrary, the confidentiality obligations imposed on each Party hereunder shall not apply to Confidential Information to the extent that disclosure of such information is required under applicable law, regulation or legal process; provided however, that, in the event the Receiving Party or any of its Representatives are required by applicable law, regulation or legal process to disclose any Confidential Information, prior to making such disclosure, the Receiving Party or its Representatives, as applicable shall notify the Disclosing Party in writing of such required disclosure as promptly as possible so that the Disclosing Party may seek a protective order or other appropriate remedy or, in its sole discretion, waive compliance with the terms of this Agreement. "
+  },
+  {
+   "id": "s76",
+   "text": "In the event that no such protective order or other remedy is obtained before disclosure is required or the Disclosing Party waives compliance with the terms of this Agreement, the Receiving Party or its Representative, as applicable, shall furnish only that portion of the Confidential Information which is advised by counsel to be legally required and will request that the applicable legal authority hold the Confidential Information in confidence. "
+  },
+  {
+   "id": "s77",
+   "text": "Further, in such case, the Disclosing Party shall be given an opportunity to review the Disclosing Party's Confidential Information to be disclosed by the Recipient prior to its disclosure."
+  },
+  {
+   "id": "s78",
+   "text": "11. No Representation. "
+  },
+  {
+   "id": "s79",
+   "text": "Each Party understands and acknowledges that no representation or warranty of any kind, whether express or implied, is made as to the accuracy or completeness of the Confidential Information provided by either Party, and neither the Disclosing Party nor any of its affiliates, Representatives, directors, officers, equity owners, managers, employees or agents shall have any liability to the Recipient or to any other person or entity resulting from use of the Disclosing Party's Confidential Information."
+  },
+  {
+   "id": "s80",
+   "text": "12. No Commitment. "
+  },
+  {
+   "id": "s81",
+   "text": "Nothing contained herein shall be construed as committing the Parties hereto to enter into any business relationship between the Parties."
+  },
+  {
+   "id": "s82",
+   "text": "13. Entire Agreement. "
+  },
+  {
+   "id": "s83",
+   "text": "This Agreement constitutes the entire agreement and understanding of the parties hereto with respect to the subject matter hereof and supersedes all prior oral or written agreements, arrangements, and understandings with respect thereto. "
+  },
+  {
+   "id": "s84",
+   "text": "No representation, promise, inducement, statement or intention has been made by any party hereto that is not embodied herein, and no party shall be bound by or liable for any alleged representation, promise, inducement, or statement not so set forth herein."
+  },
+  {
+   "id": "s85",
+   "text": "14. Modification. "
+  },
+  {
+   "id": "s86",
+   "text": "Except as permitted in Section 21 below (unilaterally changing its address), this Agreement may be modified, amended, superseded, or cancelled only by a written instrument signed by each of the Parties hereto, and any of the terms, covenants, representations, warranties or conditions hereof may be waived only by a written instrument executed by the party to be bound by any such waiver."
+  },
+  {
+   "id": "s87",
+   "text": "15. Severability. "
+  },
+  {
+   "id": "s88",
+   "text": "If any provision of this Agreement is or becomes prohibited or unenforceable in any jurisdiction, such prohibition or unenforceability shall not invalidate the remaining provisions thereof or affect the validity or enforceability of such provisions in any other jurisdiction."
+  },
+  {
+   "id": "s89",
+   "text": "16. Governing Law/Venue. "
+  },
+  {
+   "id": "s90",
+   "text": "This Agreement shall be governed by and construed in accordance with the laws of the State of Idaho, determined without regard to conflicts of law principles. "
+  },
+  {
+   "id": "s91",
+   "text": "Each Party expressly submits to the jurisdiction of the United States District Court in Coeur D’Alene, Idaho, or alternatively, to the jurisdiction of the First Judicial District Court of Kootenai County, Idaho."
+  },
+  {
+   "id": "s92",
+   "text": "17. Independent Advice from Counsel. "
+  },
+  {
+   "id": "s93",
+   "text": "Each of the Parties has received independent legal advice from legal counsel of their choice with respect to the advisability of entering into this Agreement and its terms or has knowingly and voluntarily waived its right to do so. "
+  },
+  {
+   "id": "s94",
+   "text": "The terms of this Agreement are the result of mutual negotiations between the parties, and the provisions of this Agreement shall be interpreted and construed in accordance with their fair meanings, and not strictly for or against either party, regardless of which Party may have drafted this Agreement."
+  },
+  {
+   "id": "s95",
+   "text": "18. Waiver. "
+  },
+  {
+   "id": "s96",
+   "text": "Any failure at any time of either Party to enforce any provision of this Agreement shall not constitute a waiver of such provision or prejudice the right of such Party to enforce such provision at any subsequent time."
+  },
+  {
+   "id": "s97",
+   "text": "19. Attorneys' Fees and Costs. "
+  },
+  {
+   "id": "s98",
+   "text": "In the event of any dispute with respect to the subject matter of this Agreement, the prevailing party shall recover, in addition to any other damages assessed, its reasonable attorneys' fees and costs incurred in litigating, arbitrating, or otherwise settling or resolving such dispute."
+  },
+  {
+   "id": "s99",
+   "text": "20. Headings. "
+  },
+  {
+   "id": "s100",
+   "text": "The section and other headings contained in this Agreement are for reference purposes only and shall not in any way affect the meaning and interpretation of this Agreement."
+  },
+  {
+   "id": "s101",
+   "text": "21. Notices. "
+  },
+  {
+   "id": "s102",
+   "text": "All notices, requests, demands and other communications hereunder shall be in writing and shall be deemed to be duly given or made when delivered personally or transmitted electronically by e-mail or facsimile, with receipt acknowledged, or in the case of documented overnight delivery service or certified or registered mail, return receipt requested, on the date shown on the receipt therefore, to the Parties at the addresses listed beneath such Party's signature to this Agreement, or at such other address as may be provided to the other Party in writing in accordance with the provisions of this Section 22."
+  },
+  {
+   "id": "s103",
+   "text": "22. Successors and Assigns. "
+  },
+  {
+   "id": "s104",
+   "text": "This Agreement and its rights and obligations shall not be assignable without the prior written consent of the other party hereto, and any attempted assignment without such consent shall be void; provided, however, that such consent shall not be required in the case of an assignment to a successor to the business and assets of the assignor, which successor agrees to be bound to the terms of this Agreement and the obligations of the assignor under this Agreement. "
+  },
+  {
+   "id": "s105",
+   "text": "Subject to the preceding sentence, the provisions of this Agreement shall inure to the benefit of and shall be binding upon the parties hereto and their respective successors and assigns. "
+  },
+  {
+   "id": "s106",
+   "text": "An assigning party shall continue to be bound to all of its obligations under this Agreement."
+  },
+  {
+   "id": "s107",
+   "text": "23. Counterparts. "
+  },
+  {
+   "id": "s108",
+   "text": "This Agreement, and any amendment thereof, may be executed in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same document"
+  },
+  {
+   "id": "s109",
+   "text": "IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed as of the Effective Date."
+  },
+  {
+   "id": "s110",
+   "text": "QUEST AIRCRAFT COMPANY, LLC THE COMPANY"
+  },
+  {
+   "id": "s111",
+   "text": "Signature: "
+  },
+  {
+   "id": "s112",
+   "text": "______________________________ "
+  },
+  {
+   "id": "s113",
+   "text": "Signature: "
+  },
+  {
+   "id": "s114",
+   "text": "______________________________"
+  },
+  {
+   "id": "s115",
+   "text": "Title: "
+  },
+  {
+   "id": "s116",
+   "text": "__________________________________ "
+  },
+  {
+   "id": "s117",
+   "text": "Title: "
+  },
+  {
+   "id": "s118",
+   "text": "__________________________________"
+  },
+  {
+   "id": "s119",
+   "text": "Print Name: Print Name:"
+  },
+  {
+   "id": "s120",
+   "text": "Address: "
+  },
+  {
+   "id": "s121",
+   "text": "_______________________________ "
+  },
+  {
+   "id": "s122",
+   "text": "Address: "
+  },
+  {
+   "id": "s123",
+   "text": "_______________________________"
+  },
+  {
+   "id": "s124",
+   "text": "City, State Zip: "
+  },
+  {
+   "id": "s125",
+   "text": "__________________________ "
+  },
+  {
+   "id": "s126",
+   "text": "City, State Zip: "
+  },
+  {
+   "id": "s127",
+   "text": "__________________________"
+  },
+  {
+   "id": "s128",
+   "text": "Phone: "
+  },
+  {
+   "id": "s129",
+   "text": "_________________________________ "
+  },
+  {
+   "id": "s130",
+   "text": "Phone: "
+  },
+  {
+   "id": "s131",
+   "text": "_________________________________"
+  },
+  {
+   "id": "s132",
+   "text": "Fax: "
+  },
+  {
+   "id": "s133",
+   "text": "___________________________________ "
+  },
+  {
+   "id": "s134",
+   "text": "Fax: "
+  },
+  {
+   "id": "s135",
+   "text": "___________________________________"
+  },
+  {
+   "id": "s136",
+   "text": "Email: "
+  },
+  {
+   "id": "s137",
+   "text": "_________________________________ "
+  },
+  {
+   "id": "s138",
+   "text": "Email: "
+  },
+  {
+   "id": "s139",
+   "text": "_________________________________"
+  }
+ ]
+}

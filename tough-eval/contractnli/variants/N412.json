@@ -1,0 +1,589 @@
+{
+ "id": "N412",
+ "revision": 1,
+ "title": "880458_0001021408-01-510269_dex1087.txt",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 412,
+  "type": "sec-text",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000880458/000102140801510269/0001021408-01-510269.txt"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "NON-COMPETITION AND NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "This Non-Competition and Non-Disclosure Agreement (the \"Agreement\") is made and entered into this 30th day of May, 2001 by and between Hai-Perng, aka Alex Kuo (\"Covenantor\"), and Vertel Corporation, a California corporation (\"Buyer\"), and is made with reference to the following:"
+  },
+  {
+   "id": "s2",
+   "text": "RECITALS"
+  },
+  {
+   "id": "s3",
+   "text": "A. The Company is engaged in the business of development and sales of network management software tools that utilize CORBA as the development platform and provides consulting and related services. "
+  },
+  {
+   "id": "s4",
+   "text": "The Company has offices in California, New Jersey and Texas."
+  },
+  {
+   "id": "s5",
+   "text": "B. Pursuant to that certain Agreement and Plan of Reorganization and Liquidation, dated May 30, 2001, by and between Trigon Technology Group, Inc., a Texas corporation (the \"Company\"), and Buyer (the \"Purchase Agreement\"), the Company will sell to Buyer and Buyer will purchase from the Company, substantially all of the assets of the Company together with the goodwill of the Company (the \"Assets\")."
+  },
+  {
+   "id": "s6",
+   "text": "B. Covenantor is a shareholder of the Company and has been employed as the Chief Executive Officer and the President of the Company."
+  },
+  {
+   "id": "s7",
+   "text": "C. Covenantor acknowledges that the Company and its employees and shareholders have over several years devoted substantial time, effort and resources to developing the Assets which consist of the Company's trade secrets and its other confidential and proprietary information as well as the Company's relationships with customers, suppliers, employees and others doing business with the Company; that such relationships, trade secrets and other information are vital to the successful conduct of the Company's business by Buyer in the future; that because of Covenantor's access to such confidential information and trade secrets, Covenantor would be in a unique position to divert business from Buyer and to commit irreparable damage to Buyer were Covenantor to be allowed to compete with Buyer or to commit any of the other acts prohibited below; that the enforcement of said restrictive covenants against Covenantor would not impose any undue burden upon Covenantor; that none of said restrictive covenants is unreasonable as to period or geographic area; and that the ability to enforce said restrictive covenants against Covenantor is a material inducement to the decision of Buyer to consummate the transactions contemplated in the Purchase Agreement."
+  },
+  {
+   "id": "s8",
+   "text": "NOW, THEREFORE in consideration of the foregoing recitals, the mutual agreements hereinafter set forth and the mutual benefits to be derived therefrom, Covenantor covenants and agrees as follows:"
+  },
+  {
+   "id": "s9",
+   "text": "ARTICLE 1"
+  },
+  {
+   "id": "s10",
+   "text": "DEFINITIONS"
+  },
+  {
+   "id": "s11",
+   "text": "1.1 "
+  },
+  {
+   "id": "s12",
+   "text": "The term \"Buyer,\" as used herein, means not only Vertel Corporation, but also any company, partnership or entity which "
+  },
+  {
+   "id": "s13",
+   "text": "(a) directly or indirectly, controls, is controlled by or is under common control with Vertel Corporation or "
+  },
+  {
+   "id": "s14",
+   "text": "(b) is a successor-in-interest to Vertel Corporation."
+  },
+  {
+   "id": "s15",
+   "text": "1.2 "
+  },
+  {
+   "id": "s16",
+   "text": "The term \"Confidential Information\", as used herein, means all information or material not generally known by non-Company personnel constituting Assets and acquired by Buyer under the Purchase Agreement which "
+  },
+  {
+   "id": "s17",
+   "text": "(i) gives the Company some competitive business advantage or the opportunity of obtaining such advantage or the disclosure of which could be detrimental to the interests of the Company; "
+  },
+  {
+   "id": "s18",
+   "text": "(ii) which is owned by the Company or in which the Company has an interest and "
+  },
+  {
+   "id": "s19",
+   "text": "(iii) which is either "
+  },
+  {
+   "id": "s20",
+   "text": "(A) marked \"Confidential Information,\" \"Proprietary Information\" or other similar marking, "
+  },
+  {
+   "id": "s21",
+   "text": "(B) known by Covenantor to be considered confidential and proprietary by the Company as of the date hereof or "
+  },
+  {
+   "id": "s22",
+   "text": "(C) from all the relevant circumstances should reasonably be assumed by Covenantor to be confidential and proprietary to the Company. "
+  },
+  {
+   "id": "s23",
+   "text": "Confidential Information includes, but is not limited to, the following types of information and other information of a similar nature (whether or not reduced to writing): trade secrets, inventions, drawings, file data, documentation, diagrams, specifications, know how, processes, formulas, models, flow charts, software in various stages of development, source code, object code, research and development procedures, research or development and test results, marketing techniques and materials, marketing and development plans, price lists, pricing policies, business plans, information relating to customers and/or suppliers' identities, characteristics and agreements, financial information and projections, and employee files. "
+  },
+  {
+   "id": "s24",
+   "text": "Confidential Information also includes any information described above which the Company obtains from another party and which the Company treats as proprietary or is required to treat as Confidential Information, whether or not owned or developed by the Company. "
+  },
+  {
+   "id": "s25",
+   "text": "NOTWITHSTANDING THE ABOVE, HOWEVER, NO INFORMATION CONSTITUTES CONFIDENTIAL INFORMATION IF IT IS GENERIC INFORMATION OR GENERAL KNOWLEDGE WHICH COVENANTOR WOULD HAVE LEARNED IN"
+  },
+  {
+   "id": "s26",
+   "text": "THE COURSE OF SIMILAR EMPLOYMENT ELSEWHERE IN THE TRADE, IF SUCH INFORMATION IS"
+  },
+  {
+   "id": "s27",
+   "text": "LAWFULLY AVAILABLE TO COVENANTOR FROM A SOURCE OTHER THAN THE COMPANY, OR IF IT"
+  },
+  {
+   "id": "s28",
+   "text": "IS OTHERWISE PUBLICLY KNOWN AND IN THE PUBLIC DOMAIN."
+  },
+  {
+   "id": "s29",
+   "text": "1.3 "
+  },
+  {
+   "id": "s30",
+   "text": "The term \"Closing\" shall have the meaning ascribed to it in the Purchase Agreement."
+  },
+  {
+   "id": "s31",
+   "text": "ARTICLE 2"
+  },
+  {
+   "id": "s32",
+   "text": "COVENANT NOT TO COMPETE"
+  },
+  {
+   "id": "s33",
+   "text": "Covenantor shall not at any time within the period commencing on the date hereof and ending on the fourth (4/th/) anniversary of the date hereof (the \"Restricted Period\"), have any"
+  },
+  {
+   "id": "s34",
+   "text": "ownership interest (of record or beneficial) in or have any interest as an employee, salesman, consultant, officer or director in, or otherwise aid or assist in any manner, any firm, corporation, limited liability company, partnership, proprietorship or other business that engages in any California county, or in any other state, country or geographic area, listed in Exhibit \"A\" hereof in a business that is similar to and directly or indirectly offers products or services in competition with the business in which the Company was engaged in such California county, state, country or other geographic area as of the Closing, so long as Buyer, or any successor in interest of Buyer to the business and goodwill of the Company, remains engaged in such business in any such California county, state, country or other geographic area or continues to solicit customers or potential customers therein; provided, however, that Covenantor may own, directly or indirectly, solely as an investment, the securities of any person which are traded on any national securities exchange if Covenantor "
+  },
+  {
+   "id": "s35",
+   "text": "(i) is not a controlling person of, or a member of a group which controls, such person or "
+  },
+  {
+   "id": "s36",
+   "text": "(ii) does not, directly or indirectly own two percent (2%) or more of any class of securities of such person. "
+  },
+  {
+   "id": "s37",
+   "text": "For purposes of this ARTICLE 2, the business activities which may not be engaged in during the Restricted Period by Covenantor or by any firm, corporation, limited liability company, partnership, proprietorship or other business in which Covenantor has any interest are more particularly described in Exhibit \"B\" hereof."
+  },
+  {
+   "id": "s38",
+   "text": "ARTICLE 3"
+  },
+  {
+   "id": "s39",
+   "text": "SOLICITATION OF BUSINESS"
+  },
+  {
+   "id": "s40",
+   "text": "During the Restricted Period, Covenantor shall not solicit or assist any other person to solicit any business (other than for Buyer) from any present or past customer of the Company; or request or advise any present or future customer of the Company to withdraw, curtail or cancel its business dealings with Buyer; or commit any other act or assist others to commit any other act which might injure the business of Buyer."
+  },
+  {
+   "id": "s41",
+   "text": "ARTICLE 4"
+  },
+  {
+   "id": "s42",
+   "text": "EMPLOYEES"
+  },
+  {
+   "id": "s43",
+   "text": "During the Restricted Period, Covenantor shall not directly or indirectly "
+  },
+  {
+   "id": "s44",
+   "text": "(i) solicit or encourage any employee of Buyer to leave the employ of Buyer or "
+  },
+  {
+   "id": "s45",
+   "text": "(ii) hire any employee who has left the employ of Buyer if such hiring is proposed to occur within one year after the termination of such employee's employment with Buyer."
+  },
+  {
+   "id": "s46",
+   "text": "ARTICLE 5"
+  },
+  {
+   "id": "s47",
+   "text": "CONSULTANTS"
+  },
+  {
+   "id": "s48",
+   "text": "During the Restricted Period, Covenantor shall not directly or indirectly solicit or encourage any consultant then under contract with Buyer to cease work for Buyer."
+  },
+  {
+   "id": "s49",
+   "text": "ARTICLE 6"
+  },
+  {
+   "id": "s50",
+   "text": "NONDISCLOSURE"
+  },
+  {
+   "id": "s51",
+   "text": "From and after the Closing, Covenantor shall not (nor will Covenantor assist any other person to do so) directly or indirectly reveal, report, publish or disclose the Confidential Information to any person, firm or corporation not expressly authorized by Buyer to receive such Confidential Information, or use (or assist any person to use) such Confidential Information except for the benefit of Buyer."
+  },
+  {
+   "id": "s52",
+   "text": "ARTICLE 7"
+  },
+  {
+   "id": "s53",
+   "text": "OWNERSHIP AND RETURN OF MATERIALS"
+  },
+  {
+   "id": "s54",
+   "text": "Upon the termination of Covenantor's employment with Buyer, Covenantor shall immediately surrender to Buyer all notes, data, sketches, drawings, manuals, documents, records, data bases, programs, blueprints, memoranda, specifications, customer lists, financial reports, equipment and all other physical forms of expression incorporating or containing any Confidential Information, it being distinctly understood that all such writings, physical forms of expression and other things are the exclusive property of Buyer. "
+  },
+  {
+   "id": "s55",
+   "text": "Covenantor acknowledges that the unauthorized taking of any of Buyer's trade secrets is a crime under California Penal Code section 499(c) and is punishable by imprisonment in a state prison or in a county jail for a time not exceeding one year, or by a fine not exceeding five thousand dollars ($5,000), or by both such fine and such imprisonment. "
+  },
+  {
+   "id": "s56",
+   "text": "Covenantor further acknowledges that such unauthorized taking of Buyer's trade secrets could also result in civil liability under California Civil Code Section 3426, and that willful misappropriation may result in an award against Covenantor for triple the amount of Buyer's damages and Buyer's attorneys fees in collecting such damages."
+  },
+  {
+   "id": "s57",
+   "text": "ARTICLE 8"
+  },
+  {
+   "id": "s58",
+   "text": "RIGHTS AND REMEDIES UPON BREACH"
+  },
+  {
+   "id": "s59",
+   "text": "If Covenantor breaches, or threatens to commit a breach of, any of the provisions of this Agreement (the \"Restrictive Covenants\"), Buyer shall have the following rights and remedies, each of which shall be in addition to, and not in lieu of, any other rights and remedies available to Buyer under law or in equity:"
+  },
+  {
+   "id": "s60",
+   "text": "8.1 Specific Performance. "
+  },
+  {
+   "id": "s61",
+   "text": "The right and remedy to have the Restrictive Covenants specifically enforced or to have any actual or threatened breach thereof enjoined by any court having equity jurisdiction, all without the need to post a bond or any other security or to prove any amount of actual damage or that money damages would not provide an adequate remedy, it being acknowledged and agreed that any such breach or threatened breach will cause irreparable injury to Buyer and that monetary damages will not provide an adequate remedy to Buyer; and"
+  },
+  {
+   "id": "s62",
+   "text": "8.2 Accounting and Indemnification. "
+  },
+  {
+   "id": "s63",
+   "text": "The right and remedy to require Covenantor "
+  },
+  {
+   "id": "s64",
+   "text": "(i) to account for and pay over to Buyer all compensation, profits, monies, accruals, increments or other benefits derived or received by Covenantor or any associated party deriving such benefits as a result of any such breach of the Restrictive Covenants; and "
+  },
+  {
+   "id": "s65",
+   "text": "(ii) to indemnify Buyer against any other losses, damages (including special and consequential damages), costs and expenses, including reasonable attorneys' fees and court costs, which may be incurred by them and which result from or arise out of any such breach or threatened breach of the Restrictive Covenants."
+  },
+  {
+   "id": "s66",
+   "text": "ARTICLE 9"
+  },
+  {
+   "id": "s67",
+   "text": "SEVERABILITY OF COVENANTS/BLUE PENCILLING"
+  },
+  {
+   "id": "s68",
+   "text": "The Restrictive Covenants shall be subject to Section 12.7 hereof and Covenantor hereby waives any and all right to attack the validity of the Restrictive Covenants on the grounds of the breadth of their geographic scope or the length of their term."
+  },
+  {
+   "id": "s69",
+   "text": "ARTICLE 10"
+  },
+  {
+   "id": "s70",
+   "text": "ENFORCEABILITY IN JURISDICTIONS"
+  },
+  {
+   "id": "s71",
+   "text": "Buyer and Covenantor intend to and do hereby confer jurisdiction to enforce the Restrictive Covenants upon the courts of any jurisdiction within the geographical scope of such covenants. "
+  },
+  {
+   "id": "s72",
+   "text": "If the courts of any one or more of such jurisdictions hold the Restrictive Covenants wholly unenforceable by reason of the breadth of such scope or otherwise, it is the intention of Buyer and Covenantor that such determination not bar or in any way affect the right of Buyer to the relief provided above in the courts of any other jurisdiction within the geographical scope of such covenants, as to breaches of such covenants in such other respective jurisdictions, such covenants as they relate to each jurisdiction being, for this purpose, severable into diverse and independent covenants."
+  },
+  {
+   "id": "s73",
+   "text": "ARTICLE 11"
+  },
+  {
+   "id": "s74",
+   "text": "ATTORNEYS' FEES"
+  },
+  {
+   "id": "s75",
+   "text": "In the event of any action, suit, or other proceeding concerning the negotiation, interpretation, validity, performance, or breach of this Agreement, the prevailing party shall recover all of such party's reasonable attorneys' fees, expenses, and costs, not limited to costs of suit, incurred in each and every such action, suit, or other proceeding, including any and all appeals or petitions relating thereto."
+  },
+  {
+   "id": "s76",
+   "text": "ARTICLE 12"
+  },
+  {
+   "id": "s77",
+   "text": "MISCELLANEOUS"
+  },
+  {
+   "id": "s78",
+   "text": "12.1 Modification. "
+  },
+  {
+   "id": "s79",
+   "text": "This Agreement sets forth the entire understanding of the parties with respect to the subject matter hereof, supersedes all existing agreements between them concerning such subject matter, and may be modified only by a written instrument duly executed by each party."
+  },
+  {
+   "id": "s80",
+   "text": "12.2 Successors and Assigns. "
+  },
+  {
+   "id": "s81",
+   "text": "The terms and provisions of this Agreement shall be binding upon, and shall inure to the benefit of, the parties hereto, their personal representatives, administrators, executors, heirs, successors and assigns."
+  },
+  {
+   "id": "s82",
+   "text": "12.3 Waiver. "
+  },
+  {
+   "id": "s83",
+   "text": "The failure of either party hereto at any time to enforce performance by the other party of any provision of this Agreement shall in no way affect such party's rights thereafter to enforce the same, nor shall the waiver by either party of any breach of any provision hereof be deemed to be a waiver by such party of any other breach of the same or any other provision hereof."
+  },
+  {
+   "id": "s84",
+   "text": "12.4 Notices. "
+  },
+  {
+   "id": "s85",
+   "text": "All notices, requests and other communications hereunder shall be in writing and shall be delivered by courier or other means of personal service (including by means of a nationally recognized courier service or professional messenger service), or sent by facsimile or mailed first class, postage prepaid, by certified mail, return receipt requested, in all cases, addressed to:"
+  },
+  {
+   "id": "s86",
+   "text": "Buyer:"
+  },
+  {
+   "id": "s87",
+   "text": "Vertel Corporation"
+  },
+  {
+   "id": "s88",
+   "text": "21300 "
+  },
+  {
+   "id": "s89",
+   "text": "Victory Boulevard Suite 700 Woodland Hills, California 91367"
+  },
+  {
+   "id": "s90",
+   "text": "Attention: Chief Executive Officer"
+  },
+  {
+   "id": "s91",
+   "text": "Fax No.: "
+  },
+  {
+   "id": "s92",
+   "text": "(818) 598-0104"
+  },
+  {
+   "id": "s93",
+   "text": "With a copy to:"
+  },
+  {
+   "id": "s94",
+   "text": "David J. Katz, Esq."
+  },
+  {
+   "id": "s95",
+   "text": "Perkins Coie LLP"
+  },
+  {
+   "id": "s96",
+   "text": "1620 26/th/ "
+  },
+  {
+   "id": "s97",
+   "text": "Street"
+  },
+  {
+   "id": "s98",
+   "text": "6/th/ Floor"
+  },
+  {
+   "id": "s99",
+   "text": "Santa Monica, California 90404"
+  },
+  {
+   "id": "s100",
+   "text": "Fax No.: "
+  },
+  {
+   "id": "s101",
+   "text": "(310) 788-3399"
+  },
+  {
+   "id": "s102",
+   "text": "Covenantor: "
+  },
+  {
+   "id": "s103",
+   "text": "---------------------------------------------------------------------------------------------------------------------------------------"
+  },
+  {
+   "id": "s104",
+   "text": "Attention: "
+  },
+  {
+   "id": "s105",
+   "text": "-----------------------------------"
+  },
+  {
+   "id": "s106",
+   "text": "Fax No.: "
+  },
+  {
+   "id": "s107",
+   "text": "With a copy to: ---------------------------------------------------------------------------------------------------------------------------------------"
+  },
+  {
+   "id": "s108",
+   "text": "Attention: "
+  },
+  {
+   "id": "s109",
+   "text": "-----------------------------------"
+  },
+  {
+   "id": "s110",
+   "text": "Fax No.: "
+  },
+  {
+   "id": "s111",
+   "text": "All notices, requests and other communications shall be deemed given on the date of actual receipt or delivery as evidenced by written receipt, acknowledgement or other evidence of actual receipt or delivery to the address. "
+  },
+  {
+   "id": "s112",
+   "text": "In case of service by facsimile, a copy of such notice shall be personally delivered or sent by registered or certified mail, in the manner set forth above, within three business days thereafter. "
+  },
+  {
+   "id": "s113",
+   "text": "Any party hereto may from time to time by notice in writing served as set forth above designate a different address or a different or additional person to which all such notices or communications thereafter are to be given."
+  },
+  {
+   "id": "s114",
+   "text": "12.5 Time of Essence. "
+  },
+  {
+   "id": "s115",
+   "text": "Time is hereby declared to be of the essence of this Agreement and of every part hereof."
+  },
+  {
+   "id": "s116",
+   "text": "12.6 Severance and Enforcement. "
+  },
+  {
+   "id": "s117",
+   "text": "All Sections, clauses and covenants contained in this Agreement are severable, and in the event any of them shall be held to be invalid by any court, this Agreement shall be interpreted as if such invalid Sections, clauses or covenants were not contained herein. "
+  },
+  {
+   "id": "s118",
+   "text": "Without limitation, the parties intend that the covenants contained in this Agreement shall be severable insofar as the geographic and time restrictions set forth herein are concerned. "
+  },
+  {
+   "id": "s119",
+   "text": "If, in any judicial proceedings, a court shall refuse to enforce the geographic and/or time restrictions imposed herein to their fullest extent, then the geographic and/or time restrictions set forth herein shall be reduced to the extent necessary to permit enforcement of the foregoing covenant to the fullest extent possible."
+  },
+  {
+   "id": "s120",
+   "text": "12.7 Governing Law and Venue. "
+  },
+  {
+   "id": "s121",
+   "text": "This Agreement shall be governed by and construed in accordance with the laws of the State of California applicable to contracts made and to be performed wholly within such State, and without regard to the conflicts of laws principles thereof. "
+  },
+  {
+   "id": "s122",
+   "text": "Subject to ARTICLE 10 hereof, any suit brought hereon shall be brought in the state or federal courts sitting in Los Angeles, California, the parties hereto hereby waiving any claim or defense that such forum is not convenient or proper. "
+  },
+  {
+   "id": "s123",
+   "text": "Subject to ARTICLE 10 hereof, each party hereby agrees that any such court shall have in personam jurisdiction over it and consents to service of process in any manner authorized by California law."
+  },
+  {
+   "id": "s124",
+   "text": "12.8 Gender. "
+  },
+  {
+   "id": "s125",
+   "text": "Where the context so requires, the use of the masculine gender shall include the feminine and/or neuter genders and the singular shall include the plural, and vice versa, and the word \"person\" shall include any corporation, firm, partnership or other form of association."
+  },
+  {
+   "id": "s126",
+   "text": "12.9 Counterparts. "
+  },
+  {
+   "id": "s127",
+   "text": "This Agreement may be executed in one or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same Agreement."
+  },
+  {
+   "id": "s128",
+   "text": "12.10 Construction. "
+  },
+  {
+   "id": "s129",
+   "text": "The language in all parts of this Agreement shall in all cases be construed simply, according to its fair meaning, and not strictly for or against any of the parties hereto. "
+  },
+  {
+   "id": "s130",
+   "text": "Without limitation, there shall be no presumption against any party on the ground that such party was responsible for drafting this Agreement or any part thereof."
+  },
+  {
+   "id": "s131",
+   "text": "IN WITNESS WHEREOF, the parties hereto have duly executed this Agreement as of the date and year first above written."
+  },
+  {
+   "id": "s132",
+   "text": "COVENANTOR:"
+  },
+  {
+   "id": "s133",
+   "text": "/s/ Hai-"
+  },
+  {
+   "id": "s134",
+   "text": "Perng Kuo"
+  },
+  {
+   "id": "s135",
+   "text": "------------------------------"
+  },
+  {
+   "id": "s136",
+   "text": "Name: Hai-Perng, aka Alex Kuo"
+  },
+  {
+   "id": "s137",
+   "text": "BUYER"
+  },
+  {
+   "id": "s138",
+   "text": "Vertel Corporation,"
+  },
+  {
+   "id": "s139",
+   "text": "a California corporation"
+  },
+  {
+   "id": "s140",
+   "text": "By: /s/ Craig Scott"
+  },
+  {
+   "id": "s141",
+   "text": "---------------------------"
+  },
+  {
+   "id": "s142",
+   "text": "Name: Craig Scott"
+  },
+  {
+   "id": "s143",
+   "text": "Title: CFO"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "id": "N560",
+ "revision": 1,
+ "title": "1094007_0001193125-10-258977_dex101.htm",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 560,
+  "type": "sec-html",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001094007/000119312510258977/dex101.htm"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "EXHIBIT B: MICROSOFT CORPORATION NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "Non-Disclosure "
+  },
+  {
+   "id": "s2",
+   "text": "Agreement"
+  },
+  {
+   "id": "s3",
+   "text": "This Non-Disclosure "
+  },
+  {
+   "id": "s4",
+   "text": "Agreement (“agreement”) is between the parties signing below. "
+  },
+  {
+   "id": "s5",
+   "text": "“We,” “us” and “our” refer to both of the parties signing below and our respective affiliates."
+  },
+  {
+   "id": "s6",
+   "text": "1. The purpose of this agreement. "
+  },
+  {
+   "id": "s7",
+   "text": "This agreement allows us to disclose confidential information to each other, to our own affiliates and to the other’s affiliates, under the following terms. "
+  },
+  {
+   "id": "s8",
+   "text": "An “affiliate” is any legal entity that one of us owns, that owns one of us or that is under common control with one of us. "
+  },
+  {
+   "id": "s9",
+   "text": "“Control” and “own” mean possessing a 50% or greater interest in entity or the right to direct the management of the entity."
+  },
+  {
+   "id": "s10",
+   "text": "2. Confidential Information."
+  },
+  {
+   "id": "s11",
+   "text": "a. What is included. "
+  },
+  {
+   "id": "s12",
+   "text": "“Confidential Information” is non-public information, know-how and trade secrets in any form that:"
+  },
+  {
+   "id": "s13",
+   "text": "• Are designated as “confidential”; or"
+  },
+  {
+   "id": "s14",
+   "text": "• A reasonable person knows or reasonably should understand to be confidential."
+  },
+  {
+   "id": "s15",
+   "text": "b. What is not included. "
+  },
+  {
+   "id": "s16",
+   "text": "The following types of information, however marked, are not confidential information. "
+  },
+  {
+   "id": "s17",
+   "text": "Information that:"
+  },
+  {
+   "id": "s18",
+   "text": "• Is, or becomes, publicly available without a breach of this agreement;"
+  },
+  {
+   "id": "s19",
+   "text": "• Was lawfully known to the receiver of the information without an obligation to keep it confidential;"
+  },
+  {
+   "id": "s20",
+   "text": "• Is received from another source who can disclose it lawfully and without an obligation to keep it confidential;"
+  },
+  {
+   "id": "s21",
+   "text": "• Is independently developed; or"
+  },
+  {
+   "id": "s22",
+   "text": "• Is a comment or suggestion one of us volunteers about the other’s business, products or services."
+  },
+  {
+   "id": "s23",
+   "text": "3. Treatment of confidential information."
+  },
+  {
+   "id": "s24",
+   "text": "a. In general. "
+  },
+  {
+   "id": "s25",
+   "text": "Subject to the other terms of this agreement, each of us agrees:"
+  },
+  {
+   "id": "s26",
+   "text": "• We will not disclose the other’s confidential information to third parties; and"
+  },
+  {
+   "id": "s27",
+   "text": "• We will use and disclose the other’s confidential information only for purposes of our business relationship with each other."
+  },
+  {
+   "id": "s28",
+   "text": "b. Security precautions. "
+  },
+  {
+   "id": "s29",
+   "text": "Each of us agrees:"
+  },
+  {
+   "id": "s30",
+   "text": "• To take reasonable steps to protect the other’s confidential information. "
+  },
+  {
+   "id": "s31",
+   "text": "These steps must be at least as protective as those we take to protect our own confidential information;"
+  },
+  {
+   "id": "s32",
+   "text": "• To notify the other promptly upon discovery of any unauthorized use or disclosure of confidential information; and"
+  },
+  {
+   "id": "s33",
+   "text": "• To cooperate with the other to help regain control of the confidential information and prevent further unauthorized use or disclosure of it."
+  },
+  {
+   "id": "s34",
+   "text": "c. Sharing confidential information with affiliates and representatives."
+  },
+  {
+   "id": "s35",
+   "text": "• A “representative” is an employee, contractor, advisor or consultant of one of us or one of our respective affiliates."
+  },
+  {
+   "id": "s36",
+   "text": "• Each of us may disclose the other’s confidential information to our representatives (who may then disclose that confidential information to other of our representatives) only if those representatives have a need to know about it for purposes of our business relationship with each other. "
+  },
+  {
+   "id": "s37",
+   "text": "Before doing so, each of us must:"
+  },
+  {
+   "id": "s38",
+   "text": "• ensure that affiliates and representatives are required to protect the confidential information on terms consistent with this agreement; and"
+  },
+  {
+   "id": "s39",
+   "text": "• accept responsibility for each representative’s use of confidential information."
+  },
+  {
+   "id": "s40",
+   "text": "• Neither of us is required to restrict work assignments of representatives who have had access to confidential information. "
+  },
+  {
+   "id": "s41",
+   "text": "Neither of us can control the incoming information the other will disclose to us in the course of working together, or what our representatives will remember, even without notes or other aids. "
+  },
+  {
+   "id": "s42",
+   "text": "We agree that use of information in representatives’ unaided memories in the development or deployment of our respective products or services does not create liability under this agreement or trade secret law, and we agree to limit what we disclose to the other accordingly."
+  },
+  {
+   "id": "s43",
+   "text": "d. Disclosing confidential information if required to by law. "
+  },
+  {
+   "id": "s44",
+   "text": "Each of us may disclose the other’s confidential information if required to comply with a court order or other government demand that has the force of law. "
+  },
+  {
+   "id": "s45",
+   "text": "Before doing so, each of us must seek the highest level of protection available and, when possible, give the other enough prior notice to provide a reasonable chance to seek a protective order."
+  },
+  {
+   "id": "s46",
+   "text": "4. Length of confidential information obligations."
+  },
+  {
+   "id": "s47",
+   "text": "a. Termination. "
+  },
+  {
+   "id": "s48",
+   "text": "This agreement continues in effect until one of us terminates it. "
+  },
+  {
+   "id": "s49",
+   "text": "Either of us may terminate this agreement for any reason by providing the other with 30 days’ advance written notice. "
+  },
+  {
+   "id": "s50",
+   "text": "Termination of this agreement will not change any of the rights and duties made while this agreement is in effect."
+  },
+  {
+   "id": "s51",
+   "text": "b. No other use or disclosure of confidential information. "
+  },
+  {
+   "id": "s52",
+   "text": "Except as permitted above, neither of us will use or disclose the other’s confidential information for five years after we receive it. "
+  },
+  {
+   "id": "s53",
+   "text": "The five-year time period does not apply if applicable law requires a longer period."
+  },
+  {
+   "id": "s54",
+   "text": "5. General rights and obligations."
+  },
+  {
+   "id": "s55",
+   "text": "a. Law that applies; jurisdiction and venue. "
+  },
+  {
+   "id": "s56",
+   "text": "The laws of the State of Washington govern this agreement. "
+  },
+  {
+   "id": "s57",
+   "text": "If federal jurisdiction exists, we each consent to exclusive jurisdiction and venue in the federal courts in King County, Washington. "
+  },
+  {
+   "id": "s58",
+   "text": "If not, we each consent to exclusive jurisdiction and venue in the superior court of King county, Washington."
+  },
+  {
+   "id": "s59",
+   "text": "b. Compliance with law. "
+  },
+  {
+   "id": "s60",
+   "text": "Each of us will comply with all export laws that apply to confidential information."
+  },
+  {
+   "id": "s61",
+   "text": "c. Waiver. "
+  },
+  {
+   "id": "s62",
+   "text": "Any delay or failure of either of us to exercise a right or remedy will not result in a waiver of that, or any other, right or remedy."
+  },
+  {
+   "id": "s63",
+   "text": "d. Money damages insufficient. "
+  },
+  {
+   "id": "s64",
+   "text": "Each of us acknowledges that money damages may not be sufficient compensation for a breach of this agreement. "
+  },
+  {
+   "id": "s65",
+   "text": "Each of us agrees that the other may seek court orders to stop confidential information from becoming public in breach of this agreement."
+  },
+  {
+   "id": "s66",
+   "text": "e. Attorneys’ fees. "
+  },
+  {
+   "id": "s67",
+   "text": "In any dispute relating to this agreement the prevailing party will be entitled to recover reasonable attorneys’ fees and costs."
+  },
+  {
+   "id": "s68",
+   "text": "f. Transfers of this agreement. "
+  },
+  {
+   "id": "s69",
+   "text": "If one of us transfers this agreement, we will not disclose the other’s confidential information to the transferee without the other’s consent."
+  },
+  {
+   "id": "s70",
+   "text": "g. Enforceability. "
+  },
+  {
+   "id": "s71",
+   "text": "If any provision of this agreement is unenforceable, the parties (or, if we cannot agree, a court) will revise it so that it can be enforced. "
+  },
+  {
+   "id": "s72",
+   "text": "Even if no revision is possible, the rest of this agreement will remain in place."
+  },
+  {
+   "id": "s73",
+   "text": "h. Entire agreement. "
+  },
+  {
+   "id": "s74",
+   "text": "This agreement does not grant any implied intellectual property licenses to confidential information, except as stated above. "
+  },
+  {
+   "id": "s75",
+   "text": "We may have contracts with each other covering other specific aspects of our relationship (“other contracts”). "
+  },
+  {
+   "id": "s76",
+   "text": "The other contract may include commitments about confidential information, either within it or by referencing another non-disclosure agreement. "
+  },
+  {
+   "id": "s77",
+   "text": "If so, those obligations remain in place for purposes of that other contract. "
+  },
+  {
+   "id": "s78",
+   "text": "With this exception, this is the entire agreement between us regarding confidential information. "
+  },
+  {
+   "id": "s79",
+   "text": "It replaces all other agreements and understanding regarding confidential information. "
+  },
+  {
+   "id": "s80",
+   "text": "We can only change this agreement with a signed document that states that is changing this agreement."
+  }
+ ]
+}

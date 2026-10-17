@@ -1,0 +1,589 @@
+{
+ "id": "N009",
+ "revision": 1,
+ "title": "17.04.01%20BPS%20Non-Disclosure%20and%20Data%20Sharing%20Agreement%20-%20Transportation%20Challenge%20vF.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 9,
+  "type": "search-pdf",
+  "url": "https://www.bostonpublicschools.org/cms/lib/MA01906464/Centricity/Domain/2263/17.04.01%20BPS%20Non-Disclosure%20and%20Data%20Sharing%20Agreement%20-%20Transportation%20Challenge%20vF.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "NON-NEGOTIABLE CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT: TRANSPORTATION CHALLENGE 2017"
+  },
+  {
+   "id": "s1",
+   "text": "This Confidentiality and Non-Disclosure Agreement (“Agreement”) is entered into by and between "
+  },
+  {
+   "id": "s2",
+   "text": "__________________ (hereafter referred to as “Vendor)” and the Boston Public Schools, 2300 Washington Street, Roxbury, MA 02119 (“BPS”), each being a “Party” and both being the entities of the City of Boston, hereinafter the “Parties,” to this Agreement."
+  },
+  {
+   "id": "s3",
+   "text": "This Agreement refers to the transportation data challenge posted on the BPS website that will take place between April 1st, 2017 and June 30, "
+  },
+  {
+   "id": "s4",
+   "text": "2017. This event is described in greater detail in the Transportation Challenge Overview document available on the BPS website, http://www.bostonpublicschools.org/transportationchallenge."
+  },
+  {
+   "id": "s5",
+   "text": "WHEREAS the parties wish to confirm their understandings with respect to the nature of the relationship between the parties relating to the confidential transmission, use and protection of certain student routing information,"
+  },
+  {
+   "id": "s6",
+   "text": "WHEREAS BPS has authorized only the VENDOR and its employees and/or representatives to have access to certain directory, student, and routing information for portions of the year 2017 for the purpose of supporting BPS in improving our routing calculations and supporting the creation of more equitably and efficiently balanced school bell times,"
+  },
+  {
+   "id": "s7",
+   "text": "WHEREAS, VENDOR and its employees and/or representatives have agreed and understand that BPS will provide only to VENDOR certain directory, student, and routing information subject to the terms of this Agreement,"
+  },
+  {
+   "id": "s8",
+   "text": "WHEREAS, BPS deems this work to be of interest and value to BPS, as it will contribute toward the educational and professional goals of BPS, and"
+  },
+  {
+   "id": "s9",
+   "text": "WHEREAS, VENDOR and BPS desire to cooperate with each other in connection with provision of such a solution."
+  },
+  {
+   "id": "s10",
+   "text": "NOW THEREFORE, in consideration of the mutual covenants set forth herein and for other good and valuable consideration, the receipt of which is hereby acknowledged, VENDOR and BPS agree as follows:"
+  },
+  {
+   "id": "s11",
+   "text": "A. DEFINITIONS"
+  },
+  {
+   "id": "s12",
+   "text": "Vendor and its employees and/or representatives. "
+  },
+  {
+   "id": "s13",
+   "text": "Any individual person or organization who is identified to receive and utilize the confidential information applicable to the related Challenge, whether as an employee or representative, must be disclosed to and approved by BPS and sign this agreement prior to commencing work on or engaging in participation in the Transportation Data Challenge. "
+  },
+  {
+   "id": "s14",
+   "text": "BPS reserves the right to request proof or copies of any and all signed agreements by any vendor and its employees or representatives at any time, for any reason."
+  },
+  {
+   "id": "s15",
+   "text": "Confidential Information. "
+  },
+  {
+   "id": "s16",
+   "text": "VENDOR acknowledges that in the course of providing services to BPS and its students, only VENDOR and its employees or representatives will be given or have access to certain directory, routing, and confidential student information (“Confidential Information”) which may typically protected from disclosure with or without prior consent by various laws including the Family Educational Rights and Privacy Act (FERPA) 20 U.S.C. § 1232g et seq., 34 C.F.R. § 99 et seq., and 603 C.M.R. 23.00 et seq. "
+  },
+  {
+   "id": "s17",
+   "text": "VENDOR acknowledges and agrees to comply fully with these federal and state privacy and student record confidentiality laws. "
+  },
+  {
+   "id": "s18",
+   "text": "VENDOR, its employees and/or representatives, hold the Confidential Information in trust for BPS’s benefit, and shall, in addition to their respective obligations hereunder, use best efforts at all times to adopt and follow procedures and practices to protect the confidentiality of the Confidential Information and prevent its disclosure to others without the express written consent of BPS. "
+  },
+  {
+   "id": "s19",
+   "text": "VENDOR further acknowledges that BPS’s willingness to disclose Confidential Information to VENDOR is predicated on VENDOR entering into and committing to abide fully by the terms of this Agreement and applicable laws and regulations."
+  },
+  {
+   "id": "s20",
+   "text": "Data Set. "
+  },
+  {
+   "id": "s21",
+   "text": "The data set includes all City of Boston students eligible for school bus transportation from the Boston Public Schools. "
+  },
+  {
+   "id": "s22",
+   "text": "In this dataset, specific student information has been changed slightly to protect student confidentiality."
+  },
+  {
+   "id": "s23",
+   "text": "Routing Information. "
+  },
+  {
+   "id": "s24",
+   "text": "The district will share the data below, along with potentially other data as may be deemed necessary and helpful. "
+  },
+  {
+   "id": "s25",
+   "text": "Specifically:"
+  },
+  {
+   "id": "s26",
+   "text": "1. Student home location:"
+  },
+  {
+   "id": "s27",
+   "text": "a. Address"
+  },
+  {
+   "id": "s28",
+   "text": "b. Latitude and Longitude"
+  },
+  {
+   "id": "s29",
+   "text": "2. Student characteristics:"
+  },
+  {
+   "id": "s30",
+   "text": "a. School assignment"
+  },
+  {
+   "id": "s31",
+   "text": "b. Ridership status (i.e., corner stop, door-to-door (“D2D”), or wheelchair)"
+  },
+  {
+   "id": "s32",
+   "text": "c. Grade"
+  },
+  {
+   "id": "s33",
+   "text": "3. Bus Stop Location:"
+  },
+  {
+   "id": "s34",
+   "text": "a. Corner intersection"
+  },
+  {
+   "id": "s35",
+   "text": "b. Latitude and Longitude"
+  },
+  {
+   "id": "s36",
+   "text": "4. Survey data relating to school preferences on start time"
+  },
+  {
+   "id": "s37",
+   "text": "Of note, "
+  },
+  {
+   "id": "s38",
+   "text": "Vendors will not be provided with the students’ corresponding names, or other non-directory information that would require consent pursuant to 603 C.M.R. 23.00."
+  },
+  {
+   "id": "s39",
+   "text": "B. TERMS OF AGREEMENT"
+  },
+  {
+   "id": "s40",
+   "text": "1. Data Sharing. "
+  },
+  {
+   "id": "s41",
+   "text": "VENDOR shall maintain and administer a secure database (“the Database”) for delivery and evaluation of information, and reporting purposes. "
+  },
+  {
+   "id": "s42",
+   "text": "VENDOR will use a secure database for managing and sharing routing data. "
+  },
+  {
+   "id": "s43",
+   "text": "The Database will meet government data management and security protocols and will incorporate security features within the platform to ensure privacy and confidentiality is maintained while providing the Parties the key information they require to understand impact. "
+  },
+  {
+   "id": "s44",
+   "text": "The VENDOR, its employees and/or representatives shall be responsible for transmitting all data or other record of all data requested and received pursuant to the Agreement, including confirmation of the return or destruction of data as described herein."
+  },
+  {
+   "id": "s45",
+   "text": "Reasonable security precautions and protections include, but are not limited to:"
+  },
+  {
+   "id": "s46",
+   "text": "a) Creating, distributing, and implementing data governance policies and procedures which protect Confidential Information through appropriate administrative, technical, and physical security safeguards, and outline staff responsibilities for maintaining data security."
+  },
+  {
+   "id": "s47",
+   "text": "b) Potentially encrypting all Confidential Information carried on mobile/ computers/electronic/devices."
+  },
+  {
+   "id": "s48",
+   "text": "c) Potentially encrypting "
+  },
+  {
+   "id": "s49",
+   "text": "Confidential Information before it is transmitted electronically."
+  },
+  {
+   "id": "s50",
+   "text": "d) Requiring that users be uniquely identified and authenticated before accessing Confidential Information."
+  },
+  {
+   "id": "s51",
+   "text": "e) Establishing and enforcing well-defined data privilege rights which restrict users’ access to the Confidential Information necessary for them to perform their job functions."
+  },
+  {
+   "id": "s52",
+   "text": "f) Ensuring that all persons accessing Confidential Information sign a confidentiality agreement, and maintaining copies of signed agreements."
+  },
+  {
+   "id": "s53",
+   "text": "g) Securing access to any physical areas/electronic devices where sensitive data are stored."
+  },
+  {
+   "id": "s54",
+   "text": "h) Installing a firewall to permit or deny network transmissions based upon a set of rules."
+  },
+  {
+   "id": "s55",
+   "text": "i) Installing anti-virus software to protect the network."
+  },
+  {
+   "id": "s56",
+   "text": "2. Nondisclosure. "
+  },
+  {
+   "id": "s57",
+   "text": "Nothing in this Agreement may be construed to allow any Party to maintain, use, disclose, or share Confidential Information in a manner not allowed under federal or state law or regulation, or outside the scope of this agreement. "
+  },
+  {
+   "id": "s58",
+   "text": "Authorized vendors shall strictly comply with all federal and state laws that apply to the use and release of Confidential Information, including but not limited to FERPA and its regulations, set forth at 34 C.F.R. § 99. VENDOR, its employees and/or representatives, shall use the Confidential Information and routing data solely in connection with performance by VENDOR of the services provided to BPS as outline by this agreement and pursuant to the Challenge Document and for no other purpose. "
+  },
+  {
+   "id": "s59",
+   "text": "Neither VENDOR nor any of its employees and/or representatives, shall sell, release, transfer, reprint, duplicate, recreate, disclose or permit the disclosure to any other person or entity of any of the Confidential Information or of any files, compilation, study, report or analysis or data base containing, based on or derived from the Confidential Information without the express written consent of BPS, and in full compliance with applicable state and federal privacy laws. "
+  },
+  {
+   "id": "s60",
+   "text": "VENDOR shall maintain the privacy of protected personal information and shall be financially responsible, if and to the extent that any security breach relating to protected personal information results from acts or omissions of VENDOR, its employees and/or representatives for any notifications to affected persons (after prompt consultation with BPS), and to the extent requested by BPS, administratively responsible for such notification. "
+  },
+  {
+   "id": "s61",
+   "text": "VENDOR shall protect the Confidential Information and shall not permit the release of such information to parties other than BPS officials and their authorized agents."
+  },
+  {
+   "id": "s62",
+   "text": "3. Background Checks: VENDOR, its employees and/or representatives, acknowledge that BPS reserves the right to conduct an appropriate background check on any and all participants with access to the Confidential Information pursuant to this agreement."
+  },
+  {
+   "id": "s63",
+   "text": "4. Disclosure Sought Under Legal Process. "
+  },
+  {
+   "id": "s64",
+   "text": "VENDOR shall immediately notify BPS (see below) in writing of any subpoena, court order or other legal process seeking or purporting to compel disclosure of any of the Confidential Information and shall challenge, oppose or appeal any such subpoena, order or legal process to the extent deemed appropriate by BPS. "
+  },
+  {
+   "id": "s65",
+   "text": "In no event shall VENDOR voluntarily, without a court order, disclose or permit the disclosure of any of the Confidential Information in response to legal process unless and until VENDOR has given the required notice to BPS and VENDOR has exhausted any and all legal remedies available to it to limit or prevent the disclosure."
+  },
+  {
+   "id": "s66",
+   "text": "5. Notices: "
+  },
+  {
+   "id": "s67",
+   "text": "The following BPS representative shall be notified of any occurrence outlined in this agreement that so requires:"
+  },
+  {
+   "id": "s68",
+   "text": "Name: William Eger"
+  },
+  {
+   "id": "s69",
+   "text": "Title: Strategic Projects Manager"
+  },
+  {
+   "id": "s70",
+   "text": "Email: weger@bostonpublicschools.org"
+  },
+  {
+   "id": "s71",
+   "text": "Phone Number: 914-523-9675"
+  },
+  {
+   "id": "s72",
+   "text": "Office Location: Bolling Building"
+  },
+  {
+   "id": "s73",
+   "text": "2300 Washington Street"
+  },
+  {
+   "id": "s74",
+   "text": "Roxbury, MA 02119"
+  },
+  {
+   "id": "s75",
+   "text": "6. Return or Destruction of Materials. "
+  },
+  {
+   "id": "s76",
+   "text": "Upon request of BPS at any time, VENDOR shall return all or such part of the Confidential Information as BPS may designate to be returned. "
+  },
+  {
+   "id": "s77",
+   "text": "In addition, upon the completion of the services provided by VENDOR to BPS as outlined in this Agreement, VENDOR shall return or destroy, as BPS may instruct, all Confidential Information in VENDOR’S possession or control, whether in printed, electronic or any other format, including all duplicates and copies thereof of any files, compilation, study, report, analysis or data base containing, based on or derived from the Confidential Information."
+  },
+  {
+   "id": "s78",
+   "text": "7. Publication. "
+  },
+  {
+   "id": "s79",
+   "text": "BPS has the right to report, present, publish, or otherwise use data to which it has produced or received from VENDOR. "
+  },
+  {
+   "id": "s80",
+   "text": "Acceptable disclosure includes, but is not limited to, disclosure of aggregate or de-identified data in reports and presentations, including for grant reporting purposes, disclosure of aggregate or de-identified data to VENDOR, public entities and community based organizations, and use of aggregate or de-identified data in program planning, evaluation and research not related to the BPI initiative. "
+  },
+  {
+   "id": "s81",
+   "text": "VENDOR shall not publish, present, or use reports without explicit written consent from BPS. "
+  },
+  {
+   "id": "s82",
+   "text": "BPS has the right to review and require approval of any publicly reported document prior to its release."
+  },
+  {
+   "id": "s83",
+   "text": "8. Disclosure, Breach & Penalties. "
+  },
+  {
+   "id": "s84",
+   "text": "VENDOR’S disclosure of Confidential Information to third parties without BPS's authorization, or VENDOR’S failure to sign or comply with this agreement or return or destroy Confidential Information per Provision 4 above, may constitute a breach of this Agreement and may result in the BPS or the U.S. Department of Education denying VENDOR access to Confidential Information and other such penalties as dictated by law or equity."
+  },
+  {
+   "id": "s85",
+   "text": "9. Injunctive Relief. "
+  },
+  {
+   "id": "s86",
+   "text": "VENDOR acknowledges and agrees that the breach or threatened breach by VENDOR, or its employees and/or representatives of their obligations under this Agreement will cause serious and irreparable harm to BPS that cannot be adequately compensated by monetary damages alone and that BPS may seek injunctive relief from an appropriate court to protect BPS from such harm without necessity of bond or other security."
+  },
+  {
+   "id": "s87",
+   "text": "10. Immediate Notice. "
+  },
+  {
+   "id": "s88",
+   "text": "VENDOR shall give BPS immediate written and verbal notice of any unauthorized use or disclosure of the Confidential Information, or of any breach or threatened breach by VENDOR or its employees and/or representatives of their obligations under this Agreement, upon learning of same."
+  },
+  {
+   "id": "s89",
+   "text": "11. Appropriate Forum. "
+  },
+  {
+   "id": "s90",
+   "text": "VENDOR and BPS agree that this Agreement is entered into in the State of Massachusetts, and that the courts located in the State of Massachusetts are the appropriate forum in the event any party seeks legal action or injunctive relief under this Agreement. "
+  },
+  {
+   "id": "s91",
+   "text": "All parties consent to venue and personal jurisdiction in the appropriate court in the State of Massachusetts."
+  },
+  {
+   "id": "s92",
+   "text": "12. Termination. "
+  },
+  {
+   "id": "s93",
+   "text": "BPS may terminate this agreement with VENDOR at any time, for any reason, with either written or verbal notice. "
+  },
+  {
+   "id": "s94",
+   "text": "VENDOR must give the designated BPS representative 3-day written and verbal notice of any termination of this agreement with BPS. "
+  },
+  {
+   "id": "s95",
+   "text": "Termination of this Agreement, however, does not affect any Party’s obligations, duties or rights imposed or granted by separate instrument such as a grant or other contract."
+  },
+  {
+   "id": "s96",
+   "text": "13. Indemnification. "
+  },
+  {
+   "id": "s97",
+   "text": "Unless otherwise exempted by law, VENDOR shall indemnify and hold harmless the City of Boston, Boston Public Schools, and its Departments, agents, officers, and employees against any and all claims, liabilities, and costs for damages that the City may sustain which arise out of or in connection with VENDOR’S performance of this Agreement, including but not limited to the negligent, reckless or intentional conduct of VENDOR, its employees and/or representatives, officers, or other related personnel. "
+  },
+  {
+   "id": "s98",
+   "text": "After prompt notification of a claim by the City, VENDOR shall have an opportunity to participate in the defense of such claim and any negotiated settlement agreement or judgment. "
+  },
+  {
+   "id": "s99",
+   "text": "The City and its departments shall not be liable for any costs incurred by VENDOR arising under this paragraph. "
+  },
+  {
+   "id": "s100",
+   "text": "Any indemnification of VENDOR shall be subject to appropriation and applicable law. "
+  },
+  {
+   "id": "s101",
+   "text": "Indemnification specifically includes, but is not limited to, claims related to "
+  },
+  {
+   "id": "s102",
+   "text": "(i) the indemnifying Party’s improper sharing of data, "
+  },
+  {
+   "id": "s103",
+   "text": "(ii) improper use of data by the indemnifying Party or any of the indemnifying Party’s employees, agents, officers, volunteers, or other related personnel, or "
+  },
+  {
+   "id": "s104",
+   "text": "(iii) breach of the indemnifying Party’s IT system."
+  },
+  {
+   "id": "s105",
+   "text": "14. Relationship of Parties. "
+  },
+  {
+   "id": "s106",
+   "text": "The VENDOR, its employees, and/or representatives shall not be construed, deemed or otherwise held to be employees, agents, or officers of BPS. "
+  },
+  {
+   "id": "s107",
+   "text": "VENDOR and its employees and/or representatives shall not be entitled to compensation or other benefits that ordinarily accrue to employees of BPS. "
+  },
+  {
+   "id": "s108",
+   "text": "Nothing herein shall create or be deemed to create any relationship of agency, association, joint venture, partnership as defined by law, or employer/employee between BPS and VENDOR or its employees or representatives. "
+  },
+  {
+   "id": "s109",
+   "text": "Neither party shall have the authority to bind or obligate the other in any manner, except as expressly provided in this agreement."
+  },
+  {
+   "id": "s110",
+   "text": "15. Conflict of Interest. "
+  },
+  {
+   "id": "s111",
+   "text": "The parties’ attention is called to General Laws c. 268A (the Conflict of Interest Law). "
+  },
+  {
+   "id": "s112",
+   "text": "No party shall act in collusion with any other party, person or entity to circumvent such law."
+  },
+  {
+   "id": "s113",
+   "text": "16. Assurances. "
+  },
+  {
+   "id": "s114",
+   "text": "The Parties agree that all activity pursuant to this Agreement shall be in accordance with this Agreement and all applicable current or future federal, state, and local laws, and all applicable rules and regulations."
+  },
+  {
+   "id": "s115",
+   "text": "17. Termination. "
+  },
+  {
+   "id": "s116",
+   "text": "This Agreement shall survive the termination of the services to be provided by VENDOR or any other agreement by and between the parties."
+  },
+  {
+   "id": "s117",
+   "text": "18. Severability. "
+  },
+  {
+   "id": "s118",
+   "text": "All of the provisions of this agreement are severable. "
+  },
+  {
+   "id": "s119",
+   "text": "If any provision of this Agreement is rendered invalid or unenforceable by State or Federal statute or regulations or declared null and void by any court of competent jurisdiction, the remaining provisions of this Agreement will remain in full force and effect."
+  },
+  {
+   "id": "s120",
+   "text": "19. Entire Agreement; Amendments. "
+  },
+  {
+   "id": "s121",
+   "text": "This Agreement is intended as the complete, final and exclusive statement of the parties with respect to the subject matter hereof, and supersedes any prior agreements or understandings between the parties hereto. "
+  },
+  {
+   "id": "s122",
+   "text": "This Agreement may be amended, modified or supplemented only by a written agreement signed by VENDOR and BPS. "
+  },
+  {
+   "id": "s123",
+   "text": "Any waiver of the terms and conditions of this Agreement must be in writing signed by the party granting such waiver and shall not operate as a waiver of, or estoppel with respect to, any subsequent or other failure to perform."
+  },
+  {
+   "id": "s124",
+   "text": "IN WITNESS WHEREOF, and intending to be legally bound, the parties have executed this Agreement by their duly authorized representatives."
+  },
+  {
+   "id": "s125",
+   "text": "The Boston Public Schools (“BPS”)"
+  },
+  {
+   "id": "s126",
+   "text": "Signature: "
+  },
+  {
+   "id": "s127",
+   "text": "_____________________________ "
+  },
+  {
+   "id": "s128",
+   "text": "Date: "
+  },
+  {
+   "id": "s129",
+   "text": "__________________"
+  },
+  {
+   "id": "s130",
+   "text": "Print "
+  },
+  {
+   "id": "s131",
+   "text": "Name:____________________________"
+  },
+  {
+   "id": "s132",
+   "text": "Title: "
+  },
+  {
+   "id": "s133",
+   "text": "_________________________________"
+  },
+  {
+   "id": "s134",
+   "text": "(VENDOR) "
+  },
+  {
+   "id": "s135",
+   "text": "____________________________"
+  },
+  {
+   "id": "s136",
+   "text": "Signature:______________________________ "
+  },
+  {
+   "id": "s137",
+   "text": "Date "
+  },
+  {
+   "id": "s138",
+   "text": "__________________"
+  },
+  {
+   "id": "s139",
+   "text": "Print "
+  },
+  {
+   "id": "s140",
+   "text": "Name:_____________________________"
+  },
+  {
+   "id": "s141",
+   "text": "Title: "
+  },
+  {
+   "id": "s142",
+   "text": "__________________________________"
+  },
+  {
+   "id": "s143",
+   "text": "If the vendor is not an individual, each individual of a particular vendor who will be working with this data is required to submit a signed NDA."
+  }
+ ]
+}

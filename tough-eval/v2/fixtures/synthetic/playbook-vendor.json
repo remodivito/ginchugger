@@ -1,0 +1,45 @@
+{
+ "version": 1,
+ "id": "fixture-vendor",
+ "title": "Fixture vendor playbook",
+ "party": "Provider",
+ "rules": [
+  {
+   "id": "V-01",
+   "title": "General liability cap",
+   "guidance": "Our cap is 1x; we can go to 2x.",
+   "preferred": "1x the 12-month Fees.",
+   "acceptable": "Up to 2x the 12-month Fees.",
+   "escalation": "Any cap above 2x the 12-month Fees.",
+   "enabled": true
+  },
+  {
+   "id": "V-02",
+   "title": "Payment period",
+   "guidance": "We need prompt payment.",
+   "preferred": "30 days.",
+   "acceptable": "Up to 45 days from the invoice.",
+   "escalation": "More than 45 days.",
+   "enabled": true
+  },
+  {
+   "id": "V-03",
+   "title": "Security breach notice",
+   "guidance": "We need time to investigate.",
+   "preferred": "72 hours.",
+   "acceptable": "Notice within at least 48 hours.",
+   "escalation": "Any notice period shorter than 48 hours.",
+   "enabled": true
+  },
+  {
+   "id": "V-04",
+   "title": "Governing law",
+   "guidance": "We litigate at home.",
+   "preferred": "England and Wales.",
+   "acceptable": "England and Wales.",
+   "escalation": "Any other law.",
+   "enabled": true
+  }
+ ],
+ "canary": "5f0c1e2a-9b7d-4c3e-8a61-0d2f4b6c8e10"
+}

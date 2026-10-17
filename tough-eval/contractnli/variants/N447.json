@@ -1,0 +1,317 @@
+{
+ "id": "N447",
+ "revision": 1,
+ "title": "1029445_0000940180-97-000212_document_12.txt",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 447,
+  "type": "sec-text",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001029445/000094018097000212/0000940180-97-000212.txt"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "This agreement, made and entered into this 15th day of April, 1996, by and between Assessment Systems, Inc., a corporation having an office at 780 Third Avenue, New York, N.Y. 10017 (hereinafter referred to as \"CONSULTANT\") and Telesector Resources Group, Inc, (\"NYNEX\"), a corporation duly organized and existing under the laws of the State of Delaware and having an office at 240 East 38th Street, New York, New York 10016. "
+  },
+  {
+   "id": "s2",
+   "text": "NYNEX shall remain and include Telesector Resources Group, Inc., its holding and parent companies, and its or their affiliates and subsidiaries."
+  },
+  {
+   "id": "s3",
+   "text": "WITNESSETH THAT:"
+  },
+  {
+   "id": "s4",
+   "text": "WHEREAS, in order for CONSULTANT to provide consultant services to NYNEX it may be necessary or desirable for NYNEX to disclose to CONSULTANT certain confidential and proprietary material, information, data, and other communications concerning NYNEX's past, current, future and proposed or potential customers, products, services, operations, business forecasts, procurement requirements, plans strategies and technology; and"
+  },
+  {
+   "id": "s5",
+   "text": "WHEREAS, CONSULTANT and NYNEX wish to define the agreed upon terms and conditions governing the confidentially of material, information and data furnished and to be furnished by NYNEX to CONSULTANT in connection with its present and future business plans."
+  },
+  {
+   "id": "s6",
+   "text": "NOW, THEREFORE, the parties hereto, in consideration of the mutual covenants and undertakings expressed herein, agree with each other as follows:"
+  },
+  {
+   "id": "s7",
+   "text": "1. For the purposes of this Non-Disclosure Agreement, the term \"Confidential Information\" shall mean material, information, data and other communications "
+  },
+  {
+   "id": "s8",
+   "text": "(a) disclosed by NYNEX and/or one or more of its parent, subsidiary or affiliated corporations, appropriately marked as \"Confidential,\" \"Proprietary\" or the like or otherwise disclosed in a manner consistent with its proprietary and confidential nature; or "
+  },
+  {
+   "id": "s9",
+   "text": "(b) produced during the course of the working relationship between NYNEX and CONSULTANT, which would either give NYNEX' competitors an advantage or diminish or eliminate NYNEX' advantage over its competitors."
+  },
+  {
+   "id": "s10",
+   "text": "2. ALL NYNEX Confidential Information:"
+  },
+  {
+   "id": "s11",
+   "text": "(a) is hereby acknowledged by CONSULTANT to be of a proprietary nature to, and to constitute secrets of NYNEX;"
+  },
+  {
+   "id": "s12",
+   "text": "(b) shall not be copied, used, distributed, disclosed, disseminated or communicated in any way or form by CONSULTANT whether or not for its own benefit, to anyone outside or within its own organization, except on a \"need-to-know\" basis to the extent necessary for: "
+  },
+  {
+   "id": "s13",
+   "text": "(i) negotiations, discussions and consultations with personnel or authorized representatives of NYNEX; "
+  },
+  {
+   "id": "s14",
+   "text": "(ii) supplying NYNEX with products or services at its order; "
+  },
+  {
+   "id": "s15",
+   "text": "(iii) preparing bids, estimates and proposals for submission to NYNEX; and "
+  },
+  {
+   "id": "s16",
+   "text": "(iv) any other purpose which NYNEX may authorize in writing;"
+  },
+  {
+   "id": "s17",
+   "text": "(c) shall not be used by CONSULTANT for any purposes other than those set forth herein, without the experts prior written permission of NYNEX;"
+  },
+  {
+   "id": "s18",
+   "text": "(d) shall be held by CONSULTANT in the strictest confidence, and shall be treated by it with the same degree of care to avoid disclosure to any third party as is used with respect to CONSULTANT'S own information of like importance, or, a minimum, shall be treated with a reasonable degree of care to avoid any such disclosure. "
+  },
+  {
+   "id": "s19",
+   "text": "CONSULTANT shall be liable for the disclosure of Confidential Information of NYNEX if such care is not used. "
+  },
+  {
+   "id": "s20",
+   "text": "The burden shall be upon CONSULTANT to show that such care, in fact, was used; and"
+  },
+  {
+   "id": "s21",
+   "text": "(e) Confidential Information is hereby acknowledged by CONSULTANT to be the sole property of NYNEX and shall be returned to NYNEX (including, without limitation, all materials, documents, drawings, models, apparatus, sketches, designs, specifications and lists, encompassing or evidencing same or related thereto, and all copies/formats thereof), within seven (7) days after receipt by CONSULTANT of a written request from NYNEX setting forth the Confidential Information to be returned. "
+  },
+  {
+   "id": "s22",
+   "text": "Upon receipt of such request, CONSULTANT also shall erase or destroy any such Confidential Information in any computer memory or data storage apparatus."
+  },
+  {
+   "id": "s23",
+   "text": "3. The obligations set forth in Paragraph 2 hereof shall not apply, or shall terminate, with respect to any particular portion of NYNEX Confidential Information which:"
+  },
+  {
+   "id": "s24",
+   "text": "(a) was in CONSULTANT's possession, free of any obligation of confidence, prior to receipt from NYNEX, as proven by CONSULTANT's written records; provided, however, that CONSULTANT immediately informs NYNEX, in writing, to establish its prior possession;"
+  },
+  {
+   "id": "s25",
+   "text": "(b) is already in the public domain at the time NYNEX communicates it to CONSULTANT, or becomes available to the public through no breach of this Non-Disclosure Agreement by CONSULTANT;"
+  },
+  {
+   "id": "s26",
+   "text": "(c) is received independently from a third party free to disclose such information to CONSULTANT;"
+  },
+  {
+   "id": "s27",
+   "text": "(d) is developed by CONSULTANT, independently of and without reference to any Confidential Information of NYNEX or any other information that NYNEX has disclosed in confidence to any third party, as proven by CONSULTANT's written records;"
+  },
+  {
+   "id": "s28",
+   "text": "(e) is disclosed by CONSULTANT to a third party, with the express prior written permission of NYNEX;"
+  },
+  {
+   "id": "s29",
+   "text": "(f) is disclosed by CONSULTANT in order to satisfy any legal requirement of any competent government body; provided, however, that immediately upon CONSULTANT's receipt of any such request, CONSULTANT shall first advise NYNEX of same before making any disclosure to such body, so that NYNEX may either interpose an objection to such disclosure before such body, or take action to assure confidential handling of the Confidential Information by such body, or take other action to protect the Confidential Information which NYNEX deems appropriate under the circumstances; or"
+  },
+  {
+   "id": "s30",
+   "text": "(g) in any event, five (5) years after the date of execution of this Non-Disclosure Agreement."
+  },
+  {
+   "id": "s31",
+   "text": "4. Nothing contained in this Non-Disclosure shall be construed as obligating NYNEX to disclose any particular information to CONSULTANT."
+  },
+  {
+   "id": "s32",
+   "text": "5. Nothing contained in this Non-Disclosure Agreement shall be construed as granting to or conferring on CONSULTANT, expressly or impliedly, any rights, by license or otherwise, to the Confidential Information of NYNEX or any other material, information or data, or any invention, discovery, improvement or product conceived, made or acquired prior to, on or after the date of this Non-Disclosure Agreement."
+  },
+  {
+   "id": "s33",
+   "text": "6. CONSULTANT warrants and represents that CONSULTANT has bound its employees, agents and subcontractors to the terms and conditions of this Agreement or that each and every employee, agent or subcontractor has personally executed a Non-Disclosure Agreement containing terms and conditions no less stringent than the terms and conditions contained herein; and furthermore CONSULTANT hereby agrees to indemnify, hold harmless and defend NYNEX from and against any loss, cost, damage, expense or claim arising out of any breach of this provision or the failure of CONSULTANT or its employees, agents or subcontractors to protect such Confidential Information."
+  },
+  {
+   "id": "s34",
+   "text": "7. This Non-Disclosure "
+  },
+  {
+   "id": "s35",
+   "text": "Agreement shall become effective upon the day and year first written, and shall remain in effect until terminated in writing by either party. "
+  },
+  {
+   "id": "s36",
+   "text": "Notwithstanding any such termination, the rights and obligations with respect to the disclosure of Confidential Information set forth herein shall survive the termination of this Non-Disclosure Agreement."
+  },
+  {
+   "id": "s37",
+   "text": "8. CONSULTANT further agrees that it shall not, without the prior written consent of NYNEX, make any news release, public announcement, or denial or confirmation of all or any part of the discussions or negotiations, or in any manner advertise or publish the fact that the parties have entered into discussions or negotiations with each other, or disclose any details connected with such discussions or negotiations to any third party, including any disclosure with respect to this Non-Disclosure Agreement, the negotiations culminating herein, or any phase of any program hereunder."
+  },
+  {
+   "id": "s38",
+   "text": "9. No term or provision of this Non-Disclosure Agreement shall be deemed waived, and no breach excused, unless such waiver or consent shall be in writing and signed by the party claimed to have waived or consented. "
+  },
+  {
+   "id": "s39",
+   "text": "Any consent by any party to, or waiver of, a breach by the other, whether express or implied, shall not constitute a consent to waiver of, or be cause for, any other, different or subsequent breach."
+  },
+  {
+   "id": "s40",
+   "text": "10. The construction, interpretation and performance of this Agreement and all transactions under it shall be governed by the laws of the State of New York."
+  },
+  {
+   "id": "s41",
+   "text": "ASSESSMENT SYSTEMS, INC. "
+  },
+  {
+   "id": "s42",
+   "text": "NYNEX"
+  },
+  {
+   "id": "s43",
+   "text": "By: /s/ Eli Salig By: /s/ Harold Bell"
+  },
+  {
+   "id": "s44",
+   "text": "Name: ELI SALIG Name: HAROLD BELL"
+  },
+  {
+   "id": "s45",
+   "text": "print print"
+  },
+  {
+   "id": "s46",
+   "text": "Title: EVP Title: DIRECTOR"
+  },
+  {
+   "id": "s47",
+   "text": "Date: 10 MAY 1996 Date: "
+  },
+  {
+   "id": "s48",
+   "text": "5/14/96"
+  },
+  {
+   "id": "s49",
+   "text": "ACCEPTANCE SHALL BE INDICATED BY "
+  },
+  {
+   "id": "s50",
+   "text": "(1) SIGNING AND "
+  },
+  {
+   "id": "s51",
+   "text": "(2) RETURNING DUPLICATE"
+  },
+  {
+   "id": "s52",
+   "text": "Assessment Systems, Inc. Telesector Resources Group, Inc"
+  },
+  {
+   "id": "s53",
+   "text": "780 Third Avenue, 22nd floor (A NYNEX Company)"
+  },
+  {
+   "id": "s54",
+   "text": "New York, N.Y. 10017 240 East 38th "
+  },
+  {
+   "id": "s55",
+   "text": "Street, 15th floor"
+  },
+  {
+   "id": "s56",
+   "text": "Attn: Mr. Bernard Reynolds New York, N.Y. 10016"
+  },
+  {
+   "id": "s57",
+   "text": "Attn: Mr. Sean Mahoney - SPL"
+  },
+  {
+   "id": "s58",
+   "text": "SERVICE: Testing, assessment and interview process of additional field personnel."
+  },
+  {
+   "id": "s59",
+   "text": "Telesector Resources Group, Inc., (herein after referred to as NYNEX) "
+  },
+  {
+   "id": "s60",
+   "text": "Agreement with you No. G12463P is amended as follows:"
+  },
+  {
+   "id": "s61",
+   "text": "Effective July 9th, 1996, Exhibit A--Statement of Work, will be expanded to provide services for additional NYNEX field personnel, and Exhibit B--Compensation, will be modified to provide for compensation for the additional service. "
+  },
+  {
+   "id": "s62",
+   "text": "Exhibits A and B are attached and are made part of the Agreement."
+  },
+  {
+   "id": "s63",
+   "text": "All other Terms and Conditions of the Agreement are reaffirmed and remain in effect to the extent that they do not conflict with this Agreement."
+  },
+  {
+   "id": "s64",
+   "text": "(1) Sign Here and "
+  },
+  {
+   "id": "s65",
+   "text": "(2) Return To Address Above:"
+  },
+  {
+   "id": "s66",
+   "text": "TELESECTOR RESOURCES GROUP, INC."
+  },
+  {
+   "id": "s67",
+   "text": "ASSESSMENT SYSTEMS, INC. "
+  },
+  {
+   "id": "s68",
+   "text": "(A NYNEX COMPANY)"
+  },
+  {
+   "id": "s69",
+   "text": "By /s/ Eli "
+  },
+  {
+   "id": "s70",
+   "text": "Salig By /s/ Harold Bell"
+  },
+  {
+   "id": "s71",
+   "text": "Title EXEC. "
+  },
+  {
+   "id": "s72",
+   "text": "V.P Title Dir Strategic Servicing"
+  },
+  {
+   "id": "s73",
+   "text": "Name ELI SALIG Name HAROLD BELL"
+  },
+  {
+   "id": "s74",
+   "text": "(print) (print)"
+  },
+  {
+   "id": "s75",
+   "text": "Accepted: Date 24 July 1996"
+  }
+ ]
+}

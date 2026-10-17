@@ -1,0 +1,125 @@
+{
+ "id": "N490",
+ "revision": 1,
+ "title": "1111682_0000950123-00-003802_document_15.txt",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 490,
+  "type": "sec-text",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001111682/000095012300003802/0000950123-00-003802.txt"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "MUTUAL SECRECY AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "This AGREEMENT effective as of the 17th day of May, 1996, is between UCAR CARBON COMPANY INC., a Delaware corporation, having offices at 39 Old Ridgebury Road, Danbury, Connecticut O68l7 (hereinafter referred to as \"UCAR CARBON\"); and BALLARD POWER SYSTEMS INC., having an office at 9000 Glenlyon Parkway, Burnaby, B.C. Canada V5J 5J9 (hereinafter referred to as \"BALLARD\")."
+  },
+  {
+   "id": "s2",
+   "text": "WHEREAS, UCAR CARBON possesses certain proprietary information (hereinafter UCAR CARBON Proprietary Information) relating to the manufacture of flexible graphite for use in fuel cells:"
+  },
+  {
+   "id": "s3",
+   "text": "WHEREAS, BALLARD possesses certain proprietary information (hereinafter BALLARD Proprietary Information) relating to fuel cells and components for fuel cells."
+  },
+  {
+   "id": "s4",
+   "text": "WHEREAS, UCAR CARBON and BALLARD desire to exchange such proprietary information (hereinafter individually and collectively referred to as \"Proprietary Information\") for the purpose of UCAR CARBON supplying flexible graphite produced employing UCAR CARBON Proprietary Information to BALLARD under a separate purchase order."
+  },
+  {
+   "id": "s5",
+   "text": "WHEREAS, each party is willing to disclose to the other party its Proprietary Information for the specific purposes of this Agreement under the following conditions:"
+  },
+  {
+   "id": "s6",
+   "text": "1. During the term of this Agreement, the receiving party agrees to hold in confidence and not disclose to any person or persons, other than its employees with a need to know, or use except for the purpose of this agreement, for a period of fifteen (15) years from the date of each disclosure, any and all Proprietary Information disclosed in writing and identified as Proprietary Information by the disclosing party. "
+  },
+  {
+   "id": "s7",
+   "text": "If Proprietary Information is disclosed orally or in other than written form, it must be identified as Proprietary Information at the time of disclosure and summarized in writing and identified as Proprietary Information by the disclosing party within thirty (30) days from the date of the disclosure. "
+  },
+  {
+   "id": "s8",
+   "text": "It is understood that the foregoing obligation of confidentiality does not apply to:"
+  },
+  {
+   "id": "s9",
+   "text": "a) information which at the time of disclosure is in the public domain;"
+  },
+  {
+   "id": "s10",
+   "text": "b) information which is published or otherwise becomes part of the public domain through no fault of the receiving party after the disclosure hereunder;"
+  },
+  {
+   "id": "s11",
+   "text": "c) information which the receiving party can demonstrate by reasonably convincing evidence is already known or in the possession of the receiving party at the time of disclosure hereunder;"
+  },
+  {
+   "id": "s12",
+   "text": "d) information that the receiving party can show was received by it after the time of the disclosure hereunder from a third party on a non-confidential basis who did not acquire such information directly or indirectly from the disclosing party under an obligation of confidence; or"
+  },
+  {
+   "id": "s13",
+   "text": "e) information that is developed by an employee of the receiving party independent of any such disclosure under this Agreement."
+  },
+  {
+   "id": "s14",
+   "text": "2. The receiving party agrees to use at least the same degree of care in maintaining the other party's Proprietary Information confidential as it does for maintaining the confidentiality of its own Proprietary Information of a similar nature."
+  },
+  {
+   "id": "s15",
+   "text": "3. The receiving party agrees not to copy any Proprietary Information without the written permission of the disclosing party, and shall return such Proprietary Information and any copies when requested to do so by the disclosing party during the term of this Agreement"
+  },
+  {
+   "id": "s16",
+   "text": "4. No license, express or implied, is granted by either party to the other party under any patent, trade secret or copyright now or hereafter owned by either party under this Agreement."
+  },
+  {
+   "id": "s17",
+   "text": "5. This Agreement shall be construed and interpreted, and its performance shall be governed by substantive laws of the state of Connecticut, U.S.A., without recourse to its conflict of laws, rules or principles. "
+  },
+  {
+   "id": "s18",
+   "text": "6. Either party upon thirty (30) days notice given in writing to the other party may terminate this Agreement. "
+  },
+  {
+   "id": "s19",
+   "text": "However, termination of the Agreement will not affect the confidentiality and non-use obligations of either party."
+  },
+  {
+   "id": "s20",
+   "text": "AGREED:"
+  },
+  {
+   "id": "s21",
+   "text": "BALLARD POWER SYSTEMS INC. "
+  },
+  {
+   "id": "s22",
+   "text": "UCAR CARBON COMPANY INC."
+  },
+  {
+   "id": "s23",
+   "text": "By /s/ Keith B. Prater By/s/ R.M. Flowers"
+  },
+  {
+   "id": "s24",
+   "text": "Name Keith B. Prater Name R.M. Flowers"
+  },
+  {
+   "id": "s25",
+   "text": "Title Vice President Title Dir.-Worldwide Tech."
+  },
+  {
+   "id": "s26",
+   "text": "Date 21Jun96 "
+  },
+  {
+   "id": "s27",
+   "text": "Date July 2, 1996"
+  }
+ ]
+}

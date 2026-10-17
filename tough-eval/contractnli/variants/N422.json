@@ -1,0 +1,337 @@
+{
+ "id": "N422",
+ "revision": 1,
+ "title": "920729_0000891618-96-000819_document_6.txt",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 422,
+  "type": "sec-text",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000920729/000089161896000819/0000891618-96-000819.txt"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "MUTUAL CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "This Mutual Confidentiality and Non-Disclosure Agreement is entered into as of April 2, 1996 (the \"Effective Date\") by and between HNC Software Inc., a Delaware corporation, and Infoseek, a California corporation (hereinafter collectively referred to as \"the parties\")."
+  },
+  {
+   "id": "s2",
+   "text": "WHEREAS, the parties recognize that each other's business involves specialized and proprietary knowledge, information, methods, processes, techniques, and skills peculiar to their security and growth. "
+  },
+  {
+   "id": "s3",
+   "text": "The parties acknowledge that any disclosure of such methods, processes, skills, financial data, or other confidential or proprietary information would substantially injure the party's business, impair the party's investments and goodwill, and jeopardize the party's relationship with the party's clients and customers;"
+  },
+  {
+   "id": "s4",
+   "text": "WHEREAS, the parties presently desire to consult with each other with respect to certain matters;"
+  },
+  {
+   "id": "s5",
+   "text": "WHEREAS, in the course of such consultation the parties anticipate disclosing to each other certain information of a novel, proprietary, or confidential nature, and desire that such information be subject to all of the terms and conditions set forth below."
+  },
+  {
+   "id": "s6",
+   "text": "NOW, THEREFORE, the parties hereto, in consideration of the premises and other good and valuable consideration, agree as follows:"
+  },
+  {
+   "id": "s7",
+   "text": "1. Confidential Information. "
+  },
+  {
+   "id": "s8",
+   "text": "\"Confidential Information\" shall mean and include any information which relates to the financial and/or business operations of each party, including, but not limited to, information relating to each party's customers, products, processes, financial condition, employees, manufacturing techniques, experimental work and/or trade secrets. "
+  },
+  {
+   "id": "s9",
+   "text": "Said Confidential Information is deemed proprietary by the parties hereto. "
+  },
+  {
+   "id": "s10",
+   "text": "The Subject Matter of this Agreement, as well as any additional information disclosed hereunder that is deemed Confidential Information by the parties is described in Exhibit A attached hereto and incorporated herein by this reference."
+  },
+  {
+   "id": "s11",
+   "text": "2. Use of Confidential Information. "
+  },
+  {
+   "id": "s12",
+   "text": "Each party agrees not to use the other's Confidential Information for any purpose other than for the specific consultation regarding the subject matter of this Agreement. "
+  },
+  {
+   "id": "s13",
+   "text": "Any other use of such Confidential Information shall be made only upon the prior written consent from an authorized representative of the party which disclosed such information (hereinafter the \"Disclosing Party\") or pursuant to subsequent agreement between the parties."
+  },
+  {
+   "id": "s14",
+   "text": "3. Non-Disclosure of Proprietary Information. "
+  },
+  {
+   "id": "s15",
+   "text": "The parties agree that from the date of receipt, the party receiving the Confidential Information (hereinafter the \"Receiving Party\") shall not disclose Confidential Information to any other person, firm, corporation or other entity or use it for its own benefit except as provided in this Agreement. "
+  },
+  {
+   "id": "s16",
+   "text": "The Receiving Party shall not publish, divulge, communicate, or reveal any Confidential Information to any person, corporation, or other third party or to any of Receiving Party's employees who do not have a need to know such Confidential Information with respect to their job duties. "
+  },
+  {
+   "id": "s17",
+   "text": "The Receiving Party shall use the same degree of care to avoid publication or dissemination of the Confidential Information as it would with respect to its own confidential information. "
+  },
+  {
+   "id": "s18",
+   "text": "These efforts shall specifically include document control measures, such as numbered copies and sign out logs, and imposing on all employees, agents and other representatives of Receiving Party restrictions at least as strict as required by this Agreement."
+  },
+  {
+   "id": "s19",
+   "text": "\"Confidential Information\" shall not include information, technical data or know-how which:"
+  },
+  {
+   "id": "s20",
+   "text": "(a) is already known to the Receiving Party at the time of disclosure and is not otherwise subject to restriction;"
+  },
+  {
+   "id": "s21",
+   "text": "(b) is or becomes publicly known through no wrongful act of the Receiving Party;"
+  },
+  {
+   "id": "s22",
+   "text": "(c) rightfully disclosed to Receiving Party by a third party who has no obligation of confidentiality to the Disclosing Party;"
+  },
+  {
+   "id": "s23",
+   "text": "(d) is independently developed by the Receiving Party; or"
+  },
+  {
+   "id": "s24",
+   "text": "(e) is approved for release by written authorization of the Disclosing Party."
+  },
+  {
+   "id": "s25",
+   "text": "4. Marking. "
+  },
+  {
+   "id": "s26",
+   "text": "Confidential Information may be disclosed either visually, orally or in writing. "
+  },
+  {
+   "id": "s27",
+   "text": "Written material shall be identified and labeled \"Confidential\" or \"Proprietary\" to discloser. "
+  },
+  {
+   "id": "s28",
+   "text": "Verbal or visual information should be identified as \"Confidential Information\" when disclosed."
+  },
+  {
+   "id": "s29",
+   "text": "5. Return of Confidential Information. "
+  },
+  {
+   "id": "s30",
+   "text": "All Confidential Information and copies and extracts thereof shall be promptly returned to Disclosing Party three years from the effective date of this Agreement, or at any time within thirty (30) days of receipt of a written request by the Disclosing Party for the return of such Confidential Information."
+  },
+  {
+   "id": "s31",
+   "text": "6. Ownership of Information. "
+  },
+  {
+   "id": "s32",
+   "text": "The parties agree that any Confidential Information revealed to the other by the Disclosing Party remains the exclusive property of the Disclosing Party and its successors and assigns, unless otherwise expressly provided in writing signed by an authorized representative of the Disclosing Party."
+  },
+  {
+   "id": "s33",
+   "text": "7. No License Granted. "
+  },
+  {
+   "id": "s34",
+   "text": "Nothing contained in this Agreement shall be construed as granting or conferring any rights to the Receiving Party by license or otherwise, expressly, impliedly or otherwise, for any information, discovery or improvement made, conceived, or acquired after the date of this Agreement, or for any invention, discovery, or improvement made, conceived or acquired prior to the date of this Agreement."
+  },
+  {
+   "id": "s35",
+   "text": "8. Arbitration and Equitable Relief."
+  },
+  {
+   "id": "s36",
+   "text": "(a) Arbitration. "
+  },
+  {
+   "id": "s37",
+   "text": "Except as provided in Section 8(b) below, the parties agree that any dispute or controversy arising out of or relating to any interpretation, construction, performance or breach of this Agreement shall be settled by arbitration to be held in San Diego County, California in accordance with the Commercial Arbitration Rules then in effect of the American Arbitration Association. "
+  },
+  {
+   "id": "s38",
+   "text": "The arbitrator may grant injunctions or other relief in such dispute or controversy. "
+  },
+  {
+   "id": "s39",
+   "text": "In the event of arbitration, a reasonable amount of discovery may be undertaken by the parties. "
+  },
+  {
+   "id": "s40",
+   "text": "The decision of the arbitrator shall be final, conclusive and binding on the parties to the arbitration. "
+  },
+  {
+   "id": "s41",
+   "text": "Judgment may be entered on the arbitrator's decision in any court having jurisdiction."
+  },
+  {
+   "id": "s42",
+   "text": "(b) Equitable Remedies. "
+  },
+  {
+   "id": "s43",
+   "text": "The parties agree that it would be impossible or inadequate to measure and calculate the Disclosing Party's damages from any breach of the covenants set forth herein. "
+  },
+  {
+   "id": "s44",
+   "text": "Accordingly, the parties agree that if in the event of a breach of any of the covenants contained in this Agreement, the affected party will have available, in addition to any other right or remedy available, the right to obtain an injunction from a court of competent jurisdiction restraining such breach or threatened breach and to specific performance of any such provision of this Agreement. "
+  },
+  {
+   "id": "s45",
+   "text": "The parties further agree that no bond or other security shall be required in obtaining such equitable relief and the parties hereby consent to the issuance of such injunction and to the ordering of specific performance."
+  },
+  {
+   "id": "s46",
+   "text": "(c) Legal Expenses. "
+  },
+  {
+   "id": "s47",
+   "text": "If any action or proceeding is brought for the enforcement of this Agreement, or because of an alleged or actual dispute, breach, default, or misrepresentation in connection with any of the provisions of this Agreement, the successful or prevailing party shall be entitled to recover reasonable attorneys' fees and other costs incurred in such action or proceeding in addition to any other relief to which it may be entitled."
+  },
+  {
+   "id": "s48",
+   "text": "9. Term. "
+  },
+  {
+   "id": "s49",
+   "text": "This Agreement shall expire two (2) years from the Effective Date, but may be terminated prior to expiration by either party giving thirty (30) days' prior written notice to the other party; provided, however, the obligations to protect the Confidential Information in accordance with this Agreement shall survive for a period of five (5) years from the date of the last disclosure of Confidential Information is made under this Agreement."
+  },
+  {
+   "id": "s50",
+   "text": "10. No Formal Business Obligations. "
+  },
+  {
+   "id": "s51",
+   "text": "This Agreement shall not constitute, create, give effect to, or otherwise imply a joint venture, pooling arrangement, partnership, or formal business organization of any kind, nor shall it constitute, create, give effect to, or otherwise imply an obligation or commitment on the part of either party to submit a proposal to or perform a contract with the other party. "
+  },
+  {
+   "id": "s52",
+   "text": "Nothing herein shall be construed as providing for the sharing of profits or loss arising out of the efforts of either or both parties. "
+  },
+  {
+   "id": "s53",
+   "text": "Neither party will be liable to the other for any of the costs associated with the other's efforts in connection with this Agreement."
+  },
+  {
+   "id": "s54",
+   "text": "11. General Provisions."
+  },
+  {
+   "id": "s55",
+   "text": "(a) Governing Law. "
+  },
+  {
+   "id": "s56",
+   "text": "This Agreement will be governed by the laws of the State of California."
+  },
+  {
+   "id": "s57",
+   "text": "(b) Severability. "
+  },
+  {
+   "id": "s58",
+   "text": "If one or more of the provisions in this Agreement are deemed void by law, then the remaining provisions will continue in full force and effect."
+  },
+  {
+   "id": "s59",
+   "text": "(c) Successors and Assigns. "
+  },
+  {
+   "id": "s60",
+   "text": "This Agreement will be binding upon the successors and/or assigns of the parties."
+  },
+  {
+   "id": "s61",
+   "text": "(d) Headings. "
+  },
+  {
+   "id": "s62",
+   "text": "All headings used herein are intended for reference purposes only and shall not affect the interpretation, or validity of this Agreement."
+  },
+  {
+   "id": "s63",
+   "text": "(e) Entire Agreement. "
+  },
+  {
+   "id": "s64",
+   "text": "This Agreement constitutes the entire agreement and understanding of the parties with respect to the subject matter of this Agreement. "
+  },
+  {
+   "id": "s65",
+   "text": "Any amendment or modification of this Agreement shall be in writing and executed by a duly authorized representative of the parties."
+  },
+  {
+   "id": "s66",
+   "text": "The parties, by the signatures of their authorized representatives appearing below, acknowledge that they have read and understand each and every term of this Agreement and agree to be bound by its terms and conditions."
+  },
+  {
+   "id": "s67",
+   "text": "HNC Software Inc. Infoseek Corporation"
+  },
+  {
+   "id": "s68",
+   "text": "5930 Cornerstone Court West 2620 Augustine Drive, Suite 250"
+  },
+  {
+   "id": "s69",
+   "text": "San Diego, CA 92121-3728 "
+  },
+  {
+   "id": "s70",
+   "text": "Santa Clara, CA 95054"
+  },
+  {
+   "id": "s71",
+   "text": "By: By:"
+  },
+  {
+   "id": "s72",
+   "text": "----------------------------- "
+  },
+  {
+   "id": "s73",
+   "text": "-----------------------------"
+  },
+  {
+   "id": "s74",
+   "text": "Michael A. Thiemann Robin Johnson"
+  },
+  {
+   "id": "s75",
+   "text": "Executive Vice President CEO"
+  },
+  {
+   "id": "s76",
+   "text": "EXHIBIT "
+  },
+  {
+   "id": "s77",
+   "text": "A"
+  },
+  {
+   "id": "s78",
+   "text": "SUBJECT MATTER; ADDITIONAL CONFIDENTIAL INFORMATION"
+  },
+  {
+   "id": "s79",
+   "text": "HNC (which shall be considered the Disclosing Party for purposes of this Exhibit A) may disclose information with respect to the following in connection with this Agreement. "
+  },
+  {
+   "id": "s80",
+   "text": "The parties agree that any such information disclosed shall be considered Confidential Information for purposes of this Agreement: Any and all information from any and all verbal, electronic, and/or written communications (whether in the form of slides, handouts, letters, memoranda, agreements, facsimile transmissions, meetings, conference and other telephone calls, diskettes, files, tapes, and/or any other mode) with respect to the HNC products known as SelectCast(TM), Convectis(TM), related products, and/or related concepts, proposals, data sources, plans, markets, customers, pricing, schedules, development efforts (including future product functionality and release plans), decision technology and/or models, software (including source code, object code and/or documentation), numerical data processing algorithms, product and software design specifications and/or functionality, and/or ideas."
+  }
+ ]
+}

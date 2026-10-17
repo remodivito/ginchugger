@@ -1,0 +1,129 @@
+{
+ "id": "N339",
+ "revision": 1,
+ "title": "SMT-R-100-01-NON-DISCLOSURE-AGREEMENT.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 339,
+  "type": "search-pdf",
+  "url": "http://smtlabs.co.za/wp-content/uploads/2019/01/SMT-R-100-01-NON-DISCLOSURE-AGREEMENT.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "SMT LABS PTY LTD"
+  },
+  {
+   "id": "s1",
+   "text": "Non-Disclosure Agreement (NDA)"
+  },
+  {
+   "id": "s2",
+   "text": "THIS AGREEMENT dated "
+  },
+  {
+   "id": "s3",
+   "text": "____________, 20______, by and between SMT LABS PTY LTD and "
+  },
+  {
+   "id": "s4",
+   "text": "________________________________________________ "
+  },
+  {
+   "id": "s5",
+   "text": "(“Customer”)."
+  },
+  {
+   "id": "s6",
+   "text": "SMT LABS PTY LTD operates a laboratory management system in compliance with ISO/IEC 17025 and requirements as set out in the South African National Accreditation System (SANAS) policies and procedures."
+  },
+  {
+   "id": "s7",
+   "text": "In compliance with these requirements, confidentiality, with regards to all laboratory activities contracted to SMT LABS PTY LTD (as agreed upon by both parties), shall be undertaken in the following manner:"
+  },
+  {
+   "id": "s8",
+   "text": "1. SMT LABS PTY LTD shall be responsible, through legally enforceable commitments, for the management of all information obtained or created during the performance of laboratory activities."
+  },
+  {
+   "id": "s9",
+   "text": "2. Except for information that the customer makes publicly available, or when agreed between SMT LABS PTY LTD and the customer all other information is considered proprietary information and shall be regarded as confidential."
+  },
+  {
+   "id": "s10",
+   "text": "3. When the laboratory is required by law or authorized by contractual arrangements to release confidential information, the customer shall, unless prohibited by law, be notified of the information provided BEFORE information released."
+  },
+  {
+   "id": "s11",
+   "text": "4. Personnel, including any committee members, contractors, personnel of external bodies, or individuals acting on the laboratory's behalf, shall keep confidential all information obtained or created during the performance of laboratory activities, except as required by law."
+  },
+  {
+   "id": "s12",
+   "text": "5. As part of the SANAS accreditation arrangement and Internal audit policy, SMT LABS PTY LTD will be assessed and audited on an ongoing basis to ensure continuous compliance to ISO/IEC 17025 and SANAS policies and procedures. "
+  },
+  {
+   "id": "s13",
+   "text": "All service providers (including SANAS) have signed a Non-disclosure Agreement/ Confidentiality Agreement as part of our contractual agreement."
+  },
+  {
+   "id": "s14",
+   "text": "IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written."
+  },
+  {
+   "id": "s15",
+   "text": "SMT LABS PTY LTD"
+  },
+  {
+   "id": "s16",
+   "text": "By:"
+  },
+  {
+   "id": "s17",
+   "text": "________________________"
+  },
+  {
+   "id": "s18",
+   "text": "Signature"
+  },
+  {
+   "id": "s19",
+   "text": "Shirleen Theisinger"
+  },
+  {
+   "id": "s20",
+   "text": "Lab Quality Manager and Managing Director"
+  },
+  {
+   "id": "s21",
+   "text": "CUSTOMER"
+  },
+  {
+   "id": "s22",
+   "text": "By:"
+  },
+  {
+   "id": "s23",
+   "text": "_____________________________"
+  },
+  {
+   "id": "s24",
+   "text": "Signature"
+  },
+  {
+   "id": "s25",
+   "text": "_____________________________"
+  },
+  {
+   "id": "s26",
+   "text": "Printed name"
+  },
+  {
+   "id": "s27",
+   "text": "_____________________________"
+  },
+  {
+   "id": "s28",
+   "text": "Title"
+  }
+ ]
+}

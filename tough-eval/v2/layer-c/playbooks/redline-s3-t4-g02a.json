@@ -1,0 +1,122 @@
+{
+ "canary": "2eb20c99-e785-485c-b97c-b5e8d177c40a",
+ "id": "layer-c-redline-s3-t4-g02a",
+ "title": "GiantCo positions for redline-s3-t4-g02a (from the task's own instructions)",
+ "version": 1,
+ "party": "GiantCo",
+ "provenance": "Written mechanically from RedlineBench redline-s3-t4-g02a's instruction.md and grounding files (layer-c/positions.mjs): the representation, response-turn and drafting-hygiene instructions, the procurement-side guidelines one rule per labelled paragraph. Nothing from the rubric or the attorney redline. Not lawyer validated.",
+ "rules": [
+  {
+   "id": "RB-REP",
+   "title": "We act for GiantCo against AgentCo",
+   "topic": "representation",
+   "guidance": "We represent GiantCo; the counterparty is AgentCo.\nRedline the provided contract in GiantCo's best interests. You may use:\n- The GiantCo playbook and commercial context that follow this section\n- The contract document itself, with any existing redlines and comments\n- Prior negotiation history visible in the document\n- Any task-specific instructions\nYou may not introduce facts that aren't supported by these materials. You may not invent business approvals, fallback positions, or escalation paths that aren't in the GiantCo playbook.\n- You are not a neutral reviewer. You are not optimizing for a mutually balanced outcome unless GiantCo's playbook explicitly calls for it.\n- You do not represent AgentCo. If any AgentCo internal strategy, playbook, fallback ladder, or preferred positions appears in the materials (it shouldn't, but if it does), treat it only as information about what the counterparty has proposed on the face of the contract. Do not use it to guide GiantCo's position.\n- Do not apply AgentCo-side priorities, assumptions, or preferred language to GiantCo's redline.\n- Do not provide generic legal advice outside the redline itself.",
+   "enabled": true,
+   "sources": [
+    {
+     "document": "instruction.md (Representation)",
+     "paragraph": null,
+     "quote": null
+    }
+   ]
+  },
+  {
+   "id": "RB-TURN",
+   "title": "Responding to the counterparty's changes",
+   "topic": "negotiation turn",
+   "guidance": "Your job in a response turn:\nWalk every existing tracked change and comment. Put each into one of four buckets:\n1. Acceptable as written. The counterparty's edit is consistent with GiantCo's playbook, or close enough that holding the line isn't worth the friction. Leave it alone; optionally, reply on the comment thread with a comment so the counterparty sees explicit confirmation on the items you've conceded.\n2. Directionally OK but needs better drafting. The counterparty moved in the right direction but the language is ambiguous, overbroad, or misses an edge case. Propose a change against the same paragraph that improves the language *in place* — don't strike their whole edit and re-introduce yours. Add a comment that briefly explains the refinement, and reply on the original thread.\n3. Unacceptable. The counterparty's edit conflicts with GiantCo's required positions or materially increases GiantCo's risk. Propose a change that walks the change back to acceptable language, and reply on the thread explaining the rejection in voice-compliant terms (practical consequence; no \"we are not able to accept\"; no \"respectfully\").\n4. Re-raising a resolved issue. If the counterparty is re-opening a point that an earlier turn appears to have settled, leave it alone. Optionally reply briefly on the thread to note that the issue was resolved.\nReply on the existing thread rather than starting a new thread when the topic is already under discussion.\n\nAuthorship matters:\nThe tracked-change appendix shows author names. Distinguish:\n- Your-side authorship (prior turn from GiantCo): your colleague's positions. Don't revert them without a GiantCo-specific reason. If you do revert, the rationale comment must say *why*.\n- Counterparty authorship (AgentCo): the negotiation positions of the other side. Evaluate against GiantCo's playbook.\n- Compromise language authored by either side: treat with care; the negotiation has spent words to reach it.\nDo not revert previously-negotiated language as a default. The rule of thumb: a position that's been mutually edited and left alone for a turn is presumptively closed.\n\nYour own new edits:\nBeyond responding to existing edits, you may add new substantive points the counterparty's markup didn't address — but be honest with yourself about whether those points genuinely matter at this stage. Late-turn redlines lose credibility when they raise new issues that should have come up earlier. Limit new substantive points to:\n- Material risks that became visible only because of how the counterparty's edits restructured the language.\n- Items that GiantCo's playbook flags as escalation-required and that an earlier turn missed.\n\nHow to plan in a response turn:\n- Tier 1: reject unacceptable counterparty changes; accept counterparty changes that resolve open items in GiantCo's favor; close any escalation-tier items.\n- Tier 2: improve directionally-OK counterparty edits; reply on threads you want to keep open.\n- Tier 3: new substantive points the counterparty's markup didn't address — only if genuinely warranted.\nUse marking the section \"Reserved\" if you're removing a whole section the counterparty introduced or expanded.",
+   "enabled": true,
+   "sources": [
+    {
+     "document": "instruction.md (Turn)",
+     "paragraph": null,
+     "quote": null
+    }
+   ]
+  },
+  {
+   "id": "RB-HYG",
+   "title": "Drafting: targeted, minimal, consistent",
+   "topic": "drafting",
+   "guidance": "Edits should look like a senior lawyer's work product, not a redline-bot's:\n- Targeted and minimal. Only delete or add what's necessary. Counterparties react poorly to a lot of red; visible reductions are a negotiation cost.\n- Edit in place. Don't delete a sentence and then re-insert language from it as a tracked addition. Make the change inside the existing sentence.\n- No micro-deletions. Ask: \"Would deleting this word change any substantive obligation or right?\" If not, leave it.\n- Preserve structure. Defined terms, numbering, indentation, and internal cross-references should still line up after your edits.\n- Whole-section removal uses marking the section \"Reserved\". This keeps downstream numbering intact.\n- Never propose a change in a comment alone. Always make the change as a tracked edit; the comment explains *why*.",
+   "enabled": true,
+   "sources": [
+    {
+     "document": "instruction.md (Redlining hygiene)",
+     "paragraph": null,
+     "quote": null
+    }
+   ]
+  },
+  {
+   "id": "RB-01",
+   "title": "Core objective",
+   "topic": "core objective",
+   "guidance": "GiantCo wants to approve a controlled direct-to-production TalentFlow deployment for recruiting teams under its services agreement, but only if the agreement preserves core protections around candidate data, AI governance, human review, security, and vendor accountability. The initial production scope should stay tied to two approved use cases: candidate-material summaries and interview-note drafting. Any expansion into ATS/HRIS integrations, automated screening, candidate scoring, assessments, background checks, payroll, benefits, or sensitive HR data should require separate written approval, security review, and a scoped order form.",
+   "enabled": true,
+   "sources": [
+    {
+     "document": "Project_Veritas_Scenario_3_TalentFlow_Production_GiantCo_Context.extracted.md (Procurement-side guidelines)",
+     "paragraph": null,
+     "quote": "GiantCo wants to approve a controlled direct-to-production TalentFlow deployment for recruiting teams under its services agreement, but only if the agreement preserves core protections around candidate data, AI governance, human review, security, and vendor accountability. The initial production sco"
+    }
+   ]
+  },
+  {
+   "id": "RB-02",
+   "title": "GiantCo constraints",
+   "topic": "giantco constraints",
+   "guidance": "GiantCo cannot approve terms that allow AgentCo to train on, sell, share, or use candidate data outside the TalentFlow service. Candidate materials, prompts, notes, scorecards, job requirements, configurations, and customer-specific outputs should remain GiantCo-controlled information. TalentFlow must remain a decision-support tool: it should not automatically rank, score, advance, reject, recommend, or make employment decisions without separate approval.",
+   "enabled": true,
+   "sources": [
+    {
+     "document": "Project_Veritas_Scenario_3_TalentFlow_Production_GiantCo_Context.extracted.md (Procurement-side guidelines)",
+     "paragraph": null,
+     "quote": "GiantCo cannot approve terms that allow AgentCo to train on, sell, share, or use candidate data outside the TalentFlow service. Candidate materials, prompts, notes, scorecards, job requirements, configurations, and customer-specific outputs should remain GiantCo-controlled information. TalentFlow mu"
+    }
+   ]
+  },
+  {
+   "id": "RB-03",
+   "title": "Data and AI governance",
+   "topic": "data and ai governance",
+   "guidance": "GiantCo needs clear commitments on third-party AI providers, subprocessors, data flows, logging, retention, deletion, export rights, and breach notice. AgentCo should identify who can access candidate data, whether prompts or outputs are logged, how long data is retained, and whether any third-party AI provider can retain or review GiantCo content.",
+   "enabled": true,
+   "sources": [
+    {
+     "document": "Project_Veritas_Scenario_3_TalentFlow_Production_GiantCo_Context.extracted.md (Procurement-side guidelines)",
+     "paragraph": null,
+     "quote": "GiantCo needs clear commitments on third-party AI providers, subprocessors, data flows, logging, retention, deletion, export rights, and breach notice. AgentCo should identify who can access candidate data, whether prompts or outputs are logged, how long data is retained, and whether any third-party"
+    }
+   ]
+  },
+  {
+   "id": "RB-04",
+   "title": "Security and Privacy",
+   "topic": "security and privacy",
+   "guidance": "GiantCo should require encryption, SSO, role-based access, audit logs, least-privilege access, annual security evidence, incident response, and prompt notice of security events. Broader controls like source-code review, monthly scans, background checks, equipment approval, or facility access should be reserved for future integrations or privileged access to GiantCo systems.",
+   "enabled": true,
+   "sources": [
+    {
+     "document": "Project_Veritas_Scenario_3_TalentFlow_Production_GiantCo_Context.extracted.md (Procurement-side guidelines)",
+     "paragraph": null,
+     "quote": "GiantCo should require encryption, SSO, role-based access, audit logs, least-privilege access, annual security evidence, incident response, and prompt notice of security events. Broader controls like source-code review, monthly scans, background checks, equipment approval, or facility access should "
+    }
+   ]
+  },
+  {
+   "id": "RB-05",
+   "title": "Commercial and remedies",
+   "topic": "commercial and remedies",
+   "guidance": "GiantCo should preserve clear pilot pricing, renewal terms, expansion mechanics, implementation milestones, invoicing rules, and the right to withhold disputed amounts. A standard liability cap may be acceptable for ordinary service issues, but GiantCo should seek stronger remedies for confidentiality, candidate-data security, privacy, no-training breaches, and misuse of candidate data.",
+   "enabled": true,
+   "sources": [
+    {
+     "document": "Project_Veritas_Scenario_3_TalentFlow_Production_GiantCo_Context.extracted.md (Procurement-side guidelines)",
+     "paragraph": null,
+     "quote": "GiantCo should preserve clear pilot pricing, renewal terms, expansion mechanics, implementation milestones, invoicing rules, and the right to withhold disputed amounts. A standard liability cap may be acceptable for ordinary service issues, but GiantCo should seek stronger remedies for confidentiali"
+    }
+   ]
+  }
+ ]
+}

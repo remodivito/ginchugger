@@ -1,0 +1,187 @@
+{
+ "format": "tough-eval-scenario/1",
+ "canary": "5f0c1e2a-9b7d-4c3e-8a61-0d2f4b6c8e10",
+ "id": "H-deepseek-01",
+ "author": "deepseek",
+ "kind": "wrong-counterparty",
+ "current": {
+  "itemId": "A-deepseek-nda-discloser-01",
+  "variantId": "A-deepseek-nda-discloser-01",
+  "document": "nda",
+  "side": "discloser",
+  "playbook": "v2/fixtures/synthetic/playbook-nda-discloser.json"
+ },
+ "matter": {
+  "id": "m-current",
+  "name": "Brightwater NDA 2026",
+  "counterparty": "cp-1",
+  "kind": "nda",
+  "round": 1
+ },
+ "seed": {
+  "format": "ginchugger-record-seed/1",
+  "counterparties": [
+   {
+    "id": "cp-1",
+    "name": "Brightwater Devices Ltd",
+    "aliases": []
+   },
+   {
+    "id": "cp-2",
+    "name": "Corran Optics Ltd",
+    "aliases": []
+   }
+  ],
+  "users": [
+   {
+    "id": "u-1",
+    "name": "Fixture Lawyer"
+   }
+  ],
+  "matters": [
+   {
+    "id": "m-3",
+    "name": "Corran NDA 2025",
+    "counterparty": "cp-2",
+    "kind": "nda",
+    "status": "signed",
+    "signedRound": 1,
+    "rounds": [
+     {
+      "n": 1,
+      "side": "theirs",
+      "respondsTo": null,
+      "receivedAt": "2025-01-10T10:00:00Z",
+      "document": {
+       "id": "fixture-nda-round",
+       "revision": 1,
+       "title": "Mutual Non-Disclosure Agreement (synthetic fixture)",
+       "paragraphs": [
+        {
+         "id": "p1",
+         "text": "Mutual Non-Disclosure Agreement"
+        },
+        {
+         "id": "p2",
+         "text": "This Agreement is between Ashcombe Labs Ltd and Corran Optics Ltd."
+        },
+        {
+         "id": "p3",
+         "text": "Purpose. The Receiving Party will use Confidential Information only to evaluate a possible collaboration (the \"Purpose\")."
+        },
+        {
+         "id": "p4",
+         "text": "Representatives. The Receiving Party may share Confidential Information with its employees and advisers who need to know it for the Purpose and are bound by duties of confidentiality."
+        },
+        {
+         "id": "p5",
+         "text": "Compelled disclosure. If the law requires the Receiving Party to disclose Confidential Information, it may do so without notice to the Disclosing Party."
+        },
+        {
+         "id": "p6",
+         "text": "Return. On request, the Receiving Party will return or destroy Confidential Information."
+        },
+        {
+         "id": "p7",
+         "text": "Term. The obligations in this Agreement continue for 3 years after the Effective Date."
+        },
+        {
+         "id": "p8",
+         "text": "Governing law. This Agreement is governed by the laws of England and Wales."
+        }
+       ]
+      },
+      "events": [
+       {
+        "type": "finding_flagged",
+        "at": "2025-01-10T10:01:00Z",
+        "actor": "u-1",
+        "payload": {
+         "ruleId": "NDA-08",
+         "findingId": "f-1",
+         "paragraphId": "p5",
+         "quote": "it may do so without notice to the Disclosing Party",
+         "decision": "counter"
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "m-4",
+    "name": "Brightwater NDA 2024",
+    "counterparty": "cp-1",
+    "kind": "nda",
+    "status": "signed",
+    "signedRound": 1,
+    "rounds": [
+     {
+      "n": 1,
+      "side": "theirs",
+      "respondsTo": null,
+      "receivedAt": "2024-02-10T10:00:00Z",
+      "document": {
+       "id": "fixture-nda-round",
+       "revision": 1,
+       "title": "Mutual Non-Disclosure Agreement (synthetic fixture)",
+       "paragraphs": [
+        {
+         "id": "p1",
+         "text": "Mutual Non-Disclosure Agreement"
+        },
+        {
+         "id": "p2",
+         "text": "This Agreement is between Ashcombe Labs Ltd and Brightwater Devices Ltd."
+        },
+        {
+         "id": "p3",
+         "text": "Purpose. The Receiving Party will use Confidential Information only to evaluate a possible collaboration (the \"Purpose\")."
+        },
+        {
+         "id": "p4",
+         "text": "Representatives. The Receiving Party may share Confidential Information with its employees and advisers who need to know it for the Purpose and are bound by duties of confidentiality."
+        },
+        {
+         "id": "p5",
+         "text": "Compelled disclosure. If the law requires the Receiving Party to disclose Confidential Information, it will give the Disclosing Party prompt notice where legally permitted."
+        },
+        {
+         "id": "p6",
+         "text": "Return. On request, the Receiving Party will return or destroy Confidential Information."
+        },
+        {
+         "id": "p7",
+         "text": "Term. The obligations in this Agreement continue for 3 years after the Effective Date."
+        },
+        {
+         "id": "p8",
+         "text": "Governing law. This Agreement is governed by the laws of England."
+        }
+       ]
+      },
+      "events": []
+     }
+    ]
+   }
+  ]
+ },
+ "expect": {
+  "otherCounterpartyMatters": [
+   "m-3"
+  ]
+ },
+ "verification": [
+  {
+   "family": "opus",
+   "expectFollows": true,
+   "reasons": "synthetic"
+  },
+  {
+   "family": "glm",
+   "expectFollows": true,
+   "reasons": "synthetic"
+  }
+ ],
+ "status": "verified"
+}

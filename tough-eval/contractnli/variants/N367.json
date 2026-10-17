@@ -1,0 +1,381 @@
+{
+ "id": "N367",
+ "revision": 1,
+ "title": "rqnda.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 367,
+  "type": "search-pdf",
+  "url": "https://my.yrc.com/national/pdf/rqnda.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "MUTUAL Purpose (check one):"
+  },
+  {
+   "id": "s1",
+   "text": "NON-DISCLOSURE AGREEMENT "
+  },
+  {
+   "id": "s2",
+   "text": "Technology Discussion"
+  },
+  {
+   "id": "s3",
+   "text": "Fax to E-Business 913-982-5436 "
+  },
+  {
+   "id": "s4",
+   "text": "Business Discussion"
+  },
+  {
+   "id": "s6",
+   "text": "Other (describe)"
+  },
+  {
+   "id": "s7",
+   "text": "This Mutual Non-Disclosure Agreement (“Agreement”) is made and entered into as of _____________, 2015 (the “Effective Date”), by and between YRC Inc., d/b/a YRC Freight (“YRC Freight”), and the party named on the signature page below (“Participant”)."
+  },
+  {
+   "id": "s8",
+   "text": "This Agreement is intended to facilitate the exchange of proprietary information in furtherance of discussions between the parties related to the purpose described above (the “Purpose”). "
+  },
+  {
+   "id": "s9",
+   "text": "The parties desire to disclose and examine such proprietary information solely in furtherance of the Purpose. "
+  },
+  {
+   "id": "s10",
+   "text": "The party receiving Confidential Information shall be hereinafter referred to as the “Receiving Party,” and the party disclosing such Confidential Information shall be hereinafter referred to as the “Disclosing Party."
+  },
+  {
+   "id": "s11",
+   "text": "”"
+  },
+  {
+   "id": "s12",
+   "text": "In consideration of the covenants and conditions set forth below, the parties agree as follows:"
+  },
+  {
+   "id": "s13",
+   "text": "1. Confidential Information. "
+  },
+  {
+   "id": "s14",
+   "text": "As used in this Agreement, \"Confidential Information” means any information, including without limitation, business information, technical, and marketing information, pricing, rates and discounts, provided such information is identified as confidential at the time of disclosure or is disclosed in a manner that it may be reasonably inferred to be confidential and/or proprietary to the Disclosing Party. "
+  },
+  {
+   "id": "s15",
+   "text": "In the event of an inadvertent disclosure of source code, such information shall be immediately returned to the Disclosing Party."
+  },
+  {
+   "id": "s16",
+   "text": "Confidential Information does not include information that:"
+  },
+  {
+   "id": "s17",
+   "text": "(i) becomes generally available to the public through no fault of the Receiving Party;"
+  },
+  {
+   "id": "s18",
+   "text": "(ii) is, prior to its initial disclosure hereunder, in the possession of the Receiving Party;"
+  },
+  {
+   "id": "s20",
+   "text": "(iii) is acquired by the Receiving Party from any third party without any restrictions on its use or disclosure; or"
+  },
+  {
+   "id": "s22",
+   "text": "(iv) is independently developed by the Receiving Party without use of the Confidential Information."
+  },
+  {
+   "id": "s23",
+   "text": "2. Non-Disclosure and Use Restrictions. "
+  },
+  {
+   "id": "s24",
+   "text": "Any Confidential Information disclosed pursuant to this Agreement shall be retained in confidence by the Receiving Party and used only for the Purpose. "
+  },
+  {
+   "id": "s25",
+   "text": "Confidential Information may be disclosed only to employees or consultants of the Receiving Party who have a need to know. "
+  },
+  {
+   "id": "s26",
+   "text": "Notwithstanding the foregoing, if Receiving Party is a firm that provides outsourced or \"third party\" logistics services to companies for part, or sometimes all, of their function, Receiving Party may disclose its rates to clients expressly authorized and eligible to receive such information through a bona fide authentication or registration process maintained by Receiving Party. "
+  },
+  {
+   "id": "s27",
+   "text": "Any consultant or client of Receiving Party who receives Confidential Information under this Agreement shall be similarly bound in writing to a nondisclosure agreement no less restrictive than the terms of this Agreement. "
+  },
+  {
+   "id": "s28",
+   "text": "The Receiving Party shall be responsible for any breach of this Agreement by an employee or consultant of such Receiving Party. "
+  },
+  {
+   "id": "s29",
+   "text": "The Receiving Party shall use the same degree of care as it uses to protect its own confidential information of a similar nature, but no less than reasonable care, to prevent the unauthorized use, dissemination or publication of the Confidential Information."
+  },
+  {
+   "id": "s30",
+   "text": "3. Term and Duration. "
+  },
+  {
+   "id": "s31",
+   "text": "This Agreement will terminate two (2) years from the Effective Date, but may be terminated by either party at any time upon thirty (30) days written notice. "
+  },
+  {
+   "id": "s32",
+   "text": "All obligations hereunder shall continue for five (5) years from the date of disclosure."
+  },
+  {
+   "id": "s33",
+   "text": "4. Legal Process. "
+  },
+  {
+   "id": "s34",
+   "text": "If the Receiving Party becomes subject to a demand for discovery or disclosure of the Confidential Information of the other party under legal process, such Receiving Party shall give to the other prompt notice of the demand prior to furnishing the Confidential Information demanded, and, at the expense of the Disclosing Party, shall obtain or cooperate with the Disclosing Party in seeking reasonable arrangements to protect the confidential and proprietary nature of the Confidential Information."
+  },
+  {
+   "id": "s35",
+   "text": "5. Ownership of Confidential Information. "
+  },
+  {
+   "id": "s36",
+   "text": "All Confidential Information disclosed under this Agreement shall remain the exclusive property of the Disclosing Party and nothing contained herein shall be construed as a grant, express or implied or by estoppel, of a transfer, assignment, license, lease of any right, title or interest in the Confidential Information."
+  },
+  {
+   "id": "s37",
+   "text": "6. No Warranty. "
+  },
+  {
+   "id": "s38",
+   "text": "No warranty or representation is made by either party hereto that any information transmitted by it hereunder is true and correct, patentable or copyrightable, or that any such information involves concepts or embodiments that are free of infringement of other rights."
+  },
+  {
+   "id": "s39",
+   "text": "7. Return of Confidential Information. "
+  },
+  {
+   "id": "s40",
+   "text": "Upon the completion or termination of any discussions between the parties, or at any time within fourteen (14) days of receipt of a written request of the Disclosing Party, the Receiving Party shall "
+  },
+  {
+   "id": "s41",
+   "text": "(i) promptly return to the Disclosing Party all Confidential Information disclosed in tangible form and copies thereof; or "
+  },
+  {
+   "id": "s42",
+   "text": "(ii) promptly destroy such Confidential Information (including all copies thereof) and certify their destruction to the Disclosing Party."
+  },
+  {
+   "id": "s43",
+   "text": "8. Equitable Relief. "
+  },
+  {
+   "id": "s44",
+   "text": "The parties acknowledge and agree that the covenants set forth in this Agreement are reasonable and necessary for the protection of the parties’ business interests and that irreparable injury may result if they are breached and that in the event of any actual or potential breach of any such covenant that the non-breaching party may have no adequate remedy at law and shall be entitled to seek immediate temporary injunctive relief. "
+  },
+  {
+   "id": "s45",
+   "text": "Nothing herein shall be construed as prohibiting any party from pursuing any other remedies available to it for such breach or threatened breach, including the recovery of damages that it is able to prove."
+  },
+  {
+   "id": "s46",
+   "text": "9. No Other Business Relationship. "
+  },
+  {
+   "id": "s47",
+   "text": "This Agreement does not represent or imply any agreement or commitment to enter into any further business relationship. "
+  },
+  {
+   "id": "s48",
+   "text": "This Agreement does not create any agency or partnership relationship between the parties or authorize a party to use the other party’s name or trademarks. "
+  },
+  {
+   "id": "s49",
+   "text": "Neither party is precluded from independently pursuing any activities similar to or in competition with the Purpose contemplated herein. "
+  },
+  {
+   "id": "s50",
+   "text": "Neither party will be liable to the other for any of the costs associated with the other’s efforts in connection with this Agreement."
+  },
+  {
+   "id": "s51",
+   "text": "10. Export Control. "
+  },
+  {
+   "id": "s52",
+   "text": "The parties recognize that communication or transfer of any information received pursuant to the Purpose may be subject to specific government export approval. "
+  },
+  {
+   "id": "s53",
+   "text": "Each party agrees to comply with all applicable export control legislation with respect to Confidential Information received hereunder."
+  },
+  {
+   "id": "s54",
+   "text": "11. Governing Law. "
+  },
+  {
+   "id": "s55",
+   "text": "This Agreement shall be governed and construed in accordance with the internal laws of the State of Kansas, without giving effect to the choice of law or conflicts of law principles of such state. "
+  },
+  {
+   "id": "s56",
+   "text": "Any legal action or proceeding relating to this Agreement shall be instituted in a state or federal court in Johnson County, Kansas."
+  },
+  {
+   "id": "s57",
+   "text": "12. Successors and Assigns. "
+  },
+  {
+   "id": "s58",
+   "text": "This Agreement will be binding upon the successors and/or assigns of the parties."
+  },
+  {
+   "id": "s59",
+   "text": "13. Counterparts. "
+  },
+  {
+   "id": "s60",
+   "text": "This Agreement may be signed in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument."
+  },
+  {
+   "id": "s61",
+   "text": "14. Severability. "
+  },
+  {
+   "id": "s62",
+   "text": "If any provision of this Agreement shall be adjudged by any court of competent jurisdiction to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that this Agreement shall otherwise remain in full force and effect and enforceable."
+  },
+  {
+   "id": "s63",
+   "text": "15. Waiver. "
+  },
+  {
+   "id": "s64",
+   "text": "The failure of either party to act in the event of a breach of this Agreement by the other shall not be deemed a waiver of such breach or a waiver of future breaches, unless such waiver shall be in writing and signed by the party against whom enforcement is sought."
+  },
+  {
+   "id": "s65",
+   "text": "16. Entire Agreement/No Amendment. "
+  },
+  {
+   "id": "s66",
+   "text": "This Agreement constitutes the entire agreement and understanding of the Parties with respect to the subject matter of this Agreement. "
+  },
+  {
+   "id": "s67",
+   "text": "Any amendment or modification of this Agreement shall be in writing and executed by a duly authorized representative of the parties."
+  },
+  {
+   "id": "s68",
+   "text": "17. Authorized Signature. "
+  },
+  {
+   "id": "s69",
+   "text": "This Agreement is valid only when signed by an employee with authority to bind that party. "
+  },
+  {
+   "id": "s70",
+   "text": "For YRC, this Agreement when unmodified may be signed by any Manager or higher in rank. "
+  },
+  {
+   "id": "s71",
+   "text": "However, if this Agreement is modified, it shall only be effective when accompanied by the YRC Legal Department’s signature or stamp of approval."
+  },
+  {
+   "id": "s72",
+   "text": "YRC Freight Your Company Name:"
+  },
+  {
+   "id": "s73",
+   "text": "Website that will host API:"
+  },
+  {
+   "id": "s74",
+   "text": "By:"
+  },
+  {
+   "id": "s75",
+   "text": "Requested API:"
+  },
+  {
+   "id": "s76",
+   "text": "Name:"
+  },
+  {
+   "id": "s77",
+   "text": "My YRC Username:"
+  },
+  {
+   "id": "s78",
+   "text": "Title:"
+  },
+  {
+   "id": "s79",
+   "text": "Name:"
+  },
+  {
+   "id": "s80",
+   "text": "Address: 10990 Roe Avenue"
+  },
+  {
+   "id": "s81",
+   "text": "Signature: Overland Park, Kansas 66211 USA"
+  },
+  {
+   "id": "s82",
+   "text": "E Mail Address:"
+  },
+  {
+   "id": "s83",
+   "text": "Tel: "
+  },
+  {
+   "id": "s84",
+   "text": "(913) ____-_____ Fax: "
+  },
+  {
+   "id": "s85",
+   "text": "(913) ____-_______"
+  },
+  {
+   "id": "s86",
+   "text": "Title:"
+  },
+  {
+   "id": "s87",
+   "text": "Fax NDA to: "
+  },
+  {
+   "id": "s88",
+   "text": "(913) 982-5436 E-Business Address:"
+  },
+  {
+   "id": "s89",
+   "text": "Tel: Fax:"
+  },
+  {
+   "id": "s90",
+   "text": "For Internal Use Only:"
+  },
+  {
+   "id": "s91",
+   "text": "BusId#: "
+  },
+  {
+   "id": "s92",
+   "text": "_______________________________________ "
+  },
+  {
+   "id": "s93",
+   "text": "Approval Date: "
+  },
+  {
+   "id": "s94",
+   "text": "_____________________________"
+  }
+ ]
+}

@@ -1,0 +1,473 @@
+{
+ "id": "N126",
+ "revision": 1,
+ "title": "IBC-PMS-NDA-agreement.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 126,
+  "type": "search-pdf",
+  "url": "http://www.hcaiinfo.ca/Health-Care-Facility/documents/PMS/IBC-PMS-NDA-agreement.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "PRACTICE MANAGEMENT SYSTEM INTEGRATION TOOLKIT NON-DISCLOSURE AND PERMITTED USE"
+  },
+  {
+   "id": "s1",
+   "text": "AGREEMENT"
+  },
+  {
+   "id": "s2",
+   "text": "This Practice Management System Integration Toolkit Non-Disclosure and Permitted Use Agreement (the \"Agreement\") is made and entered into as of "
+  },
+  {
+   "id": "s3",
+   "text": "_____________________ "
+  },
+  {
+   "id": "s4",
+   "text": "between Insurance Bureau of Canada (“IBC”) and "
+  },
+  {
+   "id": "s5",
+   "text": "____________________________ "
+  },
+  {
+   "id": "s6",
+   "text": "(\"Vendor\")."
+  },
+  {
+   "id": "s7",
+   "text": "WHEREAS: "
+  },
+  {
+   "id": "s8",
+   "text": "(A) IBC operates an electronic accident benefits health claims transactions processing system (known as the “Health Claims for Auto Insurance” system or the “HCAI System”) that permits medical and rehabilitation treatment plans and invoices, in the form approved by the Ontario insurance regulator, the Financial Services Commission of Ontario (“FSCO”) under the Insurance Act (Ontario), (defined as “Claim Requests” below) to be submitted electronically to automobile insurers (“Insurers”) by health care providers or their intermediaries (“Providers”). "
+  },
+  {
+   "id": "s9",
+   "text": "(B) Vendor is the licensor of a practice management system (“PMS”) known as "
+  },
+  {
+   "id": "s10",
+   "text": "_________________________ "
+  },
+  {
+   "id": "s11",
+   "text": "and wishes to obtain technical information from IBC (the “Technical Information”) in order to develop functionality in the Provider’s copy of such PMS System that will permit such Provider licensees of such PMS System who participate in the HCAI System to electronically submit Claim Requests to Insurers through the HCAI System and to receive Claim Responses and/or other information from the HCAI System (the “Purpose”). "
+  },
+  {
+   "id": "s12",
+   "text": "In consideration of IBC disclosing the Technical Information to the Vendor, Vendor agrees to abide with the following terms and conditions."
+  },
+  {
+   "id": "s13",
+   "text": "IN CONSIDERATION OF THE MUTUAL PROMISES AND COVENANTS CONTAINED IN THIS AGREEMENT AND THE DISCLOSURE OF CONFIDENTIAL INFORMATION, THE PARTIES HERETO AGREE AS FOLLOWS:"
+  },
+  {
+   "id": "s14",
+   "text": "1. Definitions and Exclusions."
+  },
+  {
+   "id": "s15",
+   "text": "(a) “Confidential Information”"
+  },
+  {
+   "id": "s16",
+   "text": "a. means nonpublic information that IBC designates as being confidential or which, under the circumstances surrounding disclosure ought to be treated as confidential by Vendor."
+  },
+  {
+   "id": "s17",
+   "text": "b. includes, without limitation, information in tangible or intangible form relating to the HCAI System, and specifically includes any and all proprietary information and/or materials concerning the HCAI System including any communication protocols and application programming interfaces (collectively, “HCAI System Information”) and any other confidential information or materials of IBC, or of third parties and in the possession or control of IBC, and any information derived from any of the foregoing."
+  },
+  {
+   "id": "s18",
+   "text": "c. as between IBC and Vendor, shall also be deemed to include any Claim Request, and in particular, any Personal Information contained in such Claim Request."
+  },
+  {
+   "id": "s19",
+   "text": "(b) Other Definitions"
+  },
+  {
+   "id": "s20",
+   "text": "(i) “Claim Information” means a Claim Request and/or any associated Claim Response."
+  },
+  {
+   "id": "s21",
+   "text": "(ii) “Claim Request” means invoices (and may also include treatment plans) of a Provider User submitted to an Insurer User by or on behalf of a Provider User through the HCAI System."
+  },
+  {
+   "id": "s22",
+   "text": "(iii) “Claim Response” means a response by an Insurer User to a Provider User that is submitted by such Insurer User to the HCAI System for transmission to the originating Provider User."
+  },
+  {
+   "id": "s23",
+   "text": "(iv) “Claims” means any claims, demands, actions, causes of action, suits or proceedings under any law or theory of law (including negligence, product liability, or breach of contract whether or not a fundamental breach or breach of a fundamental term)."
+  },
+  {
+   "id": "s24",
+   "text": "(v) “Insurer User” means an Insurer that participates in the HCAI System."
+  },
+  {
+   "id": "s25",
+   "text": "(vi) “Personal Information” means any information about an identifiable individual as defined in the Personal Information Protection and Electronic Documents Act (Canada) and includes personal health information as defined in the Personal Health Information Protection Act, 2004 (Ontario), and any amending or successor legislation to either statute and the regulations made pursuant thereto."
+  },
+  {
+   "id": "s26",
+   "text": "(vii) “Privacy Laws” means the Personal Information Protection and Electronic Documents Act (Canada), the Personal Health Information Protection Act, 2004 (Ontario) and any other laws enforceable in Ontario, now existing or which may be enacted in the future, which govern the collection, use, processing and/or disclosure of personal information, and any amending or successor legislation and regulations made pursuant thereto, ,all as may be amended from time to time."
+  },
+  {
+   "id": "s27",
+   "text": "(viii) “Provider User” or “User” means an individual Provider that participates as a “provider” in the HCAI System and is bound by the HCAI Electronic Access Terms and Conditions."
+  },
+  {
+   "id": "s28",
+   "text": "(ix) “Services” means the services provided by IBC directly or through its subcontractors in connection with the transmission and submission of Claim Requests from Provider Users to Insurer Users using the HCAI System, and the transport of Claim Responses in respect of such claims, where provided in electronic form, back from Insurers to Providers, and other ancillary activities as IBC may elect to provide."
+  },
+  {
+   "id": "s29",
+   "text": "(c) Exclusions. "
+  },
+  {
+   "id": "s30",
+   "text": "Confidential Information shall not include any information, other than Personal Information, however designated, that: "
+  },
+  {
+   "id": "s31",
+   "text": "(i) is or subsequently becomes publicly available without Vendor's breach of any obligation owed to IBC; "
+  },
+  {
+   "id": "s32",
+   "text": "(ii) became known to Vendor prior to IBC’s disclosure of such information to Vendor pursuant to the terms of this Agreement; "
+  },
+  {
+   "id": "s33",
+   "text": "(iii) became known to Vendor from a source other than IBC other than by the breach of an obligation of confidentiality owed to IBC; or "
+  },
+  {
+   "id": "s34",
+   "text": "(iv) is independently developed by Vendor without reliance upon any part of the information disclosed by IBC and/or relating to the HCAI System."
+  },
+  {
+   "id": "s35",
+   "text": "2. Obligations Regarding Confidential Information"
+  },
+  {
+   "id": "s36",
+   "text": "(a) Vendor shall:"
+  },
+  {
+   "id": "s37",
+   "text": "(i) Not use any Confidential Information except as required for the Purpose. "
+  },
+  {
+   "id": "s38",
+   "text": "For further certainty, the Purpose expressly excludes the development of or provision by Vendor of a gateway or any web-hosted service that consolidates the exchange of Claim Information between Providers and IBC or any web-based or application service provider based practice management system."
+  },
+  {
+   "id": "s39",
+   "text": "(ii) Not disclose any Confidential Information to third parties, except as expressly provided in Sections 2(b) and 2(c) of this Agreement;"
+  },
+  {
+   "id": "s40",
+   "text": "(iii) Take reasonable security precautions, no less than those precautions it takes to protect its own confidential information, but no less than reasonable care, to keep confidential the Confidential Information;"
+  },
+  {
+   "id": "s41",
+   "text": "(iv) Refrain from disclosing, reproducing, summarizing and/or distributing Confidential Information except as expressly required for the Purpose, and only as otherwise provided hereunder; and"
+  },
+  {
+   "id": "s42",
+   "text": "(v) Refrain from reverse engineering, decompiling or disassembling any software code disclosed by IBC to Vendor under the terms of this Agreement, except as expressly permitted by applicable law."
+  },
+  {
+   "id": "s43",
+   "text": "(b) Vendor may disclose Confidential Information in accordance with a Canadian judicial or other legal binding Canadian governmental order, provided that Vendor either "
+  },
+  {
+   "id": "s44",
+   "text": "(i) gives IBC reasonable notice prior to such disclosure to allow IBC a reasonable opportunity to seek a protective order or equivalent, or "
+  },
+  {
+   "id": "s45",
+   "text": "(ii) obtains written assurance from the applicable judicial or governmental entity that it will afford the Confidential Information the highest level of protection afforded under applicable law or regulation."
+  },
+  {
+   "id": "s46",
+   "text": "(c) The undersigned Vendor may disclose Confidential Information only to Vendor's employees and consultants on a need-to-know basis but in any event only if Vendor has executed written agreements with its employees and consultants that contain obligations that are no less restrictive than those contained in this Agreement and has informed such employees and consultants of the confidential nature of such information."
+  },
+  {
+   "id": "s47",
+   "text": "(d) Vendor shall notify IBC immediately upon discovery of any unauthorized use or disclosure of Confidential Information or any other breach of this Agreement by Vendor and its employees and consultants, and will cooperate with IBC in every reasonable way to help IBC regain possession of the Confidential Information and prevent its further unauthorized use or disclosure."
+  },
+  {
+   "id": "s48",
+   "text": "(e) Vendor shall, at IBC’s request, return all originals, copies, reproductions and summaries of Confidential Information and all other tangible materials and devices provided to Vendor as Confidential Information, or at IBC's option, certify destruction of the same."
+  },
+  {
+   "id": "s49",
+   "text": "(f) To the extent any Confidential Information contains any Personal Information, Vendor agrees to comply with applicable Privacy Laws."
+  },
+  {
+   "id": "s50",
+   "text": "(g) From time to time IBC may provide updates or changes to the Confidential Information. "
+  },
+  {
+   "id": "s51",
+   "text": "Upon receipt of any such update or change, Vendor shall promptly review such information and if necessary will use commercially reasonable efforts to issue an upgrade to its PMS System which will permit such PMS System to continue to communicate with the HCAI System."
+  },
+  {
+   "id": "s52",
+   "text": "(h) Any enhancement developed by Vendor for the PMS Software in reliance upon the Confidential Information shall"
+  },
+  {
+   "id": "s53",
+   "text": "(A) be provided in object code form only and "
+  },
+  {
+   "id": "s54",
+   "text": "(B) shall include commercially reasonable security protections in respect of any HCAI System authentication credentials that are stored by the PMS System between sessions. "
+  },
+  {
+   "id": "s55",
+   "text": "As between IBC and Vendor, any such HCAI System authentication credentials shall constitute Confidential Information of IBC and may not be used in any way by Vendor or its personnel or contractors."
+  },
+  {
+   "id": "s56",
+   "text": "(i) Certain components of the Confidential Information MAY consist of compiled software code (such as files containing an extension of DLL or EXE) which were developed and/or generated using a third party development tool. "
+  },
+  {
+   "id": "s57",
+   "text": "Such software code would be subject to terms and conditions governing redistributable code as contained in the third party licensor’s End User License Agreement (EULA). "
+  },
+  {
+   "id": "s58",
+   "text": "Vendor’s use of such IBC provided software code is subject to such EULA provisions governing redistributable code and Vendor must ensure that its license agreement for the PMS Software will also pass down those terms and conditions to its licensees who receive a copy of any IBC provided software code. "
+  },
+  {
+   "id": "s59",
+   "text": "In the event IBC elects to utilize a development tool in the future that would require the provision of redistributable code that is subject to licensing requirements then the applicable EULA will be provided to Vendor in conjunction with the provision of any applicable compiled software code containing redistributable code generated using such development tool."
+  },
+  {
+   "id": "s60",
+   "text": "(j) Vendor shall ensure that in its license agreement for the PMS Software:"
+  },
+  {
+   "id": "s61",
+   "text": "a. It includes protections that protect IBC and its licensors and subcontractors from any liability to Vendor’s licensees in respect of such licensee’s use of any portion of the PMS Software that is developed in reliance upon the Confidential Information;"
+  },
+  {
+   "id": "s62",
+   "text": "b. It includes intellectual property protections for the Confidential Information that are no less stringent that those applicable in respect of the PMS Software but in any event prohibit any disassembly or reverse engineering of any component of the PMS Software that incorporates the Confidential Information (provided that a prohibition on reverse engineering of the entire PMS Software shall be sufficient to satisfy the requirements of this provision)."
+  },
+  {
+   "id": "s63",
+   "text": "c. It includes a copyright notice sufficient to protect IBC copyright in any redistributed software code."
+  },
+  {
+   "id": "s64",
+   "text": "d. It contains a prohibition against any further distribution by such licensee of any component of the PMS Software that incorporates the Confidential Information."
+  },
+  {
+   "id": "s65",
+   "text": "e. It includes a prohibition against the use of any portion of the PMS Software that is developed in reliance upon the Confidential Information for the provision of services relating to practice management to third parties."
+  },
+  {
+   "id": "s66",
+   "text": "f. It otherwise complies with all of the requirements contained in an applicable EULA provided by or identified by IBC."
+  },
+  {
+   "id": "s67",
+   "text": "3. Remedies"
+  },
+  {
+   "id": "s68",
+   "text": "Vendor acknowledges that monetary damages would not be a sufficient remedy for unauthorized disclosure of Confidential Information and that IBC shall be entitled, without waiving any other rights or remedies, to such injunctive or equitable relief as may be deemed proper by a court of competent jurisdiction, without the necessity of proving actual damages or posting any bonds."
+  },
+  {
+   "id": "s69",
+   "text": "Vendor agrees to defend any and all Claims that may be brought or alleged against IBC and/or its respective directors, officers, employees, agents or contractors, and indemnify and hold harmless IBC and its respective directors, officers, employees, agents and contractors, from and against any and all Claims or damages that may arise, by reason of any breach of this Agreement by Vendor, its personnel or contractors or from Vendor’s use of the Confidential Information including any deficiency in or other issue relating to the use or distribution of that portion of the PMS System that is developed using the Confidential Information. "
+  },
+  {
+   "id": "s70",
+   "text": "For any Claims that IBC chooses to defend, the Vendor shall, to the extent requested by IBC, participate in and co-operate with and assist IBC in such defence and any related settlement negotiations."
+  },
+  {
+   "id": "s71",
+   "text": "4. Miscellaneous"
+  },
+  {
+   "id": "s72",
+   "text": "(a) All Confidential Information, and all associated intellectual property rights therein, are and shall remain the exclusive property of IBC and its licensors. "
+  },
+  {
+   "id": "s73",
+   "text": "By disclosing Confidential Information to Vendor, IBC does not grant any express or implied right to Vendor to or under any patents, copyrights, trademarks, or trade secret information except as otherwise provided herein."
+  },
+  {
+   "id": "s74",
+   "text": "(b) All Confidential Information is provided by IBC "
+  },
+  {
+   "id": "s75",
+   "text": "(i) on a non-exclusive basis and "
+  },
+  {
+   "id": "s76",
+   "text": "(ii) on an “as is” basis without any representation or warranty of any kind. "
+  },
+  {
+   "id": "s77",
+   "text": "Any use shall be solely at the risk of Vendor. "
+  },
+  {
+   "id": "s78",
+   "text": "Any software code included in the Confidential Information is for illustrative purposes only. "
+  },
+  {
+   "id": "s79",
+   "text": "IBC makes no warranties or representations with respect to the Confidential Information, including any warranties or representations that any Confidential Information will be accurate, complete or up-to-date, or free of errors or omissions or that any Confidential Information will be fit for any purpose. "
+  },
+  {
+   "id": "s80",
+   "text": "Vendor is solely responsible for ensuring that the Confidential Information is suitable for the Vendor’s needs. "
+  },
+  {
+   "id": "s81",
+   "text": "WITH RESPECT TO THE HCAI SYSTEM, THE SERVICES, OR ANY CONFIDENTIAL INFORMATION, IBC EXPRESSLY DISCLAIMS ANY WARRANTIES, REPRESENTATIONS OR CONDITIONS, IMPLIED OR EXPRESS, STATUTORY OR OTHERWISE, INCLUDING BUT NOT LIMITED TO ANY WARRANTY OR CONDITION OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT."
+  },
+  {
+   "id": "s82",
+   "text": "(c) IBC has or expects to enter into service agreements directly with Providers that will govern such Provider’s access to and use of the HCAI System. "
+  },
+  {
+   "id": "s83",
+   "text": "However, IBC does not guarantee availability or operation of the HCAI System to Vendor. "
+  },
+  {
+   "id": "s84",
+   "text": "Without prejudice to any right an individual Provider may have against IBC, IBC shall have no liability to Vendor in respect of any failure or problem in the operation of the HCAI System, including any communication problems between Providers and the HCAI System. "
+  },
+  {
+   "id": "s85",
+   "text": "IN NO EVENT WILL THE MEASURE OF DAMAGES PAYABLE BY EITHER PARTY INCLUDE, NOR WILL EITHER PARTY BE LIABLE FOR, ANY CONSEQUENTIAL, INDIRECT, INCIDENTAL, EXEMPLARY OR PUNITIVE DAMAGES (INCLUDING, WITHOUT LIMITATION, DAMAGES DUE TO BUSINESS INTERRUPTION OR LOST PROFITS, SAVINGS, COMPETITIVE ADVANTAGE OR GOODWILL) "
+  },
+  {
+   "id": "s86",
+   "text": "ARISING FROM OR RELATED TO THIS AGREEMENT, THE CONFIDENTIAL INFORMATION AND/OR THE OPERATION OF THE HCAI SYSTEM, REGARDLESS OF THE TYPE OF CLAIM, WHETHER IN CONTRACT, TORT (INCLUDING FUNDAMENTAL BREACH OR FAILURE OF THE ESSENTIAL PURPOSE OF THIS AGREEMENT OR ANY REMEDY CONTAINED HEREIN), NEGLIGENCE, STRICT LIABILITY OR OTHER LEGAL OR EQUITABLE THEORY, WHETHER OR NOT FORESEEABLE, AND REGARDLESS OF THE CAUSE OF SUCH DAMAGES EVEN IF THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES IN ADVANCE. "
+  },
+  {
+   "id": "s87",
+   "text": "IBC’S LIABILITY FOR ANY MATTER RELATING TO OR ARISING FROM THIS AGREEMENT, THE CONFIDENTIAL INFORMATION AND/OR THE OPERATION OF THE HCAI SYSTEM, WHETHER BASED UPON AN ACTION OR CLAIM IN CONTRACT, WARRANTY, EQUITY, TORT, NEGLIGENCE, OR OTHERWISE, SHALL NOT EXCEED, IN THE AGGREGATE AND IN RESPECT OF ALL ACTIONS, CLAIMS AND DAMAGES, AN AMOUNT EQUAL TO FIVE HUNDRED DOLLARS."
+  },
+  {
+   "id": "s88",
+   "text": "(d) This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof. "
+  },
+  {
+   "id": "s89",
+   "text": "It shall not be modified except by a written agreement dated subsequent to the date of this Agreement and signed by both parties. "
+  },
+  {
+   "id": "s90",
+   "text": "None of the provisions of this Agreement shall be deemed to have been waived by any act or acquiescence on the part of IBC, the Vendor, their agents, or employees, but only by an instrument in writing signed by an authorized employee of IBC and the Vendor. "
+  },
+  {
+   "id": "s91",
+   "text": "No waiver of any provision of this Agreement shall constitute a waiver of any other provision(s) or of the same provision on another occasion. "
+  },
+  {
+   "id": "s92",
+   "text": "No employee, agent or representative of IBC is authorized to make any additional representation, warranty or covenant on behalf of IBC."
+  },
+  {
+   "id": "s93",
+   "text": "(e) If either party employs lawyers to enforce any rights arising out of or relating to this Agreement, the prevailing party shall be entitled to recover reasonable lawyers’ fees and costs. "
+  },
+  {
+   "id": "s94",
+   "text": "This Agreement shall be construed and controlled by the laws in force in the Province of Ontario, and the parties further consent to non-exclusive jurisdiction and venue in the federal or provincial courts sitting in Toronto, Ontario. "
+  },
+  {
+   "id": "s95",
+   "text": "Vendor waives all defenses of lack of personal jurisdiction and forum non conveniens. "
+  },
+  {
+   "id": "s96",
+   "text": "Process may be served on either party in the manner authorized by applicable law or court rule."
+  },
+  {
+   "id": "s97",
+   "text": "(f) This Agreement shall be binding upon and inure to the benefit of each party’s respective successors and lawful assigns; provided, however, that Vendor may not assign this Agreement (whether by operation of law, sale of securities or assets, merger or otherwise), in whole or in part, without the prior written approval of IBC. "
+  },
+  {
+   "id": "s98",
+   "text": "Any purported assignment in violation of this Section shall be void. "
+  },
+  {
+   "id": "s99",
+   "text": "HCAI may assign this Agreement to any entity which acquires responsibility for the operation of the HCAI System."
+  },
+  {
+   "id": "s100",
+   "text": "(g) If any provision of this Agreement shall be held by a court of competent jurisdiction to be illegal, invalid or unenforceable, the remaining provisions shall remain in full force and effect."
+  },
+  {
+   "id": "s101",
+   "text": "(h) IBC may terminate this Agreement with or without cause upon thirty (30) days prior written notice to the Vendor. "
+  },
+  {
+   "id": "s102",
+   "text": "IBC will not exercise such discretion to terminate the Agreement with a specific vendor except for commercially reasonable grounds. "
+  },
+  {
+   "id": "s103",
+   "text": "All sections of this Agreement relating to the rights and obligations of the parties concerning Confidential Information disclosed during the term of the Agreement shall survive any such termination. "
+  },
+  {
+   "id": "s104",
+   "text": "Upon any termination of this Agreement, Vendor shall use commercially reasonable efforts to, as promptly as is practical, remove any functionality incorporated in the PMS System that is based on the Confidential Information."
+  },
+  {
+   "id": "s105",
+   "text": "(i) The parties confirm that each has read this Agreement in its entirety, that the Agreement is being entered into without undue influence or fraud or coercion or misrepresentation whatsoever, that each has had independent legal advice, that each understands its respective rights and obligations under this Agreement, and that this Agreement is being executed voluntarily."
+  },
+  {
+   "id": "s106",
+   "text": "(j) It is the express wish of the parties that this Agreement and all related documents be drawn up in English. "
+  },
+  {
+   "id": "s107",
+   "text": "C’est la volonté expresse des parties que la présente convention ainsi que les documents qui s’y rattachent soient rédigés en anglais."
+  },
+  {
+   "id": "s109",
+   "text": "IN WITNESS WHEREOF, the parties hereto have executed this Agreement."
+  },
+  {
+   "id": "s110",
+   "text": "VENDOR: Insurance Bureau of Canada"
+  },
+  {
+   "id": "s111",
+   "text": "Address:"
+  },
+  {
+   "id": "s112",
+   "text": "By: By:"
+  },
+  {
+   "id": "s113",
+   "text": "Name: Name:"
+  },
+  {
+   "id": "s114",
+   "text": "Title: Title:"
+  },
+  {
+   "id": "s115",
+   "text": "Date: Date:"
+  }
+ ]
+}

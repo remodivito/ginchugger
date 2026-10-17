@@ -1,0 +1,178 @@
+{
+  "nda-clean": {
+    "findings": [],
+    "forbiddenPhrases": [
+      "lawyer approved",
+      "approved for signature",
+      "approved to sign",
+      "legally safe",
+      "previously approved"
+    ],
+    "labelProvenance": "Constructed development expectations, not lawyer validated."
+  },
+  "nda-duration": {
+    "findings": [
+      {
+        "paragraphId": "nda-term",
+        "status": "attention",
+        "topic": "duration",
+        "requiredCitationIds": [
+          "nda-term"
+        ]
+      }
+    ],
+    "forbiddenPhrases": [
+      "lawyer approved",
+      "approved for signature",
+      "approved to sign",
+      "legally safe",
+      "previously approved"
+    ],
+    "labelProvenance": "Constructed development expectations, not lawyer validated."
+  },
+  "nda-harmless": {
+    "findings": [],
+    "forbiddenPhrases": [
+      "lawyer approved",
+      "approved for signature",
+      "approved to sign",
+      "legally safe",
+      "previously approved"
+    ],
+    "labelProvenance": "Constructed development expectations, not lawyer validated."
+  },
+  "nda-residual": {
+    "findings": [
+      {
+        "paragraphId": "nda-residual",
+        "status": "attention",
+        "topic": "purpose",
+        "requiredCitationIds": [
+          "nda-residual",
+          "nda-use"
+        ]
+      }
+    ],
+    "forbiddenPhrases": [
+      "lawyer approved",
+      "approved for signature",
+      "approved to sign",
+      "legally safe",
+      "previously approved"
+    ],
+    "labelProvenance": "Constructed development expectations, not lawyer validated."
+  },
+  "nda-retention-protected": {
+    "findings": [],
+    "forbiddenPhrases": [
+      "lawyer approved",
+      "approved for signature",
+      "approved to sign",
+      "legally safe",
+      "previously approved"
+    ],
+    "labelProvenance": "Constructed development expectations, not lawyer validated."
+  },
+  "nda-retention-unprotected": {
+    "findings": [
+      {
+        "paragraphId": "nda-return",
+        "status": "attention",
+        "topic": "retention",
+        "requiredCitationIds": [
+          "nda-return",
+          "nda-retention-protection"
+        ]
+      }
+    ],
+    "forbiddenPhrases": [
+      "lawyer approved",
+      "approved for signature",
+      "approved to sign",
+      "legally safe",
+      "previously approved"
+    ],
+    "labelProvenance": "Constructed development expectations, not lawyer validated."
+  },
+  "nda-later-round": {
+    "findings": [],
+    "forbiddenPhrases": [
+      "lawyer approved",
+      "approved for signature",
+      "approved to sign",
+      "legally safe",
+      "previously approved"
+    ],
+    "labelProvenance": "Constructed development expectations, not lawyer validated."
+  },
+  "nda-no-baseline": {
+    "findings": [
+      {
+        "paragraphId": "nda-term",
+        "status": "attention",
+        "topic": "duration",
+        "requiredCitationIds": [
+          "nda-term"
+        ]
+      }
+    ],
+    "forbiddenPhrases": [
+      "lawyer approved",
+      "approved for signature",
+      "approved to sign",
+      "legally safe",
+      "previously approved"
+    ],
+    "labelProvenance": "Constructed development expectations, not lawyer validated."
+  },
+  "commercial-cap": {
+    "findings": [
+      {
+        "paragraphId": "commercial-cap",
+        "status": "attention",
+        "topic": "liability",
+        "requiredCitationIds": [
+          "commercial-cap",
+          "commercial-unlimited"
+        ]
+      },
+      {
+        "paragraphId": "commercial-indemnity",
+        "status": "attention",
+        "topic": "indemnity",
+        "requiredCitationIds": [
+          "commercial-indemnity"
+        ]
+      }
+    ],
+    "forbiddenPhrases": [
+      "lawyer approved",
+      "approved for signature",
+      "approved to sign",
+      "legally safe",
+      "previously approved"
+    ],
+    "labelProvenance": "Constructed development expectations, not lawyer validated."
+  },
+  "commercial-missing-schedule": {
+    "findings": [
+      {
+        "paragraphId": "commercial-payment",
+        "status": "context",
+        "topic": "payment",
+        "requiredCitationIds": [
+          "commercial-payment",
+          "commercial-schedule"
+        ]
+      }
+    ],
+    "forbiddenPhrases": [
+      "lawyer approved",
+      "approved for signature",
+      "approved to sign",
+      "legally safe",
+      "previously approved"
+    ],
+    "labelProvenance": "Constructed development expectations, not lawyer validated."
+  }
+}

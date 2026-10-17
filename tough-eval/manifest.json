@@ -1,0 +1,4051 @@
+{
+ "suite": "tough-eval seeded defects",
+ "version": "v2.1",
+ "builtAt": "2026-10-09T16:19:53.181Z",
+ "source": {
+  "file": "sources/common-paper-csa-v2.1.docx",
+  "sha256": "cb72dad74b3af676307ffc7359f616ee696481a3928d55f7c5fdae490b943587",
+  "licence": "CC BY 4.0, Common Paper (https://commonpaper.com/standards/)",
+  "paragraphsTaken": 120
+ },
+ "base": {
+  "paragraphs": 145,
+  "chars": 35682,
+  "sha256": "8faaa7d9c30c187bfcbc7c3b1d7f15aa063410f683a518d77d14135a7dbf001e"
+ },
+ "playbook": {
+  "file": "playbook.json",
+  "sha256": "a7f1d1ec7dcdb54dd207694e53c53635cfaffcb2cbb843514451f882f688d043",
+  "rules": 19
+ },
+ "mode": "third-party (counterparty paper, no baseline): the reviewer must find deviations without a diff",
+ "variants": [
+  {
+   "id": "C00",
+   "sha256": "296805fb00479bc759a2512c30d66cced39a75616734f2d6e9c09799c167aab8",
+   "plants": []
+  },
+  {
+   "id": "P01",
+   "sha256": "cc14ecbf9d98ef11a3f18c39e1c163eba064e2928dc27c6762383b140f1fbfa8",
+   "plants": [
+    {
+     "id": "P01",
+     "kind": "deviation",
+     "level": "easy",
+     "rules": [
+      "C-01"
+     ],
+     "what": "General cap cut to 0.25x",
+     "targets": [
+      "p8"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p8",
+       "restore": "1x the Fees",
+       "planted": "0.25x the Fees",
+       "check": {
+        "num": "([0-9.]+)x the Fees",
+        "min": 1,
+        "require": [
+         "12 month"
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P02",
+   "sha256": "ad16bedbdfe19e00a44378360edd6d3f72bd85c152b11b26ed17b646276bf8d0",
+   "plants": [
+    {
+     "id": "P02",
+     "kind": "deviation",
+     "level": "easy",
+     "rules": [
+      "C-10"
+     ],
+     "what": "Payment due in 10 days",
+     "targets": [
+      "p21"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p21",
+       "restore": "within 30 days",
+       "planted": "within 10 days",
+       "check": {
+        "num": "within ([0-9]+) days",
+        "min": 30
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P03",
+   "sha256": "c3fde56c44e9ce3a8396062ea31cc7c892da8a0a814c34be49651bbe07b95a82",
+   "plants": [
+    {
+     "id": "P03",
+     "kind": "deviation",
+     "level": "easy",
+     "rules": [
+      "C-17"
+     ],
+     "what": "Delaware law and courts",
+     "targets": [
+      "p4",
+      "p5"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p4",
+       "restore": "England and Wales",
+       "planted": "the State of Delaware",
+       "check": {
+        "require": [
+         "England and Wales"
+        ]
+       }
+      },
+      {
+       "paragraph": "p5",
+       "restore": "London, England",
+       "planted": "Wilmington, Delaware",
+       "check": {
+        "require": [
+         "London"
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P04",
+   "sha256": "741e5f74528ddc8cedf34ae74df7d43a3464995f373da8058e9c233e101242ef",
+   "plants": [
+    {
+     "id": "P04",
+     "kind": "deviation",
+     "level": "easy",
+     "rules": [
+      "C-11"
+     ],
+     "what": "Non-renewal notice 120 days",
+     "targets": [
+      "p22"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p22",
+       "restore": "At least 30 days",
+       "planted": "At least 120 days",
+       "check": {
+        "num": "least ([0-9]+) days",
+        "max": 60
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P05",
+   "sha256": "3e2b27e68fb78e76e77c93e71b606a6f00caf005716addba5718519bbf3aeb8e",
+   "plants": [
+    {
+     "id": "P05",
+     "kind": "deviation",
+     "level": "easy",
+     "rules": [
+      "C-11"
+     ],
+     "what": "Price increases up to 15%",
+     "targets": [
+      "p19"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p19",
+       "restore": "up to 5% per renewal",
+       "planted": "up to 15% per renewal",
+       "check": {
+        "num": "up to ([0-9.]+)%",
+        "max": 5
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P06",
+   "sha256": "05d4545dbb4f4cfd1467f40de208ef5b6c7da4e8e82833e01984d55788417cf7",
+   "plants": [
+    {
+     "id": "P06",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-05"
+     ],
+     "what": "Content usable to improve and build new products",
+     "targets": [
+      "p31"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p31",
+       "restore": "only as needed to provide and maintain the Product and related offerings",
+       "planted": "to provide, maintain, and improve the Product and to develop new products and services",
+       "check": {
+        "require": [
+         "only as needed to provide"
+        ],
+        "forbid": [
+         "improve",
+         "develop new"
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P07",
+   "sha256": "04c132fead1ef3f95c8cd97d55103c06a861c0b6f3dedf2ca5d77c89fe8704a2",
+   "plants": [
+    {
+     "id": "P07",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-06"
+     ],
+     "what": "ML safeguards (aggregation, de-identification) deleted",
+     "targets": [
+      "p32"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p32",
+       "restore": "However, (a) Usage Data and Customer Content must be aggregated before it can be used for these purposes, and (b) Provider will use commercially reasonable efforts consistent with industry standard technology to de-identify Usage Data and Customer Content before such use.",
+       "planted": "",
+       "check": {
+        "require": [
+         "aggregat",
+         "de-identif"
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P08",
+   "sha256": "c3571f52f4acc7093534d666e2faeb1a3085bc49d0de42340348024cff3bae89",
+   "plants": [
+    {
+     "id": "P08",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-09"
+     ],
+     "what": "Suspension for any balance 5 days overdue",
+     "targets": [
+      "p37"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p37",
+       "restore": "outstanding, undisputed balance on its account for more than 30 days",
+       "planted": "outstanding balance on its account for more than 5 days",
+       "check": {
+        "require": [
+         "undisputed"
+        ],
+        "num": "([0-9]+) days",
+        "min": 30
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P09",
+   "sha256": "a1e7236860fefe892168e0f4fa5b90cc6c43a6979c17e9b2f37d82de7b967c09",
+   "plants": [
+    {
+     "id": "P09",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-13"
+     ],
+     "what": "Deletion within 180 days",
+     "targets": [
+      "p57"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p57",
+       "restore": "within 60 days",
+       "planted": "within 180 days",
+       "check": {
+        "num": "within ([0-9]+) days",
+        "max": 90
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P10",
+   "sha256": "29d6fc0670992063688de8afa0f545845912aa08722c114c6bad9077b75b58a8",
+   "plants": [
+    {
+     "id": "P10",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-12"
+     ],
+     "what": "Only Provider may terminate for breach or insolvency",
+     "targets": [
+      "p51"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p51",
+       "restore": "Either party may terminate",
+       "planted": "Provider may terminate",
+       "check": {
+        "require": [
+         "(either|each) party"
+        ],
+        "forbid": [
+         "^5\\.3 Termination\\.\\s+Provider may terminate"
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P11",
+   "sha256": "cef43ced88cdc3aa7160f500efb18e2043ab81fda9c8e477687ed952020be4b1",
+   "plants": [
+    {
+     "id": "P11",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-14",
+      "C-12"
+     ],
+     "what": "Warranty remedy loses the refund",
+     "targets": [
+      "p67"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p67",
+       "restore": "Customer may terminate the affected Order Form and Provider will pay to Customer a prorated refund of prepaid Fees for the remainder of the Subscription Period.",
+       "planted": "Customer may terminate the affected Order Form.",
+       "check": {
+        "require": [
+         "refund"
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P12",
+   "sha256": "58d99864d437b0d7265009ab3ff57f730d1489e39e4e93aebbe21edce841e49c",
+   "plants": [
+    {
+     "id": "P12",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-04"
+     ],
+     "what": "Settlement without consent allowed (sentence deleted)",
+     "targets": [
+      "p80"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p80",
+       "restore": "The Indemnifying Party may not agree to any settlement of a Covered Claim that contains an admission of fault or otherwise materially and adversely impacts the Protected Party without the prior written consent of the Protected Party.",
+       "planted": "",
+       "check": {
+        "require": [
+         "settle",
+         "consent"
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P13",
+   "sha256": "857e03cbf540e61e23a8737ab487405b81caaf2151288d9b37fd21ed7bf3b186",
+   "plants": [
+    {
+     "id": "P13",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-15"
+     ],
+     "what": "Provider may change the terms by posting",
+     "targets": [
+      "p95"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p95",
+       "restore": "signed or electronically accepted by each party.",
+       "planted": "signed or electronically accepted by each party. However, Provider may update these Standard Terms by posting a revised version on its website, effective 30 days after posting.",
+       "check": {
+        "forbid": [
+         "posting",
+         "update these Standard Terms"
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P14",
+   "sha256": "1800cc2884bb28b56fff242dd0f6e850ad5373c4a9f91b3158e289a513f764df",
+   "plants": [
+    {
+     "id": "P14",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-16"
+     ],
+     "what": "Provider may assign freely; Customer needs consent",
+     "targets": [
+      "p99"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p99",
+       "restore": "Neither party may assign any rights or obligations under this Agreement without the prior written consent of the other party.",
+       "planted": "Customer may not assign any rights or obligations under this Agreement without the prior written consent of Provider. Provider may assign this Agreement without notice or consent.",
+       "check": {
+        "require": [
+         "(neither|either|each) party"
+        ],
+        "forbid": [
+         "without notice or consent"
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P15",
+   "sha256": "8ae892589497aa4a5d9b4cbf7233606d2b84db0aae04843c8cb5f5533a9a2d0b",
+   "plants": [
+    {
+     "id": "P15",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-18"
+     ],
+     "what": "Case study without consent",
+     "targets": [
+      "p101"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p101",
+       "restore": "as a user of Provider's products and services.",
+       "planted": "as a user of Provider's products and services. Provider may also publish a case study describing Customer's use of the Product and the results Customer has achieved.",
+       "check": {
+        "forbid": [
+         "case study"
+        ],
+        "allowIf": "consent"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P16",
+   "sha256": "ed19bac594863aadbc4cd3f3c174feeefeab8608aa78b03ae894199afc487fa4",
+   "plants": [
+    {
+     "id": "P16",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-08"
+     ],
+     "what": "Compelled disclosure without notice",
+     "targets": [
+      "p89"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p89",
+       "restore": "if, unless prohibited by Applicable Laws, Recipient provides Discloser reasonable advance notice of the required disclosure and reasonably cooperates, at Discloser’s expense, with Discloser’s efforts to obtain confidential treatment for the Confidential Information",
+       "planted": "",
+       "check": {
+        "require": [
+         "notice"
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P17",
+   "sha256": "a209b2299c1f95854556ae2a17377e06021e2ce28b0a4e4bb7fc78e5214045c6",
+   "plants": [
+    {
+     "id": "P17",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-03",
+      "C-02"
+     ],
+     "what": "Confidentiality out of Increased Claims and out of the waiver exceptions",
+     "targets": [
+      "p9",
+      "p76"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p9",
+       "restore": "; and (b) breach of Section 10 (Confidentiality), other than a data or security breach, which falls under (a).",
+       "planted": ".",
+       "check": {
+        "require": [
+         "Section 10|Confidentiality"
+        ]
+       }
+      },
+      {
+       "paragraph": "p76",
+       "restore": "does not apply to any Increased Claims or a breach of Section 10 (Confidentiality).",
+       "planted": "does not apply to any Increased Claims.",
+       "check": {
+        "require": [
+         "Section 10|Confidentiality"
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P26",
+   "sha256": "c67e5ebe37ef46ba1d61f57a89d4ccd64785b78cc729ee92cc53e3850f045dc3",
+   "plants": [
+    {
+     "id": "P26",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-02"
+     ],
+     "what": "Increased cap cut to 1.5x",
+     "targets": [
+      "p10"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p10",
+       "restore": "3x the Fees",
+       "planted": "1.5x the Fees",
+       "check": {
+        "num": "([0-9.]+)x the Fees",
+        "min": 2
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P18",
+   "sha256": "dcf01e8fc4c8b9365333f3391a739be7fab38e64673a3ff5f083ec72fb0b07f7",
+   "plants": [
+    {
+     "id": "P18",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-03"
+     ],
+     "what": "Only Customer's indemnity is uncapped",
+     "targets": [
+      "p11"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p11",
+       "restore": "An Indemnifying Party’s indemnification obligation.",
+       "planted": "Customer’s indemnification obligation.",
+       "check": {
+        "require": [
+         "indemnif"
+        ],
+        "forbid": [
+         "^Unlimited Claims: Customer’s indemnification"
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P19",
+   "sha256": "14934c8d9e3e4a0cc9a34995fe7270b502c1fb8024ed77de4d43817119ae5d52",
+   "plants": [
+    {
+     "id": "P19",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-05"
+     ],
+     "what": "Outputs carved out of Customer Content (definition)",
+     "targets": [
+      "p122"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p122",
+       "restore": "but excludes Feedback.",
+       "planted": "but excludes Feedback and any reports, insights, or other output generated by the Product.",
+       "check": {
+        "forbid": [
+         "output",
+         "insights",
+         "reports"
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P20",
+   "sha256": "9a8c98c2d4291a6278c87cefb97b8a661728ca4acc807e16f849d965260b5fa9",
+   "plants": [
+    {
+     "id": "P20",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-08"
+     ],
+     "what": "Customer Content excluded from Confidential Information (definition)",
+     "targets": [
+      "p119"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p119",
+       "restore": "Customer’s Confidential Information includes non-public Customer Content and Provider’s Confidential Information includes non-public information about the Product.",
+       "planted": "Provider’s Confidential Information includes non-public information about the Product. Customer Content is not Confidential Information.",
+       "check": {
+        "require": [
+         "Customer Content"
+        ],
+        "forbid": [
+         "Customer Content is not Confidential"
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P21",
+   "sha256": "4209bf70afac910f2d121b8e95aca975fc678e85efd1ce9262f3b3c1c4b40f7e",
+   "plants": [
+    {
+     "id": "P21",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-08"
+     ],
+     "what": "Confidentiality dropped from survival list",
+     "targets": [
+      "p61"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p61",
+       "restore": "Section 10 (Confidentiality),",
+       "planted": "",
+       "check": {
+        "require": [
+         "Confidentiality"
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P22",
+   "sha256": "4ec30f7ee0841dde1db8d4195eee25d3211a595ccdb3614dc9d8c6624deec948",
+   "plants": [
+    {
+     "id": "P22",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-02"
+     ],
+     "what": "Increased cap only for gross negligence",
+     "targets": [
+      "p9"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p9",
+       "restore": "Breach of Section 3 (Privacy & Security);",
+       "planted": "Breach of Section 3 (Privacy & Security) resulting from gross negligence or willful misconduct;",
+       "check": {
+        "forbid": [
+         "gross negligence",
+         "wil+ful misconduct"
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P23",
+   "sha256": "66a49c11cadfa707caa2bb8de3558348169b7ca81162db9ef5da561319dc4679",
+   "plants": [
+    {
+     "id": "P23",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-12"
+     ],
+     "what": "Force majeure termination loses the refund",
+     "targets": [
+      "p54"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p54",
+       "restore": "Provider will pay to Customer a prorated refund of any prepaid Fees for the remainder of the Subscription Period.",
+       "planted": "",
+       "check": {
+        "require": [
+         "refund"
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P24",
+   "sha256": "4e04f732c9820e04d52a57ee77dd7c931bff595bc195dcbc396592ea4a318937",
+   "plants": [
+    {
+     "id": "P24",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-19"
+     ],
+     "what": "Audit clause inserted (system inspection, 5 days, Customer pays)",
+     "targets": [
+      "p99-ins-P24"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p99-ins-P24",
+       "restore": "",
+       "planted": "Audit.  Provider may audit Customer’s use of the Product, including by inspecting Customer’s systems, on five business days’ notice, and Customer will reimburse Provider’s reasonable audit costs.",
+       "inserted": true,
+       "check": {
+        "deleteOr": true,
+        "forbid": [
+         "inspect"
+        ],
+        "require": [
+         "(30|thirty) days"
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P25",
+   "sha256": "1b8add8d98a845f5641f1c51b23905282dc69f7d1efa3509152d465c5bff2119",
+   "plants": [
+    {
+     "id": "P25",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-15"
+     ],
+     "what": "AUP \"as updated from time to time\" incorporated",
+     "targets": [
+      "p94"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p94",
+       "restore": "regardless of what such terms may say.",
+       "planted": "regardless of what such terms may say. Customer will comply with Provider’s Acceptable Use Policy, available on Provider’s website and as updated by Provider from time to time, which forms part of this Agreement.",
+       "check": {
+        "forbid": [
+         "as updated"
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P27",
+   "sha256": "8b1fe9255e75f193ef84a2ca01629be279e1197df768b3dae5d4e746b23bdc48",
+   "plants": [
+    {
+     "id": "P27",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-01"
+     ],
+     "what": "Cap measured over 3 months of Fees",
+     "targets": [
+      "p8"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p8",
+       "restore": "in the 12 month period",
+       "planted": "in the 3 month period",
+       "check": {
+        "require": [
+         "12 month|twelve"
+        ],
+        "forbid": [
+         "3 month"
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "D01",
+   "sha256": "21545791ee01cc90ed2bcd1bde6853da91a9d10da3c8953e08d07501724d4cf3",
+   "plants": [
+    {
+     "id": "D01",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [
+      "C-10"
+     ],
+     "what": "Payment due in 45 days",
+     "targets": [
+      "p21"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p21",
+       "restore": "within 30 days",
+       "planted": "within 45 days",
+       "check": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "D02",
+   "sha256": "dc2b4fa6a56396e2de7053a19fd020f2a55f1c6397732573aac58aafe49d37ed",
+   "plants": [
+    {
+     "id": "D02",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [
+      "C-13"
+     ],
+     "what": "Deletion within 30 days",
+     "targets": [
+      "p57"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p57",
+       "restore": "within 60 days",
+       "planted": "within 30 days",
+       "check": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "D03",
+   "sha256": "f62c22144f9986d30bf7f49d7293c6e4562d8e8aeeb6cd73ae2cde85d45692dd",
+   "plants": [
+    {
+     "id": "D03",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [],
+     "what": "Four-hour response for critical incidents",
+     "targets": [
+      "p23"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p23",
+       "restore": "Monday to Friday).",
+       "planted": "Monday to Friday). Critical incidents receive a response within four hours, at any time.",
+       "check": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "D04",
+   "sha256": "6660d4f22809ad7932b18ceece03732b11daa7738053e4d3d292bab5b914abbf",
+   "plants": [
+    {
+     "id": "D04",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [],
+     "what": "Notices to Customer copied to legal",
+     "targets": [
+      "p102"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p102",
+       "restore": "sent to the Notice Address.",
+       "planted": "sent to the Notice Address, and notices to Customer will also be copied to legal@northwind.example.",
+       "check": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "D05",
+   "sha256": "b9654f8e1e4ce01a1374155b0b76201f8c0a540d1216d74474d06f56b73672a4",
+   "plants": [
+    {
+     "id": "D05",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [
+      "C-11"
+     ],
+     "what": "Price increases up to 3%",
+     "targets": [
+      "p19"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p19",
+       "restore": "up to 5% per renewal",
+       "planted": "up to 3% per renewal",
+       "check": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "D06",
+   "sha256": "40987fa5aec4e0b9cc508c63aeadf1873b75f7ccebf16e239b7b94a20c5c5ed1",
+   "plants": [
+    {
+     "id": "D06",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [],
+     "what": "British spelling",
+     "targets": [
+      "p64"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p64",
+       "restore": "duly organized",
+       "planted": "duly organised",
+       "check": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "M1",
+   "sha256": "784be27d53cdb5473131081aa848d2b992907d024eb732c1b25af15b56ef1fa2",
+   "plants": [
+    {
+     "id": "P01",
+     "kind": "deviation",
+     "level": "easy",
+     "rules": [
+      "C-01"
+     ],
+     "what": "General cap cut to 0.25x",
+     "targets": [
+      "p8"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p8",
+       "restore": "1x the Fees",
+       "planted": "0.25x the Fees",
+       "check": {
+        "num": "([0-9.]+)x the Fees",
+        "min": 1,
+        "require": [
+         "12 month"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P07",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-06"
+     ],
+     "what": "ML safeguards (aggregation, de-identification) deleted",
+     "targets": [
+      "p32"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p32",
+       "restore": "However, (a) Usage Data and Customer Content must be aggregated before it can be used for these purposes, and (b) Provider will use commercially reasonable efforts consistent with industry standard technology to de-identify Usage Data and Customer Content before such use.",
+       "planted": "",
+       "check": {
+        "require": [
+         "aggregat",
+         "de-identif"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P16",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-08"
+     ],
+     "what": "Compelled disclosure without notice",
+     "targets": [
+      "p89"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p89",
+       "restore": "if, unless prohibited by Applicable Laws, Recipient provides Discloser reasonable advance notice of the required disclosure and reasonably cooperates, at Discloser’s expense, with Discloser’s efforts to obtain confidential treatment for the Confidential Information",
+       "planted": "",
+       "check": {
+        "require": [
+         "notice"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P23",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-12"
+     ],
+     "what": "Force majeure termination loses the refund",
+     "targets": [
+      "p54"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p54",
+       "restore": "Provider will pay to Customer a prorated refund of any prepaid Fees for the remainder of the Subscription Period.",
+       "planted": "",
+       "check": {
+        "require": [
+         "refund"
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "M2",
+   "sha256": "74e28af7c274bf4902ebabd7c3d1d0f9b284835070275200ae9ed97ac8e3fed8",
+   "plants": [
+    {
+     "id": "P02",
+     "kind": "deviation",
+     "level": "easy",
+     "rules": [
+      "C-10"
+     ],
+     "what": "Payment due in 10 days",
+     "targets": [
+      "p21"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p21",
+       "restore": "within 30 days",
+       "planted": "within 10 days",
+       "check": {
+        "num": "within ([0-9]+) days",
+        "min": 30
+       }
+      }
+     ]
+    },
+    {
+     "id": "P12",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-04"
+     ],
+     "what": "Settlement without consent allowed (sentence deleted)",
+     "targets": [
+      "p80"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p80",
+       "restore": "The Indemnifying Party may not agree to any settlement of a Covered Claim that contains an admission of fault or otherwise materially and adversely impacts the Protected Party without the prior written consent of the Protected Party.",
+       "planted": "",
+       "check": {
+        "require": [
+         "settle",
+         "consent"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P20",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-08"
+     ],
+     "what": "Customer Content excluded from Confidential Information (definition)",
+     "targets": [
+      "p119"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p119",
+       "restore": "Customer’s Confidential Information includes non-public Customer Content and Provider’s Confidential Information includes non-public information about the Product.",
+       "planted": "Provider’s Confidential Information includes non-public information about the Product. Customer Content is not Confidential Information.",
+       "check": {
+        "require": [
+         "Customer Content"
+        ],
+        "forbid": [
+         "Customer Content is not Confidential"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P24",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-19"
+     ],
+     "what": "Audit clause inserted (system inspection, 5 days, Customer pays)",
+     "targets": [
+      "p99-ins-P24"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p99-ins-P24",
+       "restore": "",
+       "planted": "Audit.  Provider may audit Customer’s use of the Product, including by inspecting Customer’s systems, on five business days’ notice, and Customer will reimburse Provider’s reasonable audit costs.",
+       "inserted": true,
+       "check": {
+        "deleteOr": true,
+        "forbid": [
+         "inspect"
+        ],
+        "require": [
+         "(30|thirty) days"
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "M3",
+   "sha256": "66ca7a805784dd26d5843c66c4506f8effe0c59636bb40aea9c31f181148d94c",
+   "plants": [
+    {
+     "id": "P05",
+     "kind": "deviation",
+     "level": "easy",
+     "rules": [
+      "C-11"
+     ],
+     "what": "Price increases up to 15%",
+     "targets": [
+      "p19"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p19",
+       "restore": "up to 5% per renewal",
+       "planted": "up to 15% per renewal",
+       "check": {
+        "num": "up to ([0-9.]+)%",
+        "max": 5
+       }
+      }
+     ]
+    },
+    {
+     "id": "P09",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-13"
+     ],
+     "what": "Deletion within 180 days",
+     "targets": [
+      "p57"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p57",
+       "restore": "within 60 days",
+       "planted": "within 180 days",
+       "check": {
+        "num": "within ([0-9]+) days",
+        "max": 90
+       }
+      }
+     ]
+    },
+    {
+     "id": "P19",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-05"
+     ],
+     "what": "Outputs carved out of Customer Content (definition)",
+     "targets": [
+      "p122"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p122",
+       "restore": "but excludes Feedback.",
+       "planted": "but excludes Feedback and any reports, insights, or other output generated by the Product.",
+       "check": {
+        "forbid": [
+         "output",
+         "insights",
+         "reports"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "D01",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [
+      "C-10"
+     ],
+     "what": "Payment due in 45 days",
+     "targets": [
+      "p21"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p21",
+       "restore": "within 30 days",
+       "planted": "within 45 days",
+       "check": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "K01",
+   "sha256": "b83b46470aabb56651c86fe2489c926664235286a18083bb7b7e0a14407a1a87",
+   "plants": [
+    {
+     "id": "P20",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-08"
+     ],
+     "what": "Customer Content excluded from Confidential Information (definition)",
+     "targets": [
+      "p119"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p119",
+       "restore": "Customer’s Confidential Information includes non-public Customer Content and Provider’s Confidential Information includes non-public information about the Product.",
+       "planted": "Provider’s Confidential Information includes non-public information about the Product. Customer Content is not Confidential Information.",
+       "check": {
+        "require": [
+         "Customer Content"
+        ],
+        "forbid": [
+         "Customer Content is not Confidential"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P22",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-02"
+     ],
+     "what": "Increased cap only for gross negligence",
+     "targets": [
+      "p9"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p9",
+       "restore": "Breach of Section 3 (Privacy & Security);",
+       "planted": "Breach of Section 3 (Privacy & Security) resulting from gross negligence or willful misconduct;",
+       "check": {
+        "forbid": [
+         "gross negligence",
+         "wil+ful misconduct"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P05",
+     "kind": "deviation",
+     "level": "easy",
+     "rules": [
+      "C-11"
+     ],
+     "what": "Price increases up to 15%",
+     "targets": [
+      "p19"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p19",
+       "restore": "up to 5% per renewal",
+       "planted": "up to 15% per renewal",
+       "check": {
+        "num": "up to ([0-9.]+)%",
+        "max": 5
+       }
+      }
+     ]
+    },
+    {
+     "id": "P10",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-12"
+     ],
+     "what": "Only Provider may terminate for breach or insolvency",
+     "targets": [
+      "p51"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p51",
+       "restore": "Either party may terminate",
+       "planted": "Provider may terminate",
+       "check": {
+        "require": [
+         "(either|each) party"
+        ],
+        "forbid": [
+         "^5\\.3 Termination\\.\\s+Provider may terminate"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P16",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-08"
+     ],
+     "what": "Compelled disclosure without notice",
+     "targets": [
+      "p89"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p89",
+       "restore": "if, unless prohibited by Applicable Laws, Recipient provides Discloser reasonable advance notice of the required disclosure and reasonably cooperates, at Discloser’s expense, with Discloser’s efforts to obtain confidential treatment for the Confidential Information",
+       "planted": "",
+       "check": {
+        "require": [
+         "notice"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P26",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-02"
+     ],
+     "what": "Increased cap cut to 1.5x",
+     "targets": [
+      "p10"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p10",
+       "restore": "3x the Fees",
+       "planted": "1.5x the Fees",
+       "check": {
+        "num": "([0-9.]+)x the Fees",
+        "min": 2
+       }
+      }
+     ]
+    },
+    {
+     "id": "P21",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-08"
+     ],
+     "what": "Confidentiality dropped from survival list",
+     "targets": [
+      "p61"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p61",
+       "restore": "Section 10 (Confidentiality),",
+       "planted": "",
+       "check": {
+        "require": [
+         "Confidentiality"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "D02",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [
+      "C-13"
+     ],
+     "what": "Deletion within 30 days",
+     "targets": [
+      "p57"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p57",
+       "restore": "within 60 days",
+       "planted": "within 30 days",
+       "check": null
+      }
+     ]
+    },
+    {
+     "id": "D06",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [],
+     "what": "British spelling",
+     "targets": [
+      "p64"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p64",
+       "restore": "duly organized",
+       "planted": "duly organised",
+       "check": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "K02",
+   "sha256": "2cd89c987e427d7e954f82992e8fde0a49ced4ee76d68c81e1e5dfaaa160a2bd",
+   "plants": [
+    {
+     "id": "P09",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-13"
+     ],
+     "what": "Deletion within 180 days",
+     "targets": [
+      "p57"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p57",
+       "restore": "within 60 days",
+       "planted": "within 180 days",
+       "check": {
+        "num": "within ([0-9]+) days",
+        "max": 90
+       }
+      }
+     ]
+    },
+    {
+     "id": "P19",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-05"
+     ],
+     "what": "Outputs carved out of Customer Content (definition)",
+     "targets": [
+      "p122"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p122",
+       "restore": "but excludes Feedback.",
+       "planted": "but excludes Feedback and any reports, insights, or other output generated by the Product.",
+       "check": {
+        "forbid": [
+         "output",
+         "insights",
+         "reports"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P15",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-18"
+     ],
+     "what": "Case study without consent",
+     "targets": [
+      "p101"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p101",
+       "restore": "as a user of Provider's products and services.",
+       "planted": "as a user of Provider's products and services. Provider may also publish a case study describing Customer's use of the Product and the results Customer has achieved.",
+       "check": {
+        "forbid": [
+         "case study"
+        ],
+        "allowIf": "consent"
+       }
+      }
+     ]
+    },
+    {
+     "id": "P25",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-15"
+     ],
+     "what": "AUP \"as updated from time to time\" incorporated",
+     "targets": [
+      "p94"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p94",
+       "restore": "regardless of what such terms may say.",
+       "planted": "regardless of what such terms may say. Customer will comply with Provider’s Acceptable Use Policy, available on Provider’s website and as updated by Provider from time to time, which forms part of this Agreement.",
+       "check": {
+        "forbid": [
+         "as updated"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P12",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-04"
+     ],
+     "what": "Settlement without consent allowed (sentence deleted)",
+     "targets": [
+      "p80"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p80",
+       "restore": "The Indemnifying Party may not agree to any settlement of a Covered Claim that contains an admission of fault or otherwise materially and adversely impacts the Protected Party without the prior written consent of the Protected Party.",
+       "planted": "",
+       "check": {
+        "require": [
+         "settle",
+         "consent"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P03",
+     "kind": "deviation",
+     "level": "easy",
+     "rules": [
+      "C-17"
+     ],
+     "what": "Delaware law and courts",
+     "targets": [
+      "p4",
+      "p5"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p4",
+       "restore": "England and Wales",
+       "planted": "the State of Delaware",
+       "check": {
+        "require": [
+         "England and Wales"
+        ]
+       }
+      },
+      {
+       "paragraph": "p5",
+       "restore": "London, England",
+       "planted": "Wilmington, Delaware",
+       "check": {
+        "require": [
+         "London"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P04",
+     "kind": "deviation",
+     "level": "easy",
+     "rules": [
+      "C-11"
+     ],
+     "what": "Non-renewal notice 120 days",
+     "targets": [
+      "p22"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p22",
+       "restore": "At least 30 days",
+       "planted": "At least 120 days",
+       "check": {
+        "num": "least ([0-9]+) days",
+        "max": 60
+       }
+      }
+     ]
+    },
+    {
+     "id": "D05",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [
+      "C-11"
+     ],
+     "what": "Price increases up to 3%",
+     "targets": [
+      "p19"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p19",
+       "restore": "up to 5% per renewal",
+       "planted": "up to 3% per renewal",
+       "check": null
+      }
+     ]
+    },
+    {
+     "id": "D04",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [],
+     "what": "Notices to Customer copied to legal",
+     "targets": [
+      "p102"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p102",
+       "restore": "sent to the Notice Address.",
+       "planted": "sent to the Notice Address, and notices to Customer will also be copied to legal@northwind.example.",
+       "check": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "K03",
+   "sha256": "38cbf749f5bd8fd16606c8f6037ae78f3d401ebfa740ec3260d0f39e6869a651",
+   "plants": [
+    {
+     "id": "P13",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-15"
+     ],
+     "what": "Provider may change the terms by posting",
+     "targets": [
+      "p95"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p95",
+       "restore": "signed or electronically accepted by each party.",
+       "planted": "signed or electronically accepted by each party. However, Provider may update these Standard Terms by posting a revised version on its website, effective 30 days after posting.",
+       "check": {
+        "forbid": [
+         "posting",
+         "update these Standard Terms"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P18",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-03"
+     ],
+     "what": "Only Customer's indemnity is uncapped",
+     "targets": [
+      "p11"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p11",
+       "restore": "An Indemnifying Party’s indemnification obligation.",
+       "planted": "Customer’s indemnification obligation.",
+       "check": {
+        "require": [
+         "indemnif"
+        ],
+        "forbid": [
+         "^Unlimited Claims: Customer’s indemnification"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P08",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-09"
+     ],
+     "what": "Suspension for any balance 5 days overdue",
+     "targets": [
+      "p37"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p37",
+       "restore": "outstanding, undisputed balance on its account for more than 30 days",
+       "planted": "outstanding balance on its account for more than 5 days",
+       "check": {
+        "require": [
+         "undisputed"
+        ],
+        "num": "([0-9]+) days",
+        "min": 30
+       }
+      }
+     ]
+    },
+    {
+     "id": "P01",
+     "kind": "deviation",
+     "level": "easy",
+     "rules": [
+      "C-01"
+     ],
+     "what": "General cap cut to 0.25x",
+     "targets": [
+      "p8"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p8",
+       "restore": "1x the Fees",
+       "planted": "0.25x the Fees",
+       "check": {
+        "num": "([0-9.]+)x the Fees",
+        "min": 1,
+        "require": [
+         "12 month"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P23",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-12"
+     ],
+     "what": "Force majeure termination loses the refund",
+     "targets": [
+      "p54"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p54",
+       "restore": "Provider will pay to Customer a prorated refund of any prepaid Fees for the remainder of the Subscription Period.",
+       "planted": "",
+       "check": {
+        "require": [
+         "refund"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P06",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-05"
+     ],
+     "what": "Content usable to improve and build new products",
+     "targets": [
+      "p31"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p31",
+       "restore": "only as needed to provide and maintain the Product and related offerings",
+       "planted": "to provide, maintain, and improve the Product and to develop new products and services",
+       "check": {
+        "require": [
+         "only as needed to provide"
+        ],
+        "forbid": [
+         "improve",
+         "develop new"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P17",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-03",
+      "C-02"
+     ],
+     "what": "Confidentiality out of Increased Claims and out of the waiver exceptions",
+     "targets": [
+      "p9",
+      "p76"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p9",
+       "restore": "; and (b) breach of Section 10 (Confidentiality), other than a data or security breach, which falls under (a).",
+       "planted": ".",
+       "check": {
+        "require": [
+         "Section 10|Confidentiality"
+        ]
+       }
+      },
+      {
+       "paragraph": "p76",
+       "restore": "does not apply to any Increased Claims or a breach of Section 10 (Confidentiality).",
+       "planted": "does not apply to any Increased Claims.",
+       "check": {
+        "require": [
+         "Section 10|Confidentiality"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "D03",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [],
+     "what": "Four-hour response for critical incidents",
+     "targets": [
+      "p23"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p23",
+       "restore": "Monday to Friday).",
+       "planted": "Monday to Friday). Critical incidents receive a response within four hours, at any time.",
+       "check": null
+      }
+     ]
+    },
+    {
+     "id": "D01",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [
+      "C-10"
+     ],
+     "what": "Payment due in 45 days",
+     "targets": [
+      "p21"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p21",
+       "restore": "within 30 days",
+       "planted": "within 45 days",
+       "check": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "K04",
+   "sha256": "c5c5a8430c817b083d8f20a4648f69201df593e619d3998201056ac0186dcd39",
+   "plants": [
+    {
+     "id": "P24",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-19"
+     ],
+     "what": "Audit clause inserted (system inspection, 5 days, Customer pays)",
+     "targets": [
+      "p99-ins-P24"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p99-ins-P24",
+       "restore": "",
+       "planted": "Audit.  Provider may audit Customer’s use of the Product, including by inspecting Customer’s systems, on five business days’ notice, and Customer will reimburse Provider’s reasonable audit costs.",
+       "inserted": true,
+       "check": {
+        "deleteOr": true,
+        "forbid": [
+         "inspect"
+        ],
+        "require": [
+         "(30|thirty) days"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P27",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-01"
+     ],
+     "what": "Cap measured over 3 months of Fees",
+     "targets": [
+      "p8"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p8",
+       "restore": "in the 12 month period",
+       "planted": "in the 3 month period",
+       "check": {
+        "require": [
+         "12 month|twelve"
+        ],
+        "forbid": [
+         "3 month"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P02",
+     "kind": "deviation",
+     "level": "easy",
+     "rules": [
+      "C-10"
+     ],
+     "what": "Payment due in 10 days",
+     "targets": [
+      "p21"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p21",
+       "restore": "within 30 days",
+       "planted": "within 10 days",
+       "check": {
+        "num": "within ([0-9]+) days",
+        "min": 30
+       }
+      }
+     ]
+    },
+    {
+     "id": "P11",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-14",
+      "C-12"
+     ],
+     "what": "Warranty remedy loses the refund",
+     "targets": [
+      "p67"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p67",
+       "restore": "Customer may terminate the affected Order Form and Provider will pay to Customer a prorated refund of prepaid Fees for the remainder of the Subscription Period.",
+       "planted": "Customer may terminate the affected Order Form.",
+       "check": {
+        "require": [
+         "refund"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P07",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-06"
+     ],
+     "what": "ML safeguards (aggregation, de-identification) deleted",
+     "targets": [
+      "p32"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p32",
+       "restore": "However, (a) Usage Data and Customer Content must be aggregated before it can be used for these purposes, and (b) Provider will use commercially reasonable efforts consistent with industry standard technology to de-identify Usage Data and Customer Content before such use.",
+       "planted": "",
+       "check": {
+        "require": [
+         "aggregat",
+         "de-identif"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P20",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-08"
+     ],
+     "what": "Customer Content excluded from Confidential Information (definition)",
+     "targets": [
+      "p119"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p119",
+       "restore": "Customer’s Confidential Information includes non-public Customer Content and Provider’s Confidential Information includes non-public information about the Product.",
+       "planted": "Provider’s Confidential Information includes non-public information about the Product. Customer Content is not Confidential Information.",
+       "check": {
+        "require": [
+         "Customer Content"
+        ],
+        "forbid": [
+         "Customer Content is not Confidential"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P22",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-02"
+     ],
+     "what": "Increased cap only for gross negligence",
+     "targets": [
+      "p9"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p9",
+       "restore": "Breach of Section 3 (Privacy & Security);",
+       "planted": "Breach of Section 3 (Privacy & Security) resulting from gross negligence or willful misconduct;",
+       "check": {
+        "forbid": [
+         "gross negligence",
+         "wil+ful misconduct"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "D02",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [
+      "C-13"
+     ],
+     "what": "Deletion within 30 days",
+     "targets": [
+      "p57"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p57",
+       "restore": "within 60 days",
+       "planted": "within 30 days",
+       "check": null
+      }
+     ]
+    },
+    {
+     "id": "D06",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [],
+     "what": "British spelling",
+     "targets": [
+      "p64"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p64",
+       "restore": "duly organized",
+       "planted": "duly organised",
+       "check": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "K05",
+   "sha256": "00da5c5c3afbf60943d012b85215304e73ce7e047eb7d2e905d6da9ca3d02b0a",
+   "plants": [
+    {
+     "id": "P05",
+     "kind": "deviation",
+     "level": "easy",
+     "rules": [
+      "C-11"
+     ],
+     "what": "Price increases up to 15%",
+     "targets": [
+      "p19"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p19",
+       "restore": "up to 5% per renewal",
+       "planted": "up to 15% per renewal",
+       "check": {
+        "num": "up to ([0-9.]+)%",
+        "max": 5
+       }
+      }
+     ]
+    },
+    {
+     "id": "P10",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-12"
+     ],
+     "what": "Only Provider may terminate for breach or insolvency",
+     "targets": [
+      "p51"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p51",
+       "restore": "Either party may terminate",
+       "planted": "Provider may terminate",
+       "check": {
+        "require": [
+         "(either|each) party"
+        ],
+        "forbid": [
+         "^5\\.3 Termination\\.\\s+Provider may terminate"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P16",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-08"
+     ],
+     "what": "Compelled disclosure without notice",
+     "targets": [
+      "p89"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p89",
+       "restore": "if, unless prohibited by Applicable Laws, Recipient provides Discloser reasonable advance notice of the required disclosure and reasonably cooperates, at Discloser’s expense, with Discloser’s efforts to obtain confidential treatment for the Confidential Information",
+       "planted": "",
+       "check": {
+        "require": [
+         "notice"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P26",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-02"
+     ],
+     "what": "Increased cap cut to 1.5x",
+     "targets": [
+      "p10"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p10",
+       "restore": "3x the Fees",
+       "planted": "1.5x the Fees",
+       "check": {
+        "num": "([0-9.]+)x the Fees",
+        "min": 2
+       }
+      }
+     ]
+    },
+    {
+     "id": "P21",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-08"
+     ],
+     "what": "Confidentiality dropped from survival list",
+     "targets": [
+      "p61"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p61",
+       "restore": "Section 10 (Confidentiality),",
+       "planted": "",
+       "check": {
+        "require": [
+         "Confidentiality"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P09",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-13"
+     ],
+     "what": "Deletion within 180 days",
+     "targets": [
+      "p57"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p57",
+       "restore": "within 60 days",
+       "planted": "within 180 days",
+       "check": {
+        "num": "within ([0-9]+) days",
+        "max": 90
+       }
+      }
+     ]
+    },
+    {
+     "id": "P19",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-05"
+     ],
+     "what": "Outputs carved out of Customer Content (definition)",
+     "targets": [
+      "p122"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p122",
+       "restore": "but excludes Feedback.",
+       "planted": "but excludes Feedback and any reports, insights, or other output generated by the Product.",
+       "check": {
+        "forbid": [
+         "output",
+         "insights",
+         "reports"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "D04",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [],
+     "what": "Notices to Customer copied to legal",
+     "targets": [
+      "p102"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p102",
+       "restore": "sent to the Notice Address.",
+       "planted": "sent to the Notice Address, and notices to Customer will also be copied to legal@northwind.example.",
+       "check": null
+      }
+     ]
+    },
+    {
+     "id": "D03",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [],
+     "what": "Four-hour response for critical incidents",
+     "targets": [
+      "p23"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p23",
+       "restore": "Monday to Friday).",
+       "planted": "Monday to Friday). Critical incidents receive a response within four hours, at any time.",
+       "check": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "K06",
+   "sha256": "4e985b7b3f90d1106ee04f8d95c5ff56914221c19584944ba4efed32d5abe2ed",
+   "plants": [
+    {
+     "id": "P15",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-18"
+     ],
+     "what": "Case study without consent",
+     "targets": [
+      "p101"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p101",
+       "restore": "as a user of Provider's products and services.",
+       "planted": "as a user of Provider's products and services. Provider may also publish a case study describing Customer's use of the Product and the results Customer has achieved.",
+       "check": {
+        "forbid": [
+         "case study"
+        ],
+        "allowIf": "consent"
+       }
+      }
+     ]
+    },
+    {
+     "id": "P25",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-15"
+     ],
+     "what": "AUP \"as updated from time to time\" incorporated",
+     "targets": [
+      "p94"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p94",
+       "restore": "regardless of what such terms may say.",
+       "planted": "regardless of what such terms may say. Customer will comply with Provider’s Acceptable Use Policy, available on Provider’s website and as updated by Provider from time to time, which forms part of this Agreement.",
+       "check": {
+        "forbid": [
+         "as updated"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P12",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-04"
+     ],
+     "what": "Settlement without consent allowed (sentence deleted)",
+     "targets": [
+      "p80"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p80",
+       "restore": "The Indemnifying Party may not agree to any settlement of a Covered Claim that contains an admission of fault or otherwise materially and adversely impacts the Protected Party without the prior written consent of the Protected Party.",
+       "planted": "",
+       "check": {
+        "require": [
+         "settle",
+         "consent"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P03",
+     "kind": "deviation",
+     "level": "easy",
+     "rules": [
+      "C-17"
+     ],
+     "what": "Delaware law and courts",
+     "targets": [
+      "p4",
+      "p5"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p4",
+       "restore": "England and Wales",
+       "planted": "the State of Delaware",
+       "check": {
+        "require": [
+         "England and Wales"
+        ]
+       }
+      },
+      {
+       "paragraph": "p5",
+       "restore": "London, England",
+       "planted": "Wilmington, Delaware",
+       "check": {
+        "require": [
+         "London"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P04",
+     "kind": "deviation",
+     "level": "easy",
+     "rules": [
+      "C-11"
+     ],
+     "what": "Non-renewal notice 120 days",
+     "targets": [
+      "p22"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p22",
+       "restore": "At least 30 days",
+       "planted": "At least 120 days",
+       "check": {
+        "num": "least ([0-9]+) days",
+        "max": 60
+       }
+      }
+     ]
+    },
+    {
+     "id": "P13",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-15"
+     ],
+     "what": "Provider may change the terms by posting",
+     "targets": [
+      "p95"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p95",
+       "restore": "signed or electronically accepted by each party.",
+       "planted": "signed or electronically accepted by each party. However, Provider may update these Standard Terms by posting a revised version on its website, effective 30 days after posting.",
+       "check": {
+        "forbid": [
+         "posting",
+         "update these Standard Terms"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P18",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-03"
+     ],
+     "what": "Only Customer's indemnity is uncapped",
+     "targets": [
+      "p11"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p11",
+       "restore": "An Indemnifying Party’s indemnification obligation.",
+       "planted": "Customer’s indemnification obligation.",
+       "check": {
+        "require": [
+         "indemnif"
+        ],
+        "forbid": [
+         "^Unlimited Claims: Customer’s indemnification"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "D01",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [
+      "C-10"
+     ],
+     "what": "Payment due in 45 days",
+     "targets": [
+      "p21"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p21",
+       "restore": "within 30 days",
+       "planted": "within 45 days",
+       "check": null
+      }
+     ]
+    },
+    {
+     "id": "D02",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [
+      "C-13"
+     ],
+     "what": "Deletion within 30 days",
+     "targets": [
+      "p57"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p57",
+       "restore": "within 60 days",
+       "planted": "within 30 days",
+       "check": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "K07",
+   "sha256": "d354c71f55485eb1b917c20c50c55dfa246b8ffce8fa8341e4bc75c4aeb396bf",
+   "plants": [
+    {
+     "id": "P08",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-09"
+     ],
+     "what": "Suspension for any balance 5 days overdue",
+     "targets": [
+      "p37"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p37",
+       "restore": "outstanding, undisputed balance on its account for more than 30 days",
+       "planted": "outstanding balance on its account for more than 5 days",
+       "check": {
+        "require": [
+         "undisputed"
+        ],
+        "num": "([0-9]+) days",
+        "min": 30
+       }
+      }
+     ]
+    },
+    {
+     "id": "P01",
+     "kind": "deviation",
+     "level": "easy",
+     "rules": [
+      "C-01"
+     ],
+     "what": "General cap cut to 0.25x",
+     "targets": [
+      "p8"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p8",
+       "restore": "1x the Fees",
+       "planted": "0.25x the Fees",
+       "check": {
+        "num": "([0-9.]+)x the Fees",
+        "min": 1,
+        "require": [
+         "12 month"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P23",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-12"
+     ],
+     "what": "Force majeure termination loses the refund",
+     "targets": [
+      "p54"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p54",
+       "restore": "Provider will pay to Customer a prorated refund of any prepaid Fees for the remainder of the Subscription Period.",
+       "planted": "",
+       "check": {
+        "require": [
+         "refund"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P06",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-05"
+     ],
+     "what": "Content usable to improve and build new products",
+     "targets": [
+      "p31"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p31",
+       "restore": "only as needed to provide and maintain the Product and related offerings",
+       "planted": "to provide, maintain, and improve the Product and to develop new products and services",
+       "check": {
+        "require": [
+         "only as needed to provide"
+        ],
+        "forbid": [
+         "improve",
+         "develop new"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P17",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-03",
+      "C-02"
+     ],
+     "what": "Confidentiality out of Increased Claims and out of the waiver exceptions",
+     "targets": [
+      "p9",
+      "p76"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p9",
+       "restore": "; and (b) breach of Section 10 (Confidentiality), other than a data or security breach, which falls under (a).",
+       "planted": ".",
+       "check": {
+        "require": [
+         "Section 10|Confidentiality"
+        ]
+       }
+      },
+      {
+       "paragraph": "p76",
+       "restore": "does not apply to any Increased Claims or a breach of Section 10 (Confidentiality).",
+       "planted": "does not apply to any Increased Claims.",
+       "check": {
+        "require": [
+         "Section 10|Confidentiality"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P24",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-19"
+     ],
+     "what": "Audit clause inserted (system inspection, 5 days, Customer pays)",
+     "targets": [
+      "p99-ins-P24"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p99-ins-P24",
+       "restore": "",
+       "planted": "Audit.  Provider may audit Customer’s use of the Product, including by inspecting Customer’s systems, on five business days’ notice, and Customer will reimburse Provider’s reasonable audit costs.",
+       "inserted": true,
+       "check": {
+        "deleteOr": true,
+        "forbid": [
+         "inspect"
+        ],
+        "require": [
+         "(30|thirty) days"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P02",
+     "kind": "deviation",
+     "level": "easy",
+     "rules": [
+      "C-10"
+     ],
+     "what": "Payment due in 10 days",
+     "targets": [
+      "p21"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p21",
+       "restore": "within 30 days",
+       "planted": "within 10 days",
+       "check": {
+        "num": "within ([0-9]+) days",
+        "min": 30
+       }
+      }
+     ]
+    },
+    {
+     "id": "D06",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [],
+     "what": "British spelling",
+     "targets": [
+      "p64"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p64",
+       "restore": "duly organized",
+       "planted": "duly organised",
+       "check": null
+      }
+     ]
+    },
+    {
+     "id": "D05",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [
+      "C-11"
+     ],
+     "what": "Price increases up to 3%",
+     "targets": [
+      "p19"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p19",
+       "restore": "up to 5% per renewal",
+       "planted": "up to 3% per renewal",
+       "check": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "K08",
+   "sha256": "2e950abdcc12db0be006cbccd002c61d69fffd72a96c59a8c11690ff4946d038",
+   "plants": [
+    {
+     "id": "P11",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-14",
+      "C-12"
+     ],
+     "what": "Warranty remedy loses the refund",
+     "targets": [
+      "p67"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p67",
+       "restore": "Customer may terminate the affected Order Form and Provider will pay to Customer a prorated refund of prepaid Fees for the remainder of the Subscription Period.",
+       "planted": "Customer may terminate the affected Order Form.",
+       "check": {
+        "require": [
+         "refund"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P07",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-06"
+     ],
+     "what": "ML safeguards (aggregation, de-identification) deleted",
+     "targets": [
+      "p32"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p32",
+       "restore": "However, (a) Usage Data and Customer Content must be aggregated before it can be used for these purposes, and (b) Provider will use commercially reasonable efforts consistent with industry standard technology to de-identify Usage Data and Customer Content before such use.",
+       "planted": "",
+       "check": {
+        "require": [
+         "aggregat",
+         "de-identif"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P20",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-08"
+     ],
+     "what": "Customer Content excluded from Confidential Information (definition)",
+     "targets": [
+      "p119"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p119",
+       "restore": "Customer’s Confidential Information includes non-public Customer Content and Provider’s Confidential Information includes non-public information about the Product.",
+       "planted": "Provider’s Confidential Information includes non-public information about the Product. Customer Content is not Confidential Information.",
+       "check": {
+        "require": [
+         "Customer Content"
+        ],
+        "forbid": [
+         "Customer Content is not Confidential"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P22",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-02"
+     ],
+     "what": "Increased cap only for gross negligence",
+     "targets": [
+      "p9"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p9",
+       "restore": "Breach of Section 3 (Privacy & Security);",
+       "planted": "Breach of Section 3 (Privacy & Security) resulting from gross negligence or willful misconduct;",
+       "check": {
+        "forbid": [
+         "gross negligence",
+         "wil+ful misconduct"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P05",
+     "kind": "deviation",
+     "level": "easy",
+     "rules": [
+      "C-11"
+     ],
+     "what": "Price increases up to 15%",
+     "targets": [
+      "p19"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p19",
+       "restore": "up to 5% per renewal",
+       "planted": "up to 15% per renewal",
+       "check": {
+        "num": "up to ([0-9.]+)%",
+        "max": 5
+       }
+      }
+     ]
+    },
+    {
+     "id": "P10",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-12"
+     ],
+     "what": "Only Provider may terminate for breach or insolvency",
+     "targets": [
+      "p51"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p51",
+       "restore": "Either party may terminate",
+       "planted": "Provider may terminate",
+       "check": {
+        "require": [
+         "(either|each) party"
+        ],
+        "forbid": [
+         "^5\\.3 Termination\\.\\s+Provider may terminate"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P16",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-08"
+     ],
+     "what": "Compelled disclosure without notice",
+     "targets": [
+      "p89"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p89",
+       "restore": "if, unless prohibited by Applicable Laws, Recipient provides Discloser reasonable advance notice of the required disclosure and reasonably cooperates, at Discloser’s expense, with Discloser’s efforts to obtain confidential treatment for the Confidential Information",
+       "planted": "",
+       "check": {
+        "require": [
+         "notice"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "D04",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [],
+     "what": "Notices to Customer copied to legal",
+     "targets": [
+      "p102"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p102",
+       "restore": "sent to the Notice Address.",
+       "planted": "sent to the Notice Address, and notices to Customer will also be copied to legal@northwind.example.",
+       "check": null
+      }
+     ]
+    },
+    {
+     "id": "D03",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [],
+     "what": "Four-hour response for critical incidents",
+     "targets": [
+      "p23"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p23",
+       "restore": "Monday to Friday).",
+       "planted": "Monday to Friday). Critical incidents receive a response within four hours, at any time.",
+       "check": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "K09",
+   "sha256": "c2129f76102e6cdf94b3dc840cd4c8d1b093615137322749d6a11fdecca06ec8",
+   "plants": [
+    {
+     "id": "P26",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-02"
+     ],
+     "what": "Increased cap cut to 1.5x",
+     "targets": [
+      "p10"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p10",
+       "restore": "3x the Fees",
+       "planted": "1.5x the Fees",
+       "check": {
+        "num": "([0-9.]+)x the Fees",
+        "min": 2
+       }
+      }
+     ]
+    },
+    {
+     "id": "P21",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-08"
+     ],
+     "what": "Confidentiality dropped from survival list",
+     "targets": [
+      "p61"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p61",
+       "restore": "Section 10 (Confidentiality),",
+       "planted": "",
+       "check": {
+        "require": [
+         "Confidentiality"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P09",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-13"
+     ],
+     "what": "Deletion within 180 days",
+     "targets": [
+      "p57"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p57",
+       "restore": "within 60 days",
+       "planted": "within 180 days",
+       "check": {
+        "num": "within ([0-9]+) days",
+        "max": 90
+       }
+      }
+     ]
+    },
+    {
+     "id": "P19",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-05"
+     ],
+     "what": "Outputs carved out of Customer Content (definition)",
+     "targets": [
+      "p122"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p122",
+       "restore": "but excludes Feedback.",
+       "planted": "but excludes Feedback and any reports, insights, or other output generated by the Product.",
+       "check": {
+        "forbid": [
+         "output",
+         "insights",
+         "reports"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P15",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-18"
+     ],
+     "what": "Case study without consent",
+     "targets": [
+      "p101"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p101",
+       "restore": "as a user of Provider's products and services.",
+       "planted": "as a user of Provider's products and services. Provider may also publish a case study describing Customer's use of the Product and the results Customer has achieved.",
+       "check": {
+        "forbid": [
+         "case study"
+        ],
+        "allowIf": "consent"
+       }
+      }
+     ]
+    },
+    {
+     "id": "P25",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-15"
+     ],
+     "what": "AUP \"as updated from time to time\" incorporated",
+     "targets": [
+      "p94"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p94",
+       "restore": "regardless of what such terms may say.",
+       "planted": "regardless of what such terms may say. Customer will comply with Provider’s Acceptable Use Policy, available on Provider’s website and as updated by Provider from time to time, which forms part of this Agreement.",
+       "check": {
+        "forbid": [
+         "as updated"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P12",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-04"
+     ],
+     "what": "Settlement without consent allowed (sentence deleted)",
+     "targets": [
+      "p80"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p80",
+       "restore": "The Indemnifying Party may not agree to any settlement of a Covered Claim that contains an admission of fault or otherwise materially and adversely impacts the Protected Party without the prior written consent of the Protected Party.",
+       "planted": "",
+       "check": {
+        "require": [
+         "settle",
+         "consent"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "D01",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [
+      "C-10"
+     ],
+     "what": "Payment due in 45 days",
+     "targets": [
+      "p21"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p21",
+       "restore": "within 30 days",
+       "planted": "within 45 days",
+       "check": null
+      }
+     ]
+    },
+    {
+     "id": "D06",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [],
+     "what": "British spelling",
+     "targets": [
+      "p64"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p64",
+       "restore": "duly organized",
+       "planted": "duly organised",
+       "check": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "K10",
+   "sha256": "7269e97340045bc0bf01e7190ef5a025d6ab476da31a7be13a39429ba2d9163f",
+   "plants": [
+    {
+     "id": "P03",
+     "kind": "deviation",
+     "level": "easy",
+     "rules": [
+      "C-17"
+     ],
+     "what": "Delaware law and courts",
+     "targets": [
+      "p4",
+      "p5"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p4",
+       "restore": "England and Wales",
+       "planted": "the State of Delaware",
+       "check": {
+        "require": [
+         "England and Wales"
+        ]
+       }
+      },
+      {
+       "paragraph": "p5",
+       "restore": "London, England",
+       "planted": "Wilmington, Delaware",
+       "check": {
+        "require": [
+         "London"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P04",
+     "kind": "deviation",
+     "level": "easy",
+     "rules": [
+      "C-11"
+     ],
+     "what": "Non-renewal notice 120 days",
+     "targets": [
+      "p22"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p22",
+       "restore": "At least 30 days",
+       "planted": "At least 120 days",
+       "check": {
+        "num": "least ([0-9]+) days",
+        "max": 60
+       }
+      }
+     ]
+    },
+    {
+     "id": "P13",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-15"
+     ],
+     "what": "Provider may change the terms by posting",
+     "targets": [
+      "p95"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p95",
+       "restore": "signed or electronically accepted by each party.",
+       "planted": "signed or electronically accepted by each party. However, Provider may update these Standard Terms by posting a revised version on its website, effective 30 days after posting.",
+       "check": {
+        "forbid": [
+         "posting",
+         "update these Standard Terms"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P18",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-03"
+     ],
+     "what": "Only Customer's indemnity is uncapped",
+     "targets": [
+      "p11"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p11",
+       "restore": "An Indemnifying Party’s indemnification obligation.",
+       "planted": "Customer’s indemnification obligation.",
+       "check": {
+        "require": [
+         "indemnif"
+        ],
+        "forbid": [
+         "^Unlimited Claims: Customer’s indemnification"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P08",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-09"
+     ],
+     "what": "Suspension for any balance 5 days overdue",
+     "targets": [
+      "p37"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p37",
+       "restore": "outstanding, undisputed balance on its account for more than 30 days",
+       "planted": "outstanding balance on its account for more than 5 days",
+       "check": {
+        "require": [
+         "undisputed"
+        ],
+        "num": "([0-9]+) days",
+        "min": 30
+       }
+      }
+     ]
+    },
+    {
+     "id": "P01",
+     "kind": "deviation",
+     "level": "easy",
+     "rules": [
+      "C-01"
+     ],
+     "what": "General cap cut to 0.25x",
+     "targets": [
+      "p8"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p8",
+       "restore": "1x the Fees",
+       "planted": "0.25x the Fees",
+       "check": {
+        "num": "([0-9.]+)x the Fees",
+        "min": 1,
+        "require": [
+         "12 month"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P23",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-12"
+     ],
+     "what": "Force majeure termination loses the refund",
+     "targets": [
+      "p54"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p54",
+       "restore": "Provider will pay to Customer a prorated refund of any prepaid Fees for the remainder of the Subscription Period.",
+       "planted": "",
+       "check": {
+        "require": [
+         "refund"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "D05",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [
+      "C-11"
+     ],
+     "what": "Price increases up to 3%",
+     "targets": [
+      "p19"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p19",
+       "restore": "up to 5% per renewal",
+       "planted": "up to 3% per renewal",
+       "check": null
+      }
+     ]
+    },
+    {
+     "id": "D04",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [],
+     "what": "Notices to Customer copied to legal",
+     "targets": [
+      "p102"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p102",
+       "restore": "sent to the Notice Address.",
+       "planted": "sent to the Notice Address, and notices to Customer will also be copied to legal@northwind.example.",
+       "check": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "K11",
+   "sha256": "ee9be751b0e61f554964656391fedfb1c8961171a72b9632e9a037c323f1dd37",
+   "plants": [
+    {
+     "id": "P06",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-05"
+     ],
+     "what": "Content usable to improve and build new products",
+     "targets": [
+      "p31"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p31",
+       "restore": "only as needed to provide and maintain the Product and related offerings",
+       "planted": "to provide, maintain, and improve the Product and to develop new products and services",
+       "check": {
+        "require": [
+         "only as needed to provide"
+        ],
+        "forbid": [
+         "improve",
+         "develop new"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P17",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-03",
+      "C-02"
+     ],
+     "what": "Confidentiality out of Increased Claims and out of the waiver exceptions",
+     "targets": [
+      "p9",
+      "p76"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p9",
+       "restore": "; and (b) breach of Section 10 (Confidentiality), other than a data or security breach, which falls under (a).",
+       "planted": ".",
+       "check": {
+        "require": [
+         "Section 10|Confidentiality"
+        ]
+       }
+      },
+      {
+       "paragraph": "p76",
+       "restore": "does not apply to any Increased Claims or a breach of Section 10 (Confidentiality).",
+       "planted": "does not apply to any Increased Claims.",
+       "check": {
+        "require": [
+         "Section 10|Confidentiality"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P24",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-19"
+     ],
+     "what": "Audit clause inserted (system inspection, 5 days, Customer pays)",
+     "targets": [
+      "p99-ins-P24"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p99-ins-P24",
+       "restore": "",
+       "planted": "Audit.  Provider may audit Customer’s use of the Product, including by inspecting Customer’s systems, on five business days’ notice, and Customer will reimburse Provider’s reasonable audit costs.",
+       "inserted": true,
+       "check": {
+        "deleteOr": true,
+        "forbid": [
+         "inspect"
+        ],
+        "require": [
+         "(30|thirty) days"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P27",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-01"
+     ],
+     "what": "Cap measured over 3 months of Fees",
+     "targets": [
+      "p8"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p8",
+       "restore": "in the 12 month period",
+       "planted": "in the 3 month period",
+       "check": {
+        "require": [
+         "12 month|twelve"
+        ],
+        "forbid": [
+         "3 month"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P02",
+     "kind": "deviation",
+     "level": "easy",
+     "rules": [
+      "C-10"
+     ],
+     "what": "Payment due in 10 days",
+     "targets": [
+      "p21"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p21",
+       "restore": "within 30 days",
+       "planted": "within 10 days",
+       "check": {
+        "num": "within ([0-9]+) days",
+        "min": 30
+       }
+      }
+     ]
+    },
+    {
+     "id": "P11",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-14",
+      "C-12"
+     ],
+     "what": "Warranty remedy loses the refund",
+     "targets": [
+      "p67"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p67",
+       "restore": "Customer may terminate the affected Order Form and Provider will pay to Customer a prorated refund of prepaid Fees for the remainder of the Subscription Period.",
+       "planted": "Customer may terminate the affected Order Form.",
+       "check": {
+        "require": [
+         "refund"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P07",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-06"
+     ],
+     "what": "ML safeguards (aggregation, de-identification) deleted",
+     "targets": [
+      "p32"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p32",
+       "restore": "However, (a) Usage Data and Customer Content must be aggregated before it can be used for these purposes, and (b) Provider will use commercially reasonable efforts consistent with industry standard technology to de-identify Usage Data and Customer Content before such use.",
+       "planted": "",
+       "check": {
+        "require": [
+         "aggregat",
+         "de-identif"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "D03",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [],
+     "what": "Four-hour response for critical incidents",
+     "targets": [
+      "p23"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p23",
+       "restore": "Monday to Friday).",
+       "planted": "Monday to Friday). Critical incidents receive a response within four hours, at any time.",
+       "check": null
+      }
+     ]
+    },
+    {
+     "id": "D02",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [
+      "C-13"
+     ],
+     "what": "Deletion within 30 days",
+     "targets": [
+      "p57"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p57",
+       "restore": "within 60 days",
+       "planted": "within 30 days",
+       "check": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "K12",
+   "sha256": "749634c17bb35a03485927614bbc2ff0c0de468ba2691f0e05e25e18b7621652",
+   "plants": [
+    {
+     "id": "P20",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-08"
+     ],
+     "what": "Customer Content excluded from Confidential Information (definition)",
+     "targets": [
+      "p119"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p119",
+       "restore": "Customer’s Confidential Information includes non-public Customer Content and Provider’s Confidential Information includes non-public information about the Product.",
+       "planted": "Provider’s Confidential Information includes non-public information about the Product. Customer Content is not Confidential Information.",
+       "check": {
+        "require": [
+         "Customer Content"
+        ],
+        "forbid": [
+         "Customer Content is not Confidential"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P22",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-02"
+     ],
+     "what": "Increased cap only for gross negligence",
+     "targets": [
+      "p9"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p9",
+       "restore": "Breach of Section 3 (Privacy & Security);",
+       "planted": "Breach of Section 3 (Privacy & Security) resulting from gross negligence or willful misconduct;",
+       "check": {
+        "forbid": [
+         "gross negligence",
+         "wil+ful misconduct"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P05",
+     "kind": "deviation",
+     "level": "easy",
+     "rules": [
+      "C-11"
+     ],
+     "what": "Price increases up to 15%",
+     "targets": [
+      "p19"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p19",
+       "restore": "up to 5% per renewal",
+       "planted": "up to 15% per renewal",
+       "check": {
+        "num": "up to ([0-9.]+)%",
+        "max": 5
+       }
+      }
+     ]
+    },
+    {
+     "id": "P10",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-12"
+     ],
+     "what": "Only Provider may terminate for breach or insolvency",
+     "targets": [
+      "p51"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p51",
+       "restore": "Either party may terminate",
+       "planted": "Provider may terminate",
+       "check": {
+        "require": [
+         "(either|each) party"
+        ],
+        "forbid": [
+         "^5\\.3 Termination\\.\\s+Provider may terminate"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P16",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-08"
+     ],
+     "what": "Compelled disclosure without notice",
+     "targets": [
+      "p89"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p89",
+       "restore": "if, unless prohibited by Applicable Laws, Recipient provides Discloser reasonable advance notice of the required disclosure and reasonably cooperates, at Discloser’s expense, with Discloser’s efforts to obtain confidential treatment for the Confidential Information",
+       "planted": "",
+       "check": {
+        "require": [
+         "notice"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "P26",
+     "kind": "deviation",
+     "level": "medium",
+     "rules": [
+      "C-02"
+     ],
+     "what": "Increased cap cut to 1.5x",
+     "targets": [
+      "p10"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p10",
+       "restore": "3x the Fees",
+       "planted": "1.5x the Fees",
+       "check": {
+        "num": "([0-9.]+)x the Fees",
+        "min": 2
+       }
+      }
+     ]
+    },
+    {
+     "id": "P21",
+     "kind": "deviation",
+     "level": "hard",
+     "rules": [
+      "C-08"
+     ],
+     "what": "Confidentiality dropped from survival list",
+     "targets": [
+      "p61"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p61",
+       "restore": "Section 10 (Confidentiality),",
+       "planted": "",
+       "check": {
+        "require": [
+         "Confidentiality"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "D06",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [],
+     "what": "British spelling",
+     "targets": [
+      "p64"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p64",
+       "restore": "duly organized",
+       "planted": "duly organised",
+       "check": null
+      }
+     ]
+    },
+    {
+     "id": "D04",
+     "kind": "benign",
+     "level": "benign",
+     "rules": [],
+     "what": "Notices to Customer copied to legal",
+     "targets": [
+      "p102"
+     ],
+     "fixes": [
+      {
+       "paragraph": "p102",
+       "restore": "sent to the Notice Address.",
+       "planted": "sent to the Notice Address, and notices to Customer will also be copied to legal@northwind.example.",
+       "check": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

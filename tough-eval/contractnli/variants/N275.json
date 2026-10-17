@@ -1,0 +1,317 @@
+{
+ "id": "N275",
+ "revision": 1,
+ "title": "non-disclosure-agreement_5.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 275,
+  "type": "search-pdf",
+  "url": "https://kennetik.com/non-disclosure-agreement.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "KENNETIK NON-DISCLOSURE AND CONFIDENTIALITY AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "This Non-Disclosure and Confidentiality Agreement (this \"Agreement\") is entered into as of January 01, 2018 by and between Kennetik, a Minnesota Limited Liability Company (\"Kennetik\") and , as an Individual (\" \")."
+  },
+  {
+   "id": "s2",
+   "text": "Kennetik and have indicated an interest in exploring a potential business relationship relating to: The hiring of Kennetik to perform content development & strategy, including but not limited to conceptualizing, producing and managing the client's content. "
+  },
+  {
+   "id": "s3",
+   "text": "(the \"Transaction\"). "
+  },
+  {
+   "id": "s4",
+   "text": "In connection with the parties' respective evaluation of the Transaction, Kennetik, its respective affiliates and its respective directors, officers, employees, agents or advisors (collectively, \"Representatives\") may provide or grant access to certain confidential and proprietary information to . "
+  },
+  {
+   "id": "s5",
+   "text": "The party disclosing its Confidential Information (as defined herein) to the other party is hereafter referred to as the \"Disclosing Party.\" "
+  },
+  {
+   "id": "s6",
+   "text": "The party receiving the Confidential Information of the Disclosing Party is hereafter referred to as the \"Receiving Party.\" "
+  },
+  {
+   "id": "s7",
+   "text": "In consideration for being furnished Confidential Information, Kennetik and agree as follows:"
+  },
+  {
+   "id": "s8",
+   "text": "1. Confidential Information. "
+  },
+  {
+   "id": "s9",
+   "text": "The term \"Confidential Information\" as used in this Agreement shall mean any data or information that is competitively sensitive material and not generally known to the public, including, but not limited to, information relating to any of the following: business plans, design, improvements, marketing strategies, present or future business activities, product development and plans, data, databases, documentation, flow charts, formulas, reports, specifications, finance, operations, procedures, processes, supplier lists, supplier profiles, supplier relationships, systems, computer software, inventions, know-how, object code, proprietary concepts, source code, technical information, trade secrets, customer lists, customer profiles, customer relationships, performance results, pricing, sales estimates, which the Disclosing Party considers confidential."
+  },
+  {
+   "id": "s10",
+   "text": "2. Exclusions from Confidential Information. "
+  },
+  {
+   "id": "s11",
+   "text": "The obligation of confidentiality with respect to Confidential Information will not apply to any information:"
+  },
+  {
+   "id": "s12",
+   "text": "a. If the information is or becomes publicly known and available other than as a result of prior unauthorized disclosure by the Receiving Party or any of its Representatives;"
+  },
+  {
+   "id": "s13",
+   "text": "b. If the information is or was received by the Receiving Party from a third party source which, to the best knowledge of the Receiving Party or its Representatives, is or was not under a confidentiality obligation to the Disclosing Party with regard to such information;"
+  },
+  {
+   "id": "s14",
+   "text": "c. If the information is disclosed by the Receiving Party with the Disclosing Party's prior written permission and approval;"
+  },
+  {
+   "id": "s15",
+   "text": "d. If the information is independently developed by the Receiving Party prior to disclosure by the Disclosing Party and without the use and benefit of any of the Disclosing Party's Confidential Information; or"
+  },
+  {
+   "id": "s16",
+   "text": "e. If the Receiving Party or any of its Representatives is legally compelled by applicable law, by any court, governmental agency or regulatory authority or by subpoena or discovery request in pending litigation but only if, to the extent lawful, the Receiving Party or its Representatives give prompt written notice of that fact to the Disclosing Party prior to disclosure so that the Disclosing Party may request a protective order or other remedy to prevent or limit such disclosure and in the absence of such protective order or other remedy, the Receiving Party or its Representatives may disclose only such portion of the Confidential Information which it is legally obligated to disclose."
+  },
+  {
+   "id": "s17",
+   "text": "3. Obligation to Maintain Confidentiality. "
+  },
+  {
+   "id": "s18",
+   "text": "With respect to Confidential Information:"
+  },
+  {
+   "id": "s19",
+   "text": "a. The Receiving Party and its Representatives agree to retain the Confidential Information of the Disclosing Party in strict confidence, to protect the security, integrity and confidentiality of such information and to not permit unauthorized access to or unauthorized use, disclosure, publication or dissemination of Confidential Information except in conformity with this Agreement;"
+  },
+  {
+   "id": "s20",
+   "text": "b. The Receiving Party and its Representatives shall adopt and/or maintain security processes and procedures to safeguard the confidentiality of all Confidential Information received by the Disclosing Party using a reasonable degree of care, but not less than that degree of care used in safeguarding its own similar information or material;"
+  },
+  {
+   "id": "s21",
+   "text": "c. Upon the termination of this Agreement, the Receiving Party will ensure that all documents, memoranda, notes and other writings or electronic records prepared by it that include or reflect any Confidential Information are returned or destroyed as directed by the Disclosing Party;"
+  },
+  {
+   "id": "s22",
+   "text": "d. If there is an unauthorized disclosure or loss of any of the Confidential Information by the Receiving Party or any of its Representatives, the Receiving Party will promptly, at its own expense, notify the Disclosing Party in writing and take all actions as may be necessary or reasonably requested by the Disclosing Party to minimize any damage to the Disclosing Party or a third party as a result of the disclosure or loss; and"
+  },
+  {
+   "id": "s23",
+   "text": "e. The obligation not to disclose Confidential Information shall remain in effect until 2 years from the date hereof or until the Confidential Information ceases to be a trade secret, except to the extent that such Confidential Information is excluded from the obligations of confidentiality under this Agreement pursuant to Paragraph 2 above."
+  },
+  {
+   "id": "s24",
+   "text": "4. Non-Disclosure of Transaction. "
+  },
+  {
+   "id": "s25",
+   "text": "Without the Disclosing Party's prior written consent, neither the Receiving Party nor its Representatives shall disclose to any other person, except to the extent, the provisions of Paragraph 2 apply: "
+  },
+  {
+   "id": "s26",
+   "text": "(a) the fact that Confidential Information has been made available to it or that it has inspected any portion of the Confidential Information; "
+  },
+  {
+   "id": "s27",
+   "text": "(b) the fact that the Disclosing Party and the Receiving Party are having discussions or negotiation concerning the Transaction; or "
+  },
+  {
+   "id": "s28",
+   "text": "(c) any of the terms, conditions or other facts with respect to the Transaction."
+  },
+  {
+   "id": "s29",
+   "text": "5. Representatives. "
+  },
+  {
+   "id": "s30",
+   "text": "The Receiving Party will take reasonable steps to ensure that its Representatives adhere to the terms of this Agreement. "
+  },
+  {
+   "id": "s31",
+   "text": "The Receiving Party will be responsible for any breach of this Agreement by any of its Representatives."
+  },
+  {
+   "id": "s32",
+   "text": "6. Disclaimer. "
+  },
+  {
+   "id": "s33",
+   "text": "There is no representation or warranty, express or implied, made by the Disclosing Party as to the accuracy or completeness of any of its Confidential Information. "
+  },
+  {
+   "id": "s34",
+   "text": "Except for the matters set forth in this Agreement, neither party will be under any obligation with regard to the Transaction. "
+  },
+  {
+   "id": "s35",
+   "text": "Either party may, in its sole discretion: "
+  },
+  {
+   "id": "s36",
+   "text": "(a) reject any proposals made by the other party or its Representatives with respect to the Transaction; "
+  },
+  {
+   "id": "s37",
+   "text": "(b) terminate discussions and negotiations with the other party or its Representatives at any time and for any reason or for no reason; and "
+  },
+  {
+   "id": "s38",
+   "text": "(c) change the procedures relating to the consideration of the Transaction at any time without prior notice to the other party."
+  },
+  {
+   "id": "s39",
+   "text": "7. Remedies. "
+  },
+  {
+   "id": "s40",
+   "text": "Each party agrees that use or disclosure of any Confidential Information in a manner inconsistent with this Agreement will give rise to irreparable injury for which: "
+  },
+  {
+   "id": "s41",
+   "text": "(a) money damages may not be a sufficient remedy for any breach of this Agreement by such party; "
+  },
+  {
+   "id": "s42",
+   "text": "(b) the other party may be entitled to specific performance and injunction and other equitable relief with respect to any such breach; "
+  },
+  {
+   "id": "s43",
+   "text": "(c) such remedies will not be the exclusive remedies for any such breach, but will be in addition to all other remedies available at law or in equity; and "
+  },
+  {
+   "id": "s44",
+   "text": "(d) in the event of litigation relating to this Agreement, if a court of competent jurisdiction determines in a final non-appealable order that one party, or any of its Representatives, has breached this Agreement, such party will be liable for reasonable legal fees and expenses incurred by the other party in connection with such litigation, including, but not limited to, any appeals."
+  },
+  {
+   "id": "s45",
+   "text": "8. Notices. "
+  },
+  {
+   "id": "s46",
+   "text": "All notices given under this Agreement must be in writing. "
+  },
+  {
+   "id": "s47",
+   "text": "A notice is effective upon receipt and shall be sent via one of the following methods: delivery in person, overnight courier service, certified or registered mail, postage prepaid, return receipt requested, addressed to the party to be notified at the below address or by facsimile at the below facsimile number or in the case of either party, to such other party, address or facsimile number as such party may designate upon reasonable notice to the other party."
+  },
+  {
+   "id": "s48",
+   "text": "Kennetik"
+  },
+  {
+   "id": "s49",
+   "text": "Alexander Londo, CCO"
+  },
+  {
+   "id": "s50",
+   "text": "8400 "
+  },
+  {
+   "id": "s51",
+   "text": "Normandale "
+  },
+  {
+   "id": "s52",
+   "text": "Lake Blvd. Suite 920"
+  },
+  {
+   "id": "s53",
+   "text": "Minneapolis, MN 55437"
+  },
+  {
+   "id": "s54",
+   "text": "Phone number: "
+  },
+  {
+   "id": "s55",
+   "text": "(612) 405-8999"
+  },
+  {
+   "id": "s56",
+   "text": "9. Termination. "
+  },
+  {
+   "id": "s57",
+   "text": "This Agreement will terminate on the earlier of: "
+  },
+  {
+   "id": "s58",
+   "text": "(a) the written agreement of the parties to terminate this Agreement; "
+  },
+  {
+   "id": "s59",
+   "text": "(b) the consummation of the Transaction; or "
+  },
+  {
+   "id": "s60",
+   "text": "(c) 5 years from the date hereof."
+  },
+  {
+   "id": "s61",
+   "text": "10. Amendment. "
+  },
+  {
+   "id": "s62",
+   "text": "This Agreement may be amended or modified only by a written agreement signed by both of the parties."
+  },
+  {
+   "id": "s63",
+   "text": "11. Jurisdiction. "
+  },
+  {
+   "id": "s64",
+   "text": "This Agreement will be governed by and construed in accordance with the laws of the State of Minnesota, without regard to the principles of conflict of laws. "
+  },
+  {
+   "id": "s65",
+   "text": "Each party consents to the exclusive jurisdiction of the courts located in the State of Minnesota for any legal action, suit or proceeding arising out of or in connection with this Agreement. "
+  },
+  {
+   "id": "s66",
+   "text": "Each party further waives any objection to the laying of venue for any such suit, action or proceeding in such courts."
+  },
+  {
+   "id": "s67",
+   "text": "12. Miscellaneous. "
+  },
+  {
+   "id": "s68",
+   "text": "This Agreement will inure to the benefit of and be binding on the respective successors and permitted assigns of the parties. "
+  },
+  {
+   "id": "s69",
+   "text": "Neither party may assign its rights or delegate its duties under this Agreement without the other party's prior written consent. "
+  },
+  {
+   "id": "s70",
+   "text": "In the event that any provision of this Agreement is held to be invalid, illegal or unenforceable in whole or in part, the remaining provisions shall not be affected and shall continue to be valid, legal and enforceable as though the invalid, illegal or unenforceable parts had not been included in this Agreement. "
+  },
+  {
+   "id": "s71",
+   "text": "Neither party will be charged with any waiver of any provision of this Agreement, unless such waiver is evidenced by a writing signed by the party and any such waiver will be limited to the terms of such writing."
+  },
+  {
+   "id": "s72",
+   "text": "IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first written above."
+  },
+  {
+   "id": "s73",
+   "text": "Kennetik Alexander Londo, CCO"
+  },
+  {
+   "id": "s74",
+   "text": "Full Name Representative Signature Representative Name and Title"
+  },
+  {
+   "id": "s75",
+   "text": "Full Name Representative Signature Representative Name and Title"
+  }
+ ]
+}

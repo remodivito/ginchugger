@@ -1,0 +1,1063 @@
+{
+ "id": "tough-bundle-BL24",
+ "revision": 1,
+ "title": "Cloud Service Agreement, DPA and SLA — Halden Cloud / Northwind Analytics",
+ "paragraphs": [
+  {
+   "id": "p1",
+   "text": "Cloud Service Agreement"
+  },
+  {
+   "id": "p2",
+   "text": "Key Terms and Order Form between Halden Cloud, Inc. (\"Provider\") and Northwind Analytics Ltd (\"Customer\")."
+  },
+  {
+   "id": "p3",
+   "text": "Effective Date: The date of last Cover Page signature."
+  },
+  {
+   "id": "p4",
+   "text": "Governing Law: The laws of England and Wales."
+  },
+  {
+   "id": "p5",
+   "text": "Chosen Courts: The courts located in London, England."
+  },
+  {
+   "id": "p6",
+   "text": "Provider Covered Claims: Any action, proceeding, or claim that the Cloud Service, when used by Customer according to the terms of the Agreement, violates, misappropriates, or otherwise infringes upon anyone else’s intellectual property or other proprietary rights."
+  },
+  {
+   "id": "p7",
+   "text": "Customer Covered Claims: Any action, proceeding, or claim that (1) the Customer Content, when used according to the terms of the Agreement, violates, misappropriates, or otherwise infringes upon anyone else’s intellectual property or other proprietary rights; or (2) results from Customer’s breach or alleged breach of Section 2.1 (Restrictions on Customer)."
+  },
+  {
+   "id": "p8",
+   "text": "General Cap Amount: 1x the Fees paid or payable by Customer to Provider in the 12 month period immediately before the claim."
+  },
+  {
+   "id": "p9",
+   "text": "Increased Claims: (a) Breach of Section 3 (Privacy & Security); and (b) breach of Section 10 (Confidentiality), other than a data or security breach, which falls under (a)."
+  },
+  {
+   "id": "p10",
+   "text": "Increased Cap Amount: 3x the Fees paid or payable by Customer to Provider in the 12 month period immediately before the claim."
+  },
+  {
+   "id": "p11",
+   "text": "Unlimited Claims: An Indemnifying Party’s indemnification obligation."
+  },
+  {
+   "id": "p12",
+   "text": "Security Policy: Provider will use commercially reasonable efforts to secure the Cloud Service from unauthorized access, alteration, or use and other unlawful tampering."
+  },
+  {
+   "id": "p13",
+   "text": "Additional Warranties: None."
+  },
+  {
+   "id": "p14",
+   "text": "DPA: The Data Processing Agreement signed by the parties on the Effective Date."
+  },
+  {
+   "id": "p15",
+   "text": "Notice Address: For Provider: legal@halden.example. For Customer: legal@northwind.example."
+  },
+  {
+   "id": "p16",
+   "text": "Cloud Service: Halden Insight, a hosted data analytics platform."
+  },
+  {
+   "id": "p17",
+   "text": "Order Date: The date of last signature on this Order Form."
+  },
+  {
+   "id": "p18",
+   "text": "Subscription Period: 12 months."
+  },
+  {
+   "id": "p19",
+   "text": "Cloud Service Fees: £48,000 per Subscription Period. Fees may increase by up to 5% per renewal."
+  },
+  {
+   "id": "p20",
+   "text": "Currency: All Fees, invoices and payments under this Order Form are in pounds sterling (GBP)."
+  },
+  {
+   "id": "p21",
+   "text": "Payment Process: Provider will invoice Customer annually in advance. Customer will pay each invoice within 30 days from Customer’s receipt of invoice."
+  },
+  {
+   "id": "p22",
+   "text": "Non-Renewal Notice Date: At least 30 days before the end of the current Subscription Period."
+  },
+  {
+   "id": "p23",
+   "text": "Technical Support: Provider will provide email support during business hours (09:00 to 17:30 UK time, Monday to Friday)."
+  },
+  {
+   "id": "p24",
+   "text": "Use Limitations: None."
+  },
+  {
+   "id": "p25",
+   "text": "Standard Terms"
+  },
+  {
+   "id": "p26",
+   "text": "1. Service"
+  },
+  {
+   "id": "p27",
+   "text": "1.1 Access and Use.  During the Subscription Period and subject to the terms of this Agreement, Customer may (a) access and use the Cloud Service; and (b) copy and use the included Software and Documentation only as needed to access and use the Cloud Service, in each case, for its internal business purposes. If a Customer Affiliate enters a separate Order Form with Provider, the Customer’s Affiliate creates a separate agreement between Provider and that Affiliate, where Provider’s responsibility to the Affiliate is individual and separate from Customer and Customer is not responsible for its Affiliates’ agreement."
+  },
+  {
+   "id": "p28",
+   "text": "1.2 Support.  During the Subscription Period, Provider will provide Technical Support as described in the Order Form."
+  },
+  {
+   "id": "p29",
+   "text": "1.3 User Accounts.  Customer is responsible for all actions on Users’ accounts and for all Users’ compliance with this Agreement. Customer and Users must protect the confidentiality of their passwords and login credentials. Customer will promptly notify Provider if it suspects or knows of any fraudulent activity with its accounts, passwords, or credentials, or if they become compromised."
+  },
+  {
+   "id": "p30",
+   "text": "1.4 Feedback and Usage Data.  Customer may, but is not required to, give Provider Feedback, in which case Customer gives Feedback “AS IS”. Provider may use all Feedback freely without any restriction or obligation. In addition, Provider may collect and analyze Usage Data, and Provider may freely use Usage Data to maintain, improve, enhance, and promote Provider’s products and services without restriction or obligation. However, Provider may only disclose Usage Data to others if the Usage Data is aggregated and does not identify Customer or Users."
+  },
+  {
+   "id": "p31",
+   "text": "1.5 Customer Content.  Provider may copy, display, modify, and use Customer Content only as needed to provide and maintain the Product and related offerings. Customer is responsible for the accuracy and content of Customer Content."
+  },
+  {
+   "id": "p32",
+   "text": "1.6 Machine Learning. Usage Data and Customer Content may be used to develop, train, or enhance artificial intelligence or machine learning models that are part of Provider's products and services, including third-party components of the Product, and Customer authorizes Provider to process its Usage Data and Customer Content for such purposes. However, (a) Usage Data and Customer Content must be aggregated before it can be used for these purposes, and (b) Provider will use commercially reasonable efforts consistent with industry standard technology to de-identify Usage Data and Customer Content before such use. Nothing in this section will reduce or limit Provider's obligations regarding Personal Data that may be contained in Usage Data or Customer Content under Applicable Data Protection Laws. Due to the nature of artificial intelligence and machine learning, information generated by these features may be incorrect or inaccurate. Product features that include artificial intelligence or machine learning models are not human and are not a substitute for human oversight."
+  },
+  {
+   "id": "p33",
+   "text": "2. Restrictions & Obligations"
+  },
+  {
+   "id": "p34",
+   "text": "2.1 Restrictions on Customer."
+  },
+  {
+   "id": "p35",
+   "text": "(a) Except as expressly permitted by this Agreement, Customer will not (and will not allow anyone else to): (i) reverse engineer, decompile, or attempt to discover any source code or underlying ideas or algorithms of the Product (except to the extent Applicable Laws prohibit this restriction); (ii) provide, sell, transfer, sublicense, lend, distribute, rent, or otherwise allow others to access or use the Product; (iii) remove any proprietary notices or labels; (iv) copy, modify, or create derivative works of the Product; (v) conduct security or vulnerability tests on, interfere with the operation of, cause performance degradation of, or circumvent access restrictions of the Product; (vi) access accounts, information, data, or portions of the Product to which Customer does not have explicit authorization; (vii) use the Product to develop a competing service or product; (viii) use the Product with any High Risk Activities or with any activity prohibited by Applicable Laws; (ix) use the Product to obtain unauthorized access to anyone else’s networks or equipment; or (x) upload, submit, or otherwise make available to the Product any Customer Content to which Customer and Users do not have the proper rights."
+  },
+  {
+   "id": "p36",
+   "text": "(b) Use of the Product must comply with all Documentation and Use Limitations."
+  },
+  {
+   "id": "p37",
+   "text": "2.2 Suspension.  If Customer (a) has an outstanding, undisputed balance on its account for more than 30 days; (b) breaches Section 2.1 (Restrictions on Customer); or (c) uses the Product in violation of the Agreement or in a way that materially and negatively impacts the Product or others, then Provider may temporarily suspend Customer’s access to the Product with or without notice. However, Provider will try to inform Customer before suspending Customer’s account when practical. Provider will reinstate Customer’s access to the Product only if Customer resolves the underlying issue."
+  },
+  {
+   "id": "p38",
+   "text": "3. Privacy & Security"
+  },
+  {
+   "id": "p39",
+   "text": "3.1 Personal Data.  Before submitting Personal Data governed by GDPR, Customer must enter into a data processing agreement with Provider. If the parties have a DPA, each party will comply with its obligations in the DPA, the terms of the DPA will control each party’s rights and obligations as to Personal Data, and the terms of the DPA will control in the event of any conflict with this Agreement."
+  },
+  {
+   "id": "p40",
+   "text": "3.2 Prohibited Data.  Customer will not (and will not allow anyone else to) submit Prohibited Data to the Product unless authorized by the Order Form or Key Terms."
+  },
+  {
+   "id": "p41",
+   "text": "4. Payment & Taxes"
+  },
+  {
+   "id": "p42",
+   "text": "4.1 Fees.  Unless the Order Form specifies a different currency, all Fees are in U.S. Dollars and are exclusive of taxes. Except for the prorated refund of prepaid Fees allowed with specific termination rights given in the Agreement, Fees are non-refundable."
+  },
+  {
+   "id": "p43",
+   "text": "4.2 Invoicing.  For a Payment Process with invoicing, Provider will send invoices for usage-based Fees in arrears and for all other Fees in advance, in each case according to the Payment Process."
+  },
+  {
+   "id": "p44",
+   "text": "4.3 Automatic Payment.  For a Payment Process with automatic payment, Provider will automatically charge the credit card, debit card, or other payment method on file for Fees according to the Payment Process and Customer authorizes all such charges. In this case, Provider will make a copy of Customer's bills or transaction history available to Customer."
+  },
+  {
+   "id": "p45",
+   "text": "4.4 Taxes.  Customer is responsible for all duties, taxes, and levies that apply to Fees, including sales, use, VAT, GST, or withholding, that Provider itemizes and includes in an invoice. However, Customer is not responsible for Provider’s income taxes."
+  },
+  {
+   "id": "p46",
+   "text": "4.5 Payment.  Customer will pay Provider Fees and taxes in U.S. Dollars, unless the Order Form specifies a different currency, according to the Payment Process."
+  },
+  {
+   "id": "p47",
+   "text": "4.6 Payment Dispute.  If Customer has a good-faith disagreement about the Fees charged or invoiced, Customer must notify Provider about the dispute before payment is due, or within 30 days of an automatic payment, and must pay all undisputed amounts on time. The parties will work together to resolve the dispute within 15 days. If no resolution is agreed, each party may pursue any remedies available under the Agreement or Applicable Laws."
+  },
+  {
+   "id": "p48",
+   "text": "5. Term & Termination"
+  },
+  {
+   "id": "p49",
+   "text": "5.1 Order Form and Agreement.  For each Order Form, the Agreement will start on the Order Date, continue through the Subscription Period, and automatically renew for additional Subscription Periods unless one party gives notice of non-renewal to the other party before the Non-Renewal Notice Date."
+  },
+  {
+   "id": "p50",
+   "text": "5.2 Framework Terms.  These Framework Terms will start on the Effective Date and continue for the longer of one year or until all Order Forms governed by the Framework Terms have ended."
+  },
+  {
+   "id": "p51",
+   "text": "5.3 Termination.  Either party may terminate the Framework Terms or an Order Form immediately:"
+  },
+  {
+   "id": "p52",
+   "text": "(a) if the other party fails to cure a material breach of the Framework Terms or an Order Form following 30 days notice;"
+  },
+  {
+   "id": "p53",
+   "text": "(b) upon notice if the other party (i) materially breaches the Framework Terms or an Order Form in a manner that cannot be cured; (ii) dissolves or stops conducting business without a successor; (iii) makes an assignment for the benefit of creditors; or (iv) becomes the debtor in insolvency, receivership, or bankruptcy proceedings that continue for more than 60 days."
+  },
+  {
+   "id": "p54",
+   "text": "5.4 Force Majeure.  Either party may terminate an affected Order Form upon notice if a Force Majeure Event prevents the Product from materially operating for 30 or more consecutive days. Provider will pay to Customer a prorated refund of any prepaid Fees for the remainder of the Subscription Period. A Force Majeure Event does not excuse Customer's obligation to pay Fees accrued prior to termination."
+  },
+  {
+   "id": "p55",
+   "text": "5.5 Effect of Termination.  Termination of the Framework Terms will automatically terminate all Order Forms governed by the Framework Terms. Upon any expiration or termination:"
+  },
+  {
+   "id": "p56",
+   "text": "(a) Customer will no longer have any right to use the Product."
+  },
+  {
+   "id": "p57",
+   "text": "(b) Upon Customer’s request, Provider will delete Customer Content within 60 days."
+  },
+  {
+   "id": "p58",
+   "text": "(c) Each Recipient will return or destroy Discloser’s Confidential Information in its possession or control."
+  },
+  {
+   "id": "p59",
+   "text": "(d) Provider will submit a final bill or invoice for all outstanding Fees accrued before termination and Customer will pay the invoice according to Section 4 (Payment & Taxes)."
+  },
+  {
+   "id": "p60",
+   "text": "5.6 Survival."
+  },
+  {
+   "id": "p61",
+   "text": "(a) The following sections will survive expiration or termination of the Agreement: Section 1.4 (Feedback and Usage Data), Section 1.6 (Machine Learning), Section 2.1 (Restrictions on Customer), Section 4 (Payment & Taxes) for Fees accrued or payable before expiration or termination, Section 5.5 (Effect of Termination), Section 5.6 (Survival), Section 6 (Representations & Warranties), Section 7 (Disclaimer of Warranties), Section 8 (Limitation of Liability), Section 9 (Indemnification), Section 10 (Confidentiality), Section 11 (Reservation of Rights), Section 12 (General Terms), Section 13 (Definitions), and the portions of a Cover Page referenced by these sections."
+  },
+  {
+   "id": "p62",
+   "text": "(b) Each Recipient may retain Discloser’s Confidential Information in accordance with its standard backup or record retention policies maintained in the ordinary course of business or as required by Applicable Laws, in which case Section 3 (Privacy & Security) and Section 10 (Confidentiality) will continue to apply to retained Confidential Information."
+  },
+  {
+   "id": "p63",
+   "text": "6. Representations & Warranties"
+  },
+  {
+   "id": "p64",
+   "text": "6.1 Mutual.  Each party represents and warrants to the other that: (a) it has the legal power and authority to enter into this Agreement; (b) it is duly organized, validly existing, and in good standing under the Applicable Laws of the jurisdiction of its origin; (c) it will comply with all Applicable Laws in performing its obligations or exercising its rights in this Agreement; and (d) it will comply with the Additional Warranties."
+  },
+  {
+   "id": "p65",
+   "text": "6.2 From Customer.  Customer represents and warrants that it, all Users, and anyone submitting Customer Content each have and will continue to have all rights necessary to submit or make available Customer Content to the Product and to allow the use of Customer Content as described in the Agreement."
+  },
+  {
+   "id": "p66",
+   "text": "6.3 From Provider.  Provider represents and warrants to Customer that it will not materially reduce the general functionality of the Cloud Service during the Subscription Period."
+  },
+  {
+   "id": "p67",
+   "text": "6.4 Provider Warranty Remedy.  If Provider breaches the warranty in Section 6.3 (Representations & Warranties from Provider), Customer must give Provider notice (with enough detail for Provider to understand or replicate the issue) within 45 days of discovering the issue. Within 45 days of receiving sufficient details of the warranty issue, Provider will attempt to restore the general functionality of the Cloud Service. If Provider cannot resolve the issue, Customer may terminate the affected Order Form and Provider will pay to Customer a prorated refund of prepaid Fees for the remainder of the Subscription Period. Provider’s restoration obligation, and Customer’s termination right, are Customer’s only remedies if Provider does not meet the warranty in Section 6.3 (Representations & Warranties from Provider)."
+  },
+  {
+   "id": "p68",
+   "text": "7. Disclaimer of Warranties"
+  },
+  {
+   "id": "p69",
+   "text": "Provider makes no guarantees that the Product will always be safe, secure, or error-free, or that it will function without disruptions, delays, or imperfections. The warranties in Section 6 (Representations & Warranties) do not apply to any misuse or unauthorized modification of the Product, nor to any product or service provided by anyone other than Provider. Except for the warranties in Section 6 (Representations & Warranties), Provider and Customer each disclaim all other warranties and conditions, whether express or implied, including the implied warranties and conditions of merchantability, fitness for a particular purpose, title, and non-infringement. These disclaimers apply to the maximum extent permitted by Applicable Laws."
+  },
+  {
+   "id": "p70",
+   "text": "8. Limitation of Liability"
+  },
+  {
+   "id": "p71",
+   "text": "8.1 Liability Caps."
+  },
+  {
+   "id": "p72",
+   "text": "(a) Except as provided in Section 8.4 (Exceptions), each party’s total cumulative liability for all claims arising out of or relating to this Agreement will not be more than the General Cap Amount."
+  },
+  {
+   "id": "p73",
+   "text": "(b) If there are Increased Claims, each party’s total cumulative liability for all Increased Claims arising out of or relating to this Agreement will not be more than the Increased Cap Amount."
+  },
+  {
+   "id": "p74",
+   "text": "8.2 Damages Waiver.  Except as provided in Section 8.4 (Exceptions), under no circumstances will either party be liable to the other for lost profits or revenues (whether direct or indirect), or for consequential, special, indirect, exemplary, punitive, or incidental damages relating to this Agreement, even if the party is informed of the possibility of this type of damage in advance."
+  },
+  {
+   "id": "p75",
+   "text": "8.3 Applicability.  The limitations and waivers contained in Sections 8.1 (Liability Caps) and 8.2 (Damages Waiver) apply to all liability, whether in tort (including negligence), contract, breach of statutory duty, or otherwise."
+  },
+  {
+   "id": "p76",
+   "text": "8.4 Exceptions.  The liability cap in Section 8.1(a) does not apply to any Increased Claims. Section 8.1 (Liability Caps) does not apply to any Unlimited Claims. Section 8.2 (Damages Waiver) does not apply to any Increased Claims or a breach of Section 10 (Confidentiality). Nothing in this Agreement will limit, exclude, or restrict a party's liability to the extent prohibited by Applicable Laws."
+  },
+  {
+   "id": "p77",
+   "text": "9. Indemnification"
+  },
+  {
+   "id": "p78",
+   "text": "9.1 Protection by Provider.  Provider will indemnify, defend, and hold harmless Customer from and against all Provider Covered Claims made by someone other than Customer, Customer’s Affiliates, or Users, and all out-of-pocket damages, awards, settlements, costs, and expenses, including reasonable attorneys’ fees and other legal expenses, that arise from the Provider Covered Claims."
+  },
+  {
+   "id": "p79",
+   "text": "9.2 Protection by Customer.  Customer will indemnify, defend, and hold harmless Provider from and against all Customer Covered Claims made by someone other than Provider or its Affiliates, and all out-of-pocket damages, awards, settlements, costs, and expenses, including reasonable attorneys’ fees and other legal expenses, that arise from the Customer Covered Claims."
+  },
+  {
+   "id": "p80",
+   "text": "9.3 Procedure.  The Indemnifying Party’s obligations in this section are contingent upon the Protected Party: (a) promptly notifying the Indemnifying Party of each Covered Claim for which it seeks protection; (b) providing reasonable assistance to the Indemnifying Party at the Indemnifying Party’s expense; and (c) giving the Indemnifying Party sole control over the defense and settlement of each Covered Claim. A Protected Party may participate in a Covered Claim for which it seeks protection with its own attorneys only at its own expense. The Indemnifying Party may not agree to any settlement of a Covered Claim that contains an admission of fault or otherwise materially and adversely impacts the Protected Party without the prior written consent of the Protected Party."
+  },
+  {
+   "id": "p81",
+   "text": "9.4 Changes to Product.  If required by settlement or court order, or if deemed reasonably necessary in response to a Provider Covered Claim, Provider may: (a) obtain the right for Customer to continue using the Product; (b) replace or modify the affected component of the Product without materially reducing the general functionality of the Product; or (c) if neither (a) nor (b) are reasonable, terminate the affected Order Form and issue a pro-rated refund of prepaid Fees for the remainder of the Subscription Period."
+  },
+  {
+   "id": "p82",
+   "text": "9.5 Exclusions."
+  },
+  {
+   "id": "p83",
+   "text": "(a) Provider’s obligations as an Indemnifying Party will not apply to Provider Covered Claims that result from (i) modifications to the Product that were not authorized by Provider or that were made in compliance with Customer’s instructions; (ii) unauthorized use of the Product, including use in violation of this Agreement; (iii) use of the Product in combination with items not provided by Provider; or (iv) use of an old version of the Product where a newer release would avoid the Provider Covered Claim."
+  },
+  {
+   "id": "p84",
+   "text": "(b) Customer’s obligations as an Indemnifying Party will not apply to Customer Covered Claims that result from the unauthorized use of the Customer Content, including use in violation of this Agreement."
+  },
+  {
+   "id": "p85",
+   "text": "9.6 Exclusive Remedy.  This Section 9 (Indemnification), together with any termination rights, describes each Protected Party’s exclusive remedy and each Indemnifying Party’s entire liability for a Covered Claim."
+  },
+  {
+   "id": "p86",
+   "text": "10. Confidentiality"
+  },
+  {
+   "id": "p87",
+   "text": "10.1 Non-Use and Non-Disclosure.  Except as otherwise authorized in the Agreement or as needed to fulfill its obligations or exercise its rights under this Agreement, Recipient will not (a) use Discloser’s Confidential Information; nor (b) disclose Discloser’s Confidential Information to anyone else. In addition, Recipient will protect Discloser’s Confidential Information using at least the same protections Recipient uses for its own similar information but no less than a reasonable standard of care."
+  },
+  {
+   "id": "p88",
+   "text": "10.2 Exclusions.  Confidential Information does not include information that (a) Recipient knew without any obligation of confidentiality before disclosure by Discloser; (b) is or becomes publicly known and generally available through no fault of Recipient; (c) Recipient receives under no obligation of confidentiality from someone else who is authorized to make the disclosure; or (d) Recipient independently developed without use of or reference to Discloser’s Confidential Information."
+  },
+  {
+   "id": "p89",
+   "text": "10.3 Required Disclosures.  Recipient may disclose Discloser’s Confidential Information to the extent required by Applicable Laws if, unless prohibited by Applicable Laws, Recipient provides Discloser reasonable advance notice of the required disclosure and reasonably cooperates, at Discloser’s expense, with Discloser’s efforts to obtain confidential treatment for the Confidential Information."
+  },
+  {
+   "id": "p90",
+   "text": "10.4 Permitted Disclosures.  Recipient may disclose Discloser’s Confidential Information to Users, employees, advisors, contractors, and representatives who each have a need to know the Confidential Information, but only if the person or entity is bound by confidentiality obligations at least as protective as those in this Section 10 (Confidentiality) and Recipient remains responsible for everyone’s compliance with the terms of this Section 10 (Confidentiality)."
+  },
+  {
+   "id": "p91",
+   "text": "11. Reservation of Rights"
+  },
+  {
+   "id": "p92",
+   "text": "Except for the limited license to copy and use Software and Documentation in Section 1.1 (Access and Use), Provider retains all right, title, and interest in and to the Product, whether developed before or after the Effective Date. Except for the limited rights in Section 1.5 (Customer Content) and 1.6 (Machine Learning), Customer retains all right, title, and interest in and to the Customer Content."
+  },
+  {
+   "id": "p93",
+   "text": "12. General Terms"
+  },
+  {
+   "id": "p94",
+   "text": "12.1 Entire Agreement.  This Agreement is the only agreement between the parties about its subject and this Agreement supersedes all prior or contemporaneous statements (whether in writing or not) about its subject. Provider expressly rejects any terms included in Customer’s purchase order or similar document, which may only be used for accounting or administrative purposes. No terms or conditions in any Customer documentation or online vendor portal will apply to Customer's use of the Product unless expressly agreed to in a legally binding written agreement signed by an authorized Provider representative, regardless of what such terms may say."
+  },
+  {
+   "id": "p95",
+   "text": "12.2 Modifications, Severability, and Waiver.  Any waiver, modification, or change to the Agreement must be in writing and signed or electronically accepted by each party. If any term of this Agreement is determined to be invalid or unenforceable by a relevant court or governing body, the remaining terms of this Agreement will remain in full force and effect. The failure of a party to enforce a term or to exercise an option or right in this Agreement will not constitute a waiver by that party of the term, option, or right."
+  },
+  {
+   "id": "p96",
+   "text": "12.3 Governing Law and Chosen Courts.  The Governing Law will govern all interpretations and disputes about this Agreement, without regard to its conflict of laws provisions. The parties will bring any legal suit, action, or proceeding about this Agreement in the Chosen Courts and each party irrevocably submits to the exclusive jurisdiction of the Chosen Courts."
+  },
+  {
+   "id": "p97",
+   "text": "12.4 Injunctive Relief.  Despite Section 12.3 (Governing Law and Chosen Courts), a breach of Section 10 (Confidentiality) or the violation of a party’s intellectual property rights may cause irreparable harm for which monetary damages cannot adequately compensate. As a result, upon the actual or threatened breach of Section 10 (Confidentiality) or violation of a party’s intellectual property rights, the non-breaching or non-violating party may seek appropriate equitable relief, including an injunction, in any court of competent jurisdiction without the need to post a bond and without limiting its other rights or remedies."
+  },
+  {
+   "id": "p98",
+   "text": "12.5 Non-Exhaustive Remedies.  Except where the Agreement provides for an exclusive remedy, seeking or exercising a remedy does not limit the other rights or remedies available to a party."
+  },
+  {
+   "id": "p99",
+   "text": "12.6 Assignment.  Neither party may assign any rights or obligations under this Agreement without the prior written consent of the other party. However, either party may assign this Agreement upon notice if the assigning party undergoes a merger, change of control, reorganization, or sale of all or substantially all its equity, business, or assets to which this Agreement relates. Any attempted but non-permitted assignment is void. This Agreement will be binding upon and inure to the benefit of the parties and their permitted successors and assigns."
+  },
+  {
+   "id": "p99-ins-P24",
+   "text": "Audit.  Provider may audit Customer’s use of the Product, including by inspecting Customer’s systems, on five business days’ notice, and Customer will reimburse Provider’s reasonable audit costs."
+  },
+  {
+   "id": "p100",
+   "text": "12.7 Beta Products.  If Provider gives Customer access to a Beta Product, the Beta Product is provided “AS IS” and Section 6.3 (Representations & Warranty From Provider) does not apply to any Beta Products. Customer acknowledges that Beta Products are experimental in nature and may be modified or removed at Provider's discretion with or without notice."
+  },
+  {
+   "id": "p101",
+   "text": "12.8 Logo Rights.  Provider may identify Customer and use Customer's name and logo in marketing to identify Customer as a user of Provider's products and services."
+  },
+  {
+   "id": "p102",
+   "text": "12.9 Notices.  Any notice, request, or approval about the Agreement must be in writing and sent to the Notice Address. Notices will be deemed given (a) upon confirmed delivery if by email, registered or certified mail, or personal delivery; or (b) two days after mailing if by overnight commercial delivery."
+  },
+  {
+   "id": "p103",
+   "text": "12.10 Independent Contractors.  The parties are independent contractors, not agents, partners, or joint venturers. Neither party is authorized to bind the other to any liability or obligation."
+  },
+  {
+   "id": "p104",
+   "text": "12.11 No Third-Party Beneficiary.  There are no third-party beneficiaries of this Agreement."
+  },
+  {
+   "id": "p105",
+   "text": "12.12 Force Majeure.  Neither party will be liable for a delay or failure to perform its obligations of this Agreement if caused by a Force Majeure Event. However, this section does not excuse Customer’s obligations to pay Fees."
+  },
+  {
+   "id": "p106",
+   "text": "12.13 Export Controls. Customer may not remove or export from the United States or allow the export or re-export of the Product or any related technology or materials in violation of any restrictions, laws, or regulations of the United States Department of Commerce, OFAC, or any other United States or foreign agency or authority. Customer represents and warrants that it is not (a) a resident or national of an Embargoed Country; (b) an entity organized under the laws of an Embargoed Country; (c) designated on any list of prohibited, restricted, or sanctioned parties maintained by the U.S. government or agencies or other applicable governments or agencies, including OFAC’s Specially Designated Nationals and Blocked Persons List and the UN Security Council Consolidated List; nor (d) 50% or more owned by any party designated on any of the above lists. Provider may terminate this Agreement immediately without notice or liability to comply, as determined in Provider’s sole discretion, with applicable export controls and sanctions laws and regulations."
+  },
+  {
+   "id": "p107",
+   "text": "12.14 Government Rights.  The Cloud Service and Software are deemed “commercial items” or “commercial computer software” according to FAR section 12.212 and DFAR section 227.7202, and the Documentation is “commercial computer software documentation” according to DFAR section 252.227-7014(a)(1) and (5). Any use, modification, reproduction, release, performance, display, or disclosure of the Product by the U.S. Government will be governed solely by the terms of this Agreement and all other use is prohibited."
+  },
+  {
+   "id": "p108",
+   "text": "12.15 Anti-Bribery.  Neither party will take any action that would be a violation of any Applicable Laws that prohibit the offering, giving, promising to offer or give, or receiving, directly or indirectly, money or anything of value to any third party to assist Provider or Customer in retaining or obtaining business. Examples of these kinds of laws include the U.S. Foreign Corrupt Practices Act and the UK Bribery Act 2010."
+  },
+  {
+   "id": "p109",
+   "text": "12.16 Titles and Interpretation.  Section titles are for convenience and reference only. All uses of “including” and similar phrases are non-exhaustive and without limitation. The United Nations Convention for the International Sale of Goods and the Uniform Computer Information Transaction Act do not apply to this Agreement."
+  },
+  {
+   "id": "p110",
+   "text": "12.17 Signature.  This Agreement may be signed in counterparts, including by electronic copies or acceptance mechanism. Each copy will be deemed an original and all copies, when taken together, will be the same agreement."
+  },
+  {
+   "id": "p111",
+   "text": "13. Definitions"
+  },
+  {
+   "id": "p112",
+   "text": "13.1 Defining Variables. Variables have the meanings or descriptions given on a Cover Page. However, if the Order Form and the governing Framework Terms omit or do not define a Variable, the default meaning will be “none” or “not applicable” and the correlating clause, sentence, or section does not apply to that Agreement."
+  },
+  {
+   "id": "p113",
+   "text": "“Affiliate” means an entity that, directly or indirectly, controls, is under the control of, or is under common control with a party, where control means having more than fifty percent (50%) of the voting stock or other ownership interest."
+  },
+  {
+   "id": "p114",
+   "text": "“Agreement” means the Order Form between Provider and Customer as governed by the Framework Terms."
+  },
+  {
+   "id": "p115",
+   "text": "“Applicable Data Protection Laws” means the Applicable Laws that govern how the Cloud Service may process or use an individual’s personal information, personal data, personally identifiable information, or other similar term."
+  },
+  {
+   "id": "p116",
+   "text": "“Applicable Laws” means the laws, rules, regulations, court orders, and other binding requirements of a relevant government authority that apply to or govern Provider or Customer."
+  },
+  {
+   "id": "p117",
+   "text": "“Beta Product” means an early or prerelease feature or version of the Product that is identified as beta or similar, or a version of the Product that is not generally available."
+  },
+  {
+   "id": "p118",
+   "text": "“Cloud Service” means the product described in the Order Form."
+  },
+  {
+   "id": "p119",
+   "text": "“Confidential Information” means information in any form disclosed by or on behalf of a Discloser, including before the Effective Date, to a Recipient in connection with this Agreement that (a) the Discloser identifies as “confidential”, “proprietary”, or the like; or (b) should be reasonably understood as confidential or proprietary due to its nature and the circumstances of its disclosure. Confidential Information includes the existence of this Agreement and the information on each Cover Page. Customer’s Confidential Information includes non-public Customer Content and Provider’s Confidential Information includes non-public information about the Product."
+  },
+  {
+   "id": "p120",
+   "text": "“Cover Page” means a document that is signed or electronically accepted by the parties, incorporates these Standard Terms or is governed by the Framework Terms, and identifies Provider and Customer. A Cover Page may include an Order Form, Key Terms, or both."
+  },
+  {
+   "id": "p121",
+   "text": "“Covered Claim” means either a Provider Covered Claim or Customer Covered Claim."
+  },
+  {
+   "id": "p122",
+   "text": "“Customer Content” means data, information, or materials submitted by or on behalf of Customer or Users to the Product but excludes Feedback."
+  },
+  {
+   "id": "p123",
+   "text": "“Discloser” means a party to this Agreement when the party is providing or disclosing Confidential Information to the other party."
+  },
+  {
+   "id": "p124",
+   "text": "“Documentation” means the usage manuals and instructional materials for the Cloud Service or Software that are made available by Provider."
+  },
+  {
+   "id": "p125",
+   "text": "“Embargoed Country” means any country or region to or from where Applicable Laws generally restrict the export or import of goods, services, or money."
+  },
+  {
+   "id": "p126",
+   "text": "“Feedback” means suggestions, feedback, or comments about the Product or related offerings."
+  },
+  {
+   "id": "p127",
+   "text": "\"Fees\" means the applicable amounts described in an Order Form."
+  },
+  {
+   "id": "p128",
+   "text": "“Force Majeure Event” means an unforeseen event outside a party’s reasonable control where the affected party took reasonable measures to avoid or mitigate the impacts of the event. Examples of these kinds of events include unpredicted natural disasters like a major earthquake, war, pandemic, riot, act of terrorism, or public utility or internet failure."
+  },
+  {
+   "id": "p129",
+   "text": "“Framework Terms” means these Standard Terms, the Key Terms between Provider and Customer, and any policies and documents referenced in or attached to the Key Terms."
+  },
+  {
+   "id": "p130",
+   "text": "“GDPR” means European Union Regulation 2016/679 as implemented by local law in the relevant European Union member nation, and by section 3 of the United Kingdom’s European Union (Withdrawal) Act of 2018 in the United Kingdom."
+  },
+  {
+   "id": "p131",
+   "text": "“High Risk Activity” means any situation where the use or failure of the Product could be reasonably expected to lead to death, bodily injury, or environmental damage. Examples include full or partial autonomous vehicle technology, medical life-support technology, emergency response services, nuclear facilities operation, and air traffic control."
+  },
+  {
+   "id": "p132",
+   "text": "“Indemnifying Party” means a party to this Agreement when the party is providing protection for a particular Covered Claim."
+  },
+  {
+   "id": "p133",
+   "text": "\"Key Terms” means a Cover Page that includes the key legal details and Variables for this Agreement. The Key Terms may include details about Covered Claims, set the Governing Law, or contain other details about this Agreement."
+  },
+  {
+   "id": "p134",
+   "text": "\"OFAC\" means the United States Department of Treasury's Office of Foreign Assets Control."
+  },
+  {
+   "id": "p135",
+   "text": "“Order Form” means a Cover Page that includes the key business details and Variables for this Agreement that are not defined in the Framework Terms. An Order Form includes the policies and documents referenced in or attached to the Order Form. An Order Form may include details about the level of access and use granted to the Cloud Service, length of Subscription Period, or other details about the Product."
+  },
+  {
+   "id": "p136",
+   "text": "“Personal Data” will have the meaning(s) set forth in the Applicable Data Protection Laws for personal information, personal data, personally identifiable information, or other similar term."
+  },
+  {
+   "id": "p137",
+   "text": "\"Product” means the Cloud Service, Software, and Documentation."
+  },
+  {
+   "id": "p138",
+   "text": "“Prohibited Data” means (a) patient, medical, or other protected health information regulated by the Health Insurance Portability and Accountability Act; (b) credit, debit, bank account, or other financial account numbers; (c) social security numbers, driver’s license numbers, or other unique and private government ID numbers; (d) special categories of data as defined in the GDPR; and (e) other similar categories of sensitive information as set forth in the Applicable Data Protection Laws."
+  },
+  {
+   "id": "p139",
+   "text": "“Protected Party” means a party to this Agreement when the party is receiving the benefit of protection for a particular Covered Claim."
+  },
+  {
+   "id": "p140",
+   "text": "“Recipient” means a party to this Agreement when the party receives Confidential Information from the other party."
+  },
+  {
+   "id": "p141",
+   "text": "“Software” means the client-side software or applications made available by Provider for Customer to install, download (whether onto a machine or in a browser), or execute as part of the Product."
+  },
+  {
+   "id": "p142",
+   "text": "\"Standard Terms\" means these Common Paper Cloud Service Agreement Standard Terms Version 2.1, which are posted at https://commonpaper.com/standards/cloud-service-agreement/2.1/."
+  },
+  {
+   "id": "p143",
+   "text": "“Usage Data” means data and information about the provision, use, and performance of the Product and related offerings based on Customer’s or User’s use of the Product."
+  },
+  {
+   "id": "p144",
+   "text": "“User” means any individual who uses the Product on Customer’s behalf or through Customer’s account."
+  },
+  {
+   "id": "p145",
+   "text": "\"Variable\" means a word or phrase that is highlighted and capitalized, such as Subscription Period or Governing Law."
+  },
+  {
+   "id": "a1",
+   "text": "Data Processing Agreement"
+  },
+  {
+   "id": "a2",
+   "text": "Agreement: This DPA supplements the Cloud Service Agreement between Halden Cloud, Inc. (\"Provider\") and Northwind Analytics Ltd (\"Customer\"), and forms part of it."
+  },
+  {
+   "id": "a3",
+   "text": "Approved Subprocessors: Nimbus Hosting Ltd (Ireland; hosting and storage of the Cloud Service); Relay Mail Ltd (United Kingdom; transactional email)."
+  },
+  {
+   "id": "a4",
+   "text": "Provider Security Contact: security@halden.example."
+  },
+  {
+   "id": "a5",
+   "text": "Security Policy: As defined in the Agreement. Provider will maintain annually updated reports or annual certifications of compliance with SOC 2 Type II."
+  },
+  {
+   "id": "a6",
+   "text": "Governing Member State: UK Transfers: the laws of England and Wales. EEA Transfers: Ireland."
+  },
+  {
+   "id": "a7",
+   "text": "Categories of Data Subjects: Customer’s employees, and Customer’s end users and customers."
+  },
+  {
+   "id": "a8",
+   "text": "Categories of Personal Data: Name; contact information such as email, phone number, or address; user activity and analysis such as device information or IP address."
+  },
+  {
+   "id": "a9",
+   "text": "Special Category Data: No special category data is Processed."
+  },
+  {
+   "id": "a10",
+   "text": "Frequency of Transfer: Continuous."
+  },
+  {
+   "id": "a11",
+   "text": "Nature and Purpose of Processing: Receiving, holding, using, protecting and erasing Customer Personal Data, to provide and maintain the Service."
+  },
+  {
+   "id": "a12",
+   "text": "Duration of Processing: For the duration of the Agreement, and until the Customer Personal Data is returned or deleted under Section 7 of the DPA Standard Terms."
+  },
+  {
+   "id": "a13",
+   "text": "DPA Standard Terms"
+  },
+  {
+   "id": "a14",
+   "text": "1. Processor and Subprocessor Relationships"
+  },
+  {
+   "id": "a15",
+   "text": "1.1 Provider as Processor.  In situations where Customer is a Controller of the Customer Personal Data, Provider will be deemed a Processor that is Processing Personal Data on behalf of Customer."
+  },
+  {
+   "id": "a16",
+   "text": "1.2 Provider as Subprocessor.  In situations where Customer is a Processor of the Customer Personal Data, Provider will be deemed a Subprocessor of the Customer Personal Data."
+  },
+  {
+   "id": "a17",
+   "text": "2. Processing"
+  },
+  {
+   "id": "a18",
+   "text": "2.1 Processing Details. Annex I(B) on the Cover Page describes the subject matter, nature, purpose, and duration of this Processing, as well as the Categories of Personal Data collected and Categories of Data Subjects."
+  },
+  {
+   "id": "a19",
+   "text": "2.2 Processing Instructions. Customer instructs Provider to Process Customer Personal Data: (a) to provide and maintain the Service; (b) as may be further specified through Customer’s use of the Service; (c) as documented in the Agreement; and (d) as documented in any other written instructions given by Customer and acknowledged by Provider about Processing Customer Personal Data under this DPA. Provider will abide by these instructions unless prohibited from doing so by Applicable Laws. Provider will immediately inform Customer if it is unable to follow the Processing instructions. Customer has given and will only give instructions that comply with Applicable Laws."
+  },
+  {
+   "id": "a20",
+   "text": "2.3 Processing by Provider.  Provider will only Process Customer Personal Data in accordance with this DPA, including the details in the Cover Page."
+  },
+  {
+   "id": "a21",
+   "text": "2.4 Customer Processing.  Where Customer is a Processor and Provider is a Subprocessor, Customer will comply with all Applicable Laws that apply to Customer’s Processing of Customer Personal Data. Customer’s agreement with its Controller will similarly require Customer to comply with all Applicable Laws that apply to Customer as a Processor. In addition, Customer will comply with the Subprocessor requirements in Customer’s agreement with its Controller."
+  },
+  {
+   "id": "a22",
+   "text": "2.5 Consent to Processing.  Customer has complied with and will continue to comply with all Applicable Data Protection Laws concerning its provision of Customer Personal Data to Provider and/or the Service, including making all disclosures, obtaining all consents, providing adequate choice, and implementing relevant safeguards required under Applicable Data Protection Laws."
+  },
+  {
+   "id": "a23",
+   "text": "2.6 Subprocessors."
+  },
+  {
+   "id": "a24",
+   "text": "(a) Provider will not provide, transfer, or hand over any Customer Personal Data to a Subprocessor unless Customer has approved the Subprocessor. The current list of Approved Subprocessors includes the identities of the Subprocessors, their country of location, and their anticipated Processing tasks. Provider will inform Customer at least 10 business days in advance and in writing of any intended changes to the Approved Subprocessors whether by addition or replacement of a Subprocessor, which allows Customer to have enough time to object to the changes before the Provider begins using the new Subprocessor(s). Provider will give Customer the information necessary to allow Customer to exercise its right to object to the change to Approved Subprocessors. Customer has 30 days after notice of a change to the Approved Subprocessors to object, otherwise Customer will be deemed to accept the changes. If Customer objects to the change within 30 days of notice, Customer and Provider will cooperate in good faith to resolve Customer’s objection or concern."
+  },
+  {
+   "id": "a25",
+   "text": "(b) When engaging a Subprocessor, Provider will have a written agreement with the Subprocessor that ensures the Subprocessor only accesses and uses Customer Personal Data (i) to the extent required to perform the obligations subcontracted to it, and (ii) consistent with the terms of Agreement."
+  },
+  {
+   "id": "a26",
+   "text": "(c) If the GDPR applies to the Processing of Customer Personal Data, (i) the data protection obligations described in this DPA (as referred to in Article 28(3) of the GDPR, if applicable) are also imposed on the Subprocessor, and (ii) Provider’s agreement with the Subprocessor will incorporate these obligations, including details about how Provider and its Subprocessor will coordinate to respond to inquiries or requests about the Processing of Customer Personal Data. In addition, Provider will share, at Customer’s request, a copy of its agreements (including any amendments) with its Subprocessors. To the extent necessary to protect business secrets or other confidential information, including personal data, Provider may redact the text of its agreement with its Subprocessor prior to sharing a copy."
+  },
+  {
+   "id": "a27",
+   "text": "(d) Provider remains fully liable for all obligations subcontracted to its Subprocessors, including the acts and omissions of its Subprocessors in Processing Customer Personal Data. Provider will notify Customer of any failure by its Subprocessors to fulfill a material obligation about Customer Personal Data under the agreement between Provider and the Subprocessor."
+  },
+  {
+   "id": "a28",
+   "text": "3. Restricted Transfers"
+  },
+  {
+   "id": "a29",
+   "text": "3.1 Authorization.  Customer agrees that Provider may transfer Customer Personal Data outside the EEA, the United Kingdom, or other relevant geographic territory as necessary to provide the Service. If Provider transfers Customer Personal Data to a territory for which the European Commission or other relevant supervisory authority has not issued an adequacy decision, Provider will implement appropriate safeguards for the transfer of Customer Personal Data to that territory consistent with Applicable Data Protection Laws."
+  },
+  {
+   "id": "a30",
+   "text": "3.2 Ex-EEA Transfers.  Customer and Provider agree that if the GDPR protects the transfer of Customer Personal Data, the transfer is from Customer from within the EEA to Provider outside of the EEA, and the transfer is not governed by an adequacy decision made by the European Commission, then by entering into this DPA, Customer and Provider are deemed to have signed the EEA SCCs and their Annexes, which are incorporated by reference. Any such transfer is made pursuant to the EEA SCCs, which are completed as follows:"
+  },
+  {
+   "id": "a31",
+   "text": "(a) Module Two (Controller to Processor) of the EEA SCCs apply when Customer is a Controller and Provider is Processing Customer Personal Data for Customer as a Processor."
+  },
+  {
+   "id": "a32",
+   "text": "(b) Module Three (Processor to Sub-Processor) of the EEA SCCs apply when Customer is a Processor and Provider is Processing Customer Personal Data on behalf of Customer as a Subprocessor."
+  },
+  {
+   "id": "a33",
+   "text": "(c) For each module, the following applies (when applicable):"
+  },
+  {
+   "id": "a34",
+   "text": "(i) The optional docking clause in Clause 7 does not apply;"
+  },
+  {
+   "id": "a35",
+   "text": "(ii) In Clause 9, Option 2 (general written authorization) applies, and the minimum time period for prior notice of Subprocessor changes is 10 business days;"
+  },
+  {
+   "id": "a36",
+   "text": "(iii) In Clause 11, the optional language does not apply;"
+  },
+  {
+   "id": "a37",
+   "text": "(iv) All square brackets in Clause 13 are removed;"
+  },
+  {
+   "id": "a38",
+   "text": "(v) In Clause 17 (Option 1), the EEA SCCs will be governed by the laws of Governing Member State;"
+  },
+  {
+   "id": "a39",
+   "text": "(vi) In Clause 18(b), disputes will be resolved in the courts of the Governing Member State; and"
+  },
+  {
+   "id": "a40",
+   "text": "(vii) The Cover Page to this DPA contains the information required in Annex I, Annex II, and Annex III of the EEA SCCs."
+  },
+  {
+   "id": "a41",
+   "text": "3.3 Ex-UK Transfers. Customer and Provider agree that if the UK GDPR protects the transfer of Customer Personal Data, the transfer is from Customer from within the United Kingdom to Provider outside of the United Kingdom, and the transfer is not governed by an adequacy decision made by the United Kingdom Secretary of State, then by entering into this DPA, Customer and Provider are deemed to have signed the UK Addendum and their Annexes, which are incorporated by reference. Any such transfer is made pursuant to the UK Addendum, which is completed as follows:"
+  },
+  {
+   "id": "a42",
+   "text": "(a) Section 3.2 of this DPA contains the information required in Table 2 of the UK Addendum."
+  },
+  {
+   "id": "a43",
+   "text": "(b) Table 4 of the UK Addendum is modified as follows: Neither party may end the UK Addendum as set out in Section 19 of the UK Addendum; to the extent ICO issues a revised Approved Addendum under Section ‎18 of the UK Addendum, the parties will work in good faith to revise this DPA accordingly."
+  },
+  {
+   "id": "a44",
+   "text": "(c) The Cover Page contains the information required by Annex 1A, Annex 1B, Annex II, and Annex III of the UK Addendum."
+  },
+  {
+   "id": "a45",
+   "text": "3.4 Other International Transfers.  For Personal Data transfers where Swiss law (and not the law in any EEA member state or the United Kingdom) applies to the international nature of the transfer, references to the GDPR in Clause 4 of the EEA SCCs are, to the extent legally required, amended to refer to the Swiss Federal Data Protection Act or its successor instead, and the concept of supervisory authority will include the Swiss Federal Data Protection and Information Commissioner."
+  },
+  {
+   "id": "a46",
+   "text": "4. Security Incident Response"
+  },
+  {
+   "id": "a47",
+   "text": "Upon becoming aware of any Security Incident, Provider will: (a) notify Customer without undue delay when feasible, but no later than 72 hours after becoming aware of the Security Incident; (b) provide timely information about the Security Incident as it becomes known or as is reasonably requested by Customer; and (c) promptly take reasonable steps to contain and investigate the Security Incident. Provider’s notification of or response to a Security Incident as required by this DPA will not be construed as an acknowledgment by Provider of any fault or liability for the Security Incident."
+  },
+  {
+   "id": "a48",
+   "text": "5. Audit & Reports"
+  },
+  {
+   "id": "a49",
+   "text": "5.1 Audit Rights.  Provider will give Customer all information reasonably necessary to demonstrate its compliance with this DPA and Provider will allow for and contribute to audits, including inspections by Customer, to assess Provider’s compliance with this DPA. However, Provider may restrict access to data or information if Customer’s access to the information would negatively impact Provider’s intellectual property rights, confidentiality obligations, or other obligations under Applicable Laws. Customer acknowledges and agrees that it will only exercise its audit rights under this DPA and any audit rights granted by Applicable Data Protection Laws by instructing Provider to comply with the reporting and due diligence requirements below. Provider will maintain records of its compliance with this DPA for 3 years after the DPA ends."
+  },
+  {
+   "id": "a50",
+   "text": "5.2 Security Reports.  Customer acknowledges that Provider is regularly audited against the standards defined in the Security Policy by independent third-party auditors. Upon written request, Provider will give Customer, on a confidential basis, a summary copy of its then-current Report so that Customer can verify Provider’s compliance with the standards defined in the Security Policy."
+  },
+  {
+   "id": "a51",
+   "text": "5.3 Security Due Diligence.  In addition to the Report, Provider will respond to reasonable requests for information made by Customer to confirm Provider’s compliance with this DPA, including responses to information security, due diligence, and audit questionnaires, or by giving additional information about its information security program. All such requests must be in writing and made to the Provider Security Contact and may only be made once a year."
+  },
+  {
+   "id": "a52",
+   "text": "6. Coordination & Cooperation"
+  },
+  {
+   "id": "a53",
+   "text": "6.1 Response to Inquiries.  If Provider receives any inquiry or request from anyone else about the Processing of Customer Personal Data, Provider will notify Customer about the request and Provider will not respond to the request without Customer’s prior consent. Examples of these kinds of inquiries and requests include a judicial or administrative or regulatory agency order about Customer Personal Data where notifying Customer is not prohibited by Applicable Law, or a request from a data subject. If allowed by Applicable Law, Provider will follow Customer’s reasonable instructions about these requests, including providing status updates and other information reasonably requested by Customer. If a data subject makes a valid request under Applicable Data Protection Laws to delete or opt out of Customer’s giving of Customer Personal Data to Provider, Provider will assist Customer in fulfilling the request according to the Applicable Data Protection Law. Provider will cooperate with and provide reasonable assistance to Customer, at Customer’s expense, in any legal response or other procedural action taken by Customer in response to a third-party request about Provider’s Processing of Customer Personal Data under this DPA."
+  },
+  {
+   "id": "a54",
+   "text": "6.2 DPIAs and DTIAs.  If required by Applicable Data Protection Laws, Provider will reasonably assist Customer in conducting any mandated data protection impact assessments or data transfer impact assessments and consultations with relevant data protection authorities, taking into consideration the nature of the Processing and Customer Personal Data."
+  },
+  {
+   "id": "a55",
+   "text": "7. Deletion of Customer Personal Data"
+  },
+  {
+   "id": "a56",
+   "text": "7.1 Deletion by Customer. Provider will enable Customer to delete Customer Personal Data in a manner consistent with the functionality of the Services. Provider will comply with this instruction as soon as reasonably practicable except where further storage of Customer Personal Data is required by Applicable Law."
+  },
+  {
+   "id": "a57",
+   "text": "7.2 Deletion at DPA Expiration."
+  },
+  {
+   "id": "a58",
+   "text": "(a) After the DPA expires, Provider will return or delete Customer Personal Data at Customer’s instruction unless further storage of Customer Personal Data is required or authorized by Applicable Law. If return or destruction is impracticable or prohibited by Applicable Laws, Provider will make reasonable efforts to prevent additional Processing of Customer Personal Data and will continue to protect the Customer Personal Data remaining in its possession, custody, or control. For example, Applicable Laws may require Provider to continue hosting or Processing Customer Personal Data."
+  },
+  {
+   "id": "a59",
+   "text": "(b) If Customer and Provider have entered the EEA SCCs or the UK Addendum as part of this DPA, Provider will only give Customer the certification of deletion of Personal Data described in Clause 8.1(d) and Clause 8.5 of the EEA SCCs if Customer asks for one."
+  },
+  {
+   "id": "a60",
+   "text": "8. Limitation of Liability"
+  },
+  {
+   "id": "a61",
+   "text": "8.1 Liability Caps and Damages Waiver.  To the maximum extent permitted under Applicable Data Protection Laws, each party’s total cumulative liability to the other party arising out of or related to this DPA will be subject to the waivers, exclusions, and limitations of liability stated in the Agreement."
+  },
+  {
+   "id": "a62",
+   "text": "8.2 Related-Party Claims.  Any claims made against Provider or its Affiliates arising out of or related to this DPA may only be brought by the Customer entity that is a party to the Agreement."
+  },
+  {
+   "id": "a63",
+   "text": "8.3 Exceptions.  This DPA does not limit any liability to an individual about the individual’s data protection rights under Applicable Data Protection Laws. In addition, this DPA does not limit any liability between the parties for violations of the EEA SCCs or UK Addendum."
+  },
+  {
+   "id": "a64",
+   "text": "9. Conflicts Between Documents"
+  },
+  {
+   "id": "a65",
+   "text": "This DPA forms part of and supplements the Agreement. If there is any inconsistency between this DPA, the Agreement, or any of their parts, the part listed earlier will control over the part listed later for that inconsistency: (1) the EEA SCCs or the UK Addendum, (2) this DPA, and then (3) the Agreement."
+  },
+  {
+   "id": "a66",
+   "text": "10. Term of Agreement"
+  },
+  {
+   "id": "a67",
+   "text": "This DPA will start when Provider and Customer agree to a Cover Page for the DPA and sign or electronically accept the Agreement and will continue until the Agreement expires or is terminated. However, Provider and Customer will each remain subject to the obligations in this DPA and Applicable Data Protection Laws until Customer stops transferring Customer Personal Data to Provider and Provider stops Processing Customer Personal Data."
+  },
+  {
+   "id": "a68",
+   "text": "11. Definitions."
+  },
+  {
+   "id": "a69",
+   "text": "11.1 “Applicable Laws” means the laws, rules, regulations, court orders, and other binding requirements of a relevant government authority that apply to or govern a party."
+  },
+  {
+   "id": "a70",
+   "text": "11.2 “Applicable Data Protection Laws” means the Applicable Laws that govern how the Service may process or use an individual’s personal information, personal data, personally identifiable information, or other similar term."
+  },
+  {
+   "id": "a71",
+   "text": "11.3 “Controller” will have the meaning(s) given in the Applicable Data Protection Laws for the company that determines the purpose and extent of Processing Personal Data."
+  },
+  {
+   "id": "a72",
+   "text": "11.4 “Cover Page” means a document that is signed or electronically accepted by the parties that incorporates these DPA Standard Terms and identifies Provider, Customer, and the subject matter and details of the data processing."
+  },
+  {
+   "id": "a73",
+   "text": "11.5 “Customer Personal Data” means Personal Data that Customer uploads or provides to Provider as part of the Service and that is governed by this DPA."
+  },
+  {
+   "id": "a74",
+   "text": "11.6 “DPA” means these DPA Standard Terms, the Cover Page between Provider and Customer, and the policies and documents referenced in or attached to the Cover Page."
+  },
+  {
+   "id": "a75",
+   "text": "11.7 “EEA SCCs” means the standard contractual clauses annexed to the European Commission's Implementing Decision 2021/914 of 4 June 2021 on standard contractual clauses for the transfer of personal data to third countries pursuant to Regulation (EU) 2016/679 of the European Parliament and of the European Council."
+  },
+  {
+   "id": "a76",
+   "text": "11.8 “European Economic Area” or “EEA” means the member states of the European Union, Norway, Iceland, and Liechtenstein."
+  },
+  {
+   "id": "a77",
+   "text": "11.9 “GDPR” means European Union Regulation 2016/679 as implemented by local law in the relevant EEA member nation."
+  },
+  {
+   "id": "a78",
+   "text": "11.10 “Personal Data” will have the meaning(s) given in the Applicable Data Protection Laws for personal information, personal data, or other similar term."
+  },
+  {
+   "id": "a79",
+   "text": "11.11 “Processing” or “Process” will have the meaning(s) given in the Applicable Data Protection Laws for any use of, or performance of a computer operation on, Personal Data, including by automatic methods."
+  },
+  {
+   "id": "a80",
+   "text": "11.12 “Processor” will have the meaning(s) given in the Applicable Data Protection Laws for the company that Processes Personal Data on behalf of the Controller."
+  },
+  {
+   "id": "a81",
+   "text": "11.13 “Report” means audit reports prepared by another company according to the standards defined in the Security Policy on behalf of Provider."
+  },
+  {
+   "id": "a82",
+   "text": "11.14 “Restricted Transfer” means (a) where the GDPR applies, a transfer of personal data from the EEA to a country outside of the EEA which is not subject to an adequacy determination by the European Commission; and (b) where the UK GDPR applies, a transfer of personal data from the United Kingdom to any other country which is not subject to adequacy regulations adopted pursuant to Section 17A of the United Kingdom Data Protection Act 2018."
+  },
+  {
+   "id": "a83",
+   "text": "11.15 “Security Incident” means a Personal Data Breach as defined in Article 4 of the GDPR."
+  },
+  {
+   "id": "a84",
+   "text": "11.16 “Service” means the product and/or services described in the Agreement."
+  },
+  {
+   "id": "a85",
+   "text": "11.17 \"Special Category Data” will have the meaning given in Article 9 of the GDPR."
+  },
+  {
+   "id": "a86",
+   "text": "11.18 “Subprocessor” will have the meaning(s) given in the Applicable Data Protection Laws for a company that, with the approval and acceptance of Controller, assists the Processor in Processing Personal Data on behalf of the Controller."
+  },
+  {
+   "id": "a87",
+   "text": "11.19 “UK GDPR” means European Union Regulation 2016/679 as implemented by section 3 of the United Kingdom’s European Union (Withdrawal) Act of 2018 in the United Kingdom."
+  },
+  {
+   "id": "a88",
+   "text": "11.20 “UK Addendum” means the international data transfer addendum to the EEA SCCs issued by the Information Commissioner for Parties making Restricted Transfers under S119A(1) Data Protection Act 2018."
+  },
+  {
+   "id": "a89",
+   "text": "Service Level Agreement"
+  },
+  {
+   "id": "a90",
+   "text": "SLA: The Order Form incorporates the Common Paper Service Level Agreement Standard Terms Version 2.0, with the details below."
+  },
+  {
+   "id": "a91",
+   "text": "Target Uptime: 99.9%."
+  },
+  {
+   "id": "a92",
+   "text": "Uptime Credit: Where Actual Uptime Percentage is from 99.0% to below the Target Uptime, 5% of the monthly Cloud Service Fee; from 95.0% to below 99.0%, 10%; below 95.0%, 25%."
+  },
+  {
+   "id": "a93",
+   "text": "Scheduled Downtime: Routine maintenance between 22:00 and 02:00 UK time on Sundays."
+  },
+  {
+   "id": "a94",
+   "text": "Target Response Time: 4 business hours."
+  },
+  {
+   "id": "a95",
+   "text": "Response Time Credit: 2% of the monthly Cloud Service Fee for each time Provider fails to meet the Target Response Time."
+  },
+  {
+   "id": "a96",
+   "text": "Support Channel: support@halden.example."
+  },
+  {
+   "id": "a97",
+   "text": "SLA Standard Terms"
+  },
+  {
+   "id": "a98",
+   "text": "1. Uptime"
+  },
+  {
+   "id": "a99",
+   "text": "1.1 Target Uptime.  If there is a Target Uptime, Provider will use commercially reasonable efforts to make the Cloud Service available for at least the Target Uptime as calculated each calendar month."
+  },
+  {
+   "id": "a100",
+   "text": "1.2 Calculating Uptime.  Provider and Customer agree to calculate availability of the Cloud Service as the total number of Available Minutes minus the number of Downtime Minutes, divided by the total number of Available Minutes, measured in a calendar month. If the Subscription Period includes a partial month, the numerator and denominator will only include the days that are part of the Subscription Period for that month."
+  },
+  {
+   "id": "a101",
+   "text": "2. Response Time"
+  },
+  {
+   "id": "a102",
+   "text": "2.1 Target Response Time.  If there is a Target Response Time, Provider will use commercially reasonable efforts to respond to support requests sent to the Support Channel within the Target Response Time."
+  },
+  {
+   "id": "a103",
+   "text": "2.2 Calculating Response Time.  Provider and Customer agree to calculate Provider's response time as the total time between when Customer submits a support request to the Support Channel and when Provider or Provider's support representative specifically acknowledges the request. An automated response is not a specific acknowledgement for purposes of this SLA."
+  },
+  {
+   "id": "a104",
+   "text": "3. Remedies"
+  },
+  {
+   "id": "a105",
+   "text": "3.1 Service Credit.  If there is a Target Uptime and Cloud Service availability falls below the Target Uptime, Customer is eligible to receive an Uptime Credit. If there is a Target Response Time and neither Provider nor Provider's support representative acknowledge a support request submitted to the Support Channel within the Target Response Time, Customer is eligible to receive a Response Time Credit. Service Credits only apply towards future Cloud Service Fees owed by Customer to Provider."
+  },
+  {
+   "id": "a106",
+   "text": "3.2 Requesting A Service Credit.  To receive a Service Credit, Customer must notify Provider within 7 days of the end of the month in which Customer believes the Service Credit was earned, otherwise Service Credit eligibility will expire for that month."
+  },
+  {
+   "id": "a107",
+   "text": "(a) For Uptime Credit, Customer must include information about when it was unable to access the Cloud Service. Customer may be required to provide additional details about its attempts to access the Cloud Service. If Provider can verify Cloud Service unavailability in its internal monitoring systems and the disruption does not qualify as Excluded Minutes or Scheduled Downtime, Provider will calculate and issue the applicable Uptime Credit on Customer’s account to apply towards a future invoice."
+  },
+  {
+   "id": "a108",
+   "text": "(b) For Response Time Credit, Customer must include information about when and how Customer contacted Provider. Customer may be required to provide additional details about the related incident and its attempts to receive support. If Provider can verify neither Provider nor Provider's support representative responded to Customer's support request within the Target Response Time, Provider will calculate and issue the applicable Response Time Credit on Customer’s account to apply towards a future invoice."
+  },
+  {
+   "id": "a109",
+   "text": "3.3 Service Credit Limitations.  Service Credits may not be exchanged for, or converted to, monetary amounts. Service Credits do not earn interest. Service Credits will not accumulate within a single Subscription Period in an amount more than 8% of Cloud Service Fees for that Subscription Period. Service Credits expire when the applicable Order Form ends."
+  },
+  {
+   "id": "a110",
+   "text": "3.4 Termination.  If the Cloud Service does not meet the Target Uptime for two (2) out of any three (3) consecutive months and Customer notified Provider of the failures within 7 days of the end of each impacted month, Customer may immediately terminate the affected Order Form by giving written notice to Provider. If Customer terminates an Order Form under this section, Provider will pay to Customer a prorated refund of prepaid fees for the remainder of the Subscription Period."
+  },
+  {
+   "id": "a111",
+   "text": "3.5 Exclusive Remedy.  This SLA describes Customer’s exclusive remedy and Provider’s entire liability for any failure of the Cloud Service to meet the Target Uptime and for any inability to meet the Target Response Time."
+  },
+  {
+   "id": "a112",
+   "text": "4. Definitions"
+  },
+  {
+   "id": "a113",
+   "text": "4.1 “Available Minutes” means the total number of minutes in a calendar month, minus Excluded Minutes and Scheduled Downtime."
+  },
+  {
+   "id": "a114",
+   "text": "4.2 “Downtime Minutes” means the total number of minutes in a calendar month when the Cloud Service is not available to Customer, as confirmed by Provider’s internal monitoring systems, minus Excluded Minutes and Scheduled Downtime."
+  },
+  {
+   "id": "a115",
+   "text": "4.3 “Excluded Minutes” means when the Cloud Service is not available because of (a) a Force Majeure Event; (b) general Internet connectivity issues; (c) equipment or software made available by anyone other than Provider and that is not within Provider’s reasonable control; or (d) Customer’s use of the Cloud Service in a manner not authorized by the Agreement."
+  },
+  {
+   "id": "a116",
+   "text": "4.4 \"Service Credit\" means the accrued Uptime Credit plus the accrued Response Time Credit."
+  },
+  {
+   "id": "a117",
+   "text": "4.5 \"SLA\" means these SLA Standard Terms as incorporated into the applicable Order Form."
+  },
+  {
+   "id": "a118",
+   "text": "4.6 \"SLA Standard Terms\" means these Common Paper Service Level Agreement Standard Terms Version 2.0, which are posted at https://commonpaper.com/standards/service-level-agreement/2.0/."
+  }
+ ]
+}

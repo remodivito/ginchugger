@@ -1,0 +1,241 @@
+{
+ "id": "N302",
+ "revision": 1,
+ "title": "NonDisclosureAgreement_1.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 302,
+  "type": "search-pdf",
+  "url": "http://www.domel.com/resources/files/NonDisclosureAgreement.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "Elektromotorji in gospodinjski aparati, d.o.o."
+  },
+  {
+   "id": "s1",
+   "text": "Otoki 21, 4228 Železniki"
+  },
+  {
+   "id": "s2",
+   "text": "Non-Disclosure "
+  },
+  {
+   "id": "s3",
+   "text": "Agreement"
+  },
+  {
+   "id": "s4",
+   "text": "No.:"
+  },
+  {
+   "id": "s5",
+   "text": "Agreed between:"
+  },
+  {
+   "id": "s6",
+   "text": "Domel Elektromotorji in gospodinjski aparati, d.o.o., Otoki 21, 4228 Železniki, Identification"
+  },
+  {
+   "id": "s7",
+   "text": "No.: 5045401, tax No.: SI47263512, represented by the president of the board, dr. "
+  },
+  {
+   "id": "s8",
+   "text": "Jožica Rejec"
+  },
+  {
+   "id": "s9",
+   "text": "(hereinafter referred to as the owner)"
+  },
+  {
+   "id": "s10",
+   "text": "and"
+  },
+  {
+   "id": "s11",
+   "text": "Identification No.: , tax No.: , represented by (hereinafter referred to as the supplier)"
+  },
+  {
+   "id": "s12",
+   "text": "The subject of the agreement"
+  },
+  {
+   "id": "s13",
+   "text": "The aim of the agreement is to guarantee that confidential data are not communicated to third parties. "
+  },
+  {
+   "id": "s14",
+   "text": "Data apply to:"
+  },
+  {
+   "id": "s15",
+   "text": "In this agreement, the expression “the recipient” is used for suppliers, subcontractors, manufacturers of production and inspection equipment, tools and machines as well as everyone involved in the planning process, according to the owner’s discretion."
+  },
+  {
+   "id": "s16",
+   "text": "Confidential data protection"
+  },
+  {
+   "id": "s17",
+   "text": "Both parties, the owner and the recipient, are bound to guarantee that highly confidential written or verbal INFORMATION or business data which are subjects of this contract shall not be disclosed to third parties. "
+  },
+  {
+   "id": "s18",
+   "text": "The list of highly confidential INFORMATION includes:"
+  },
+  {
+   "id": "s19",
+   "text": " written or verbal information which the owner classifies as confidential,"
+  },
+  {
+   "id": "s20",
+   "text": " business discussions during the contract validity term,"
+  },
+  {
+   "id": "s21",
+   "text": " documents, letters, meeting minutes and e-mails,"
+  },
+  {
+   "id": "s22",
+   "text": " technical documentation, measurement and other reports, calculations and studies, drafts, photographs, and plans,"
+  },
+  {
+   "id": "s23",
+   "text": " lists of suppliers, specifications of material and tools, tools technical,"
+  },
+  {
+   "id": "s24",
+   "text": " know-how, inventions and ideas,"
+  },
+  {
+   "id": "s25",
+   "text": " promotional and presentational material, price information,"
+  },
+  {
+   "id": "s26",
+   "text": " other documentation."
+  },
+  {
+   "id": "s27",
+   "text": "The recipient stores the received INFORMATION and business data systematically, e.g. in files, electronic media and material form. "
+  },
+  {
+   "id": "s28",
+   "text": "All needed precautions/measures are to be taken to protect the INFORMATION from copying, theft, destruction, damage or any other intrusion. "
+  },
+  {
+   "id": "s29",
+   "text": "Both parties are bound to take all needed measures to guarantee the protection of data confidentiality. "
+  },
+  {
+   "id": "s30",
+   "text": "The owner and the recipient are bound to disclose confidential information and business data only to those employees who have a need to know this information and business data in order to properly carry out work which is the subject of this agreement and are explicitly warned to be obliged to safe keep the information and business data as confidential and that in case of the violation of confidentiality they are liable for any damage caused."
+  },
+  {
+   "id": "s31",
+   "text": "In case the recipient, with the prior written consent of the owner, engages sub-suppliers to carry out the subject of this agreement, a written confidentiality agreement is to be presented to the owner, which has been signed between the recipient and a sub-supplier. "
+  },
+  {
+   "id": "s32",
+   "text": "The contents of the agreement shall be identical to this agreement."
+  },
+  {
+   "id": "s33",
+   "text": "The confidential information is allowed to be communicated to third parties only with the express written consent of the owner. "
+  },
+  {
+   "id": "s34",
+   "text": "If the owner’s confidential information is disclosed by the recipient, it shall remain the exclusive property of the owner, but the recipient is liable to any damage caused."
+  },
+  {
+   "id": "s35",
+   "text": "For the term of 10 years, after receiving the INFORMATION and business data, the confidential information shall be kept safely, unless defined differently by a special agreement or it is proved to have been made publicly known. "
+  },
+  {
+   "id": "s36",
+   "text": "The obligation does not terminate even if one of the parties backs out of the contract, e.g. due to resigning from the cooperation or from the planned project. "
+  },
+  {
+   "id": "s37",
+   "text": "In this case, the recipient is to return all the material file of the INFORMATION and business data at once or at the latest in 7 (seven) days after receiving the request. "
+  },
+  {
+   "id": "s38",
+   "text": "The recipient is to return also those INFORMATION and business data which were given to the eventual sub-supplier. "
+  },
+  {
+   "id": "s39",
+   "text": "The INFORMATION and business data, stored on the electronic media, are to be destroyed immediately after issuing the request."
+  },
+  {
+   "id": "s40",
+   "text": "If the above mentioned terms are not respected, the owner has the right to enforce the protection of its rights in the competent court of law and the right to appropriate compensation."
+  },
+  {
+   "id": "s41",
+   "text": "Other provisions"
+  },
+  {
+   "id": "s42",
+   "text": "In case any of the terms in this agreement is inefficient or it is difficult or even impossible to be enforced, this does not cause the agreement to terminate. "
+  },
+  {
+   "id": "s43",
+   "text": "Both parties in the contract are obliged to do everything in their power to keep the agreement valid, e.g. adopt different terms of the agreement."
+  },
+  {
+   "id": "s44",
+   "text": "The changes and additional clauses to this agreement are only allowed in written form."
+  },
+  {
+   "id": "s45",
+   "text": "This agreement is audited and carried out in accordance with the Law of the Republic of Slovenia."
+  },
+  {
+   "id": "s46",
+   "text": "The rights and obligations which are not defined by this agreement, are defined by “The General Purchasing Conditions” of Domel and the Obligation Code (The Official Gazette of the Republic of Slovenia, no. 83/2001)."
+  },
+  {
+   "id": "s47",
+   "text": "The agreement is valid when signed by both parties of this agreement."
+  },
+  {
+   "id": "s48",
+   "text": "Both parties agree that eventual disputes arising from this contract are to be solved in agreement. "
+  },
+  {
+   "id": "s49",
+   "text": "If this is not possible, the Court of Law related to the owner, i.e. "
+  },
+  {
+   "id": "s50",
+   "text": "Domel, is competent to deal with the dispute."
+  },
+  {
+   "id": "s51",
+   "text": "DOMEL, d.o.o., Železniki"
+  },
+  {
+   "id": "s52",
+   "text": "Dr. Jožica Rejec"
+  },
+  {
+   "id": "s53",
+   "text": "_________________ "
+  },
+  {
+   "id": "s54",
+   "text": "______________"
+  },
+  {
+   "id": "s55",
+   "text": "/town/city and date/ /town/city and date/"
+  },
+  {
+   "id": "s56",
+   "text": "/authorized signature/ /authorized signature/"
+  }
+ ]
+}

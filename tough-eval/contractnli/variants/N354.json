@@ -1,0 +1,373 @@
+{
+ "id": "N354",
+ "revision": 1,
+ "title": "Template-NDA-2-way-final-1.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 354,
+  "type": "search-pdf",
+  "url": "https://research.mcmaster.ca/app/uploads/2019/09/Template-NDA-2-way-final-1.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "MUTUAL NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "PARTIES: McMaster University (‘University’)"
+  },
+  {
+   "id": "s2",
+   "text": "1280 Main Street "
+  },
+  {
+   "id": "s3",
+   "text": "West"
+  },
+  {
+   "id": "s4",
+   "text": "Hamilton, ON L8S 4L8"
+  },
+  {
+   "id": "s5",
+   "text": "Company/Organization name(‘Company’)"
+  },
+  {
+   "id": "s6",
+   "text": "Company/organization address"
+  },
+  {
+   "id": "s7",
+   "text": "DATE: March 12,2019 "
+  },
+  {
+   "id": "s8",
+   "text": "(‘Effective Date’)"
+  },
+  {
+   "id": "s9",
+   "text": "In consideration of the mutual covenants set out in this Agreement and for other good and valuable consideration (the receipt and sufficiency of which is hereby acknowledged by each of the Parties), the Parties agree as follows:"
+  },
+  {
+   "id": "s10",
+   "text": "1. DEFINITION OF CONFIDENTIAL INFORMATION"
+  },
+  {
+   "id": "s11",
+   "text": "Confidential Information means any information disclosed by one party (the ‘Discloser’) to the other (the ‘Recipient’) relating directly or indirectly to Name of Technology/Project, file # which is identified by the Discloser, either orally or in writing, as confidential, either at the time of disclosure or, if disclosed orally, confirmed in writing within thirty (30) days following the original disclosure."
+  },
+  {
+   "id": "s12",
+   "text": "2. EXCEPTIONS TO CONFIDENTIAL INFORMATION"
+  },
+  {
+   "id": "s13",
+   "text": "This Agreement does not apply to information that:"
+  },
+  {
+   "id": "s14",
+   "text": "i. was available to the public at the time of disclosure, or subsequently became available to the public without fault of Recipient;"
+  },
+  {
+   "id": "s15",
+   "text": "ii. was known to Recipient at the time of disclosure or was independently developed by Recipient, provided there is adequate documentation to confirm such prior knowledge or independent development;"
+  },
+  {
+   "id": "s16",
+   "text": "iii. was received by Recipient from a third party and Recipient was not aware that the third party had a duty of confidentiality to Discloser in respect of the information;"
+  },
+  {
+   "id": "s17",
+   "text": "iv. is used or disclosed by Recipient with Discloser’s prior written approval; or"
+  },
+  {
+   "id": "s18",
+   "text": "v. is required to be disclosed by law, provided that Recipient gives Discloser sufficient prior written notice of any such disclosure to allow Discloser to contest the disclosure. "
+  },
+  {
+   "id": "s19",
+   "text": "Any action taken by Discloser to contest the disclosure must not compromise the obligations of Recipient under the order to disclose or cause Recipient to be subject to any fine, penalty or prosecution."
+  },
+  {
+   "id": "s20",
+   "text": "3. DESIGNATED REPRESENTATIVES"
+  },
+  {
+   "id": "s21",
+   "text": "Each party designates a representative for coordinating receipt, release and delivery of Confidential Information, which for the University will be Name of Principal Investigator and/or Technology Transfer Office representative and for Company: Name of designated representative for company, or another individual(s) as the party may designate in writing to the other party."
+  },
+  {
+   "id": "s22",
+   "text": "4. USE OF CONFIDENTIAL INFORMATION"
+  },
+  {
+   "id": "s23",
+   "text": "Recipient may only use the Confidential Information for the purpose of type of purpose/or a research collaboration and not for any commercial purpose (‘Permitted Purpose’). "
+  },
+  {
+   "id": "s24",
+   "text": "Recipient must not use the Confidential Information for any other purpose without the prior written approval of Discloser."
+  },
+  {
+   "id": "s25",
+   "text": "5. NON-DISCLOSURE"
+  },
+  {
+   "id": "s26",
+   "text": "Recipient must keep the Confidential Information in confidence. "
+  },
+  {
+   "id": "s27",
+   "text": "Recipient may only disclose the Confidential Information to its employees, directors, officers, agents, students (in University’s case) and consultants who have a need-to-know the Confidential Information for the Permitted Purpose, provided that they are advised of the confidential nature of the Confidential Information and are under an obligation to maintain its confidentiality. "
+  },
+  {
+   "id": "s28",
+   "text": "Recipient must not otherwise disclose Confidential Information to any person or third party without the prior written approval of Discloser."
+  },
+  {
+   "id": "s29",
+   "text": "6. STANDARD OF CARE"
+  },
+  {
+   "id": "s30",
+   "text": "Recipient must use at least the same standard of care in protecting the confidentiality of the Confidential Information as it uses in protecting its own information of a similar nature and, in any event, no less than a reasonable standard of care. "
+  },
+  {
+   "id": "s31",
+   "text": "Recipient must notify Discloser promptly upon discovery that any Confidential Information has been accessed or otherwise acquired by or disclosed to an unauthorized person."
+  },
+  {
+   "id": "s32",
+   "text": "7. RETURN OF CONFIDENTIAL INFORMATION"
+  },
+  {
+   "id": "s33",
+   "text": "If requested in writing by Discloser, Recipient must cease using, return to Discloser and/or destroy all Confidential Information and any copies of Confidential Information in its possession or control. "
+  },
+  {
+   "id": "s34",
+   "text": "Recipient may retain one archival copy of such Confidential Information for the sole purpose of establishing the extent of the disclosure of such Confidential Information, provided that such information is not used by Recipient for any other purpose and is subject to the confidentiality requirements set out in this Agreement."
+  },
+  {
+   "id": "s35",
+   "text": "8. NO LICENCE OR OTHER RIGHTS"
+  },
+  {
+   "id": "s36",
+   "text": "All Confidential Information remains the property of Discloser and no licence or any other rights to the Confidential Information is granted to Recipient under this Agreement. "
+  },
+  {
+   "id": "s37",
+   "text": "This Agreement does not obligate the Discloser to make any disclosure of Confidential Information to the Recipient or require the parties to enter into any business relationship or further agreement."
+  },
+  {
+   "id": "s38",
+   "text": "9. LIMITED WARRANTY & LIABILITY"
+  },
+  {
+   "id": "s39",
+   "text": "Discloser warrants that it has the right to disclose the Confidential Information to Recipient. "
+  },
+  {
+   "id": "s40",
+   "text": "Discloser makes no other warranties in respect of the Confidential Information and provides all information “AS IS” without any express or implied warranty of any kind, including any warranty as to merchantability, fitness for a particular purpose, accuracy, completeness or violation of third party intellectual property rights. "
+  },
+  {
+   "id": "s41",
+   "text": "Neither party will be liable for any special, incidental or consequential damages of any kind whatsoever resulting from the disclosure, use or receipt of the Confidential Information."
+  },
+  {
+   "id": "s42",
+   "text": "10. TERM"
+  },
+  {
+   "id": "s43",
+   "text": "This Agreement and Recipient’s obligation to keep Confidential Information confidential expires three (3) years after the Effective Date."
+  },
+  {
+   "id": "s44",
+   "text": "11. GENERAL PROVISIONS"
+  },
+  {
+   "id": "s45",
+   "text": "11.1 Notices - "
+  },
+  {
+   "id": "s46",
+   "text": "All notices given under this Agreement must be in writing and delivered by courier or registered mail, return receipt requested, or facsimile, to the address of the party set out on page one of this Agreement. "
+  },
+  {
+   "id": "s47",
+   "text": "All notices to the University must be addressed to:"
+  },
+  {
+   "id": "s48",
+   "text": "Executive Director"
+  },
+  {
+   "id": "s49",
+   "text": "McMaster Industry Liaison Office"
+  },
+  {
+   "id": "s50",
+   "text": "175 Longwood Road South"
+  },
+  {
+   "id": "s51",
+   "text": "McMaster Innovation Park, Rm. 305"
+  },
+  {
+   "id": "s52",
+   "text": "Hamilton, ON L8P 0A1"
+  },
+  {
+   "id": "s53",
+   "text": "Tel. 905.525.9140, ext. 23164"
+  },
+  {
+   "id": "s54",
+   "text": "Fax. 905.546.1372"
+  },
+  {
+   "id": "s55",
+   "text": "yuyitun@mcmaster.ca"
+  },
+  {
+   "id": "s56",
+   "text": "and all notices to the Company must be addressed to:"
+  },
+  {
+   "id": "s57",
+   "text": "title/contact name for position."
+  },
+  {
+   "id": "s58",
+   "text": "Notices will be deemed to have been received on the date of delivery, if delivered by courier, on the fifth business day following receipt, if delivered by registered mail or on the first business day following the electronic confirmation of the successful transmission of the facsimile, if sent by facsimile."
+  },
+  {
+   "id": "s59",
+   "text": "11.2 Remedies - Recipient agrees that damages may not be an adequate remedy for any breach or threatened breach of the Recipient’s obligations under this Agreement. "
+  },
+  {
+   "id": "s60",
+   "text": "Accordingly, in addition to any and all other available remedies, Discloser will be entitled to seek a temporary or permanent injunction or any other form of equitable relief to enforce the obligations contained in this Agreement."
+  },
+  {
+   "id": "s61",
+   "text": "11.3 "
+  },
+  {
+   "id": "s62",
+   "text": "No waiver – Failure of a party to enforce its rights on one occasion will not result in a waiver of those rights on any other occasion."
+  },
+  {
+   "id": "s63",
+   "text": "11.4 Assignment - Neither party may assign any of its rights or obligations under this Agreement without the prior written consent of the other party."
+  },
+  {
+   "id": "s64",
+   "text": "11.5 Regulatory compliance – Each party must comply with all applicable laws, regulations and rules in its jurisdiction, including but not limited to those relating to the export of information and data."
+  },
+  {
+   "id": "s65",
+   "text": "11.6 Entire Agreement – This Agreement represents the entire agreement between the parties with regard to the Confidential Information and supersedes any previous understandings, commitments or agreements, whether written or oral. "
+  },
+  {
+   "id": "s66",
+   "text": "No amendment or modification of this Agreement will be effective unless made in writing and signed by authorized representatives of both parties."
+  },
+  {
+   "id": "s67",
+   "text": "11.7 Severability – "
+  },
+  {
+   "id": "s68",
+   "text": "If any provision of this Agreement is wholly or partially unenforceable for any reason, all other provisions will continue in full force and effect."
+  },
+  {
+   "id": "s69",
+   "text": "11.8 Binding Effect - This Agreement is binding upon and will enure to the benefits of the parties and their respective successors and permitted assigns."
+  },
+  {
+   "id": "s70",
+   "text": "11.9 Execution - This Agreement may be executed by the parties in counterparts and may be executed and delivered by facsimile or electronically by PDF and all such counterparts, facsimiles and PDF copies shall together constitute one agreement. "
+  },
+  {
+   "id": "s71",
+   "text": "The parties agree that facsimile or PDF copies of signatures have the same effect as original signatures."
+  },
+  {
+   "id": "s72",
+   "text": "11.10 Governing Law - "
+  },
+  {
+   "id": "s73",
+   "text": "This Agreement will be governed and construed in accordance with the laws of the Province of Ontario and the laws of Canada and the parties attorn to the exclusive jurisdiction of the courts of the Province of Ontario."
+  },
+  {
+   "id": "s74",
+   "text": "The parties have duly executed this Agreement by their duly authorized representatives as of the Effective Date."
+  },
+  {
+   "id": "s75",
+   "text": "UNIVERSITY COMPANY"
+  },
+  {
+   "id": "s76",
+   "text": "__________________________ "
+  },
+  {
+   "id": "s77",
+   "text": "__________________________"
+  },
+  {
+   "id": "s78",
+   "text": "Gay Yuyitung "
+  },
+  {
+   "id": "s79",
+   "text": "Name of signatory"
+  },
+  {
+   "id": "s80",
+   "text": "Executive Director, MILO "
+  },
+  {
+   "id": "s81",
+   "text": "Title"
+  },
+  {
+   "id": "s82",
+   "text": "__________________________ "
+  },
+  {
+   "id": "s83",
+   "text": "__________________________"
+  },
+  {
+   "id": "s84",
+   "text": "Date Date"
+  },
+  {
+   "id": "s85",
+   "text": "The Principal Investigator for the University acknowledges the terms and conditions set out in this Agreement and agrees to be bound by the confidentiality obligations contained within it. "
+  },
+  {
+   "id": "s86",
+   "text": "The Principal Investigator will ensure that any faculty or staff dealing with the Confidential Information are aware of the terms of this Agreement and agree to abide by them."
+  },
+  {
+   "id": "s87",
+   "text": "__________________________"
+  },
+  {
+   "id": "s88",
+   "text": "Name of Principal Investigator"
+  },
+  {
+   "id": "s89",
+   "text": "__________________________"
+  }
+ ]
+}

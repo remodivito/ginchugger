@@ -1,0 +1,135 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Release builds (product v2 spec PR-REL-01, decision 167): a universal Mac .pkg and a Windows x64 .msi, each with its
+# bundled Node 22 and prebuilt better-sqlite3 and @napi-rs/keyring, a SHA-256 for each, and the team-server image.
+# A tag v<version> (matching package.json) makes a draft GitHub release for a person to check and publish;
+# workflow_dispatch builds the installers as workflow artifacts only. The installers are unsigned (no signing
+# identities are configured); there is no auto-updater.
+name: Release
+on:
+  push:
+    tags: ['v*']
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: release-${{ github.ref }}
+  cancel-in-progress: false
+defaults:
+  run:
+    working-directory: contract-review
+jobs:
+  mac:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: contract-review/package-lock.json
+      - name: Tag matches the version
+        if: startsWith(github.ref, 'refs/tags/v')
+        run: test "v$(node -p "require('./package.json').version")" = "$GITHUB_REF_NAME"
+      - run: npm ci
+      - run: npm test
+        env:
+          REVIEW_EXECUTOR: refuse-live
+      - run: npm run build
+      - run: node scripts/release/build-mac-pkg.mjs
+      - name: Check the package
+        run: |
+          cd release
+          shasum -a 256 -c ./*.pkg.sha256
+          pkgutil --expand GinChugger-*.pkg expanded
+          echo "$(lsbom expanded/*/Bom | wc -l) entries; AppleDouble entries: $(lsbom expanded/*/Bom | grep -c '/\._' || true)"
+          rm -rf expanded
+      - uses: actions/upload-artifact@v4
+        with:
+          name: mac
+          path: |
+            contract-review/release/*.pkg
+            contract-review/release/*.pkg.sha256
+          if-no-files-found: error
+
+  windows:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: contract-review/package-lock.json
+      - run: npm ci
+      - run: npm test
+        env:
+          REVIEW_EXECUTOR: refuse-live
+      - run: npm run build
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+      - run: dotnet tool install --global wix --version 5.0.2
+      - run: pwsh -NoProfile -File scripts/release/build-win-msi.ps1 -Arch x64
+      - uses: actions/upload-artifact@v4
+        with:
+          name: windows
+          path: |
+            contract-review/release/*.msi
+            contract-review/release/*.msi.sha256
+          if-no-files-found: error
+
+  server-image:
+    if: startsWith(github.ref, 'refs/tags/v')
+    needs: [mac, windows]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: docker/setup-qemu-action@v3
+      - uses: docker/setup-buildx-action@v3
+      - uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+      - name: Image name
+        id: image
+        run: echo "name=ghcr.io/${GITHUB_REPOSITORY,,}-server:${GITHUB_REF_NAME#v}" >> "$GITHUB_OUTPUT"
+      - uses: docker/build-push-action@v6
+        with:
+          context: contract-review
+          platforms: linux/amd64,linux/arm64
+          push: true
+          tags: ${{ steps.image.outputs.name }}
+
+  draft-release:
+    if: startsWith(github.ref, 'refs/tags/v')
+    needs: [mac, windows]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    defaults:
+      run:
+        working-directory: .
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          path: dist
+          merge-multiple: true
+      - name: Verify checksums
+        working-directory: dist
+        run: |
+          sha256sum -c *.sha256
+          cat *.sha256 > SHA256SUMS.txt
+      - name: Draft release
+        working-directory: dist
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          gh release create "$GITHUB_REF_NAME" --draft --verify-tag \
+            --title "GinChugger ${GITHUB_REF_NAME#v}" \
+            --notes "Unsigned installers for Mac (universal) and Windows (x64). SHA-256 checksums are in SHA256SUMS.txt. Install and update steps are in contract-review/docs/FOR-IT.md." \
+            ./*.pkg ./*.msi ./*.sha256 SHA256SUMS.txt

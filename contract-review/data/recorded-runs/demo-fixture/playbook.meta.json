@@ -1,0 +1,76 @@
+{
+  "executor": "claude",
+  "model": "claude-sonnet-5-5",
+  "effort": "medium",
+  "promptSha256": "c72b25f67eed4f71c907e3ca37c72b733de00c4c758c3b3e36da3f83d228fd3b",
+  "userSha256": "34aa9151f9ea0436ad5a3ab78e7907b35f57403c217a73f21e32bc1b99135f9c",
+  "userChars": 10224,
+  "usage": {
+    "input_tokens": 2,
+    "cache_creation_input_tokens": 4216,
+    "cache_read_input_tokens": 863,
+    "output_tokens": 6155,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4216,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "not_available",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 6155,
+        "cache_read_input_tokens": 863,
+        "cache_creation_input_tokens": 4216,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 4216
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "modelUsage": {
+    "claude-haiku-4-5-20251001": {
+      "inputTokens": 3542,
+      "outputTokens": 21,
+      "cacheReadInputTokens": 0,
+      "cacheCreationInputTokens": 0,
+      "webSearchRequests": 0,
+      "costUSD": 0.003647,
+      "contextWindow": 200000,
+      "maxOutputTokens": 32000,
+      "thinkingTokens": 0,
+      "canonicalModel": "claude-haiku-4-5",
+      "provider": "firstParty",
+      "costBasis": "list"
+    },
+    "claude-sonnet-5-5": {
+      "inputTokens": 2,
+      "outputTokens": 6155,
+      "cacheReadInputTokens": 863,
+      "cacheCreationInputTokens": 4216,
+      "webSearchRequests": 0,
+      "costUSD": 0.0785906,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 0,
+      "canonicalModel": "claude-sonnet-5-5",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "numTurns": 1,
+  "durationMs": 39442,
+  "stopReason": "end_turn",
+  "seconds": 40.241
+}

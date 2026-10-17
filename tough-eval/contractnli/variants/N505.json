@@ -1,0 +1,521 @@
+{
+ "id": "N505",
+ "revision": 1,
+ "title": "25895_0000950134-07-023464_d51356exv10w1.htm",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 505,
+  "type": "sec-html",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000025895/000095013407023464/d51356exv10w1.htm"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "Exhibit 10.1"
+  },
+  {
+   "id": "s1",
+   "text": "NONCOMPETITION AND NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s3",
+   "text": "THIS NONCOMPETITION AND NON-DISCLOSURE AGREEMENT (the “Agreement”) is made and entered into as of the 5th day of November, 2007, by and between SPRINGS GLOBAL US, INC., a Delaware corporation (“Seller”), and CROWN CRAFTS INFANT PRODUCTS, INC., a Delaware corporation (“Purchaser”)."
+  },
+  {
+   "id": "s5",
+   "text": "WHEREAS, Seller is engaged in the business of designing, marketing, importing, selling and distributing various types of bedding, blanket and bath products and related accessories for the Infant and Toddler Retail Market (as defined herein) through Seller’s unincorporated baby product line (the “Business”);"
+  },
+  {
+   "id": "s7",
+   "text": "WHEREAS, Seller and Purchaser have entered into that certain Asset Purchase Agreement of even date herewith, to which a form of this Agreement is attached as Exhibit D, relating to the sale to Purchaser of certain of Seller’s assets, rights and properties relating to the Business (the “Purchase Agreement”);"
+  },
+  {
+   "id": "s9",
+   "text": "WHEREAS, in order to protect the goodwill of the Purchased Assets (as defined in the Purchase Agreement) and the Business and the other value to be acquired by Purchaser pursuant to the Purchase Agreement for which Purchaser is paying substantial consideration, Purchaser and Seller have agreed that Purchaser’s obligation to consummate the transactions contemplated by the Purchase Agreement is subject to the condition, among others, that Seller shall have entered into this Agreement;"
+  },
+  {
+   "id": "s11",
+   "text": "WHEREAS, Purchaser has separately bargained and paid additional consideration for the covenants contained herein;"
+  },
+  {
+   "id": "s13",
+   "text": "WHEREAS, Seller acknowledges that the provisions of this Agreement are reasonable and necessary to protect the legitimate interest of Purchaser and the business and goodwill acquired by it pursuant to the Purchase Agreement; and"
+  },
+  {
+   "id": "s15",
+   "text": "WHEREAS, in order to induce Purchaser to consummate the transactions contemplated by the Purchase Agreement, Seller is willing to enter into this Agreement;"
+  },
+  {
+   "id": "s17",
+   "text": "NOW, THEREFORE, in consideration of the premises and the mutual covenants set forth herein, the parties agree as follows:"
+  },
+  {
+   "id": "s19",
+   "text": "1. Definitions. "
+  },
+  {
+   "id": "s20",
+   "text": "As used in this Agreement, terms defined in the preamble and recitals of this Agreement shall have the meanings set forth therein and the following terms shall have the meanings set forth below:"
+  },
+  {
+   "id": "s22",
+   "text": "(a) “Competitive Business” shall mean any Person engaged in the business of designing, marketing or importing Competitive Products for sale or distribution to the Infant and Toddler Retail Market."
+  },
+  {
+   "id": "s24",
+   "text": "(b) “Competitive Products” shall mean the type of products designed, marketed, imported, and sold or distributed by Seller to the Infant and Toddler Retail Market in connection with the operation of the Business prior to the date hereof (which shall not include"
+  },
+  {
+   "id": "s25",
+   "text": "any Seller Exclusive Products (as hereinafter defined)) without regard to "
+  },
+  {
+   "id": "s26",
+   "text": "(i) the prices at which such products may be sold, "
+  },
+  {
+   "id": "s27",
+   "text": "(ii) any tradenames, trademarks, brands, labels, logos or other identifying characteristics used in selling such products, or "
+  },
+  {
+   "id": "s28",
+   "text": "(iii) the types of businesses within the Infant and Toddler Retail Market that may purchase such products."
+  },
+  {
+   "id": "s30",
+   "text": "(c) “Confidential Information” shall mean all customer and supplier lists, marketing arrangements, business plans, projections, financial information, training manuals, pricing manuals, product development plans, market strategies, internal performance statistics and other competitively sensitive information of Seller used solely in the Business and not generally known by the public, whether or not in written or tangible form. "
+  },
+  {
+   "id": "s31",
+   "text": "Notwithstanding the foregoing, the definition of Confidential Information shall not include any of the foregoing items insofar as they relate to Seller Exclusive Products."
+  },
+  {
+   "id": "s33",
+   "text": "(d) “Infant and Toddler Retail Market” shall mean those retail sales departments within retailers which sell products intended for children from ages zero to four years of age."
+  },
+  {
+   "id": "s35",
+   "text": "(e) “Permitted Activities” shall mean "
+  },
+  {
+   "id": "s36",
+   "text": "(i) owning not more than 5% of the outstanding shares of publicly-held corporations or other entity engaged in a Competitive Business which have shares listed on any national or regional securities exchange or registered with the Securities and Exchange Commission (or any comparable regulatory body in any foreign jurisdiction) or through the automatic quotation system of a registered securities association (any such publicly-held corporation or other entity, a “Public Company”); "
+  },
+  {
+   "id": "s37",
+   "text": "(ii) owning any percentage of the outstanding equity of a Person engaged in a Competitive Business where such equity was acquired by Seller after the date hereof from a Person that is not an affiliate of Seller (with “affiliate” defined as set forth in Rule 12b-2 of the regulations promulgated under the Securities Exchange Act of 1934, as amended) and where such Competitive Business’s annual sales of Competitive Products into the Protected Market (as hereinafter defined) constitute less than 10% of such Person’s total annual sales revenue, but in no event more than $10,000,000.00; "
+  },
+  {
+   "id": "s38",
+   "text": "(iii) carrying on or transacting business with any Competitive Business if such activity does not include the sale or distribution of Competitive Products, directly or indirectly, for ultimate purchase by consumers within the Protected Market; and "
+  },
+  {
+   "id": "s39",
+   "text": "(iv) marketing, selling or distributing any Seller Exclusive Products."
+  },
+  {
+   "id": "s41",
+   "text": "(f) “Person” shall mean an individual, partnership, corporation, business trust, limited liability company, limited liability partnership, joint stock company, trust, unincorporated association, joint venture or other entity or a court, administrative agency or other federal, state, local, municipal, foreign or other governmental or quasi-governmental authority or agency of any nature."
+  },
+  {
+   "id": "s43",
+   "text": "(g) “Protected Market” shall mean the United States."
+  },
+  {
+   "id": "s45",
+   "text": "(h) “Restricted Period” shall mean the period commencing on the date of this Agreement and ending on the date which is four "
+  },
+  {
+   "id": "s46",
+   "text": "(4) years from the date of this Agreement."
+  },
+  {
+   "id": "s48",
+   "text": "(i) “Seller Exclusive Products” means any Inventory (as defined in the Purchase Agreement) that is not included within the Eligible Inventory (as defined in the Purchase Agreement) transferred to Purchaser pursuant to the Purchase Agreement."
+  },
+  {
+   "id": "s50",
+   "text": "2. No Competing Business. "
+  },
+  {
+   "id": "s51",
+   "text": "Seller hereby agrees that, during the Restricted Period, except as permitted by Section 5 of this Agreement, it will not, directly or indirectly, own, manage, operate, control, invest in or acquire an interest in, or otherwise engage or participate in the establishment, management or operation of, any Competitive Business that sells or distributes Competitive Products, directly or indirectly, for ultimate purchase by consumers in the Protected Market, without regard to whether the Competitive Business has any office, manufacturing or other business facilities within the Protected Market."
+  },
+  {
+   "id": "s53",
+   "text": "3. No Interference with the Business. "
+  },
+  {
+   "id": "s54",
+   "text": "Seller hereby agrees that, during the Restricted Period, except as permitted by Section 5 of this Agreement, Seller will not, directly or indirectly, solicit, induce or influence any customer, supplier, lender, lessor or any other Person that has a business relationship with the Business in the Protected Market, or which had on the date of this Agreement a business relationship with the Business in the Protected Market, to discontinue or reduce the extent of such relationship with the Business in the Protected Market; it being understood that, nothing herein shall restrict Seller from carrying on or transacting business with any such Person in respect of any Seller Exclusive Products."
+  },
+  {
+   "id": "s56",
+   "text": "4. No Disclosure of Proprietary Information. "
+  },
+  {
+   "id": "s57",
+   "text": "Seller hereby agrees that, during the Restricted Period, it will not, directly or indirectly, disclose to anyone, or use or otherwise exploit for its own benefit or for the benefit of anyone other than Purchaser, any Confidential Information, except as permitted by Section 5 of this Agreement. "
+  },
+  {
+   "id": "s58",
+   "text": "Notwithstanding the foregoing, Seller may make disclosure of Confidential Information if Seller reasonably concludes that public disclosure of Confidential Information is required by applicable legal requirements and Seller "
+  },
+  {
+   "id": "s59",
+   "text": "(i) gives Purchaser written notice of such proposed disclosure as far in advance of such disclosure as is reasonably practicable, "
+  },
+  {
+   "id": "s60",
+   "text": "(ii) cooperates reasonably with Purchaser in its efforts to protect the information from disclosure, including, without limitation, assisting Purchaser in obtaining, at Purchaser’s expense, an appropriate protective order or other reliable assurance that confidential treatment will be accorded such information, and "
+  },
+  {
+   "id": "s61",
+   "text": "(iii) limits its disclosure to the minimum required by applicable legal requirements unless Purchaser agrees in writing to a greater level of disclosure."
+  },
+  {
+   "id": "s63",
+   "text": "5. Permitted Activities. "
+  },
+  {
+   "id": "s64",
+   "text": "The restrictions set forth in Sections 2, 3 and 4 of this Agreement shall not apply to Permitted Activities or to actions taken by Seller to the extent that such actions are expressly approved in writing by Purchaser."
+  },
+  {
+   "id": "s66",
+   "text": "6. Representations and Warranties. "
+  },
+  {
+   "id": "s67",
+   "text": "Seller represents and warrants that this Agreement is a legal, valid and binding obligation, enforceable against Seller in accordance with its terms."
+  },
+  {
+   "id": "s69",
+   "text": "7. Waivers. "
+  },
+  {
+   "id": "s70",
+   "text": "Neither party will be deemed as a consequence of any act, delay, failure, omission, forbearance or other indulgences granted from time to time by it, or for any other reason "
+  },
+  {
+   "id": "s71",
+   "text": "(a) to have waived, or to be estopped from exercising, any of its rights or remedies"
+  },
+  {
+   "id": "s72",
+   "text": "under this Agreement or "
+  },
+  {
+   "id": "s73",
+   "text": "(b) to have modified, changed, amended, terminated, rescinded or superseded any of the terms of this Agreement."
+  },
+  {
+   "id": "s75",
+   "text": "8. Injunctive Relief. "
+  },
+  {
+   "id": "s76",
+   "text": "Seller acknowledges that "
+  },
+  {
+   "id": "s77",
+   "text": "(i) any violation of this Agreement will result in irreparable injury to Purchaser, "
+  },
+  {
+   "id": "s78",
+   "text": "(ii) damages at law would not be reasonable or adequate compensation to Purchaser for violation of this Agreement, and "
+  },
+  {
+   "id": "s79",
+   "text": "(iii) Purchaser shall be entitled to have the provisions of this Agreement specifically enforced by preliminary and permanent injunctive relief without the necessity of proving actual damages and without posting bond or other security as well as to an equitable accounting of all earnings, profits and other benefits arising out of any such violation."
+  },
+  {
+   "id": "s81",
+   "text": "9. Notices. "
+  },
+  {
+   "id": "s82",
+   "text": "All notices and other communications hereunder shall be in writing and shall be deemed given if "
+  },
+  {
+   "id": "s83",
+   "text": "(a) delivered by hand, "
+  },
+  {
+   "id": "s84",
+   "text": "(b) mailed by registered or certified mail (return receipt requested), "
+  },
+  {
+   "id": "s85",
+   "text": "(c) by deposit with a nationally recognized courier for next business day delivery, or "
+  },
+  {
+   "id": "s86",
+   "text": "(d) faxed and immediately confirmed both orally and in writing, to the parties at the following addresses (or at such other addresses for a party as shall be specified by like notice) and shall be deemed given on the date on which so hand-delivered or so telecommunicated or the next business day following deposit with such courier or on the third business day following the date on which so mailed, if deposited in a regularly-maintained receptacle for United States mail:"
+  },
+  {
+   "id": "s88",
+   "text": "To Seller:"
+  },
+  {
+   "id": "s89",
+   "text": "Springs Global US, Inc."
+  },
+  {
+   "id": "s90",
+   "text": "205 North White Street"
+  },
+  {
+   "id": "s91",
+   "text": "Fort Mill, South Carolina 29715"
+  },
+  {
+   "id": "s92",
+   "text": "Attn: Mr. Tom O’Connor"
+  },
+  {
+   "id": "s93",
+   "text": "Fax: "
+  },
+  {
+   "id": "s94",
+   "text": "(803) 547-1688"
+  },
+  {
+   "id": "s96",
+   "text": "with a copy to (which shall not constitute notice to Seller):"
+  },
+  {
+   "id": "s97",
+   "text": "Springs Global US, Inc."
+  },
+  {
+   "id": "s98",
+   "text": "205 North White Street"
+  },
+  {
+   "id": "s99",
+   "text": "Fort Mill, South Carolina 29715"
+  },
+  {
+   "id": "s100",
+   "text": "Attn: Legal Department"
+  },
+  {
+   "id": "s101",
+   "text": "Fax: "
+  },
+  {
+   "id": "s102",
+   "text": "(803) 547-3766"
+  },
+  {
+   "id": "s104",
+   "text": "To Purchaser:"
+  },
+  {
+   "id": "s105",
+   "text": "Crown Crafts Infant Products, Inc."
+  },
+  {
+   "id": "s106",
+   "text": "916 S. Burnside Avenue"
+  },
+  {
+   "id": "s107",
+   "text": "Gonzales, Louisiana 70737"
+  },
+  {
+   "id": "s108",
+   "text": "Attn: Mr. E. Randall Chestnut"
+  },
+  {
+   "id": "s109",
+   "text": "Fax: "
+  },
+  {
+   "id": "s110",
+   "text": "(225) 647-9112"
+  },
+  {
+   "id": "s112",
+   "text": "with a copy to (which shall not constitute notice to Purchaser):"
+  },
+  {
+   "id": "s113",
+   "text": "Rogers & Hardin LLP 2700 International Tower"
+  },
+  {
+   "id": "s114",
+   "text": "229 "
+  },
+  {
+   "id": "s115",
+   "text": "Peachtree Street, NE"
+  },
+  {
+   "id": "s116",
+   "text": "Atlanta, Georgia 30303"
+  },
+  {
+   "id": "s117",
+   "text": "Attn: Steven E. Fox, Esq."
+  },
+  {
+   "id": "s118",
+   "text": "Fax: "
+  },
+  {
+   "id": "s119",
+   "text": "(404) 525-2224"
+  },
+  {
+   "id": "s121",
+   "text": "10. Successors in Interest. "
+  },
+  {
+   "id": "s122",
+   "text": "This Agreement shall be binding upon and shall inure to the benefit of the parties hereto and their successors and assigns, and any reference to a party hereto shall also be a reference to any such successor or assign."
+  },
+  {
+   "id": "s124",
+   "text": "11. Number; Gender. "
+  },
+  {
+   "id": "s125",
+   "text": "Whenever the context so requires, the singular number shall include the plural and the plural shall include the singular, and the gender of any pronoun shall include the other genders."
+  },
+  {
+   "id": "s127",
+   "text": "12. Captions. "
+  },
+  {
+   "id": "s128",
+   "text": "The titles, captions and table of contents contained in this Agreement are inserted herein only as a matter of convenience and for reference and in no way define, limit, extend or describe the scope of this Agreement or the intent of any provision hereof. "
+  },
+  {
+   "id": "s129",
+   "text": "Unless otherwise specified to the contrary, all references to Sections are references to Sections of this Agreement."
+  },
+  {
+   "id": "s131",
+   "text": "13. Governing Law. "
+  },
+  {
+   "id": "s132",
+   "text": "This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware without regard to principles of conflicts of laws."
+  },
+  {
+   "id": "s134",
+   "text": "14. Waivers and Amendments. "
+  },
+  {
+   "id": "s135",
+   "text": "Any term or provision of this Agreement may be waived at any time by the party that is entitled to the benefits thereof, and any term or provision of this Agreement may be amended or supplemented at any time by the mutual consent of the parties hereto, except that any waiver of any term or condition, or any amendment or supplementation, of this Agreement must be in writing. "
+  },
+  {
+   "id": "s136",
+   "text": "A waiver of any breach or failure to enforce any of the terms or conditions of this Agreement shall not in any way affect, limit or waive a party’s rights hereunder at any time to enforce strict compliance thereafter with every term or condition of this Agreement."
+  },
+  {
+   "id": "s138",
+   "text": "15. Entire Agreement. "
+  },
+  {
+   "id": "s139",
+   "text": "This Agreement constitutes the entire agreement, and supersedes all other prior agreements and understandings, both written and oral, among the parties, or any of them with respect to the subject matter hereof."
+  },
+  {
+   "id": "s141",
+   "text": "16. Severability. "
+  },
+  {
+   "id": "s142",
+   "text": "Any provision hereof which is prohibited or unenforceable in any jurisdiction will, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction will not invalidate or render unenforceable such provision in any other jurisdiction. "
+  },
+  {
+   "id": "s143",
+   "text": "To the extent permitted by law, the parties hereto waive any provision of law which renders any such provision prohibited or unenforceable in any respect. "
+  },
+  {
+   "id": "s144",
+   "text": "The parties acknowledge and agree that in the event that any provision of this Agreement should ever be deemed to exceed the time, geographic, product or any other limitations permitted by applicable law, it is their intent that any invalid, prohibited or unenforceable term or provision herein be reformable by the reviewing court to the fullest extent permitted by applicable law."
+  },
+  {
+   "id": "s146",
+   "text": "17. Counterparts. "
+  },
+  {
+   "id": "s147",
+   "text": "This Agreement may be executed in one or more counterparts, all of which shall be considered one and the same agreement. "
+  },
+  {
+   "id": "s148",
+   "text": "Executed counterparts may be delivered by facsimile transmission or by other electronic communication."
+  },
+  {
+   "id": "s150",
+   "text": "18. Enforcement of Certain Rights. "
+  },
+  {
+   "id": "s151",
+   "text": "Nothing expressed or implied in this Agreement is intended, or shall be construed, to confer upon or give any Person other than the parties hereto, and their successors or assigns, any rights, remedies, obligations or liabilities under or by reason of this Agreement, or result in such Person being deemed a third party beneficiary of this Agreement."
+  },
+  {
+   "id": "s152",
+   "text": "[Signature page follows.]"
+  },
+  {
+   "id": "s154",
+   "text": "IN WITNESS WHEREOF, Seller and Purchaser have each caused this Agreement to be executed and delivered as of the date first written above."
+  },
+  {
+   "id": "s156",
+   "text": "SELLER:"
+  },
+  {
+   "id": "s158",
+   "text": "SPRINGS GLOBAL US, INC."
+  },
+  {
+   "id": "s160",
+   "text": "By: /s/ Flavio R. Barbosa"
+  },
+  {
+   "id": "s162",
+   "text": "Name: Flavio R. Barbosa"
+  },
+  {
+   "id": "s164",
+   "text": "Title: EVP & CFO"
+  },
+  {
+   "id": "s166",
+   "text": "PURCHASER:"
+  },
+  {
+   "id": "s168",
+   "text": "CROWN CRAFTS INFANT PRODUCTS, INC."
+  },
+  {
+   "id": "s170",
+   "text": "By: /s/ E. Randall Chestnut"
+  },
+  {
+   "id": "s172",
+   "text": "Name: "
+  },
+  {
+   "id": "s173",
+   "text": "E. Randall Chestnut"
+  },
+  {
+   "id": "s175",
+   "text": "Title: "
+  },
+  {
+   "id": "s176",
+   "text": "Vice President"
+  }
+ ]
+}

@@ -1,0 +1,329 @@
+{
+ "id": "N451",
+ "revision": 1,
+ "title": "1042282_0000893220-02-000791_e61414toexv99wxdywx1y.txt",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 451,
+  "type": "sec-text",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001042282/000089322002000791/0000893220-02-000791.txt"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "NOVELL MUTUAL NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "Effective Date: January 30, 2002"
+  },
+  {
+   "id": "s2",
+   "text": "Company: Silver Stream Software"
+  },
+  {
+   "id": "s3",
+   "text": "Address: 2 Federal Street"
+  },
+  {
+   "id": "s4",
+   "text": "City: Billerica,"
+  },
+  {
+   "id": "s5",
+   "text": "State/Zip: MA 01821"
+  },
+  {
+   "id": "s6",
+   "text": "Novel Contact Person:"
+  },
+  {
+   "id": "s7",
+   "text": "Name: Bill Smith"
+  },
+  {
+   "id": "s8",
+   "text": "Phone: "
+  },
+  {
+   "id": "s9",
+   "text": "(617) 914-8312 Fax: "
+  },
+  {
+   "id": "s10",
+   "text": "(801) 365-6265"
+  },
+  {
+   "id": "s11",
+   "text": "Company Contact Person:"
+  },
+  {
+   "id": "s12",
+   "text": "Name: CRAIG DYNES"
+  },
+  {
+   "id": "s13",
+   "text": "Phone: "
+  },
+  {
+   "id": "s14",
+   "text": "(978) 262-3441"
+  },
+  {
+   "id": "s15",
+   "text": "In order to protect certain Confidential Information which the parties desire to disclose hereunder, Novell, Inc. (\"Novell\") and the \"Company\" identified above agree to the following terms and conditions. "
+  },
+  {
+   "id": "s16",
+   "text": "The terms Discloser and Recipient as used herein apply to both parties to this Agreement in their respective roles as discloser of Confidential Information and recipient of Confidential Information."
+  },
+  {
+   "id": "s17",
+   "text": "1. Confidential Information. "
+  },
+  {
+   "id": "s18",
+   "text": "The \"Confidential Information\" of the respective pathos disclosed under this Agreement is described as follows:"
+  },
+  {
+   "id": "s19",
+   "text": "Novell: "
+  },
+  {
+   "id": "s20",
+   "text": "Any information and materials disclosed in relation to a potential business transaction between the parties."
+  },
+  {
+   "id": "s21",
+   "text": "Company: Any information and materials disclosed in relation to a potential business transaction between the parties."
+  },
+  {
+   "id": "s22",
+   "text": "Confidential Information may be disclosed in oral/verbal or tangible form. "
+  },
+  {
+   "id": "s23",
+   "text": "Discloser shall mark all Confidential Information disclosed in tangible form with a restrictive legend. "
+  },
+  {
+   "id": "s24",
+   "text": "Designated below is each party's representative for coordinating the exchange of Confidential Information."
+  },
+  {
+   "id": "s25",
+   "text": "2. Obligation of Confidentiality. "
+  },
+  {
+   "id": "s26",
+   "text": "For a period of three (3) years from the date of disclosure, Recipient agrees to use the same care and discretion to avoid disclosure, publication, or dissemination of Discloser's Confidential Information as it uses with its own similar information that it does not wish to disclose publish, or disseminate, but in no event shall Recipient use less than reasonable care to protect Discloser's Confidential Information. "
+  },
+  {
+   "id": "s27",
+   "text": "Recipient may disclose Confidential Information to its employees and information which may be retained in non-tangible form by persons who have had access to the Confidential Information, including without limitation general ideas, concepts, know-how provided that prior agreement with such parties sufficient to require that party to treat the Confidential Information in accordance with this Agreement."
+  },
+  {
+   "id": "s28",
+   "text": "3. Exception. "
+  },
+  {
+   "id": "s29",
+   "text": "No obligation of confidentiality applies to a Confidential Information that Recipient can show: "
+  },
+  {
+   "id": "s30",
+   "text": "(i) is or becomes, publicly available without breach of this Agreement but only from such date as it becomes so available; "
+  },
+  {
+   "id": "s31",
+   "text": "(ii) was rightfully in the possession of Recipient without obligation confidentiality prior to receipt thereof from Discloser "
+  },
+  {
+   "id": "s32",
+   "text": "(iii) was rightfully disclosed to Recipient by a third party with obligation of confidentiality; "
+  },
+  {
+   "id": "s33",
+   "text": "(iv) is independently developed Recipient without use of the Confidential Information; or "
+  },
+  {
+   "id": "s34",
+   "text": "(v) disclosed by Recipient with Discloser's prior written consent."
+  },
+  {
+   "id": "s35",
+   "text": "4. Recipient may use the Confidential Information solely for evaluation purposes in connection with Recipient business discussions with Discloser. "
+  },
+  {
+   "id": "s36",
+   "text": "If software is provided Recipient under this Agreement, Recipient agrees not to reverse compile or disassemble the software to discover the human perceivable portions of the code."
+  },
+  {
+   "id": "s37",
+   "text": "5. Ownership: All Confidential Information remains the property of Disclosure and/or its licensors."
+  },
+  {
+   "id": "s38",
+   "text": "6. Freedom of Use. Notwithstanding anything to the contrary, Recipient shall be free to use for any purposes the Residuals resulting from access to or work with Discloser's Confidential Information. "
+  },
+  {
+   "id": "s39",
+   "text": "However, the foregoing does not give Recipient the right to disclose (except as set forth in Section 3) the financial, statistical, or personnel information or the business plans of Discloser, and the foregoing shall not be deemed to grant to either party a license under the other party's copyright or patents. "
+  },
+  {
+   "id": "s40",
+   "text": "The term \"Residuals\" means information which may be retained in non-tangible form by person who have had access to the Confidential Information, including without limitation general ideas, concepts, know-how or techniques contained therein. "
+  },
+  {
+   "id": "s41",
+   "text": "Neither party shall have any obligation to limit or restrict the assignment or reassignment of personnel."
+  },
+  {
+   "id": "s42",
+   "text": "Except as otherwise provided in this Agreement, the parties acknowledge that the communications hereunder will not serve to impair the right of either party to independently develop, make, use, procure or market products or services now or in the future that may be similar to or competitive with those offered by Discloser, nor require Recipient to disclose any planning or other information to Discloser. "
+  },
+  {
+   "id": "s43",
+   "text": "This Section shall survive termination of this Agreement."
+  },
+  {
+   "id": "s44",
+   "text": "7. Termination. "
+  },
+  {
+   "id": "s45",
+   "text": "This Agreement shall begin on the Effective Date above. "
+  },
+  {
+   "id": "s46",
+   "text": "Either party may terminate this Agreement upon written notice to the other. "
+  },
+  {
+   "id": "s47",
+   "text": "Upon termination of this Agreement, or earlier upon Discloser's request, Recipient shall promptly return or destroy all documents and tangible items in its possession which contain any part of the Confidential Information of Discloser. "
+  },
+  {
+   "id": "s48",
+   "text": "In the event of termination of this Agreement, all obligations of confidentiality shall survive and continue to bind Recipient in accordance with their terms."
+  },
+  {
+   "id": "s49",
+   "text": "8. Disclaimer. "
+  },
+  {
+   "id": "s50",
+   "text": "All Confidential Information is provided \"AS IS\", WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED. "
+  },
+  {
+   "id": "s51",
+   "text": "Discloser does not represent or warrant the accuracy or completeness of the Confidential Information, that it will release any product related to the Confidential Information, or that target dates will be met. "
+  },
+  {
+   "id": "s52",
+   "text": "The entire risk arising out of the use of the Confidential Information remains with Recipient. "
+  },
+  {
+   "id": "s53",
+   "text": "Discloser may change or cancel its plans at any time."
+  },
+  {
+   "id": "s54",
+   "text": "9. Limitation of Liability. "
+  },
+  {
+   "id": "s55",
+   "text": "IN NO EVENT SHALL DISCLOSER BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING WITHOUT LIMITATION DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, OR OTHER PECUNIARY LOSS) "
+  },
+  {
+   "id": "s56",
+   "text": "ARISING OUT OF RECIPIENTS USE OF OR INABILITY TO USE THE CONFIDENTIAL INFORMATION."
+  },
+  {
+   "id": "s57",
+   "text": "10. General."
+  },
+  {
+   "id": "s58",
+   "text": "a. This Agreement shall be governed and construed in accordance with the laws of Utah (without regard to conflicts of laws provisions). "
+  },
+  {
+   "id": "s59",
+   "text": "In any legal proceeding arising out of this Agreement, the prevailing party shall be entitled to an award of its costs and reasonable attorneys' fees. "
+  },
+  {
+   "id": "s60",
+   "text": "The parties agree that Utah state and federal courts shall have jurisdiction and venue in any such proceeding."
+  },
+  {
+   "id": "s61",
+   "text": "b. Export Constraints. "
+  },
+  {
+   "id": "s62",
+   "text": "Recipient certifies that the Confidential Information will only be used for the purposes expressly stated herein and will not be rented, leased, sold, sublicensed, assigned, or otherwise transferred. "
+  },
+  {
+   "id": "s63",
+   "text": "Recipient shall adhere to the U.S. Export Administration laws and regulations and shall not export or re-export any technical data or products received from Discloser or the direct product of such technical data to any proscribed country listed in the U.S. Export Administration regulations unless properly authorized by the U.S. government."
+  },
+  {
+   "id": "s64",
+   "text": "c. Neither party may assign its rights or delegate its duties or obligations under this Agreement without prior written consent, which shall not be unreasonably withheld. "
+  },
+  {
+   "id": "s65",
+   "text": "The parties acknowledge that they have read this Agreement, understand it, and agree to be bound by the terms and conditions."
+  },
+  {
+   "id": "s66",
+   "text": "Further, they agree that the complete and exclusive statement of the agreement between the parties relating to this subject shall consist of this Agreement. "
+  },
+  {
+   "id": "s67",
+   "text": "Any reproduction of this Agreement by reliable means will be considered an original of this document. "
+  },
+  {
+   "id": "s68",
+   "text": "This Agreement is executed in English."
+  },
+  {
+   "id": "s69",
+   "text": "COMPANY: SILVERSTRAM SOFTWARE, INC."
+  },
+  {
+   "id": "s70",
+   "text": "SIGNATURE: /s/ Craig Dynes"
+  },
+  {
+   "id": "s71",
+   "text": "NAME: CRAIG DYNES"
+  },
+  {
+   "id": "s72",
+   "text": "TITLE: VP/CFO"
+  },
+  {
+   "id": "s73",
+   "text": "DATE: January 30, 2002"
+  },
+  {
+   "id": "s74",
+   "text": "NOVELL, INC."
+  },
+  {
+   "id": "s75",
+   "text": "SIGNATURE: /s/ Bill Smith"
+  },
+  {
+   "id": "s76",
+   "text": "NAME: BILL SMITH"
+  },
+  {
+   "id": "s77",
+   "text": "TITLE: VP, MERGERS & ACQUISITIONS"
+  },
+  {
+   "id": "s78",
+   "text": "DATE: January 30, 2002"
+  }
+ ]
+}

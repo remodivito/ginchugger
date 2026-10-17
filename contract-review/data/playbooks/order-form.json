@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "id": "order-form",
+  "title": "Order forms (demonstration)",
+  "appliesTo": {
+    "label": "Customer order forms on our paper",
+    "phrases": [
+      "order form",
+      "customer order",
+      "subscription order"
+    ]
+  },
+  "provenance": "Demonstration only: written by hand for the prototype on 5 October 2026 for a fictional software supplier's order form returned by a customer. Illustrative positions, not any organisation's policy and not lawyer validated.",
+  "rules": [
+    {
+      "id": "PAY-01",
+      "title": "Known payment period",
+      "topic": "payment",
+      "guidance": "Undisputed invoices due in 30 days; up to 60 days is within the ceiling. Missing controlling schedules prevent a conclusion.",
+      "conditions": {
+        "maxDays": 60,
+        "preferredDays": 30
+      },
+      "fallback": "Request the controlling payment schedule or propose no more than 60 days.",
+      "enabled": true,
+      "preferred": "Undisputed invoices due within 30 days of the invoice date.",
+      "acceptable": "Up to 60 days.",
+      "escalation": "More than 60 days, or a due date set by a schedule or document not supplied: the finance director decides."
+    },
+    {
+      "id": "CAP-01",
+      "title": "Read the cap with its exceptions",
+      "topic": "liability",
+      "guidance": "General supplier liability capped at fees paid or payable in the preceding 12 months, up to twice that amount. Contractual carve-outs must not create unlimited exposure.",
+      "conditions": {
+        "maxMultiplier": 2,
+        "periodMonths": 12
+      },
+      "fallback": "Bring contractual exceptions within the cap or ask for a decision.",
+      "enabled": true,
+      "preferred": "Each party's liability capped at the fees paid or payable in the preceding 12 months.",
+      "acceptable": "Up to twice that amount.",
+      "escalation": "A cap above twice the fees, or a contractual carve-out from the cap: the general counsel decides.",
+      "hardLine": "Uncapped contractual liability, other than liability the law does not allow to be limited."
+    },
+    {
+      "id": "IND-01",
+      "title": "Bounded supplier indemnity",
+      "topic": "indemnity",
+      "guidance": "Supplier indemnity limited to third-party IP infringement by the product with exclusions and a defense procedure. Broad breach or first-party indemnities need judgment.",
+      "conditions": {
+        "thirdPartyIpOnly": true
+      },
+      "fallback": "Narrow the indemnity scope and review its cap treatment together.",
+      "enabled": true,
+      "preferred": "The supplier defends third-party claims that its software infringes intellectual property rights, with exclusions and a defence procedure.",
+      "escalation": "Any wider indemnity (breach of contract, data, first-party losses): the general counsel decides."
+    },
+    {
+      "id": "REN-01",
+      "title": "Automatic renewal",
+      "topic": "renewal",
+      "guidance": "Subscriptions renew automatically for further 12-month terms unless either party gives notice of non-renewal at least 60 days before the end of the current term.",
+      "conditions": {},
+      "fallback": "Keep automatic renewal and offer a notice period of no less than 30 days.",
+      "enabled": true,
+      "preferred": "Automatic 12-month renewal; 60 days' notice of non-renewal.",
+      "acceptable": "A notice period of no less than 30 days.",
+      "escalation": "No automatic renewal, or renewal at the customer's option only: the account owner and the reviewing lawyer decide.",
+      "rationale": "Automatic renewal keeps the service running without a new order each year; the notice period gives the customer a fair chance to leave."
+    },
+    {
+      "id": "PRI-01",
+      "title": "Price increases at renewal",
+      "topic": "pricing",
+      "guidance": "The supplier may increase fees for a renewal term on at least 90 days' written notice before that term begins, capped at 5% of the previous term's fees.",
+      "conditions": {},
+      "fallback": "Accept a lower cap of no less than 3%; anything further goes to the sales director.",
+      "enabled": true,
+      "preferred": "Increase at renewal on 90 days' notice, capped at 5%.",
+      "acceptable": "A lower cap of no less than 3%, or fees fixed for the first term only.",
+      "escalation": "Fees fixed beyond the first term, or a cap below 3%: the sales director decides."
+    },
+    {
+      "id": "TFC-01",
+      "title": "No termination for convenience during a term",
+      "topic": "termination",
+      "guidance": "Neither party may terminate for convenience during a subscription term. Either party may terminate for a material breach that is not remedied within 30 days of notice.",
+      "conditions": {},
+      "fallback": "Offer non-renewal at the end of the term instead of termination for convenience.",
+      "enabled": true,
+      "preferred": "No termination for convenience during a term; termination for unremedied material breach on 30 days' notice.",
+      "escalation": "A customer request to terminate for convenience: the general counsel decides.",
+      "hardLine": "A refund of prepaid fees on termination for convenience, unless the general counsel approves it in writing.",
+      "rationale": "Subscription pricing assumes the customer stays for the term."
+    },
+    {
+      "id": "LAW-01",
+      "title": "Governing law and courts",
+      "topic": "governing-law",
+      "guidance": "English law governs the order form and any dispute arising from it, and the courts of England and Wales have exclusive jurisdiction.",
+      "conditions": {},
+      "fallback": "Keep English law; ask the general counsel before agreeing anything else.",
+      "enabled": true,
+      "preferred": "English law; exclusive jurisdiction of the courts of England and Wales.",
+      "escalation": "Any other governing law or courts: the general counsel decides."
+    },
+    {
+      "id": "PRE-01",
+      "title": "Customer terms never override the order form",
+      "topic": "precedence",
+      "guidance": "The order form and our own terms are the whole agreement. Terms in a customer's purchase order, supplier portal or other document never apply. An order form that tries to override our main terms is resisted unless it names the clause it changes and the change is within this playbook.",
+      "conditions": {},
+      "fallback": "Restore the sentence excluding customer purchase-order terms.",
+      "enabled": true,
+      "preferred": "No terms in any purchase order or other document issued by the customer apply.",
+      "hardLine": "Customer purchasing terms prevailing over the order form.",
+      "wording": "No terms in any purchase order or other document issued by the Customer apply.",
+      "rationale": "Purchase orders are issued automatically with pre-printed terms nobody negotiated; letting them prevail would replace the agreed terms without anyone reading them."
+    }
+  ]
+}

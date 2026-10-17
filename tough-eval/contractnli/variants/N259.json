@@ -1,0 +1,125 @@
+{
+ "id": "N259",
+ "revision": 1,
+ "title": "Non-Disclosure-Agreement_6.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 259,
+  "type": "search-pdf",
+  "url": "https://carter-logistics.com/wp-content/uploads/Non-Disclosure-Agreement.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "Mutual Non-Disclosure "
+  },
+  {
+   "id": "s1",
+   "text": "Agreement"
+  },
+  {
+   "id": "s2",
+   "text": "THIS AGREEMENT, made and entered into as of the last date written below, by and between "
+  },
+  {
+   "id": "s3",
+   "text": "____________________________________________ and Carter Logistics, LLC."
+  },
+  {
+   "id": "s4",
+   "text": "WHEREAS, it may be necessary for the transmission of information proprietary to one of the parties to the other party during cooperation between parties; and"
+  },
+  {
+   "id": "s5",
+   "text": "WHEREAS, the parties desire to protect said transmitted proprietary information while ensuring the free flow of information between the parties necessary for said cooperative effort:"
+  },
+  {
+   "id": "s6",
+   "text": "NOW, THEREFORE, it is mutually agreed as follows:"
+  },
+  {
+   "id": "s7",
+   "text": "1. Proprietary information is any information transmitted from one party to the other with the exceptions:"
+  },
+  {
+   "id": "s8",
+   "text": "a. Information that is already known to the party receiving the information at the time the information is transmitted, or becomes known by the receiving party independently of the transmitting party through no wrongful act of said receiving party."
+  },
+  {
+   "id": "s9",
+   "text": "b. Information that is explicitly approved for release by the party transmitting the information."
+  },
+  {
+   "id": "s10",
+   "text": "c. Information disclosed in a product marketed by the party transmitting the information."
+  },
+  {
+   "id": "s11",
+   "text": "d. Information that is known or available to the general public or becomes known or available to the general public through no wrongful act on the part of the receiving party."
+  },
+  {
+   "id": "s12",
+   "text": "2. The parties agree not to use the proprietary information to the detriment of the transmitting party. "
+  },
+  {
+   "id": "s13",
+   "text": "The parties also agree to maintain any such proprietary information received from the other party in confidence and agree not to disclose any such information to persons not having a need to know the information consistent with the purpose of this agreement until information is publicly disclosed by the party transmitting the information."
+  },
+  {
+   "id": "s14",
+   "text": "3. All materials transmitted from one party to the other and containing proprietary information shall remain the property of the transferor and shall be returned upon request, and receipt of such materials agrees not to reproduce said materials without written consent of the transferor of the materials."
+  },
+  {
+   "id": "s15",
+   "text": "4. Nothing herein shall be construed as granting one party a license under any patents, copyrights, or trademarks owned or controlled by the other party."
+  },
+  {
+   "id": "s16",
+   "text": "5. The parties agree to inform all personnel receiving the proprietary information of the terms of this agreement."
+  },
+  {
+   "id": "s17",
+   "text": "Carter Logistics, LLC. "
+  },
+  {
+   "id": "s18",
+   "text": "Carrier_____________________________"
+  },
+  {
+   "id": "s19",
+   "text": "Signature________________________________ "
+  },
+  {
+   "id": "s20",
+   "text": "Signature___________________________"
+  },
+  {
+   "id": "s21",
+   "text": "Printed "
+  },
+  {
+   "id": "s22",
+   "text": "Name____________________________ "
+  },
+  {
+   "id": "s23",
+   "text": "_ Printed Name________________________"
+  },
+  {
+   "id": "s24",
+   "text": "Title____________________________________ "
+  },
+  {
+   "id": "s25",
+   "text": "Title_______________________________"
+  },
+  {
+   "id": "s26",
+   "text": "Date____________________________________ "
+  },
+  {
+   "id": "s27",
+   "text": "Date_______________________________"
+  }
+ ]
+}

@@ -1,0 +1,189 @@
+{
+ "id": "N226",
+ "revision": 1,
+ "title": "NDA_Sample.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 226,
+  "type": "search-pdf",
+  "url": "http://www.amemoryjog.com/NDA_Sample.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "Non Disclosure Agreement for [Your Product Name] Mobile Application Development"
+  },
+  {
+   "id": "s1",
+   "text": "This Nondisclosure Agreement (the \"Agreement\") is entered into by and between ____["
+  },
+  {
+   "id": "s2",
+   "text": "Your Company Name]____ with its principal offices at ____[Your Company Address]__, (\"Disclosing Party\") and ______[Sub Contractor "
+  },
+  {
+   "id": "s3",
+   "text": "Name]__________ located at _______[Sub Contractor Address]______ (\"Receiving Party\") for the purpose of preventing the unauthorized disclosure of confidential information relating to the development of an aMemoryJog Mobile Application as defined below. "
+  },
+  {
+   "id": "s4",
+   "text": "The parties agree to enter into a confidential relationship with respect to the disclosure of certain proprietary and confidential information (\"Confidential Information\")."
+  },
+  {
+   "id": "s5",
+   "text": "1. Definition of Confidential Information. "
+  },
+  {
+   "id": "s6",
+   "text": "For purposes of this Agreement, \"Confidential Information\" shall include all information or material that has or could have commercial value or other utility in the business in which Disclosing Party is engaged. "
+  },
+  {
+   "id": "s7",
+   "text": "If Confidential Information is in written form, the Disclosing Party shall label or stamp the materials with the word \"Confidential\" or some similar warning. "
+  },
+  {
+   "id": "s8",
+   "text": "If Confidential Information is transmitted orally, the Disclosing Party shall promptly provide a writing indicating that such oral communication constituted Confidential Information."
+  },
+  {
+   "id": "s9",
+   "text": "2. Exclusions from Confidential Information. "
+  },
+  {
+   "id": "s10",
+   "text": "Receiving Party's obligations under this Agreement do not extend to information that is: "
+  },
+  {
+   "id": "s11",
+   "text": "(a) publicly known at the time of"
+  },
+  {
+   "id": "s12",
+   "text": "disclosure or subsequently becomes publicly known through no fault of the Receiving Party; "
+  },
+  {
+   "id": "s13",
+   "text": "(b) discovered or created by the Receiving Party before disclosure by Disclosing Party; "
+  },
+  {
+   "id": "s14",
+   "text": "(c) learned by the Receiving Party through legitimate means other than from the Disclosing Party or Disclosing Party's representatives; or "
+  },
+  {
+   "id": "s15",
+   "text": "(d) is disclosed by Receiving Party with Disclosing Party's prior written approval."
+  },
+  {
+   "id": "s16",
+   "text": "3. Obligations of Receiving Party. "
+  },
+  {
+   "id": "s17",
+   "text": "Receiving Party shall hold and maintain the Confidential Information in strictest confidence for the sole and exclusive benefit of the Disclosing Party. "
+  },
+  {
+   "id": "s18",
+   "text": "Receiving Party shall carefully restrict access to Confidential Information to employees, contractors and third parties as is reasonably required and shall require those persons to sign nondisclosure restrictions at least as protective as those in this Agreement. "
+  },
+  {
+   "id": "s19",
+   "text": "Receiving Party shall not, without prior written approval of Disclosing Party, use for Receiving Party's own benefit, publish, copy, or otherwise disclose to others, or permit the use by others for their benefit or to the detriment of Disclosing Party, any Confidential Information. "
+  },
+  {
+   "id": "s20",
+   "text": "Receiving Party shall return to Disclosing Party any and all records, notes, and other written, printed, or tangible materials in its possession pertaining to Confidential Information immediately if Disclosing Party requests it in writing."
+  },
+  {
+   "id": "s21",
+   "text": "4. Time Periods. "
+  },
+  {
+   "id": "s22",
+   "text": "The nondisclosure provisions of this Agreement shall survive the termination of this Agreement and Receiving Party's duty to hold Confidential Information in confidence shall remain in effect until the Confidential Information no longer qualifies as a trade secret or until Disclosing Party sends Receiving Party written notice releasing Receiving Party from this Agreement, whichever occurs first."
+  },
+  {
+   "id": "s23",
+   "text": "5. Relationships. "
+  },
+  {
+   "id": "s24",
+   "text": "Nothing contained in this Agreement shall be deemed to constitute either party a partner, joint venture or employee of the other party for any purpose."
+  },
+  {
+   "id": "s25",
+   "text": "6. Severability. "
+  },
+  {
+   "id": "s26",
+   "text": "If a court finds any provision of this Agreement invalid or unenforceable, the remainder of this Agreement shall be interpreted so as best to effect the intent of the parties."
+  },
+  {
+   "id": "s27",
+   "text": "7. Integration. "
+  },
+  {
+   "id": "s28",
+   "text": "This Agreement expresses the complete understanding of the parties with respect to the subject matter and supersedes all prior proposals, agreements, representations and understandings. "
+  },
+  {
+   "id": "s29",
+   "text": "This Agreement may not be amended except in a writing signed by both parties."
+  },
+  {
+   "id": "s30",
+   "text": "8. Waiver. "
+  },
+  {
+   "id": "s31",
+   "text": "The failure to exercise any right provided in this Agreement shall not be a waiver of prior or subsequent rights."
+  },
+  {
+   "id": "s32",
+   "text": "This Agreement and each party's obligations shall be binding on the representatives, assigns and successors of such party. "
+  },
+  {
+   "id": "s33",
+   "text": "Each party has signed this Agreement through its authorized representative."
+  },
+  {
+   "id": "s34",
+   "text": "________________________________________("
+  },
+  {
+   "id": "s35",
+   "text": "Signature)"
+  },
+  {
+   "id": "s36",
+   "text": "________________________________________ "
+  },
+  {
+   "id": "s37",
+   "text": "(Typed or Printed Name)"
+  },
+  {
+   "id": "s38",
+   "text": "Date: "
+  },
+  {
+   "id": "s39",
+   "text": "___________________________________"
+  },
+  {
+   "id": "s40",
+   "text": "________________________________________ "
+  },
+  {
+   "id": "s41",
+   "text": "(Signature)"
+  },
+  {
+   "id": "s42",
+   "text": "________________________________________ "
+  },
+  {
+   "id": "s43",
+   "text": "(Typed or Printed Name)"
+  }
+ ]
+}

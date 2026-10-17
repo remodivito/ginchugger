@@ -1,0 +1,321 @@
+{
+ "id": "N228",
+ "revision": 1,
+ "title": "NDA_V3.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 228,
+  "type": "search-pdf",
+  "url": "http://www.hysafe.org/download/22/NDA_V3.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "NON DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "This NON DISCLOSURE AGREEMENT is entered into this __________ 2004 (\"Effective Date\") by Forschungszentrum Karlsruhe GmbH, Weberstraße 5, 76133 Karlsruhe, Federal Republic of Germany (hereinafter referred to as \"Forschungszentrum\") acting on its behalf and on behalf of the participants in the EU project HySafe, which are the following"
+  },
+  {
+   "id": "s2",
+   "text": "L’Air Liquide"
+  },
+  {
+   "id": "s3",
+   "text": "Federal Institute for Materials Research and Testing"
+  },
+  {
+   "id": "s4",
+   "text": "BMW "
+  },
+  {
+   "id": "s5",
+   "text": "Forschung und Technik GmbH"
+  },
+  {
+   "id": "s6",
+   "text": "Building Research Establishment Ltd"
+  },
+  {
+   "id": "s7",
+   "text": "Commissariat à l’Energie Atomique"
+  },
+  {
+   "id": "s8",
+   "text": "Det Norske Veritas AS"
+  },
+  {
+   "id": "s9",
+   "text": "Fraunhofer-Gesellschaft zur Foerderung der Angewandten Forschung e.V."
+  },
+  {
+   "id": "s10",
+   "text": "Forschungszentrum "
+  },
+  {
+   "id": "s11",
+   "text": "Juelich GmbH"
+  },
+  {
+   "id": "s12",
+   "text": "GexCon AS"
+  },
+  {
+   "id": "s13",
+   "text": "The United Kingdom’s Health and Safety Laboratory"
+  },
+  {
+   "id": "s14",
+   "text": "Foundation INASMET"
+  },
+  {
+   "id": "s15",
+   "text": "Institut National de l’Environnement industriel et des RISques"
+  },
+  {
+   "id": "s16",
+   "text": "Instituto Superior Technico"
+  },
+  {
+   "id": "s17",
+   "text": "European Commission - Joint Research Centre - Institute for Energy"
+  },
+  {
+   "id": "s18",
+   "text": "National Center for Scientific Research Demokritos"
+  },
+  {
+   "id": "s19",
+   "text": "Norsk Hydro ASA"
+  },
+  {
+   "id": "s20",
+   "text": "Risø National Laboratory"
+  },
+  {
+   "id": "s21",
+   "text": "TNO"
+  },
+  {
+   "id": "s22",
+   "text": "University of Calgary"
+  },
+  {
+   "id": "s23",
+   "text": "University of Pisa"
+  },
+  {
+   "id": "s24",
+   "text": "Universidad Politécnica de Madrid"
+  },
+  {
+   "id": "s25",
+   "text": "University of Ulster"
+  },
+  {
+   "id": "s26",
+   "text": "VOLVO "
+  },
+  {
+   "id": "s27",
+   "text": "Technology Corporation"
+  },
+  {
+   "id": "s28",
+   "text": "Warsaw University of Technology"
+  },
+  {
+   "id": "s29",
+   "text": "and"
+  },
+  {
+   "id": "s30",
+   "text": "Mr./Mrs. …"
+  },
+  {
+   "id": "s31",
+   "text": "(hereinafter referred to as \"Mr./Mrs. …\")"
+  },
+  {
+   "id": "s32",
+   "text": "WHEREAS, Forschungszentrum is Coordinator of the Network of Excellence \"Safety of Hydrogen as an Energy Carrier\" (HySafe), a project in the Sixth Research and Technological Development Framework Programme of the European Community."
+  },
+  {
+   "id": "s33",
+   "text": "WHEREAS, according to Section 5.2.3.8 of the Consortium Agreement concluded between all participants in HySafe, an Advisory Council can be constituted, which consists of distinguished scientists from organisations, companies and universities outside the Network as well as representatives from industry and authorities. "
+  },
+  {
+   "id": "s34",
+   "text": "It advises the Network and makes recommendations on all important matters of substance (e.g. scientific, industry and end user evaluations)."
+  },
+  {
+   "id": "s35",
+   "text": "WHEREAS, Mr./Mrs. … is appointed as a member of the Advisory Council."
+  },
+  {
+   "id": "s36",
+   "text": "WHEREAS, each participant in HySafe may provide own confidential information related to HySafe to the Advisory Council, all such information to be considered as the “Confidential Information”, and whereupon the parties hereto wish to record the terms and conditions upon which this information will be disclosed."
+  },
+  {
+   "id": "s37",
+   "text": "THEREFORE "
+  },
+  {
+   "id": "s38",
+   "text": "it is hereby agreed as follows:"
+  },
+  {
+   "id": "s39",
+   "text": "1 "
+  },
+  {
+   "id": "s40",
+   "text": "In this agreement:"
+  },
+  {
+   "id": "s42",
+   "text": "“Disclosing Party” shall mean any participant in HySafe."
+  },
+  {
+   "id": "s43",
+   "text": "“Recipient” shall mean Mr./Mrs. …."
+  },
+  {
+   "id": "s45",
+   "text": "2 Recipient shall hold the Confidential Information in strict confidence and shall take all reasonable and prudent precautions to prevent the Confidential Information from reaching third parties. "
+  },
+  {
+   "id": "s46",
+   "text": "Recipient shall use the Confidential Information exclusively for HySafe purposes, especially to advice the Governing Board of HySafe."
+  },
+  {
+   "id": "s47",
+   "text": "3 Recipient's obligations under this agreement shall not apply to any information which Recipient can document beyond any reasonable doubt was available to the public or known to or developed by the Recipient prior to the date first above written. "
+  },
+  {
+   "id": "s48",
+   "text": "These obligations shall cease as to any information which Recipient can document thereafter became or becomes available to the public, otherwise than as a result of disclosure by Recipient or was or is disclosed to Recipient by a party unrelated to Recipient, that does not have a nondisclosure obligation with respect to it. "
+  },
+  {
+   "id": "s49",
+   "text": "Moreover, Recipient's obligations under this agreement shall not apply to Confidential Information Recipient has a legal obligation to disclose to public authorities under law, regulation or lawful administrative decision."
+  },
+  {
+   "id": "s50",
+   "text": "4 "
+  },
+  {
+   "id": "s51",
+   "text": "At any time, upon the respective Disclosing Party's request, Recipient shall promptly deliver to the respective Disclosing Party the Confidential Information and all materials relating to or involving Confidential Information (whether prepared by the respective Disclosing Party or otherwise), and will not retain any copies, extracts or other reproductions in whole or in part regarding the Confidential Information. "
+  },
+  {
+   "id": "s52",
+   "text": "The delivery of such material shall not relieve Recipient of its obligation of confidentiality or other obligations hereunder."
+  },
+  {
+   "id": "s53",
+   "text": "5 "
+  },
+  {
+   "id": "s54",
+   "text": "Nothing in this agreement shall be construed as granting Recipient any rights of any kinds in the Confidential Information, by license or otherwise."
+  },
+  {
+   "id": "s55",
+   "text": "6 "
+  },
+  {
+   "id": "s56",
+   "text": "This agreement shall be governed by the laws of Belgium. "
+  },
+  {
+   "id": "s57",
+   "text": "All disputes or differences arising in connection with this agreement which cannot be settled amicably shall be finally settled by arbitration in Brussels under the Rules of Arbitration of the International Chamber of Commerce by one or more arbitrators to be appointed under the terms of those rules. "
+  },
+  {
+   "id": "s58",
+   "text": "In any arbitration in which there are three arbitrators, the chairman shall be of juridical education. "
+  },
+  {
+   "id": "s59",
+   "text": "It shall be conducted in English."
+  },
+  {
+   "id": "s60",
+   "text": "The award of the arbitration will be final and binding upon the parties concerned."
+  },
+  {
+   "id": "s61",
+   "text": "The parties concerned may instead elect to resolve by mediation a dispute or difference arising in connection with this agreement which cannot be settled amicably."
+  },
+  {
+   "id": "s62",
+   "text": "7 Any Disclosing "
+  },
+  {
+   "id": "s63",
+   "text": "Party may act individually in relation to the Recipient under this Non Disclosure Agreement."
+  },
+  {
+   "id": "s64",
+   "text": "8 "
+  },
+  {
+   "id": "s65",
+   "text": "This agreement shall come into force after signature of both parties hereto on the Effective Date and shall expire on February 28, "
+  },
+  {
+   "id": "s66",
+   "text": "2009. The obligations pursuant to Article 2 shall remain valid for the Recipient even after the end of this agreement for a period of five (5) years thereafter."
+  },
+  {
+   "id": "s67",
+   "text": "IN WITNESS WHEREOF, the parties hereto have executed this agreement"
+  },
+  {
+   "id": "s68",
+   "text": "Forschungszentrum "
+  },
+  {
+   "id": "s69",
+   "text": "Karlsruhe GmbH"
+  },
+  {
+   "id": "s70",
+   "text": "_____________________________________"
+  },
+  {
+   "id": "s71",
+   "text": "Heinz-Jürgen FABER Oliver WITTEK"
+  },
+  {
+   "id": "s72",
+   "text": "Central Legal and Insurance Department"
+  },
+  {
+   "id": "s73",
+   "text": "Mr./Mrs. …"
+  },
+  {
+   "id": "s74",
+   "text": "____________________________"
+  },
+  {
+   "id": "s75",
+   "text": "The employer of Mr./Mrs. … hereby confirms that he has taken note of this Non Disclosure Agreement and acknowledges that Confidential Information disclosed to Mr./Mrs. … shall not be used for any internal purposes."
+  },
+  {
+   "id": "s76",
+   "text": "[Company Name]"
+  },
+  {
+   "id": "s77",
+   "text": "____________________________"
+  },
+  {
+   "id": "s78",
+   "text": "_____________________________"
+  }
+ ]
+}

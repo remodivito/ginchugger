@@ -1,0 +1,309 @@
+{
+ "id": "N193",
+ "revision": 1,
+ "title": "NDA%20UDRC%203-way%20Final.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 193,
+  "type": "search-pdf",
+  "url": "https://udrc.eng.ed.ac.uk/sites/udrc.eng.ed.ac.uk/files/publications/NDA%20UDRC%203-way%20Final.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "UNIVERSITY DEFENCE RESEARCH CENTRE FOR SIGNAL PROCESSING"
+  },
+  {
+   "id": "s1",
+   "text": "NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s2",
+   "text": "THIS AGREEMENT is made on the day of 2011"
+  },
+  {
+   "id": "s3",
+   "text": "BETWEEN:"
+  },
+  {
+   "id": "s4",
+   "text": "(1) …………………………………. "
+  },
+  {
+   "id": "s5",
+   "text": "whose registered office is at …………………………………………………….. "
+  },
+  {
+   "id": "s6",
+   "text": "(hereinafter referred to as “The Company”) of one part; and"
+  },
+  {
+   "id": "s7",
+   "text": "(2) ………………………………… "
+  },
+  {
+   "id": "s8",
+   "text": "whose address is at………………………………………………………………… "
+  },
+  {
+   "id": "s9",
+   "text": "(hereinafter referred to as \"The University\") of another part;"
+  },
+  {
+   "id": "s10",
+   "text": "(3) THE SECRETARY OF STATE FOR DEFENCE acting through the Defence Science and Technology Laboratory of Porton Down, Salisbury, Wiltshire SP4 0JQ, England (hereinafter referred to as \"Dstl\");"
+  },
+  {
+   "id": "s11",
+   "text": "(collectively the \"Parties\" or in the singular a \"Party\")."
+  },
+  {
+   "id": "s12",
+   "text": "WHEREAS:"
+  },
+  {
+   "id": "s13",
+   "text": "A. The University is working with Dstl as part of the University Defence Research Centre (UDRC) on signal processing and both possess valuable technical information in the field of signal processing."
+  },
+  {
+   "id": "s14",
+   "text": "B. The Company possesses valuable technical and commercial information relating to signal processing."
+  },
+  {
+   "id": "s15",
+   "text": "C. The Parties desire to discuss and mutually assess and evaluate their valuable technical and commercial information with a view to investigating whether there is a synergy between the Parties’ technical capabilities which might benefit from mutual exploitation (\"the Purpose\")."
+  },
+  {
+   "id": "s16",
+   "text": "D. In order for the Parties to carry out said discussion, assessment and evaluation it is necessary for them to exchange valuable technical and commercial information which they each desire to protect."
+  },
+  {
+   "id": "s17",
+   "text": "NOW IT IS HEREBY AGREED BETWEEN THE PARTIES as follows:"
+  },
+  {
+   "id": "s18",
+   "text": "1. As used in this Agreement the term \"Proprietary Information\" shall mean any information, whether in writing or other documentary form, in oral or visual or machine readable form, or in the form of algorithms, samples or models, disclosed by one Party (the \"Disclosing Party\") to another Party (the \"Receiving Party\") under this Agreement, provided that:"
+  },
+  {
+   "id": "s19",
+   "text": "(a) where such information is in writing or other documentary form, it is clearly and conspicuously marked at the time of disclosure as proprietary or commercially sensitive (for example with a marking such as \"Proprietary\" or \"Commercial-in-Confidence\").; or"
+  },
+  {
+   "id": "s20",
+   "text": "(b) where such information is disclosed in oral or visual or machine readable form, or in the form of samples or models, it is designated proprietary or commercially sensitive at the time of disclosure and is confirmed by the Disclosing Party as such in documentary form within thirty (30) days from its being disclosed, in which event all the protections and restrictions in this Agreement as to the use and disclosure of said Proprietary information shall apply retrospectively during the said period of thirty days."
+  },
+  {
+   "id": "s21",
+   "text": "Proprietary Information shall also include any information which can be obtained by examination, testing or analysis of any hardware, software or material samples provided by the Disclosing Party, notwithstanding that the requirements for marking and designation referred to above shall not have been fulfilled."
+  },
+  {
+   "id": "s22",
+   "text": "2. Subject to the provisions of Clauses 4 and 7 hereof, the Receiving Party undertakes:"
+  },
+  {
+   "id": "s23",
+   "text": "(a) to keep confidential and not disclose to any third party, except with the written permission of the Disclosing Party, any part, or the whole, of any Proprietary Information disclosed to it under this Agreement;"
+  },
+  {
+   "id": "s24",
+   "text": "(b) not to copy Proprietary Information disclosed to it under this Agreement except as is reasonably necessary for the Purpose;"
+  },
+  {
+   "id": "s25",
+   "text": "(c) not to use Proprietary Information disclosed to it under this Agreement other than for the Purpose, except with the prior written permission of the Disclosing Party;"
+  },
+  {
+   "id": "s26",
+   "text": "(d) to restrict access to the Proprietary Information disclosed to it under the terms of this Agreement to those of its employees and officers who need to know the same for the Purpose."
+  },
+  {
+   "id": "s27",
+   "text": "3. The protections and restrictions in this Agreement as to the use and disclosure of Proprietary Information shall not apply to any information which the Receiving Party can show by written and dated or datable material:"
+  },
+  {
+   "id": "s28",
+   "text": "(a) is, at the time of disclosure hereunder, already published or otherwise publicly available; or"
+  },
+  {
+   "id": "s29",
+   "text": "(b) is, after disclosure hereunder, published or becomes available to the public other than by breach of this Agreement; or"
+  },
+  {
+   "id": "s30",
+   "text": "(c) is rightfully in the Receiving Party's possession with rights to use and/or disclose, prior to receipt from the Disclosing Party; or"
+  },
+  {
+   "id": "s31",
+   "text": "(d) is rightfully disclosed to the Receiving Party by a third party with rights to use and/or disclose; or"
+  },
+  {
+   "id": "s32",
+   "text": "(e) is independently developed by or for the Receiving Party without reference or access to Proprietary Information disclosed hereunder; or"
+  },
+  {
+   "id": "s33",
+   "text": "(f) is the subject of a requirement of a court proceeding requirement on the Receiving Party for disclosure, in which event the Receiving Party shall give prompt notice thereof to the Disclosing Party to the extent permissible by law.."
+  },
+  {
+   "id": "s34",
+   "text": "4. Neither Dstl nor "
+  },
+  {
+   "id": "s35",
+   "text": "The University shall be in breach of this Agreement where it can show that any disclosure of information is made solely and to the extent necessary to comply with the Freedom of Information Act 2000 or the Environmental Information Regulations 2004. "
+  },
+  {
+   "id": "s36",
+   "text": "Where Dstl or The University is required to make a disclosure of Proprietary Information of a Disclosing Party under the Act or the Regulations it shall, to the extent permitted by the time for compliance under the Act or the Regulations, give the Disclosing Party the opportunity to make representations concerning disclosure. "
+  },
+  {
+   "id": "s37",
+   "text": "The Disclosing Party, however, acknowledges and accepts that its representations may not be determinative and that the decision whether to disclose the Proprietary Information at issue, in order to comply with the Act or the Regulations, is a matter in which Dstl or The University shall exercise its own discretion, subject always to the provisions of the Act or the Regulations and based upon the principle to limit said disclosure to only the requested and required information under the Act or the Regulations. "
+  },
+  {
+   "id": "s38",
+   "text": "Dstl or The University shall in any event provide prior notification to the Disclosing Party of any decision to disclose any of its Proprietary Information."
+  },
+  {
+   "id": "s39",
+   "text": "5. Nothing contained in this Agreement shall be construed as:"
+  },
+  {
+   "id": "s40",
+   "text": "(a) conferring upon the Receiving Party any right of use in or title to Proprietary Information received by it from the Disclosing Party, other than as expressly provided herein or as conferred in writing upon the Receiving Party by the Disclosing Party subsequent to the date of this Agreement; or"
+  },
+  {
+   "id": "s41",
+   "text": "(b) constituting a warranty as to the accuracy of the Proprietary Information or the suitability thereof for any purpose whatsoever; or"
+  },
+  {
+   "id": "s42",
+   "text": "(c) diminishing the rights any Party has under Statute; or"
+  },
+  {
+   "id": "s43",
+   "text": "(d) implying that a further contractual arrangement will be concluded between the Parties; or"
+  },
+  {
+   "id": "s44",
+   "text": "(e) overriding or prejudicing any Government security classification or export control regulation applicable to any part of the Proprietary Information; or"
+  },
+  {
+   "id": "s45",
+   "text": "(f) requiring any Party to disclose to any other any particular Proprietary Information."
+  },
+  {
+   "id": "s46",
+   "text": "6. All Proprietary Information disclosed hereunder, and any copies thereof made by a Receiving Party, shall be and remain the Disclosing Party's property and shall be delivered up promptly by the Receiving Party to the Disclosing Party on receipt of the Disclosing Party's written request therefor."
+  },
+  {
+   "id": "s47",
+   "text": "7. This Agreement shall remain in force for a period of two (2) years following the date first above written after which it will terminate unless renewed by mutual consent in writing or to the extent that it is superseded by another agreement or contract between the Parties. "
+  },
+  {
+   "id": "s48",
+   "text": "The obligations and restrictions relating to the disclosure and use of Proprietary Information shall however survive the termination of this Agreement for a period of seven (7) years."
+  },
+  {
+   "id": "s49",
+   "text": "8. This Agreement constitutes the entire existing Agreement between the Parties concerning the exchange of Proprietary Information for the Purpose. "
+  },
+  {
+   "id": "s50",
+   "text": "The Agreement shall not be amended except by written agreement signed by authorised representatives of all Parties."
+  },
+  {
+   "id": "s51",
+   "text": "9. No Party shall, without the express consent in writing of the other Parties, assign or in any manner transfer its interests in, or obligations under, this Agreement or any part thereof."
+  },
+  {
+   "id": "s52",
+   "text": "10. A person who is not a party to this Agreement shall have no right under the Contracts (Rights of Third Parties) Act 1999 to enforce any term of this Agreement. "
+  },
+  {
+   "id": "s53",
+   "text": "This clause does not affect any right or remedy of any person which exists or is available otherwise than pursuant to that Act."
+  },
+  {
+   "id": "s54",
+   "text": "11. This Agreement shall be construed and governed in accordance with the laws of England and the Parties hereby submit to the jurisdiction of the English courts."
+  },
+  {
+   "id": "s55",
+   "text": "12. The Parties shall attempt to solve any dispute arising out of or in connection with this Agreement by means of alternative dispute resolution such as but without limitation mediation or mini-trial."
+  },
+  {
+   "id": "s56",
+   "text": "Upon the occurrence of the dispute, the Parties shall define the type and the rules for the implementation of such alternative resolution."
+  },
+  {
+   "id": "s57",
+   "text": "The Parties expressly agree that after a period of two (2) months after the occurrence of the dispute and provided that the dispute remains unsolved, it shall be finally settled under the rules of Arbitration of the London Court of International Arbitration by one or more arbitrators appointed in accordance with the said rules. "
+  },
+  {
+   "id": "s58",
+   "text": "The place of arbitration shall be London (UK). "
+  },
+  {
+   "id": "s59",
+   "text": "The language of arbitration shall be the English Language."
+  },
+  {
+   "id": "s60",
+   "text": "The Parties hereby agree to exclude the right of appeal to the High Court under section 69 of the Arbitration Act 1996 and the right for an application to be made to the High Court under the corresponding section of the Act."
+  },
+  {
+   "id": "s61",
+   "text": "Each Party recognises and acknowledges that in the event of any actual or threatened breach of this Agreement it shall have the right to apply for injunctive relief or other appropriate orders before any competent court to restrain the other as a remedy for any such breach."
+  },
+  {
+   "id": "s62",
+   "text": "Signed for and on behalf of [THE COMPANY]"
+  },
+  {
+   "id": "s63",
+   "text": "By: .............................................. "
+  },
+  {
+   "id": "s64",
+   "text": "Date: ...................................……….."
+  },
+  {
+   "id": "s65",
+   "text": "Name: Title:"
+  },
+  {
+   "id": "s66",
+   "text": "Signed for and on behalf of [THE UNIVERSITY]"
+  },
+  {
+   "id": "s67",
+   "text": "By: .............................................. "
+  },
+  {
+   "id": "s68",
+   "text": "Date: ...................................……….."
+  },
+  {
+   "id": "s69",
+   "text": "Name: Title:"
+  },
+  {
+   "id": "s70",
+   "text": "Signed on behalf of THE SECRETARY OF STATE FOR DEFENCE"
+  },
+  {
+   "id": "s71",
+   "text": "By: ............................................. "
+  },
+  {
+   "id": "s72",
+   "text": "Date: ..............................................."
+  },
+  {
+   "id": "s73",
+   "text": "Name: Title:"
+  }
+ ]
+}

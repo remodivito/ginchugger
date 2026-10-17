@@ -1,0 +1,865 @@
+{
+ "id": "N089",
+ "revision": 1,
+ "title": "Data Use Agreement New York City.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 89,
+  "type": "search-pdf",
+  "url": "http://www.astho.org/Programs/Infectious-Disease/Healthcare-Associated-Infections/Electronic-Health-Records/Toolkit/Data-Use-Agreement-New-York-City/"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "Data Use And Non-Disclosure "
+  },
+  {
+   "id": "s1",
+   "text": "Agreement"
+  },
+  {
+   "id": "s2",
+   "text": "Between"
+  },
+  {
+   "id": "s3",
+   "text": "The New York City Department of Health and Mental Hygiene"
+  },
+  {
+   "id": "s4",
+   "text": "And"
+  },
+  {
+   "id": "s5",
+   "text": "___________________________________ "
+  },
+  {
+   "id": "s6",
+   "text": "(“Data Recipient”)"
+  },
+  {
+   "id": "s7",
+   "text": "This DATA USE AND NON-DISCLOSURE AGREEMENT (“Agreement”) made as of the _______ day of _______, 2014 (“Effective Date”) by and between the City of New York through its Department of Health and Mental Hygiene (“DOHMH”), Division of _____________________, having its primary offices at Gotham Center, 42-09 28th Street, Queens, NY 11101-4132, and "
+  },
+  {
+   "id": "s8",
+   "text": "_______________________ "
+  },
+  {
+   "id": "s9",
+   "text": "(“Data Recipient”), having its primary offices at "
+  },
+  {
+   "id": "s10",
+   "text": "____________________________ "
+  },
+  {
+   "id": "s11",
+   "text": "(each a “Party” and, collectively, the “Parties”)."
+  },
+  {
+   "id": "s12",
+   "text": "WHEREAS, pursuant to [LEGAL/PROGRAM TO ENTER BASED ON APPLICATION] the DOHMH is authorized to share Data, as defined herein, with the Data Recipient;"
+  },
+  {
+   "id": "s13",
+   "text": "WHEREAS, the Data Recipient desires to use the Data for public educational or research purposes that have been approved by the DOHMH; and"
+  },
+  {
+   "id": "s14",
+   "text": "WHEREAS, [ADDITIONAL WHEREAS CLAUSES MAY BE ENTERED AS APPLICABLE] [OPTIONAL],"
+  },
+  {
+   "id": "s15",
+   "text": "NOW, THEREFORE, in consideration of the mutual promises and covenants contained in this Agreement, and other valuable and good consideration, the receipt and sufficiency of which is hereby acknowledged, the Parties agree to the following:"
+  },
+  {
+   "id": "s16",
+   "text": "I. TERM AND TERMINATION"
+  },
+  {
+   "id": "s17",
+   "text": "A. Term. "
+  },
+  {
+   "id": "s18",
+   "text": "This Agreement shall commence as of the Effective Date and shall terminate on ____________________."
+  },
+  {
+   "id": "s19",
+   "text": "B. Termination for Cause. "
+  },
+  {
+   "id": "s20",
+   "text": "Breach of a material provision of this Agreement by the Data Recipient, or the Authorized Users, shall be grounds for termination of this Agreement by DOHMH. "
+  },
+  {
+   "id": "s21",
+   "text": "Upon becoming aware of such a material breach, DOHMH may do one or more of the following:"
+  },
+  {
+   "id": "s22",
+   "text": "1. Provide an opportunity for Data Recipient to cure the violation within 30 days, and terminate the Agreement if Data Recipient does not cure or end the violation within the time specified by DOHMH;"
+  },
+  {
+   "id": "s23",
+   "text": "2. Demand assurances from the Data Recipient that remedial actions will be taken to remedy the circumstances that gave rise to the violation within a time frame set by, or approved by, DOHMH;"
+  },
+  {
+   "id": "s24",
+   "text": "3. Immediately terminate the Agreement; and/or"
+  },
+  {
+   "id": "s25",
+   "text": "4. Determine that no further Data, or other data, will be released to, nor agreements entered into with, Data Recipient for a period of time to be determined by DOHMH."
+  },
+  {
+   "id": "s26",
+   "text": "C. Termination by DOHMH without Cause. "
+  },
+  {
+   "id": "s27",
+   "text": "DOHMH may terminate this Agreement at any time by providing 15 days written notice to Data Recipient."
+  },
+  {
+   "id": "s28",
+   "text": "D. Effect of Termination."
+  },
+  {
+   "id": "s29",
+   "text": "1. The Data Recipient will not be entitled to any damages for reason of the termination of this Agreement."
+  },
+  {
+   "id": "s30",
+   "text": "2. Upon the termination of this Agreement for any reason, the confidentiality provisions set forth herein shall continue to apply to the Data shared with Data Recipient pursuant to this Agreement. "
+  },
+  {
+   "id": "s31",
+   "text": "Except as provided in paragraph "
+  },
+  {
+   "id": "s32",
+   "text": "(3) of this subsection, upon termination of this Agreement, for any reason, Data Recipient shall return or destroy the Data provided by DOHMH that Data Recipient maintains in any form, and all copies of the Data in all its forms. "
+  },
+  {
+   "id": "s33",
+   "text": "Data Recipient will confirm in writing to DOHMH Data Recipient’s destruction or return of Data, and all copies, within 60 days of the termination of this Agreement."
+  },
+  {
+   "id": "s34",
+   "text": "3. In the event that Data Recipient determines that returning or destroying all of the Data, and all copies of the Data, is infeasible, Data Recipient shall provide to DOHMH notification of the conditions that make return or destruction infeasible. "
+  },
+  {
+   "id": "s35",
+   "text": "Upon receipt by DOHMH of such notification that return or destruction of the Data is infeasible, Data Recipient shall extend the protections of this Agreement to such Data and limit further uses and disclosures of such Data to those purposes that make the return or destruction infeasible, for so long as Data Recipient maintains such Data."
+  },
+  {
+   "id": "s36",
+   "text": "II. PURPOSE OF AGREEMENT"
+  },
+  {
+   "id": "s37",
+   "text": "A. This Agreement sets forth the terms and conditions under which the formal access to certain data, as described in Section III of this Agreement and Attachment A hereto, is to be provided to the Data Recipient by DOHMH. "
+  },
+  {
+   "id": "s38",
+   "text": "This Agreement also describes, in its Attachment B, what use the Data Recipient may make of the Data. "
+  },
+  {
+   "id": "s39",
+   "text": "Furthermore, this Agreement also sets forth the security requirements that such access and use is conditioned upon, what responsibilities the Data Recipient agrees to assume in connection with such use and disposition of the Data, and all permutations of the Data, and the procedures for security, transfer, use, retention, ownership, and confidentiality of the Data."
+  },
+  {
+   "id": "s40",
+   "text": "B. The headings and other captions in this Agreement are for convenience and reference only and shall not be used in interpreting, construing or enforcing any of the provisions of this agreement."
+  },
+  {
+   "id": "s41",
+   "text": "III. THE DATA"
+  },
+  {
+   "id": "s42",
+   "text": "A. Definition of Data. "
+  },
+  {
+   "id": "s43",
+   "text": "Data shall mean the data produced by DOHMH to Data Recipient pursuant to this Agreement and will include, without limitation, the specific description and data elements set forth in Attachment A to this Agreement."
+  },
+  {
+   "id": "s44",
+   "text": "B. Data Transmission. "
+  },
+  {
+   "id": "s45",
+   "text": "Upon the execution of this Agreement by the Parties, DOHMH shall securely transmit Data to the Data Recipient. "
+  },
+  {
+   "id": "s46",
+   "text": "[PROGRAM TO NEGOTIATE TERMS AND CONDITIONS OF DATA TRANSMISSION, INCLUDING A SCHEDULE FOR DATA TRANSMISSION AS APPLICABLE]."
+  },
+  {
+   "id": "s47",
+   "text": "C. Data Ownership. "
+  },
+  {
+   "id": "s48",
+   "text": "The Data Recipient hereby acknowledges that the DOHMH is the exclusive owner of the Data and all trade secrets and other rights therein. "
+  },
+  {
+   "id": "s49",
+   "text": "No license or conveyance of any such rights is granted or implied under this Agreement. "
+  },
+  {
+   "id": "s50",
+   "text": "Data "
+  },
+  {
+   "id": "s51",
+   "text": "Recipient shall not make, have made, use or sell for any purpose any product or other item using, incorporating or derived from Data, other than for the purpose stated in Attachment B for which the Data was provided under this Agreement. "
+  },
+  {
+   "id": "s52",
+   "text": "DOHMH may at any time request that the Data be promptly returned. "
+  },
+  {
+   "id": "s53",
+   "text": "Upon written request by DOHMH, Data Recipient shall promptly return to DOHMH Data, notes, and other tangible materials representing the Data and all copies and reproduction thereof (in whole or in part) and shall delete or otherwise destroy any copies or reproductions of such Data that may reside in Data Recipient’s possession, including but not limited to, on Data Recipient’s server, computer systems, or files."
+  },
+  {
+   "id": "s54",
+   "text": "IV. PERMITTED USES OF THE DATA"
+  },
+  {
+   "id": "s55",
+   "text": "A. Data Recipient agrees to use the Data solely for the purposes set forth in Attachment B to this Agreement, and for no other purposes."
+  },
+  {
+   "id": "s56",
+   "text": "B. Institutional Review Board (IRB) Review [IF APPLICABLE]."
+  },
+  {
+   "id": "s57",
+   "text": "This project has been reviewed by the DOHMH IRB [and/or the _________ "
+  },
+  {
+   "id": "s58",
+   "text": "IRB] as human subjects research [OR “Public Health: Non-Research” and is not under the purview of the IRB.]"
+  },
+  {
+   "id": "s59",
+   "text": "V. CONFIDENTIALITY AND SECURITY OF DATA"
+  },
+  {
+   "id": "s60",
+   "text": "A. Compliance with Applicable Privacy and Security Laws, Rules, and Regulations. "
+  },
+  {
+   "id": "s61",
+   "text": "The Data provided under this Agreement shall be used and maintained in accordance with applicable provisions of federal, state, and local laws, rules and regulations as are in effect at the time the Data is produced by DOHMH and retained by Data Recipient."
+  },
+  {
+   "id": "s62",
+   "text": "B. Restrict Access to “Authorized Users”."
+  },
+  {
+   "id": "s63",
+   "text": "1. Only the Data Recipient’s employees and/or consultants required to use the Data to perform the functions of this Agreement that are set forth in Attachment B, and so designated by Data Recipient as “Authorized Users” in Attachment C to this Agreement, will be given access to the Data."
+  },
+  {
+   "id": "s64",
+   "text": "2. Such Authorized "
+  },
+  {
+   "id": "s65",
+   "text": "Users will be trained by Data Recipient as to the confidential nature of the Data, and its proper handling, and shall sign an agreement, in a form approved by DOHMH, to treat the Data as confidential and meet any appropriate security requirements (“Authorized User Agreement”)."
+  },
+  {
+   "id": "s66",
+   "text": "3. Data Recipient will provide DOHMH with a copy of each Authorized User Agreement that it has secured prior to the exchange of Data and prior to granting any user access to the Data."
+  },
+  {
+   "id": "s67",
+   "text": "4. Data Recipient will notify DOHMH of any changes to Attachment C within 5 days of any changes to the Authorized User list. "
+  },
+  {
+   "id": "s68",
+   "text": "In addition, Data Recipient will provide DOHMH with any newly entered Authorized User Agreement with an employee and/or consultant within 5 days of entering such an agreement pursuant to the terms of this Agreement."
+  },
+  {
+   "id": "s69",
+   "text": "5. Data Recipient shall immediately notify DOHMH if any Authorized User has failed to comply with the terms of this Agreement and has compromised the privacy and security of the Data. "
+  },
+  {
+   "id": "s70",
+   "text": "Such conduct will result in the immediate removal of the user from the list of Authorized Users and the immediate termination of Data access to that specific user."
+  },
+  {
+   "id": "s71",
+   "text": "C. Security and Confidentiality. "
+  },
+  {
+   "id": "s72",
+   "text": "When Data Recipient receives Data from the DOHMH in accordance with this Agreement, or creates and uses files derived from Data, Data Recipient shall maintain the security and confidentiality of Data as required by this Agreement and applicable laws, rules and regulations. "
+  },
+  {
+   "id": "s73",
+   "text": "Except as otherwise provided in this Agreement, Data Recipient shall not, at any time, directly or indirectly disclose, share, give, loan, sell, or otherwise grant access to the Data provided pursuant to this Agreement, in part or in whole, to any other person or organization. "
+  },
+  {
+   "id": "s74",
+   "text": "Without limiting this provision, the following confidentiality and security measures shall apply:"
+  },
+  {
+   "id": "s75",
+   "text": "1. Disclosure of Individually Identifiable Information. "
+  },
+  {
+   "id": "s76",
+   "text": "Data Recipient shall not disclose Data, or any information it receives pursuant to this Agreement that is individually identifiable information, or information, which combined with publicly available information, may reasonably be used to identify an individual. "
+  },
+  {
+   "id": "s77",
+   "text": "Individually Identifying Information must be maintained in a manner approved by DOHMH, and consistent with applicable laws rules and regulations."
+  },
+  {
+   "id": "s78",
+   "text": "2. Reporting Unauthorized or Inadvertent Use or Disclosure. "
+  },
+  {
+   "id": "s79",
+   "text": "Data Recipient agrees to report to DOHMH in writing any unauthorized or inadvertent use or disclosure of the Data by Data Recipient, its employees and/or consultants in violation of this Agreement, including, but not limited to, the theft or loss of portable devices or equipment containing Data or copies of Data, and any remedial action to be taken by Data Recipient with respect to such unauthorized or inadvertent use or disclosure. "
+  },
+  {
+   "id": "s80",
+   "text": "Data Recipient shall make such report to the designated privacy officer of DOHMH (per the Notice specifications of Section IX of this Agreement), in writing, within 3 business days after Data Recipient becomes aware of the unauthorized or inadvertent use or disclosure. "
+  },
+  {
+   "id": "s81",
+   "text": "Data Recipient agrees to fully cooperate with any investigation conducted by DOHMH or its agents of any such unauthorized or inadvertent use or disclosure."
+  },
+  {
+   "id": "s82",
+   "text": "3. Accounting for Unauthorized or Inadvertent Use or Disclosure. "
+  },
+  {
+   "id": "s83",
+   "text": "In the event that an unauthorized or inadvertent use or disclosure of Data provided by DOHMH is made to a third party, Data Recipient shall ensure that a proper record of such unauthorized or inadvertent use or disclosure is kept and immediately provided to DOHMH. "
+  },
+  {
+   "id": "s84",
+   "text": "Data Recipient shall also assist in any subsequent investigation of the unauthorized or inadvertent use or disclosure and mitigate any possible resulting damages of same. "
+  },
+  {
+   "id": "s85",
+   "text": "The record required under this provision, shall include, at a minimum:"
+  },
+  {
+   "id": "s86",
+   "text": "a. The date of the disclosure;"
+  },
+  {
+   "id": "s87",
+   "text": "b. The name of the recipient;"
+  },
+  {
+   "id": "s88",
+   "text": "c. The address of the recipient, if known;"
+  },
+  {
+   "id": "s89",
+   "text": "d. A brief description of the information disclosed;"
+  },
+  {
+   "id": "s90",
+   "text": "e. Any remedial measures taken to retrieve or otherwise repossess such information; and"
+  },
+  {
+   "id": "s91",
+   "text": "f. All other details required or necessary for DOHMH to know when and how such unauthorized disclosure was made and what mitigating steps are being undertaken or recommended by the Data Recipient."
+  },
+  {
+   "id": "s92",
+   "text": "D. Safeguards to Protect the Data. "
+  },
+  {
+   "id": "s93",
+   "text": "Data Recipient shall take all reasonable measures to safeguard and keep the Data confidential and secure, including, but not limited to:"
+  },
+  {
+   "id": "s94",
+   "text": "1. storing the Data in secure access-restricted files;"
+  },
+  {
+   "id": "s95",
+   "text": "2. encrypting any laptop, USB, CD or other mobile storage tool, device, or equipment used to store and/or transmit "
+  },
+  {
+   "id": "s96",
+   "text": "Data;"
+  },
+  {
+   "id": "s97",
+   "text": "3. creating a password or encryption system to obtain and restrict access to Data only to those Authorized Users who have signed the Authorized User Agreement;"
+  },
+  {
+   "id": "s98",
+   "text": "4. keeping any hardcopy versions of the files in locked areas with restricted access, and with a log book for users to sign in and sign out files;"
+  },
+  {
+   "id": "s99",
+   "text": "5. ensuring that only "
+  },
+  {
+   "id": "s100",
+   "text": "Authorized Users shall have access to Data;"
+  },
+  {
+   "id": "s101",
+   "text": "6. provide a firewall to protect Data so that no third party is allowed access to the Data; and"
+  },
+  {
+   "id": "s102",
+   "text": "7. complying with any additional DOHMH security requirement imposed on Data Recipient to ensure the security of the Data and minimize the risks of a breach."
+  },
+  {
+   "id": "s103",
+   "text": "E. Security Audits. "
+  },
+  {
+   "id": "s104",
+   "text": "DOHMH reserves the right to conduct tests of the Data Recipient’s internal data safekeeping and other control systems prior to transfer of Data, and periodically after the transfer of Data, to provide reasonable assurance to itself that the Data Recipient is receiving and safekeeping the Data in compliance with the provisions of this Agreement and applicable laws, rules, and regulations. "
+  },
+  {
+   "id": "s105",
+   "text": "Upon request by DOHMH, the Data Recipient will promptly provide access and respond to DOHMH inquiries regarding Data privacy and security."
+  },
+  {
+   "id": "s106",
+   "text": "F. No Reproduction without Consent. "
+  },
+  {
+   "id": "s107",
+   "text": "Except as set forth in Section III, Data Recipient shall not reproduce the Data in any form without the prior written consent of DOHMH."
+  },
+  {
+   "id": "s108",
+   "text": "G. Survival. "
+  },
+  {
+   "id": "s109",
+   "text": "Upon the Expiration of this Agreement, only the continued use of Data for the purposes set forth in Attachment B will cease. "
+  },
+  {
+   "id": "s110",
+   "text": "All other provisions of this Agreement, including this Section V, shall survive."
+  },
+  {
+   "id": "s111",
+   "text": "VI. REMEDIES FOR BREACH"
+  },
+  {
+   "id": "s112",
+   "text": "A. Data Recipient acknowledges that:"
+  },
+  {
+   "id": "s113",
+   "text": "1. the breach of this Agreement will cause DOHMH irreparable damage for which recovery of damages would be inadequate;"
+  },
+  {
+   "id": "s114",
+   "text": "2. the damages flowing from such breach are not readily susceptible to measurement in monetary terms; and"
+  },
+  {
+   "id": "s115",
+   "text": "3. DOHMH shall be entitled to immediate injunctive relief restraining any breach hereof, as well as such further relief as may be granted by a court of competent jurisdiction."
+  },
+  {
+   "id": "s116",
+   "text": "B. Nothing in this Agreement shall be deemed to limit DOHMH’s remedies at law or in equity for any such breach by Data Recipient of any term of this Agreement."
+  },
+  {
+   "id": "s117",
+   "text": "VII. WAIVER"
+  },
+  {
+   "id": "s118",
+   "text": "A. Any waiver by DOHMH of any act, failure to act or breach on the part of Data Recipient shall not constitute a waiver by DOHMH of any prior or subsequent act or failure to act or breach by Data Recipient and shall not be effective unless set forth in a written document executed by DOHMH."
+  },
+  {
+   "id": "s119",
+   "text": "VIII. INDEMNIFICATION"
+  },
+  {
+   "id": "s120",
+   "text": "A. In no event will DOHMH be liable for any use by Data Recipient, its employees and/or consultants of the Data, or for any loss, claim, damage or liability, of whatsoever kind or nature, which may arise from, or in connection with, this Agreement, or for the use or dissemination by Data Recipient of the Data."
+  },
+  {
+   "id": "s121",
+   "text": "B. Data Recipient agrees to defend, indemnify and hold harmless DOHMH, the City of New York, and their respective employees, officers, subcontractors, agents, and other members of their workforce (each of the foregoing hereinafter referred to as “Indemnified Party”) against all losses suffered by the Indemnified Party and all liability to third parties arising from or in connection with:"
+  },
+  {
+   "id": "s122",
+   "text": "1. any breach of the provisions of this Agreement by Data Recipient;"
+  },
+  {
+   "id": "s123",
+   "text": "2. any breach of the provisions of this Agreement relating to the use or disclosure of Data; or"
+  },
+  {
+   "id": "s124",
+   "text": "3. any negligent act or omission or intentional tortious act by Data Recipient that results in a violation of any laws, rules, or regulations."
+  },
+  {
+   "id": "s125",
+   "text": "C. Accordingly, on demand, Data Recipient shall reimburse the Indemnified Party for any and all losses, liabilities, fines, penalties, costs, or expenses (including reasonable attorneys’ fees) which may for any reason be imposed upon the Indemnified Party by reason of any suit, claim, action, or proceeding, or demand by any third party which results from the conduct in XI.B.1, 2, or 3 above."
+  },
+  {
+   "id": "s126",
+   "text": "IX. NOTICE"
+  },
+  {
+   "id": "s127",
+   "text": "A. All notices under this Agreement shall be in writing and shall be deemed delivered as follows: "
+  },
+  {
+   "id": "s128",
+   "text": "(1) if by personal delivery or electronic mail, upon receipt; "
+  },
+  {
+   "id": "s129",
+   "text": "(2) if by Federal Express or by another national overnight courier, upon the second business day after deposit with such courier; or "
+  },
+  {
+   "id": "s130",
+   "text": "(3) if by US certified mail, return receipt requested, upon the fifth day after deposit in the mail. "
+  },
+  {
+   "id": "s131",
+   "text": "All notices shall be sent to the names and addresses set forth below. "
+  },
+  {
+   "id": "s132",
+   "text": "Either Party may change its contact information by notice to the other; any such change shall take effect immediately upon delivery of such notice. "
+  },
+  {
+   "id": "s133",
+   "text": "Any notice pursuant to this Agreement shall be given or made to the respective Parties as follows:"
+  },
+  {
+   "id": "s134",
+   "text": "For DOHMH:"
+  },
+  {
+   "id": "s135",
+   "text": "New York City Department of Health and Mental Hygiene"
+  },
+  {
+   "id": "s136",
+   "text": "42-09 28th "
+  },
+  {
+   "id": "s137",
+   "text": "Street"
+  },
+  {
+   "id": "s138",
+   "text": "Long Island City, New York 11101"
+  },
+  {
+   "id": "s139",
+   "text": "Attn: "
+  },
+  {
+   "id": "s140",
+   "text": "_________________________"
+  },
+  {
+   "id": "s141",
+   "text": "[ENTER TITLE: "
+  },
+  {
+   "id": "s142",
+   "text": "__________________]"
+  },
+  {
+   "id": "s143",
+   "text": "Cc: DOHMH Chief Privacy Officer (for breach notifications)"
+  },
+  {
+   "id": "s144",
+   "text": "For Data Recipient [ENTER NAME OF DATA RECIPIENT]:"
+  },
+  {
+   "id": "s145",
+   "text": "[ENTER NAME OF ORGANIZATION]"
+  },
+  {
+   "id": "s146",
+   "text": "[ENTER ORGANIZATION’S ADDRESS]"
+  },
+  {
+   "id": "s147",
+   "text": "Attn: "
+  },
+  {
+   "id": "s148",
+   "text": "______________________________"
+  },
+  {
+   "id": "s149",
+   "text": "[ENTER TITLE: "
+  },
+  {
+   "id": "s150",
+   "text": "__________________]"
+  },
+  {
+   "id": "s151",
+   "text": "X. PUBLICATION AND PUBLIC RELEASE OF DATA"
+  },
+  {
+   "id": "s152",
+   "text": "A. Data Recipient shall not reveal any individual identifying information such as a person’s date of birth, last name, first name, or any other identifying information in any draft or final publication."
+  },
+  {
+   "id": "s153",
+   "text": "[OPTIONAL/SUBJECT TO PROGRAM NEEDS AND NEGOTIATION WITH DATA RECIPIENT]"
+  },
+  {
+   "id": "s154",
+   "text": "B. Data Recipient must obtain prior written approval from the DOHMH before releasing any public information concerning this Agreement."
+  },
+  {
+   "id": "s155",
+   "text": "C. Subject to the terms of this Agreement, including without limitation, "
+  },
+  {
+   "id": "s156",
+   "text": "Attachment B to this Agreement, which describes the uses that the Data Recipient may make of the Data, the Data Recipient may publish or publicly present its work as described in Attachment B, which must not contain any individually identifiable information, of the use undertaken in accord with Attachment B. Prior to publication or public presentation of such work product, the Data Recipient will submit its final work product to the DOHMH for review and approval. "
+  },
+  {
+   "id": "s157",
+   "text": "If the work product:"
+  },
+  {
+   "id": "s158",
+   "text": "1. Is to be a work-made-for-hire for the benefit of the DOHMH or if it is to be a collaborative effort, then the final work product must be satisfactory in form to the DOHMH, and will be submitted to DOHMH, revised in accord with the DOHMH comments, and resubmitted for review and approval at such intervals as may be specified by the DOHMH until final approval by the DOHMH is achieved; or"
+  },
+  {
+   "id": "s159",
+   "text": "2. Is to be a work of an academic institution or scholar associated with an academic institution, then the conclusions reached in academic publications are subject to the DOHMH prior review and comment before publication or public presentation, with turnaround time of each successive draft being no longer than 30 days, unless otherwise specified in Attachment B; but it is provide, further, however, that if the Data Recipient and the DOHMH cannot come to an accord about the content thereof, then the academic institution or the academician must allow DOHMH to include a written dissenting opinion in the form required by DOHMH as to the conclusions/findings reached by the work product in publications and in oral presentations."
+  },
+  {
+   "id": "s160",
+   "text": "D. [ADDITIONAL TERMS TO BE DEVELOPED BY PROGRAM AS APPLICABLE]"
+  },
+  {
+   "id": "s161",
+   "text": "XI. "
+  },
+  {
+   "id": "s162",
+   "text": "MERGER CLAUSE"
+  },
+  {
+   "id": "s163",
+   "text": "A. This Agreement and the Exhibits hereto constitute the entire understanding of the Parties and merges all prior discussion, agreements or understandings into it. "
+  },
+  {
+   "id": "s164",
+   "text": "No prior agreement, oral or otherwise, regarding the subject matter of this Agreement shall be deemed to exist or to bind any of the Parties."
+  },
+  {
+   "id": "s165",
+   "text": "XII. "
+  },
+  {
+   "id": "s166",
+   "text": "MODIFICATION"
+  },
+  {
+   "id": "s167",
+   "text": "A. This Agreement may, from time to time, be modified by a writing signed by authorized representatives of the Parties. "
+  },
+  {
+   "id": "s168",
+   "text": "It may not be altered, modified, rescinded or extended orally."
+  },
+  {
+   "id": "s169",
+   "text": "B. The Exhibits hereto may be modified upon written agreement by the Parties without the need to amend this Agreement in its entirety."
+  },
+  {
+   "id": "s170",
+   "text": "XIII. "
+  },
+  {
+   "id": "s171",
+   "text": "NON-ASSIGNMENT CLAUSE"
+  },
+  {
+   "id": "s172",
+   "text": "A. The Data Recipient agrees that it shall not subcontract, assign, transfer, convey or otherwise dispose of its obligations under this Agreement except by operation of law, without the prior written consent of the other party."
+  },
+  {
+   "id": "s173",
+   "text": "XIV. NO THIRD PARTY BENEFICIARY"
+  },
+  {
+   "id": "s174",
+   "text": "A. Nothing express or implied in this Agreement is intended to confer, nor shall anything herein confer, upon any person other than the Parties, any rights, remedies, obligations, or liabilities whatsoever."
+  },
+  {
+   "id": "s175",
+   "text": "XV. "
+  },
+  {
+   "id": "s176",
+   "text": "ADDITIONAL PROVISIONS"
+  },
+  {
+   "id": "s177",
+   "text": "A. Jurisdiction, Venue, and Applicable Law. "
+  },
+  {
+   "id": "s178",
+   "text": "This Agreement shall be governed, construed, applied and enforced in accordance with the internal laws of the State of New York."
+  },
+  {
+   "id": "s179",
+   "text": "B. Agency. "
+  },
+  {
+   "id": "s180",
+   "text": "For purposes of this Agreement, Data Recipient shall be deemed to be acting as an independent entity, and not an agent, of the DOHMH or the City of New York."
+  },
+  {
+   "id": "s181",
+   "text": "C. No Data Warranties. "
+  },
+  {
+   "id": "s182",
+   "text": "Nothing contained herein shall constitute any representation, warranty, or guarantee to the Data Recipient with respect to the value or accuracy of the Data or information exchanged or that such exchanged information does not infringe any rights of third parties. "
+  },
+  {
+   "id": "s183",
+   "text": "The City shall not be held liable for any errors or omissions in the Data used or exchanged or in connection with the use of the Data."
+  },
+  {
+   "id": "s184",
+   "text": "D. Counterparts. "
+  },
+  {
+   "id": "s185",
+   "text": "This agreement may be executed in one or more counterparts."
+  },
+  {
+   "id": "s186",
+   "text": "E. Interpretation. "
+  },
+  {
+   "id": "s187",
+   "text": "Any ambiguity in this Agreement shall be resolved in favor of a meaning that permits the Parties to maintain the confidentiality and security of the Data."
+  },
+  {
+   "id": "s188",
+   "text": "F. Severability. "
+  },
+  {
+   "id": "s189",
+   "text": "If any provision of this Agreement is found by a proper authority to be unenforceable or invalid, such unenforceability or invalidity shall not render this Agreement unenforceable or invalid as a whole and, in such event, such provision shall be changed and interpreted so as to best accomplish the objectives of such unenforceable or invalid provision within the limits of applicable law or applicable court decisions."
+  },
+  {
+   "id": "s190",
+   "text": "G. Supersedes. "
+  },
+  {
+   "id": "s191",
+   "text": "This Agreement supersedes all prior and contemporaneous agreements and understandings, written or oral, relating to the use of the Data that is the subject matter of this Agreement."
+  },
+  {
+   "id": "s192",
+   "text": "IN WITNESS WHEREOF, and intending to be legally bound, the Parties hereto have executed this Agreement as of the day and date first written above."
+  },
+  {
+   "id": "s193",
+   "text": "NEW YORK CITY DEPARTMENT OF HEALTH AND"
+  },
+  {
+   "id": "s194",
+   "text": "MENTAL HYGIENE"
+  },
+  {
+   "id": "s195",
+   "text": "By: "
+  },
+  {
+   "id": "s196",
+   "text": "________________________________________"
+  },
+  {
+   "id": "s197",
+   "text": "[NAME OF DATA RECIPIENT]"
+  },
+  {
+   "id": "s198",
+   "text": "By: "
+  },
+  {
+   "id": "s199",
+   "text": "________________________________________"
+  },
+  {
+   "id": "s200",
+   "text": "[SOMEONE WHO IS AUTHORIZED TO BIND DATA RECIPIENT]"
+  },
+  {
+   "id": "s201",
+   "text": "DOHMH DATA USE APPLICATION AND AGREEMENT FOR DATA SHARING WITH EXTERNAL ENTITIES"
+  },
+  {
+   "id": "s202",
+   "text": "ATTACHMENT A – DATA POINTS"
+  },
+  {
+   "id": "s203",
+   "text": "Describe in detail the data that you are requesting from DOHMH, including the data source, the time period for data of interest, and specific data elements."
+  },
+  {
+   "id": "s204",
+   "text": "DOHMH DATA USE APPLICATION AND AGREEMENT FOR DATA SHARING WITH EXTERNAL ENTITIES"
+  },
+  {
+   "id": "s205",
+   "text": "ATTACHMENT B – Project Description and Data Use"
+  },
+  {
+   "id": "s206",
+   "text": "Describe your project below and the intended use of the data. "
+  },
+  {
+   "id": "s207",
+   "text": "Please outline in as detailed a manner as possible the specific analyses that you will engage in using the requested data."
+  },
+  {
+   "id": "s208",
+   "text": "DOHMH DATA USE APPLICATION AND AGREEMENT FOR DATA SHARING WITH EXTERNAL ENTITIES"
+  },
+  {
+   "id": "s209",
+   "text": "ATTACHMENT C – AUTHORIZED USERS"
+  },
+  {
+   "id": "s210",
+   "text": "Please list the name and job title of each employee and/or consultant of your organization who will have access to the Data and will be an “Authorized User” of the Data. "
+  },
+  {
+   "id": "s211",
+   "text": "This list should be limited to only those employees and/or consultants who will require access to the Data to further the purposes and uses set forth in Attachment B."
+  },
+  {
+   "id": "s212",
+   "text": "Name Title"
+  }
+ ]
+}

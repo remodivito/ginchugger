@@ -1,0 +1,357 @@
+{
+ "id": "N087",
+ "revision": 1,
+ "title": "Cyber Mutual Assistance NDA.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 87,
+  "type": "search-pdf",
+  "url": "https://www.electricitysubsector.org/-/media/Files/ESCC/Documents/CMA/Cyber-Mutual-Assistance-NDA.ashx?la=en&hash=E1B1FB222570EC29D102F11D7B26BA49EAB19789"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "Mutual Non-Disclosure and Use of Information Agreement"
+  },
+  {
+   "id": "s1",
+   "text": "to Support Emergency Cyber Mutual Assistance"
+  },
+  {
+   "id": "s2",
+   "text": "This Non-Disclosure and Use of Information Agreement (the \"Agreement'') is made and entered into as of this 15th day of June, 2016 by and among each entity that executes and delivers the signature page to this Agreement (each, a \"Participating Entity\" and collectively, the \"Participating Entities\")."
+  },
+  {
+   "id": "s3",
+   "text": "A. Each Participating "
+  },
+  {
+   "id": "s4",
+   "text": "Entity is participating in a voluntary effort to assist the Electricity Subsector Coordinating Council (ESCC) in developing and implementing one or more industry initiatives to provide cyber emergency assistance to entities in the electric sector (collectively, the “Cyber Mutual Assistance Program”)."
+  },
+  {
+   "id": "s5",
+   "text": "B. In connection with the Cyber Mutual Assistance Program, each Participating Entity may voluntarily choose to request from or provide to another Participating Entity emergency cyber mutual assistance in response to a cyber emergency;"
+  },
+  {
+   "id": "s6",
+   "text": "C. The development and implementation of any Cyber Mutual Assistance Program, including any request or provision of cyber mutual assistance between Participating Entities, may necessitate the exchange of certain confidential or proprietary information."
+  },
+  {
+   "id": "s7",
+   "text": "NOW, THEREFORE, in consideration of the mutual covenants in this Agreement, the Participating Entities agree as follows:"
+  },
+  {
+   "id": "s8",
+   "text": "1. Purpose, Scope, and Definitions. "
+  },
+  {
+   "id": "s9",
+   "text": "The purpose of this Agreement is to permit each Participating Entity to exchange Confidential Information (as defined below) as needed to pursue the development and implementation of a Cyber Mutual Assistance Program, including any request for or provision of cyber mutual assistance between Participating Entities in response to a cyber emergency or in connection with any Cyber Mutual Assistance Program."
+  },
+  {
+   "id": "s10",
+   "text": "“Confidential Information” under this Agreement consists of:"
+  },
+  {
+   "id": "s11",
+   "text": "(i) all information disclosed by any Participating Entity, or any of its employees, directors, officers, affiliates, partners, agents, advisors or other representatives (“Representatives”) pursuant to that Participating Entity’s participation in or contribution to the development or implementation of a Cyber Mutual Assistance Program, including any Participating Entity’s request for or provision of cyber mutual assistance, whether disclosed prior to or following the execution of this Agreement;"
+  },
+  {
+   "id": "s12",
+   "text": "(ii) any information or documentation produced by a Participating Entity, or any of its Representatives, under any Cyber Mutual Assistance Program or related to a specific request for or response to cyber mutual assistance, including any analysis of such information, and whether produced prior to or following the execution of this Agreement;"
+  },
+  {
+   "id": "s13",
+   "text": "(iii) any aggregation, consolidation, or listing of information or documentation disclosed by one or more Participating Entities, or any of their respective Representatives, pursuant to the development or implementation of a Cyber Mutual Assistance Program including any Participating Entity’s request for or provision of cyber mutual assistance; and"
+  },
+  {
+   "id": "s14",
+   "text": "(iv) all observations of equipment (including computer screens) and oral disclosures related to the development of any Cyber Mutual Assistance Program or a specific request for or response to cyber mutual assistance, including the systems, operations, and activities of each Participating Entity, whether such observations or oral disclosures were made prior to or following the execution of this Agreement."
+  },
+  {
+   "id": "s15",
+   "text": "2. Non-Disclosure and Use of Confidential Information. "
+  },
+  {
+   "id": "s16",
+   "text": "Each Participating "
+  },
+  {
+   "id": "s17",
+   "text": "Entity agrees "
+  },
+  {
+   "id": "s18",
+   "text": "(i) to maintain the confidentiality of all Confidential Information obtained, "
+  },
+  {
+   "id": "s19",
+   "text": "(ii) without the express permission of the Participating Entity providing such information, not to disclose such information to third parties, and "
+  },
+  {
+   "id": "s20",
+   "text": "(iii) to use such information only for the express purpose of developing and implementing a Cyber Mutual Assistance Program, including in connection with any request for or provision of cyber mutual assistance between Participating Entities. "
+  },
+  {
+   "id": "s21",
+   "text": "Each Participating "
+  },
+  {
+   "id": "s22",
+   "text": "Entity shall use the Confidential Information received hereunder only for the purposes identified in Section 1. "
+  },
+  {
+   "id": "s23",
+   "text": "Notwithstanding the forgoing, a Participating Entity may use and internally share Confidential Information as deemed necessary to respond to an actual or threatened cyber emergency that places, or has the potential to place, the Participating Entity’s cyber systems at risk. "
+  },
+  {
+   "id": "s24",
+   "text": "Any other use shall be only with the prior written consent of the Participating Entity or Participating Entities that provided the Confidential Information sought to be used."
+  },
+  {
+   "id": "s25",
+   "text": "3. Exemptions to Non-Disclosure. "
+  },
+  {
+   "id": "s26",
+   "text": "Notwithstanding Sections 1 and 2, a Participating Entity shall not have breached any obligation under this Agreement if the Confidential Information is disclosed to a third party when the Confidential Information:"
+  },
+  {
+   "id": "s27",
+   "text": "(a) was in the public domain at the time of such disclosure or is subsequently made available to the public by the Participating Entity who provided the Confidential Information, or otherwise consistent with the terms of this Agreement; or"
+  },
+  {
+   "id": "s28",
+   "text": "(b) had been received or independently developed by such Participating Entity at or prior to the time of disclosure through a process other than the development or implementation of the Cyber Mutual Assistance Program; or"
+  },
+  {
+   "id": "s29",
+   "text": "(c) is subsequently disclosed to the Participating Entity by a third party without restriction on use and without breach of any agreement or legal duty; or"
+  },
+  {
+   "id": "s30",
+   "text": "(d) subject to the provisions of Section 4, is used or disclosed pursuant to statutory duty, such as a public records act request, or an order, subpoena, discovery request, or other lawful process issued by a court or other governmental authority of competent jurisdiction or in a judicial proceeding; or"
+  },
+  {
+   "id": "s31",
+   "text": "(e) is disclosed by unanimous agreement of each of the Participating Entity or Participating Entities whose information is subject to such disclosure; or"
+  },
+  {
+   "id": "s32",
+   "text": "(f) after the time of its disclosure hereunder, becomes subsequently available to such Participating Entity on a non-confidential basis from a source not known by such Participating Entity to be bound by a confidentiality agreement or secrecy obligation in respect thereof."
+  },
+  {
+   "id": "s33",
+   "text": "4. Notice of Pending Third-Party Disclosure or Unauthorized Disclosure."
+  },
+  {
+   "id": "s34",
+   "text": "(a) In the event that any governmental authority issues an order, subpoena, or other lawful process or a Participating Entity receives a discovery request in a civil proceeding (\"Legal Process\") requiring the disclosure of any Confidential Information, the Participating Entity receiving such Legal Process shall notify in writing the other Participating Entities within five (5) business days of receipt. "
+  },
+  {
+   "id": "s35",
+   "text": "The Participating Entity receiving such Legal Process shall not be in violation of this Agreement if it complies with the Legal Process requiring disclosure of the Confidential Information after seven (7) business days following Participating Entity notification, as set forth above."
+  },
+  {
+   "id": "s36",
+   "text": "(b) A Participating Entity shall not disclose any Confidential Information in response to a request under the federal Freedom of Information Act, 5 U.S.C. § 552, as amended, or an equivalent state or local open records law, except as required by law as determined in the written opinion of such Participating Entity’s legal counsel. "
+  },
+  {
+   "id": "s37",
+   "text": "Upon receipt of a Freedom of Information Act or public records disclosure request, such Participating Entity shall: "
+  },
+  {
+   "id": "s38",
+   "text": "(i) notify each Participating Entity or Participating Entities whose information is subject to such disclosure request immediately upon receipt of a request for public records that include all or part of the Confidential Information; and "
+  },
+  {
+   "id": "s39",
+   "text": "(ii) if, in the written opinion of the legal counsel for the Participating Entity receiving the information request, the Confidential Information is not legally required to be disclosed, treat the requested Confidential Information as exempt from disclosure to the extent permitted by applicable law. "
+  },
+  {
+   "id": "s40",
+   "text": "The Participating Entity receiving the information request shall cooperate with the Participating Entity or Participating Entities whose information is subject to such disclosure request in challenging the request or seeking another appropriate remedy, as necessary. "
+  },
+  {
+   "id": "s41",
+   "text": "If such challenge to the request is not successful and another remedy is not obtained, only that portion of the Confidential Information that is legally required to be disclosed, as determined in the written opinion of the Participating Entity’s legal counsel, shall be disclosed."
+  },
+  {
+   "id": "s42",
+   "text": "(c) Unauthorized Disclosure: "
+  },
+  {
+   "id": "s43",
+   "text": "If a Participating Entity becomes aware that Confidential Information has been or likely has been disclosed to a third party in violation of this Agreement, the Participating Entity will immediately notify the Participating Entity in writing that provided the disclosed Confidential Information, provide a description of the information disclosed, and provide reasonable assistance to the Participating Entity that provided the disclosed Confidential Information to recover the Confidential Information and prevent further unauthorized disclosure."
+  },
+  {
+   "id": "s44",
+   "text": "5. Term. "
+  },
+  {
+   "id": "s45",
+   "text": "This Agreement shall remain in effect as to each Participating Entity unless and until a Participating Entity seeking to withdraw from the agreement provides ten (10) days’ prior written notice to the other Participating Entities, then this Agreement shall terminate with respect to such Participating Entity at the conclusion of such ten (10) day period; provided, however, that termination shall not extinguish any claim, liability, or cause of action under this Agreement existing at the time of termination. "
+  },
+  {
+   "id": "s46",
+   "text": "The provisions of Sections 1, 2, 3, 4, 5 and 6 shall survive the termination of this Agreement for a period of ten (10) years."
+  },
+  {
+   "id": "s47",
+   "text": "6. Return or Destruction of Confidential Information. "
+  },
+  {
+   "id": "s48",
+   "text": "Upon termination of this Agreement, all Confidential Information in the possession or control of a Participating Entity and its Representatives that received such information shall be returned to the Participating Entity that disclosed the information, including all copies of such information in any form whatsoever, unless otherwise instructed in writing by the Participating Entity that disclosed the information. "
+  },
+  {
+   "id": "s49",
+   "text": "Notwithstanding the foregoing, if the Confidential Information is retained in the computer backup system of a Participating Entity, the Confidential Information will be destroyed in accordance with the regular ongoing records retention process of the Participating Entity. "
+  },
+  {
+   "id": "s50",
+   "text": "In lieu of return, a Participating Entity may certify to the other Participating Entities in writing that all such Confidential Information, in any form whatsoever, has been destroyed. "
+  },
+  {
+   "id": "s51",
+   "text": "Notwithstanding anything in this paragraph 6 to the contrary, a Participating Entity may retain a record copy of any Confidential Information if required to do so by applicable law. "
+  },
+  {
+   "id": "s52",
+   "text": "In such an instance, such Participating Entity shall identify in writing the specific Confidential Information retained, and shall provide the affected Participating Entity or Participating Entities with a written commitment to return or destroy the retained Confidential Information upon the expiration of the retention period required by law. "
+  },
+  {
+   "id": "s53",
+   "text": "The obligation under this Agreement to maintain the confidentiality of all Confidential Information shall continue to apply to such retained Confidential Information for so long as the Participating Entity possesses such Confidential Information."
+  },
+  {
+   "id": "s54",
+   "text": "7. Notices. "
+  },
+  {
+   "id": "s55",
+   "text": "All notices, requests, demands, and other communications required or permitted under this Agreement shall be in writing, unless otherwise agreed by the Participating Entities, and shall be delivered in person or sent by certified mail, postage prepaid, by overnight delivery, or by electronic mail or electronic facsimile transmission with an original sent immediately thereafter by postage prepaid mail, and properly addressed with respect to a particular Participating Entity, to such Participating Entity’s representative as set forth on such Participating Entity’s signature page to this Agreement. "
+  },
+  {
+   "id": "s56",
+   "text": "A Participating Entity may from time to time change its representative or address for the purpose of notices to that Participating Entity by a similar notice specifying a new representative or address, but no such change shall be deemed to have been given until such notice is actually received by the Participating Entity being so notified."
+  },
+  {
+   "id": "s57",
+   "text": "8. Complete Agreement; No Other Rights. "
+  },
+  {
+   "id": "s58",
+   "text": "This Agreement contains the complete and exclusive agreement of the Participating Entities with respect to the subject matter thereof. "
+  },
+  {
+   "id": "s59",
+   "text": "No change to this Agreement shall be effective unless agreed to in writing by all of the then existing Participating Entities. "
+  },
+  {
+   "id": "s60",
+   "text": "This Agreement is not intended to create any right in or obligation of any Participating Entity or third party other than those expressly stated herein."
+  },
+  {
+   "id": "s61",
+   "text": "9. No Warranties or Representations. "
+  },
+  {
+   "id": "s62",
+   "text": "Any Confidential Information disclosed under this Agreement carries no warranty or representation of any kind, either express or implied. "
+  },
+  {
+   "id": "s63",
+   "text": "A Participating Entity receiving such Confidential Information shall not be entitled to rely on the accuracy, completeness, or quality of the Confidential Information, even for the purpose stated in Section 1."
+  },
+  {
+   "id": "s64",
+   "text": "10. Injunctive Relief. "
+  },
+  {
+   "id": "s65",
+   "text": "Each Participating "
+  },
+  {
+   "id": "s66",
+   "text": "Entity agrees that, in addition to whatever other remedies may be available to the other Participating Entities under applicable law, the other Participating Entities shall be entitled to seek injunctive relief with respect to any actual or threatened violation of this Agreement by a Participating Entity or any third party receiving Confidential Information."
+  },
+  {
+   "id": "s67",
+   "text": "11. Choice of Law and Forum. "
+  },
+  {
+   "id": "s68",
+   "text": "This Agreement shall be governed by and construed in accordance with the laws of the State of New York without giving effect to any choice or conflicts of law provision or rule that would cause the application of laws of any other jurisdiction."
+  },
+  {
+   "id": "s69",
+   "text": "12. Assignment. "
+  },
+  {
+   "id": "s70",
+   "text": "This Agreement shall be binding upon the Participating Entities, their successors, and assigns. "
+  },
+  {
+   "id": "s71",
+   "text": "No Participating Entity may assign this Agreement without the prior written consent of the other Participating Entities."
+  },
+  {
+   "id": "s72",
+   "text": "13. Construction of Agreement. "
+  },
+  {
+   "id": "s73",
+   "text": "Ambiguities or uncertainties in the wording of this Agreement shall not be construed for or against any Participating Entity, but shall be construed in the manner that most accurately reflects the Participating Entities’ intent as of the date they executed this Agreement."
+  },
+  {
+   "id": "s74",
+   "text": "14. Signature Authority. "
+  },
+  {
+   "id": "s75",
+   "text": "Each person signing below warrants that he or she has been duly authorized by the Participating Entity for whom he or she signs to execute this Agreement on behalf of that Participating Entity."
+  },
+  {
+   "id": "s76",
+   "text": "15. Counterparts. "
+  },
+  {
+   "id": "s77",
+   "text": "This Agreement may be executed in counterparts, all of which shall be considered one and the same Agreement."
+  },
+  {
+   "id": "s78",
+   "text": "IN WITNESS WHEREOF, the Participating Entities have executed this Agreement as of the date set forth above."
+  },
+  {
+   "id": "s79",
+   "text": "Dated: "
+  },
+  {
+   "id": "s80",
+   "text": "__________________________ "
+  },
+  {
+   "id": "s81",
+   "text": "Participating Entity:"
+  },
+  {
+   "id": "s82",
+   "text": "By: "
+  },
+  {
+   "id": "s83",
+   "text": "___________________________"
+  },
+  {
+   "id": "s84",
+   "text": "Name:"
+  },
+  {
+   "id": "s85",
+   "text": "Title:"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+# Only package files, server/, shared/, bin/ and data/ (the playbooks and clause types) go into the image.
+*
+!package.json
+!package-lock.json
+!server/
+!shared/
+!bin/
+!data/clause-types.json
+!data/playbook.json
+!data/playbooks/

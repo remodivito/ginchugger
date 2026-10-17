@@ -1,0 +1,501 @@
+{
+ "canary": "2eb20c99-e785-485c-b97c-b5e8d177c40a",
+ "about": "SPDX-License-Identifier: GPL-3.0-or-later. The fixed roster of fictional names for layer H scenarios (BENCHMARK-V2.md P10, E-25; AUTHORING-SPEC.md \"History scenarios\"). Amended 16 October 2026, decision 176: it replaces the forbidden-names blocklist, which could not tell a company from an ordinary word and was never complete. Precedent: RedlineBench fixes its parties (AgentCo, LargeCo, GiantCo); Harvey LAB keeps its matters synthetic-only and checks that by review, not by a word filter. Use: the counterparty under review and our own side are the parties the clean document already names (documentParties, by clean document and side), so the current document and the record agree; every other counterparty is drawn from `companies` by hash of the scenario id (lib/scenarios.mjs assignOthers, called by author.mjs scenarioPlan), never reused across one author's ten scenarios; covering-email senders are `people` at an assigned `.example` domain. apply-scenarios.mjs checks counterparty names and aliases, matter names and covering-email senders exactly against the scenario's assigned entries (case-insensitive, Unicode-normalised); free text (edits, covering text) is checked by the validators' real-name question, not by a word list. The names were invented for this roster; none is meant to be a real company or person. Frozen with the scenarios.",
+ "licence": "GPL-3.0-or-later",
+ "format": "tough-eval-roster/1",
+ "othersPerScenario": 2,
+ "documentParties": {
+  "v2/base-csa.json": {
+   "parties": [
+    {
+     "name": "Halden Cloud, Inc.",
+     "aliases": [
+      "Halden Cloud",
+      "Halden"
+     ],
+     "domain": "halden.example"
+    },
+    {
+     "name": "Northwind Analytics Ltd",
+     "aliases": [
+      "Northwind Analytics",
+      "Northwind"
+     ],
+     "domain": "northwind.example"
+    }
+   ],
+   "sides": {
+    "customer": {
+     "ours": "Northwind Analytics Ltd",
+     "counterparty": "Halden Cloud, Inc."
+    },
+    "vendor": {
+     "ours": "Halden Cloud, Inc.",
+     "counterparty": "Northwind Analytics Ltd"
+    }
+   }
+  },
+  "v2/base-nda.json": {
+   "parties": [
+    {
+     "name": "Corvel Robotics, Inc.",
+     "aliases": [
+      "Corvel Robotics",
+      "Corvel"
+     ],
+     "domain": "corvel.example"
+    },
+    {
+     "name": "Ashgrove Logistics LLC",
+     "aliases": [
+      "Ashgrove Logistics",
+      "Ashgrove"
+     ],
+     "domain": "ashgrove.example"
+    }
+   ],
+   "sides": {
+    "discloser": {
+     "ours": "Corvel Robotics, Inc.",
+     "counterparty": "Ashgrove Logistics LLC"
+    },
+    "recipient": {
+     "ours": "Ashgrove Logistics LLC",
+     "counterparty": "Corvel Robotics, Inc."
+    }
+   }
+  },
+  "v2/fixtures/synthetic/base-csa.json": {
+   "parties": [
+    {
+     "name": "Northgate Systems Ltd",
+     "aliases": [
+      "Northgate Systems",
+      "Northgate"
+     ],
+     "domain": "northgate.example"
+    },
+    {
+     "name": "Fairhaven Retail Ltd",
+     "aliases": [
+      "Fairhaven Retail",
+      "Fairhaven"
+     ],
+     "domain": "fairhaven.example"
+    }
+   ],
+   "sides": {
+    "customer": {
+     "ours": "Fairhaven Retail Ltd",
+     "counterparty": "Northgate Systems Ltd"
+    },
+    "vendor": {
+     "ours": "Northgate Systems Ltd",
+     "counterparty": "Fairhaven Retail Ltd"
+    }
+   }
+  },
+  "v2/fixtures/synthetic/base-nda.json": {
+   "parties": [
+    {
+     "name": "Ashcombe Labs Ltd",
+     "aliases": [
+      "Ashcombe Labs",
+      "Ashcombe"
+     ],
+     "domain": "ashcombe.example"
+    },
+    {
+     "name": "Brightwater Devices Ltd",
+     "aliases": [
+      "Brightwater Devices",
+      "Brightwater"
+     ],
+     "domain": "brightwater.example"
+    }
+   ],
+   "sides": {
+    "discloser": {
+     "ours": "Ashcombe Labs Ltd",
+     "counterparty": "Brightwater Devices Ltd"
+    },
+    "recipient": {
+     "ours": "Brightwater Devices Ltd",
+     "counterparty": "Ashcombe Labs Ltd"
+    }
+   }
+  }
+ },
+ "companies": [
+  {
+   "name": "Quillmere Analytics Ltd",
+   "aliases": [
+    "Quillmere Analytics",
+    "Quillmere"
+   ],
+   "domain": "quillmere.example",
+   "industry": "analytics"
+  },
+  {
+   "name": "Varnholt Freight GmbH",
+   "aliases": [
+    "Varnholt Freight",
+    "Varnholt"
+   ],
+   "domain": "varnholt.example",
+   "industry": "freight"
+  },
+  {
+   "name": "Brennick Biosystems Ltd",
+   "aliases": [
+    "Brennick Biosystems",
+    "Brennick"
+   ],
+   "domain": "brennick.example",
+   "industry": "biotechnology"
+  },
+  {
+   "name": "Tellwyn Retail Ltd",
+   "aliases": [
+    "Tellwyn Retail",
+    "Tellwyn"
+   ],
+   "domain": "tellwyn.example",
+   "industry": "retail"
+  },
+  {
+   "name": "Marrowby Foods plc",
+   "aliases": [
+    "Marrowby Foods",
+    "Marrowby"
+   ],
+   "domain": "marrowby.example",
+   "industry": "food manufacturing"
+  },
+  {
+   "name": "Kestrin Aerodynamics Ltd",
+   "aliases": [
+    "Kestrin Aerodynamics",
+    "Kestrin"
+   ],
+   "domain": "kestrin.example",
+   "industry": "aerospace"
+  },
+  {
+   "name": "Oswalden Insurance Ltd",
+   "aliases": [
+    "Oswalden Insurance",
+    "Oswalden"
+   ],
+   "domain": "oswalden.example",
+   "industry": "insurance"
+  },
+  {
+   "name": "Pelcraig Energy Ltd",
+   "aliases": [
+    "Pelcraig Energy",
+    "Pelcraig"
+   ],
+   "domain": "pelcraig.example",
+   "industry": "energy"
+  },
+  {
+   "name": "Ruthvane Media Ltd",
+   "aliases": [
+    "Ruthvane Media",
+    "Ruthvane"
+   ],
+   "domain": "ruthvane.example",
+   "industry": "media"
+  },
+  {
+   "name": "Selvaro Pharma S.r.l.",
+   "aliases": [
+    "Selvaro Pharma",
+    "Selvaro"
+   ],
+   "domain": "selvaro.example",
+   "industry": "pharmaceuticals"
+  },
+  {
+   "name": "Thrandle Engineering Ltd",
+   "aliases": [
+    "Thrandle Engineering",
+    "Thrandle"
+   ],
+   "domain": "thrandle.example",
+   "industry": "engineering"
+  },
+  {
+   "name": "Ulverick Telecom Ltd",
+   "aliases": [
+    "Ulverick Telecom",
+    "Ulverick"
+   ],
+   "domain": "ulverick.example",
+   "industry": "telecommunications"
+  },
+  {
+   "name": "Vexmoor Security Ltd",
+   "aliases": [
+    "Vexmoor Security",
+    "Vexmoor"
+   ],
+   "domain": "vexmoor.example",
+   "industry": "cybersecurity"
+  },
+  {
+   "name": "Wendacre Hospitality Ltd",
+   "aliases": [
+    "Wendacre Hospitality",
+    "Wendacre"
+   ],
+   "domain": "wendacre.example",
+   "industry": "hospitality"
+  },
+  {
+   "name": "Yarrowin Agritech Ltd",
+   "aliases": [
+    "Yarrowin Agritech",
+    "Yarrowin"
+   ],
+   "domain": "yarrowin.example",
+   "industry": "agriculture"
+  },
+  {
+   "name": "Zelbourne Capital LLP",
+   "aliases": [
+    "Zelbourne Capital",
+    "Zelbourne"
+   ],
+   "domain": "zelbourne.example",
+   "industry": "asset management"
+  },
+  {
+   "name": "Abernoth Mining Ltd",
+   "aliases": [
+    "Abernoth Mining",
+    "Abernoth"
+   ],
+   "domain": "abernoth.example",
+   "industry": "mining"
+  },
+  {
+   "name": "Caldrith Software Ltd",
+   "aliases": [
+    "Caldrith Software",
+    "Caldrith"
+   ],
+   "domain": "caldrith.example",
+   "industry": "software"
+  },
+  {
+   "name": "Dunmorrow Healthcare Ltd",
+   "aliases": [
+    "Dunmorrow Healthcare",
+    "Dunmorrow"
+   ],
+   "domain": "dunmorrow.example",
+   "industry": "healthcare"
+  },
+  {
+   "name": "Elvanta Robotics B.V.",
+   "aliases": [
+    "Elvanta Robotics",
+    "Elvanta"
+   ],
+   "domain": "elvanta.example",
+   "industry": "robotics"
+  },
+  {
+   "name": "Faircloven Textiles Ltd",
+   "aliases": [
+    "Faircloven Textiles",
+    "Faircloven"
+   ],
+   "domain": "faircloven.example",
+   "industry": "textiles"
+  },
+  {
+   "name": "Gorsewick Marine Ltd",
+   "aliases": [
+    "Gorsewick Marine",
+    "Gorsewick"
+   ],
+   "domain": "gorsewick.example",
+   "industry": "marine services"
+  },
+  {
+   "name": "Harrowdine Education Ltd",
+   "aliases": [
+    "Harrowdine Education",
+    "Harrowdine"
+   ],
+   "domain": "harrowdine.example",
+   "industry": "education"
+  },
+  {
+   "name": "Ilvermoor Chemicals Ltd",
+   "aliases": [
+    "Ilvermoor Chemicals",
+    "Ilvermoor"
+   ],
+   "domain": "ilvermoor.example",
+   "industry": "chemicals"
+  },
+  {
+   "name": "Jessendale Property Ltd",
+   "aliases": [
+    "Jessendale Property",
+    "Jessendale"
+   ],
+   "domain": "jessendale.example",
+   "industry": "real estate"
+  },
+  {
+   "name": "Korvath Semiconductors Ltd",
+   "aliases": [
+    "Korvath Semiconductors",
+    "Korvath"
+   ],
+   "domain": "korvath.example",
+   "industry": "semiconductors"
+  },
+  {
+   "name": "Lindqvarn Furniture AB",
+   "aliases": [
+    "Lindqvarn Furniture",
+    "Lindqvarn"
+   ],
+   "domain": "lindqvarn.example",
+   "industry": "furniture"
+  },
+  {
+   "name": "Mirrowdene Logistics Ltd",
+   "aliases": [
+    "Mirrowdene Logistics",
+    "Mirrowdene"
+   ],
+   "domain": "mirrowdene.example",
+   "industry": "logistics"
+  },
+  {
+   "name": "Norrabeck Water Ltd",
+   "aliases": [
+    "Norrabeck Water",
+    "Norrabeck"
+   ],
+   "domain": "norrabeck.example",
+   "industry": "water utilities"
+  },
+  {
+   "name": "Ostlebridge Payments Ltd",
+   "aliases": [
+    "Ostlebridge Payments",
+    "Ostlebridge"
+   ],
+   "domain": "ostlebridge.example",
+   "industry": "payments"
+  },
+  {
+   "name": "Prandvale Games Ltd",
+   "aliases": [
+    "Prandvale Games",
+    "Prandvale"
+   ],
+   "domain": "prandvale.example",
+   "industry": "video games"
+  },
+  {
+   "name": "Quenthorpe Automotive Ltd",
+   "aliases": [
+    "Quenthorpe Automotive",
+    "Quenthorpe"
+   ],
+   "domain": "quenthorpe.example",
+   "industry": "automotive"
+  },
+  {
+   "name": "Rossenwick Packaging Ltd",
+   "aliases": [
+    "Rossenwick Packaging",
+    "Rossenwick"
+   ],
+   "domain": "rossenwick.example",
+   "industry": "packaging"
+  },
+  {
+   "name": "Stavenmoor Clinical Ltd",
+   "aliases": [
+    "Stavenmoor Clinical",
+    "Stavenmoor"
+   ],
+   "domain": "stavenmoor.example",
+   "industry": "clinical research"
+  },
+  {
+   "name": "Trevossian Audio Ltd",
+   "aliases": [
+    "Trevossian Audio",
+    "Trevossian"
+   ],
+   "domain": "trevossian.example",
+   "industry": "consumer audio"
+  },
+  {
+   "name": "Umbervale Fashion Ltd",
+   "aliases": [
+    "Umbervale Fashion",
+    "Umbervale"
+   ],
+   "domain": "umbervale.example",
+   "industry": "fashion"
+  },
+  {
+   "name": "Valdrennic Data Centres Ltd",
+   "aliases": [
+    "Valdrennic Data Centres",
+    "Valdrennic"
+   ],
+   "domain": "valdrennic.example",
+   "industry": "data centres"
+  },
+  {
+   "name": "Wystrand Shipping Ltd",
+   "aliases": [
+    "Wystrand Shipping",
+    "Wystrand"
+   ],
+   "domain": "wystrand.example",
+   "industry": "shipping"
+  },
+  {
+   "name": "Xelvorn Labs Ltd",
+   "aliases": [
+    "Xelvorn Labs",
+    "Xelvorn"
+   ],
+   "domain": "xelvorn.example",
+   "industry": "materials research"
+  },
+  {
+   "name": "Ysgarth Renewables Ltd",
+   "aliases": [
+    "Ysgarth Renewables",
+    "Ysgarth"
+   ],
+   "domain": "ysgarth.example",
+   "industry": "renewable energy"
+  }
+ ],
+ "people": [
+  "Ottilie Marrish",
+  "Benedek Szalvay",
+  "Priya Ramanath-Hale",
+  "Callum Drewitt",
+  "Yusra Beltane",
+  "Henrike Vossberg",
+  "Tobias Quarrell",
+  "Mireille Dauvergne"
+ ]
+}

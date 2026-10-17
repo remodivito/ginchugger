@@ -1,0 +1,113 @@
+{
+ "id": "N278",
+ "revision": 1,
+ "title": "non-disclosure_agreement.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 278,
+  "type": "search-pdf",
+  "url": "http://shanebarr-nwrc.weebly.com/uploads/4/1/5/0/41509027/non-disclosure_agreement.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "Non-Disclosure "
+  },
+  {
+   "id": "s1",
+   "text": "Agreement"
+  },
+  {
+   "id": "s2",
+   "text": "WHEREAS, [Company Name] is producing a film entitled "
+  },
+  {
+   "id": "s3",
+   "text": "________________________ (hereinafter referred to as the Project), this agreement is made this "
+  },
+  {
+   "id": "s4",
+   "text": "_________________________, by and between [Company Name] and "
+  },
+  {
+   "id": "s5",
+   "text": "________________________."
+  },
+  {
+   "id": "s6",
+   "text": "1. All information disclosed by [Company Name] and/or those individuals or organizations working in collaboration with Back Burner Films, written, electronic or oral, that relates or refers directly or indi-rectly, to the Project including the script itself, shall hereafter and forever be deemed confidential and shall constitute Confidential Information."
+  },
+  {
+   "id": "s7",
+   "text": "2. The Confidential Information shall remain the property of the [Company Name] and shall not be dis-closed or revealed to anyone except to [Company Name], its agents, licensees, successors and as-signs. "
+  },
+  {
+   "id": "s8",
+   "text": "The undersigned shall be responsible for any improper disclosure of Confidential Information."
+  },
+  {
+   "id": "s9",
+   "text": "3. This agreement in no way guarantees, or suggests, that the undersigned will be employed, or compen-sated for time or expenses as it pertains to the development and evaluation of the Project. "
+  },
+  {
+   "id": "s10",
+   "text": "Should Back Burner Films resolve to employ the above noted, other contractual instruments may be applied."
+  },
+  {
+   "id": "s11",
+   "text": "4. If any provision of this Agreement shall be held to be invalid or unenforceable for any reason, the remaining provisions shall continue to be valid and enforceable."
+  },
+  {
+   "id": "s12",
+   "text": "IN WITNESS WHEREOF, the parties have executed this agreement as of the day and year first written above."
+  },
+  {
+   "id": "s13",
+   "text": "__________________________________ "
+  },
+  {
+   "id": "s14",
+   "text": "__________________________________"
+  },
+  {
+   "id": "s15",
+   "text": "Name Date"
+  },
+  {
+   "id": "s16",
+   "text": "__________________________________ "
+  },
+  {
+   "id": "s17",
+   "text": "__________________________________"
+  },
+  {
+   "id": "s18",
+   "text": "Address Telephone Number"
+  },
+  {
+   "id": "s19",
+   "text": "__________________________________ "
+  },
+  {
+   "id": "s20",
+   "text": "__________________________________"
+  },
+  {
+   "id": "s21",
+   "text": "[Company Representative] Date"
+  },
+  {
+   "id": "s22",
+   "text": "__________________________________ "
+  },
+  {
+   "id": "s23",
+   "text": "__________________________________"
+  },
+  {
+   "id": "s24",
+   "text": "[Company Representative] Date"
+  }
+ ]
+}

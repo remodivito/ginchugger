@@ -1,0 +1,117 @@
+{
+ "id": "N443",
+ "revision": 1,
+ "title": "1018761_0000950130-96-004285_document_6.txt",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 443,
+  "type": "sec-text",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001018761/000095013096004285/0000950130-96-004285.txt"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "[LOGO]"
+  },
+  {
+   "id": "s1",
+   "text": "TeleService Resources"
+  },
+  {
+   "id": "s2",
+   "text": "TELESERVICE RESOURCES"
+  },
+  {
+   "id": "s3",
+   "text": "NON DISCLOSURE AND NONCOMPETE AGREEMENT"
+  },
+  {
+   "id": "s4",
+   "text": "This agreement is made as of the 1st of March, 1996, by and between TeleService Resources (TSR)(the \"Providing Party\") and Computer Generated Solutions, Inc. (CGS) (the \"Receiving Party\")."
+  },
+  {
+   "id": "s5",
+   "text": "In connection with discussions between TSR and CGS, it will be necessary for CGS to review certain documentation and information considered proprietary by TSR. "
+  },
+  {
+   "id": "s6",
+   "text": "In view of TSR's desire that such documentation and information be maintained in confidence, it is hereby agreed that for a period of five (5) years commencing on the date of this Agreement, CGS shall not disclose or otherwise make available to a third party any proprietary information and documentation received from TSR that is identified as confidential (\"Confidential Information\"). "
+  },
+  {
+   "id": "s7",
+   "text": "All Confidential Information transmitted hereunder shall be and remain the property of TSR, and all such Information and any copies thereof shall be promptly returned to TSR upon request or destroyed at TSR's option."
+  },
+  {
+   "id": "s8",
+   "text": "Confidential Information shall mean any non-public, confidential proprietary information, services to be rendered or transactions contemplated hereby, including without limitation, pricing and material terms and conditions of services offered, intellectual property, enabling software, programming, except that Confidential Information does not include any information that:"
+  },
+  {
+   "id": "s9",
+   "text": "(i) is required by law to be disclosed "
+  },
+  {
+   "id": "s10",
+   "text": "(ii) was available to the Receiving Party prior to its disclosure by the Providing Party"
+  },
+  {
+   "id": "s11",
+   "text": "(iii) was known or becomes generally available to the public or to competitors of the parties hereto other than as a result of disclosure by the Receiving Party"
+  },
+  {
+   "id": "s12",
+   "text": "Furthermore, in the event that TSR and CGS enter into program-specific Agreements whereby CGS will provide help desk call handling services to TSR, those services will be provided for TSR's client programs. "
+  },
+  {
+   "id": "s13",
+   "text": "CGS agrees not to pursue independent business relations with any of TSR's clients for which it provides services for a minimum period of two (2) years from the end date of the program-specific Agreement(s)"
+  },
+  {
+   "id": "s14",
+   "text": "/s/ Steve Carter Date: 3/1/96"
+  },
+  {
+   "id": "s15",
+   "text": "--------------------- "
+  },
+  {
+   "id": "s16",
+   "text": "------------"
+  },
+  {
+   "id": "s17",
+   "text": "Steve Carter, Vice President"
+  },
+  {
+   "id": "s18",
+   "text": "CMC "
+  },
+  {
+   "id": "s19",
+   "text": "Division"
+  },
+  {
+   "id": "s20",
+   "text": "Computer Generated Solutions, INc."
+  },
+  {
+   "id": "s21",
+   "text": "/s/ L.L. Curtis Date: 3/1/96"
+  },
+  {
+   "id": "s22",
+   "text": "-------------------------------- "
+  },
+  {
+   "id": "s23",
+   "text": "------------"
+  },
+  {
+   "id": "s24",
+   "text": "Lauri Curtis, Group President"
+  },
+  {
+   "id": "s25",
+   "text": "TeleService Resources/Data Management Services"
+  }
+ ]
+}

@@ -1,0 +1,145 @@
+{
+ "id": "N402",
+ "revision": 1,
+ "title": "1006459_0000912057-97-027623_document_19.txt",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 402,
+  "type": "sec-text",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001006459/000091205797027623/0000912057-97-027623.txt"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "Agreement No.________"
+  },
+  {
+   "id": "s1",
+   "text": "Non-Disclosure "
+  },
+  {
+   "id": "s2",
+   "text": "Agreement"
+  },
+  {
+   "id": "s3",
+   "text": "This Agreement is made between CELERITY SYSTEMS, INC., (\"CELERITY\") and UNISYS Corporation - Federal Systems Division. (\"UNISYS\") and concerns the handling, safeguarding and exchange of sensitive, proprietary or confidential information (collectively \"Proprietary Information\"). "
+  },
+  {
+   "id": "s4",
+   "text": "It is agreed and understood that any exchange of such Proprietary Information is expressly for the sole purpose of CELERITY and UNISYS evaluating a possible business arrangement involving an existing UNISYS contract with a federal government agency."
+  },
+  {
+   "id": "s5",
+   "text": "1. For the purposes hereof, Proprietary Information shall be any documents, materials or information that "
+  },
+  {
+   "id": "s6",
+   "text": "(i) is in tangible form and clearly marked as being proprietary, confidential or sensitive and "
+  },
+  {
+   "id": "s7",
+   "text": "(ii) is received by one party to this Agreement (\"Recipient\") from the other party to this Agreement (\"Transmitter\")."
+  },
+  {
+   "id": "s8",
+   "text": "2. The Recipient agrees to safeguard, protect and handle all Proprietary Information made available under this Agreement with the same degree of care and procedures as Recipient applies to its own confidential or proprietary information. "
+  },
+  {
+   "id": "s9",
+   "text": "Without the written consent of the Transmitter, the Recipient of Proprietary Information agrees "
+  },
+  {
+   "id": "s10",
+   "text": "(i) not to disclose, disseminate, reproduce or otherwise distribute such information and materials to any third party, except a governmental judicial authority's issued order and "
+  },
+  {
+   "id": "s11",
+   "text": "(ii) not to use such information for any other purposes beyond that expressly set forth in this Agreement."
+  },
+  {
+   "id": "s12",
+   "text": "3. All Proprietary Information disclosed under this Agreement shall remain the property of the Transmitter. "
+  },
+  {
+   "id": "s13",
+   "text": "It is agreed that the Recipient does not obtain any title or license rights to the Proprietary Information furnished under this Agreement."
+  },
+  {
+   "id": "s14",
+   "text": "4. All Proprietary Information exchanged under this Agreement shall be returned or destroyed in accordance with written instructions upon the earlier of a written request from the Transmitter or termination of this Agreement. "
+  },
+  {
+   "id": "s15",
+   "text": "Either party may terminate this Agreement, at any time, by providing written notice to the receiving party. "
+  },
+  {
+   "id": "s16",
+   "text": "Termination of this Agreement shall not be construed as relieving the Recipient of its obligations to safeguard, protect and dispose of the Proprietary Information as set forth in this Agreement."
+  },
+  {
+   "id": "s17",
+   "text": "5. The Recipient's obligations to protect, safeguard and handle Proprietary Information received hereunder shall not be binding if such Proprietary Information "
+  },
+  {
+   "id": "s18",
+   "text": "(i) is in the public domain through no fault of the Recipient, "
+  },
+  {
+   "id": "s19",
+   "text": "(ii) is known to the Recipient prior to disclosure hereunder, "
+  },
+  {
+   "id": "s20",
+   "text": "(iii) is lawfully disclosed to Recipient by a third party. "
+  },
+  {
+   "id": "s21",
+   "text": "The Recipient's obligations shall survive until the Proprietary Information has been returned, destroyed in accordance with written instructions or covered by a subsequent agreement between CELERITY and UNISYS for the contemplated services."
+  },
+  {
+   "id": "s22",
+   "text": "This represents the entire agreement of the parties relative to the subject matter and shall be governed and construed under the laws of the Commonwealth of Virginia."
+  },
+  {
+   "id": "s23",
+   "text": "Accepted by:"
+  },
+  {
+   "id": "s24",
+   "text": "UNISYS Corporation "
+  },
+  {
+   "id": "s25",
+   "text": "CELERITY SYSTEMS, INC."
+  },
+  {
+   "id": "s26",
+   "text": "By: /s/ Dennis A. Chaloux By: /s/ William R. Chambers"
+  },
+  {
+   "id": "s27",
+   "text": "Name: Dennis A. Chaloux Name: William R. Chambers"
+  },
+  {
+   "id": "s28",
+   "text": "Title: Sr. Subcontract Administrator Title: "
+  },
+  {
+   "id": "s29",
+   "text": "Vice President"
+  },
+  {
+   "id": "s30",
+   "text": "Date: 6/30/97 "
+  },
+  {
+   "id": "s31",
+   "text": "Date: "
+  },
+  {
+   "id": "s32",
+   "text": "6/26/97"
+  }
+ ]
+}

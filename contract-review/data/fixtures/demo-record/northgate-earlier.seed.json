@@ -1,0 +1,70 @@
+{
+  "format": "ginchugger-record-seed/1",
+  "note": "Demo record (product v2, slice S5): fictional. An earlier, signed pilot order form with Northgate Biosciences Ltd, so the pane's 'last time with this counterparty' has something to show beside the order-form demo, and Helix's standard order form for kind order-form, so the start card's Standard form row is filled. Written for this prototype on 15 October 2026; no clause is copied from a published form; nothing here is lawyer-validated.",
+  "counterparties": [],
+  "users": [{ "id": "demo-lawyer", "name": "P. Raman (demo)" }],
+  "matters": [
+    { "id": "demo-northgate-pilot-2025", "name": "Helix / Northgate pilot order form 2025 (demo fixture)", "counterparty": "@northgate", "kind": "order-form", "status": "signed", "endDate": null, "signedRound": 3,
+      "rounds": [
+        { "n": 1, "side": "ours", "respondsTo": null, "receivedAt": "2025-03-03T09:00:00Z",
+          "document": { "paragraphs": [
+            { "id": "p1", "text": "Order Form" },
+            { "id": "p2", "text": "Reference: HX-OF-2025-0031" },
+            { "id": "p3", "text": "Supplier: Helix Instruments Ltd." },
+            { "id": "p4", "text": "Customer: Northgate Biosciences Ltd." },
+            { "id": "p5", "text": "1. Subscription. Helix grants the Customer a non-exclusive, non-transferable right for up to 5 named users to use the Helix LabTrack software service for a six-month pilot, for the Customer's internal evaluation." },
+            { "id": "p6", "text": "2. Fees. The pilot fee is £3,000, excluding VAT, invoiced on the Order Date." },
+            { "id": "p7", "text": "3. Payment. The Customer shall pay each undisputed invoice within 30 days of the invoice date." },
+            { "id": "p8", "text": "4. Termination. Either party may terminate this Order Form by written notice if the other party commits a material breach and does not remedy it within 30 days of being notified of it. Neither party may terminate for convenience during the pilot." },
+            { "id": "p9", "text": "5. Governing law. English law applies to this Order Form." } ] } },
+        { "n": 2, "side": "theirs", "respondsTo": 1, "receivedAt": "2025-03-10T10:15:00Z",
+          "document": { "paragraphs": [
+            { "id": "p1", "text": "Order Form" },
+            { "id": "p2", "text": "Reference: HX-OF-2025-0031" },
+            { "id": "p3", "text": "Supplier: Helix Instruments Ltd." },
+            { "id": "p4", "text": "Customer: Northgate Biosciences Ltd." },
+            { "id": "p5", "text": "1. Subscription. Helix grants the Customer a non-exclusive, non-transferable right for up to 5 named users to use the Helix LabTrack software service for a six-month pilot, for the Customer's internal evaluation." },
+            { "id": "p6", "text": "2. Fees. The pilot fee is £3,000, excluding VAT, invoiced on the Order Date." },
+            { "id": "p7", "text": "3. Payment. The Customer shall pay each undisputed invoice within 60 days of the invoice date.", "originalText": "3. Payment. The Customer shall pay each undisputed invoice within 30 days of the invoice date." },
+            { "id": "p8", "text": "4. Termination. Either party may terminate this Order Form by written notice if the other party commits a material breach and does not remedy it within 30 days of being notified of it. Either party may terminate for convenience on 14 days' written notice.", "originalText": "4. Termination. Either party may terminate this Order Form by written notice if the other party commits a material breach and does not remedy it within 30 days of being notified of it. Neither party may terminate for convenience during the pilot." },
+            { "id": "p9", "text": "5. Governing law. English law applies to this Order Form." } ] },
+          "covering": { "from": "Daniel Osei <d.osei@northgate.example>", "subject": "Pilot order form - our comments", "date": "2025-03-10T10:12:00Z", "text": "Two changes: our standard payment run is 60 days, and we need to be able to stop the pilot early if it does not suit the lab." },
+          "events": [
+            { "type": "finding_flagged", "at": "2025-03-10T14:00:00Z", "actor": "demo-lawyer", "payload": { "findingId": "f-pay", "ruleId": "PAY-01", "paragraphId": "p7", "title": "Payment period extended to 60 days", "decision": "reserved", "quote": "within 60 days of the invoice date", "proposedText": null } },
+            { "type": "finding_flagged", "at": "2025-03-10T14:00:00Z", "actor": "demo-lawyer", "payload": { "findingId": "f-tfc", "ruleId": "TFC-01", "paragraphId": "p8", "title": "Termination for convenience on 14 days' notice", "decision": "reject", "quote": "Either party may terminate for convenience on 14 days' written notice.", "proposedText": "4. Termination. Either party may terminate this Order Form by written notice if the other party commits a material breach and does not remedy it within 30 days of being notified of it. Neither party may terminate for convenience during the pilot." } },
+            { "type": "finding_dismissed", "at": "2025-03-10T14:20:00Z", "actor": "demo-lawyer", "payload": { "findingId": "f-pay", "ruleId": "PAY-01", "note": "Accepted 60 days for the pilot; finance agreed." } },
+            { "type": "edit_applied", "at": "2025-03-10T14:25:00Z", "actor": "demo-lawyer", "payload": { "findingId": "f-tfc", "ruleId": "TFC-01", "paragraphId": "p8", "before": "4. Termination. Either party may terminate this Order Form by written notice if the other party commits a material breach and does not remedy it within 30 days of being notified of it. Either party may terminate for convenience on 14 days' written notice.", "after": "4. Termination. Either party may terminate this Order Form by written notice if the other party commits a material breach and does not remedy it within 30 days of being notified of it. Neither party may terminate for convenience during the pilot." } }
+          ] },
+        { "n": 3, "side": "ours", "respondsTo": 2, "receivedAt": "2025-03-12T16:40:00Z",
+          "document": { "paragraphs": [
+            { "id": "p1", "text": "Order Form" },
+            { "id": "p2", "text": "Reference: HX-OF-2025-0031" },
+            { "id": "p3", "text": "Supplier: Helix Instruments Ltd." },
+            { "id": "p4", "text": "Customer: Northgate Biosciences Ltd." },
+            { "id": "p5", "text": "1. Subscription. Helix grants the Customer a non-exclusive, non-transferable right for up to 5 named users to use the Helix LabTrack software service for a six-month pilot, for the Customer's internal evaluation." },
+            { "id": "p6", "text": "2. Fees. The pilot fee is £3,000, excluding VAT, invoiced on the Order Date." },
+            { "id": "p7", "text": "3. Payment. The Customer shall pay each undisputed invoice within 60 days of the invoice date." },
+            { "id": "p8", "text": "4. Termination. Either party may terminate this Order Form by written notice if the other party commits a material breach and does not remedy it within 30 days of being notified of it. Neither party may terminate for convenience during the pilot." },
+            { "id": "p9", "text": "5. Governing law. English law applies to this Order Form." } ] } }
+      ] }
+  ],
+  "standardForms": [
+    { "kind": "order-form", "name": "Helix standard order form", "updatedAt": "2025-03-03T09:00:00Z", "updatedBy": "demo-lawyer",
+      "document": { "paragraphs": [
+        { "id": "p1", "text": "Order Form" },
+        { "id": "p2", "text": "Reference: [reference]" },
+        { "id": "p3", "text": "Supplier: Helix Instruments Ltd (company number 09811234, 14 Fenchurch Avenue, London EC3M 5AD)." },
+        { "id": "p4", "text": "Customer: [customer name, company number and address]." },
+        { "id": "p5", "text": "Order Date: [date]." },
+        { "id": "p6", "text": "1. Subscription. Helix grants the Customer a non-exclusive, non-transferable right for up to [number] named users to use the Helix LabTrack software service during the Subscription Term, for the Customer's internal business purposes." },
+        { "id": "p7", "text": "2. Subscription Term and renewal. The Subscription Term is 12 months from the Order Date. It renews automatically for further periods of 12 months unless either party gives written notice of non-renewal at least 60 days before the end of the current term." },
+        { "id": "p8", "text": "3. Fees. The subscription fee is [amount] a year, excluding VAT, invoiced annually in advance." },
+        { "id": "p9", "text": "4. Price changes. Helix may increase the fees for a renewal term by giving at least 90 days' written notice before that term begins. No increase will exceed 5% of the fees for the previous term." },
+        { "id": "p10", "text": "5. Payment. The Customer shall pay each undisputed invoice within 30 days of the invoice date." },
+        { "id": "p11", "text": "6. Termination. Either party may terminate this Order Form by written notice if the other party commits a material breach and does not remedy it within 30 days of being notified of it. Neither party may terminate for convenience during a Subscription Term." },
+        { "id": "p12", "text": "7. Limitation of liability. Each party's total liability arising out of or in connection with this Order Form in any 12-month period is limited to the fees paid and payable for that period. Liability for death or personal injury caused by negligence, for fraud, or for anything else that cannot lawfully be limited is not limited." },
+        { "id": "p13", "text": "8. Intellectual property indemnity. Helix shall defend the Customer against any third-party claim that the Customer's use of Helix LabTrack in accordance with this Order Form infringes that third party's intellectual property rights, and shall pay any damages finally awarded against the Customer on that claim." },
+        { "id": "p14", "text": "9. Entire agreement. This Order Form is the entire agreement between the parties about its subject matter. No terms in any purchase order or other document issued by the Customer apply." },
+        { "id": "p15", "text": "10. Governing law. English law applies to this Order Form and to any dispute arising from it, and the courts of England and Wales have exclusive jurisdiction." } ] } }
+  ]
+}

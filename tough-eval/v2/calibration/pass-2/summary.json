@@ -1,0 +1,127 @@
+{
+ "canary": "2eb20c99-e785-485c-b97c-b5e8d177c40a",
+ "format": "tough-eval-calibration-summary/1",
+ "pass": 2,
+ "at": "2026-10-17T12:10:04.096Z",
+ "bySide": {
+  "csa-customer": {
+   "reviews": 9,
+   "usable": 8,
+   "paragraphs": {
+    "a6": {
+     "families": {
+      "opus": 1
+     },
+     "rules": {
+      "C-17": 1
+     },
+     "candidateFault": false
+    },
+    "p106": {
+     "families": {
+      "deepseek": 1
+     },
+     "rules": {
+      "C-12": 1
+     },
+     "candidateFault": false
+    },
+    "p37": {
+     "families": {
+      "deepseek": 1
+     },
+     "rules": {
+      "C-09": 1
+     },
+     "candidateFault": false
+    },
+    "a50": {
+     "families": {
+      "deepseek": 1
+     },
+     "rules": {
+      "C-23": 1
+     },
+     "candidateFault": false
+    }
+   }
+  },
+  "csa-vendor": {
+   "reviews": 9,
+   "usable": 9,
+   "paragraphs": {
+    "a63": {
+     "families": {
+      "opus": 1
+     },
+     "rules": {
+      "V-25": 1,
+      "V-20": 1,
+      "V-22": 1,
+      "V-02": 1
+     },
+     "candidateFault": false
+    }
+   }
+  },
+  "nda-discloser": {
+   "reviews": 9,
+   "usable": 9,
+   "paragraphs": {
+    "p5": {
+     "families": {
+      "glm": 1
+     },
+     "rules": {
+      "NDA-01": 1
+     },
+     "candidateFault": false
+    },
+    "p12": {
+     "families": {
+      "glm": 1
+     },
+     "rules": {},
+     "candidateFault": false
+    }
+   }
+  },
+  "nda-recipient": {
+   "reviews": 9,
+   "usable": 9,
+   "paragraphs": {
+    "p5": {
+     "families": {
+      "glm": 1
+     },
+     "rules": {
+      "NDA-01": 1
+     },
+     "candidateFault": false
+    },
+    "p8": {
+     "families": {
+      "deepseek": 1
+     },
+     "rules": {},
+     "candidateFault": false
+    },
+    "p22": {
+     "families": {
+      "deepseek": 1
+     },
+     "rules": {},
+     "candidateFault": false
+    },
+    "p4": {
+     "families": {
+      "deepseek": 1
+     },
+     "rules": {},
+     "candidateFault": false
+    }
+   }
+  }
+ },
+ "candidates": []
+}

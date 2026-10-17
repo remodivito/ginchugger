@@ -1,0 +1,261 @@
+{
+ "id": "N130",
+ "revision": 1,
+ "title": "INFOMAGNET%20NDA.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 130,
+  "type": "search-pdf",
+  "url": "https://www.infomagnet.com/sites/default/files/INFOMAGNET%20NDA.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "Two-Way Non-Disclosure "
+  },
+  {
+   "id": "s1",
+   "text": "Agreement"
+  },
+  {
+   "id": "s2",
+   "text": "This Agreement (the \"Agreement\") is made between Infomagnet Ltd., of 65 Claremont Road, Highgate, London, N6 5BZ, UK, a company incorporated under the laws of England and Wales, company registration no. 4722865 (Infomagnet), and __________________, of "
+  },
+  {
+   "id": "s3",
+   "text": "____________________, (___________) and is entered into with effect from "
+  },
+  {
+   "id": "s4",
+   "text": "____________. "
+  },
+  {
+   "id": "s5",
+   "text": "In consideration of the mutual covenants contained in this Agreement, and the mutual disclosure of confidential information to each other, the parties hereby agree to the following:"
+  },
+  {
+   "id": "s6",
+   "text": "1. Definitions"
+  },
+  {
+   "id": "s7",
+   "text": "(a) \"Confidential Information\" means non public information that the Disclosing Party either designates as being confidential or which, under the circumstances surrounding disclosure ought to be treated as confidential. "
+  },
+  {
+   "id": "s8",
+   "text": "\"Confidential Information\" includes, without limitation, information relating to released or unreleased Disclosing Party software products, the marketing or promotion of any Disclosing Party product, Disclosing Party's business policies or practices, and information received from others that Disclosing Party is obligated to treat as confidential. "
+  },
+  {
+   "id": "s9",
+   "text": "Confidential Information disclosed to the Receiving Party by any Disclosing Party subsidiary and/or agents is also covered by this Agreement."
+  },
+  {
+   "id": "s10",
+   "text": "(b) Confidential Information shall not include any information that: "
+  },
+  {
+   "id": "s11",
+   "text": "(i) is or subsequently becomes publicly available without Receiving Party's breach of any obligation owed to the Disclosing Party; "
+  },
+  {
+   "id": "s12",
+   "text": "(ii) became known to the Receiving Party prior to Disclosing Party's disclosure of such information to Receiving Party; "
+  },
+  {
+   "id": "s13",
+   "text": "(iii) became known to Receiving Party from a source other than Disclosing Party other than by breach of an obligation of confidentiality owed to Disclosing Party; or "
+  },
+  {
+   "id": "s14",
+   "text": "(iv) is independently developed or acquired legitimately by Receiving Party."
+  },
+  {
+   "id": "s15",
+   "text": "(c) \"Confidential Materials\" shall mean all tangible materials containing Confidential Information, including without limitation written or printed documents and computer disks or tapes, whether machine or user readable."
+  },
+  {
+   "id": "s16",
+   "text": "(d) “Disclosing Party” is the party disclosing the Confidential Information and/or the Confidential Materials."
+  },
+  {
+   "id": "s17",
+   "text": "(e) “Receiving Party” is the party in receipt of the Confidential Information and/or the Confidential Materials."
+  },
+  {
+   "id": "s18",
+   "text": "2. Restrictions"
+  },
+  {
+   "id": "s19",
+   "text": "(a) Receiving Party shall not disclose any Confidential Information to any third parties for three (3) years following the date of its disclosure by Disclosing Party to Receiving Party, except to Receiving Party's consultants as set out below. "
+  },
+  {
+   "id": "s20",
+   "text": "However, Receiving Party may disclose Confidential Information in accordance with judicial or other governmental order, provided that the Receiving Party shall give the Disclosing Party reasonable notice prior to such disclosure."
+  },
+  {
+   "id": "s21",
+   "text": "(b) Receiving Party shall take reasonable security precautions, at least as great as the precautions it takes to protect its own Confidential Information, to keep confidential the Confidential Information. "
+  },
+  {
+   "id": "s22",
+   "text": "Receiving Party may disclose Confidential Information or Confidential Materials only to Receiving Party's employees or bona-fidae consultants on a need-to-know basis. "
+  },
+  {
+   "id": "s23",
+   "text": "Receiving"
+  },
+  {
+   "id": "s24",
+   "text": "Party will have executed or shall execute appropriate written agreements with its employees and consultants sufficient to enable them to comply with all the provisions of this Agreement."
+  },
+  {
+   "id": "s25",
+   "text": "(c) Confidential Information and Confidential Materials may be disclosed, reproduced, summarised, or distributed only in pursuance of the Receiving Party's business relationship with Disclosing Party, and only as otherwise provided hereunder. "
+  },
+  {
+   "id": "s26",
+   "text": "Receiving Party agrees to segregate all such Confidential Materials from the confidential materials of others in order to prevent the danger of accidental disclosure."
+  },
+  {
+   "id": "s27",
+   "text": "(d) Receiving Party may not reverse engineer, decompile or disassemble any software disclosed to Receiving Party."
+  },
+  {
+   "id": "s28",
+   "text": "3. Rights & Remedies"
+  },
+  {
+   "id": "s29",
+   "text": "(a) Receiving Party shall notify Disclosing Party immediately upon discovery of any unauthorised use or disclosure of Confidential Information or Confidential Materials, or any other breach of this Agreement by Receiving Party, and will co-operate with Disclosing Party in every reasonable way to help Disclosing Party regain possession of the Confidential Information and/or Confidential Materials and prevent its further unauthorised use."
+  },
+  {
+   "id": "s30",
+   "text": "(b) Receiving Party shall return all originals, copies, reproductions and summaries of Confidential Information and/or Confidential Materials, or at Disclosing Party's option, certify destruction of the same in writing to Disclosing Party."
+  },
+  {
+   "id": "s31",
+   "text": "(c) Receiving Party acknowledges that monetary damages may not be a sufficient remedy for unauthorised disclosure of Confidential Information and that Disclosing Party shall be entitled, without waiving any other rights or remedies, to such compensation as may be deemed proper by a court of competent jurisdiction."
+  },
+  {
+   "id": "s32",
+   "text": "(d) Disclosing Party may visit Receiving Party's premises, with reasonable prior notice and during normal business hours, to review Receiving Party's compliance with the Terms of this Agreement."
+  },
+  {
+   "id": "s33",
+   "text": "4. Miscellaneous"
+  },
+  {
+   "id": "s34",
+   "text": "(a) All Confidential Information and Confidential Materials are and shall remain the property of the Disclosing Party. "
+  },
+  {
+   "id": "s35",
+   "text": "By disclosing information to the Receiving Party, Disclosing Party does not grant any express or implied right to Receiving Party to or under Disclosing Party patents, copyrights, trademarks, or trade secret information."
+  },
+  {
+   "id": "s36",
+   "text": "(b) The terms of confidentiality under this Agreement shall not be construed to limit either party's right to independently develop or acquire products without use of the other party's Confidential Information. "
+  },
+  {
+   "id": "s37",
+   "text": "Further, either party shall be free to use for any purpose the residuals resulting from access to or from work with such Confidential Information, provided that either party shall maintain the confidentiality of the Confidential Information as provided herein. "
+  },
+  {
+   "id": "s38",
+   "text": "The terms \"residuals\" means information in non-tangible form, which may be retained by persons who have access to the Confidential Information, including ideas, concepts, know-how or techniques contained therein. "
+  },
+  {
+   "id": "s39",
+   "text": "Neither party shall have any obligation to limit or restrict the assignment of such persons or to pay royalties for any work resulting from the use of residuals. "
+  },
+  {
+   "id": "s40",
+   "text": "However, the foregoing shall not be deemed to grant to either party a license under the other party's copyrights or patents."
+  },
+  {
+   "id": "s41",
+   "text": "(c) This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof. "
+  },
+  {
+   "id": "s42",
+   "text": "It shall not be modified except by a written agreement dated subsequent to the date of this Agreement and signed by both parties. "
+  },
+  {
+   "id": "s43",
+   "text": "None of the provisions of this Agreement shall be deemed to have been waived by any act or acquiescence on the part of the Disclosing Party, its agents, or employees, but only by an instrument in writing signed by an authorised officer of Disclosing Party. "
+  },
+  {
+   "id": "s44",
+   "text": "No waiver of any provision of this Agreement shall constitute a waiver of any other provision(s) or of the same provision on another occasion."
+  },
+  {
+   "id": "s45",
+   "text": "(d) If either party employs lawyers to enforce any rights arising out of or relating to this Agreement, the prevailing party shall be entitled to recover reasonable lawyers fees. "
+  },
+  {
+   "id": "s46",
+   "text": "This Agreement shall be construed under the laws of England and Wales."
+  },
+  {
+   "id": "s47",
+   "text": "(e) Subject to the limitations set forth in this Agreement, this Agreement will inure to the benefit of and be binding upon the parties, their successors and assigns."
+  },
+  {
+   "id": "s48",
+   "text": "(f) If any provision of this Agreement shall be held by a Court of competent jurisdiction to be illegal, invalid or unenforceable, the remaining provisions shall remain in full force and effect."
+  },
+  {
+   "id": "s49",
+   "text": "(g) All obligations created by this Agreement shall survive change or termination of the parties' business relationship."
+  },
+  {
+   "id": "s50",
+   "text": "EXECUTED BY :"
+  },
+  {
+   "id": "s51",
+   "text": "For and on behalf of "
+  },
+  {
+   "id": "s52",
+   "text": "____________________________________________________"
+  },
+  {
+   "id": "s53",
+   "text": "By :"
+  },
+  {
+   "id": "s54",
+   "text": "Full Name : ___________________________________________________"
+  },
+  {
+   "id": "s55",
+   "text": "Date : ___________________________________________________"
+  },
+  {
+   "id": "s56",
+   "text": "For and on behalf of Infomagnet Ltd."
+  },
+  {
+   "id": "s57",
+   "text": "By : "
+  },
+  {
+   "id": "s58",
+   "text": "___________________________________________________"
+  },
+  {
+   "id": "s59",
+   "text": "Full Name : ___________________________________________________"
+  },
+  {
+   "id": "s60",
+   "text": "Title : ___________________________________________________"
+  },
+  {
+   "id": "s61",
+   "text": "Date : ___________________________________________________"
+  }
+ ]
+}

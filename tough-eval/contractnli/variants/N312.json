@@ -1,0 +1,449 @@
+{
+ "id": "N312",
+ "revision": 1,
+ "title": "nondisclosure-Engl.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 312,
+  "type": "search-pdf",
+  "url": "http://emits.esa.int/emits-doc/ESRIN/e_support/nondisclosure-Engl.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "[European Space Agency]"
+  },
+  {
+   "id": "s1",
+   "text": "and"
+  },
+  {
+   "id": "s2",
+   "text": "[Contractor]"
+  },
+  {
+   "id": "s3",
+   "text": "Non-Disclosure "
+  },
+  {
+   "id": "s4",
+   "text": "Agreement"
+  },
+  {
+   "id": "s5",
+   "text": "ESA Contract No. [ ]"
+  },
+  {
+   "id": "s6",
+   "text": "Non-Disclosure "
+  },
+  {
+   "id": "s7",
+   "text": "Agreement"
+  },
+  {
+   "id": "s8",
+   "text": "THIS AGREEMENT "
+  },
+  {
+   "id": "s9",
+   "text": "is made on 200[ ]"
+  },
+  {
+   "id": "s10",
+   "text": "BETWEEN:"
+  },
+  {
+   "id": "s11",
+   "text": "(1) [The European Space Agency, established by the Convention of the European Space Agency1975, whose headquarters are located at 8-10 rue Mario Nikis, 75738 Paris, Cedex 15 – France] (the “Agency”),"
+  },
+  {
+   "id": "s12",
+   "text": "and"
+  },
+  {
+   "id": "s13",
+   "text": "(2) [ ] [a [French] company whose registered number is [ ] and whose registered address is [ ]] "
+  },
+  {
+   "id": "s14",
+   "text": "(the “Contractor”)"
+  },
+  {
+   "id": "s15",
+   "text": "WHEREAS"
+  },
+  {
+   "id": "s16",
+   "text": "(A) The Agency has entered into a contract with the Contractor dated [ ] (the “Contract”) and both the Contractor and the Agency need to exchange certain information and documentation to enable completion of the Contract."
+  },
+  {
+   "id": "s17",
+   "text": "(B) Both the Agency and the Contractor have agreed to provide information and documentation on general terms set out in the Contract and this Non-Disclosure Agreement further confirms and supplements those terms."
+  },
+  {
+   "id": "s18",
+   "text": "(C) This Non-Disclosure "
+  },
+  {
+   "id": "s19",
+   "text": "Agreement is entered into since information and documentation may need to be circulated to individuals not employed by the Agency or the Contractor and so not bound by the Contract."
+  },
+  {
+   "id": "s20",
+   "text": "THE PARTIES AGREE AS FOLLOWS:"
+  },
+  {
+   "id": "s21",
+   "text": "1. Definitions"
+  },
+  {
+   "id": "s22",
+   "text": "1.1 “Agency Authorised Persons” means those persons named by the Agency who have agreed to be bound by the terms of this agreement and who confirmed their agreement by signing Appendix 1;"
+  },
+  {
+   "id": "s23",
+   "text": "“Authorised Persons” means those persons named by the Contractor who have agreed to be bound by the terms of this agreement and who confirmed their agreement by signing Appendix 1;"
+  },
+  {
+   "id": "s24",
+   "text": "“Authorised Purpose” means the work to be performed under the Contract [as specifically described in Appendix 1];"
+  },
+  {
+   "id": "s25",
+   "text": "“Disclose” means the distribution, circulation, supply or communication of information or Documentation either by means of verbal, electronic or hardcopy means;"
+  },
+  {
+   "id": "s26",
+   "text": "“Documentation” means all media on which information or data of any description is recorded including all paper documents and electronic communications whether in electronic or hard copy form;"
+  },
+  {
+   "id": "s27",
+   "text": "“Intellectual Property Rights” means all registered intellectual property rights and unregistered intellectual property rights granted by law including all patents, trade marks, design rights, data base rights, topography rights, know-how and trade secrets or equivalent rights or rights of action anywhere in the world;"
+  },
+  {
+   "id": "s28",
+   "text": "“Proprietary Information” means any information the provider states to be sensitive, confidential or for restricted use together with all Documentation marked “Proprietary Information”."
+  },
+  {
+   "id": "s29",
+   "text": "1.2 "
+  },
+  {
+   "id": "s30",
+   "text": "In the event of any conflict between this agreement and the Contract the terms and conditions of the Contract shall prevail."
+  },
+  {
+   "id": "s31",
+   "text": "2. Disclosure"
+  },
+  {
+   "id": "s32",
+   "text": "2.1 "
+  },
+  {
+   "id": "s33",
+   "text": "In consideration for the Agency supplying Proprietary Information to the Contractor, the Contractor shall"
+  },
+  {
+   "id": "s34",
+   "text": "a) only Disclose the Proprietary Information to Authorised Persons and to no other person;"
+  },
+  {
+   "id": "s35",
+   "text": "b) ensure that only Authorised Persons use, Disclose or copy (in hardcopy form or electronic form) the Proprietary Information to the extent strictly necessary for the Authorised Purpose and for no other purpose."
+  },
+  {
+   "id": "s36",
+   "text": "2.2 "
+  },
+  {
+   "id": "s37",
+   "text": "In consideration for the Contractor supplying Proprietary Information to the Agency the Agency shall:"
+  },
+  {
+   "id": "s38",
+   "text": "a) only Disclose the Proprietary Information to the Agency Authorised Persons and to no other person; and"
+  },
+  {
+   "id": "s39",
+   "text": "b) ensure that only the Agency Authorised Persons use, Disclose or copy (in hardcopy form or electronic form) the Proprietary Information to the extent strictly necessary for the Authorised Purpose and for no other purpose."
+  },
+  {
+   "id": "s40",
+   "text": "2.3 "
+  },
+  {
+   "id": "s41",
+   "text": "The obligations in this agreement shall not apply to Proprietary Information:"
+  },
+  {
+   "id": "s42",
+   "text": "a) which at the time of circulation has already entered the public domain or which after circulation enters the public domain (other than through a breach of this agreement);"
+  },
+  {
+   "id": "s43",
+   "text": "b) which at the time of circulation is already known by the receiving party (as evidenced in writing) and is not hindered by any obligation not to circulate;"
+  },
+  {
+   "id": "s44",
+   "text": "c) which is later acquired by the receiving party from another source and is not hindered by any obligation not to circulate;"
+  },
+  {
+   "id": "s45",
+   "text": "d) which is required to be circulated by law or order of a court of competent jurisdiction."
+  },
+  {
+   "id": "s46",
+   "text": "2.4 Both, the Agency and the Contractor agree that all Proprietary Information shall remain the property of the owner and that any Intellectual Property Rights subsisting in and protecting the Proprietary Information are owned and licensed as set out in the Contract and nothing in this agreement shall grant, convey or transfer to the Contractor, an Authorised Person, Agency Authorised Person or any company, firm or person any right, title, licence or interest in such Proprietary Information."
+  },
+  {
+   "id": "s47",
+   "text": "3. Storage"
+  },
+  {
+   "id": "s48",
+   "text": "Both the Agency and the Contractor shall:"
+  },
+  {
+   "id": "s49",
+   "text": "a) keep all Proprietary Information supplied by the other party (and all results, information, data or documentation based thereon) separate from all other records at its usual place of business;"
+  },
+  {
+   "id": "s50",
+   "text": "b) not use, reproduce, transform, or store any of the Proprietary Information supplied by the other party in an externally accessible computer or electronic information retrieval system or transmit it in any form or by any means whatsoever outside its usual place of business;"
+  },
+  {
+   "id": "s51",
+   "text": "c) keep a written record of the physical and electronic location of all Proprietary Information used by Authorised Persons and Agency Authorised Persons, a record of when and how many copies are made and destroy copies which are unused;"
+  },
+  {
+   "id": "s52",
+   "text": "d) take every reasonable precaution and step to ensure that the Proprietary Information supplied by the other party is secure and protected from unauthorised access and use."
+  },
+  {
+   "id": "s53",
+   "text": "4. Further Assurances"
+  },
+  {
+   "id": "s54",
+   "text": "4.1 "
+  },
+  {
+   "id": "s55",
+   "text": "At the request of the supplier of the Proprietary Information the receiving party shall immediately return all Proprietary Information which the receiving party (or an Authorised Person/Agency Authorised Person) has in its possession, custody or control including all materials (in hardcopy or electronic form) that incorporate any part of the Proprietary Information and, if required, destroy any copies of such Proprietary Information and materials and certify in writing that such destruction has been completed."
+  },
+  {
+   "id": "s56",
+   "text": "4.2 Both the Agency and the Contractor shall promptly inform the other party if it is aware that any Proprietary Information supplied by the other party may have been accessed, used, distributed, circulated, supplied or copied in breach of this agreement and shall provide any assistance the other party may reasonably require to investigate such unauthorised access, use, distribution, circulation or copying and prevent further such unauthorised activities."
+  },
+  {
+   "id": "s57",
+   "text": "5. Notices"
+  },
+  {
+   "id": "s58",
+   "text": "5.1 Notification under this agreement should be sent to:"
+  },
+  {
+   "id": "s59",
+   "text": "Name"
+  },
+  {
+   "id": "s60",
+   "text": "Address"
+  },
+  {
+   "id": "s61",
+   "text": "Telephone"
+  },
+  {
+   "id": "s62",
+   "text": "Fax"
+  },
+  {
+   "id": "s63",
+   "text": "e-mail"
+  },
+  {
+   "id": "s64",
+   "text": "For the Agency For the Contractor"
+  },
+  {
+   "id": "s65",
+   "text": "5.2 Notification sent under this agreement shall be deemed valid and effective when received by mail, fax or e-mail providing there is written confirmation of receipt."
+  },
+  {
+   "id": "s66",
+   "text": "6. Termination"
+  },
+  {
+   "id": "s67",
+   "text": "6.1 "
+  },
+  {
+   "id": "s68",
+   "text": "The Agency may terminate this agreement at any time by notice in writing if;"
+  },
+  {
+   "id": "s69",
+   "text": "a) the Contractor becomes insolvent, ceases to carry out its business, has a receiver, liquidator, administrative receiver, administrator, trustee or other similar officer appointed over the whole or part of its assets or an order is made or a resolution passed for the winding up of the Contractor (save for a solvent winding up as part of a bona fide reconstruction or amalgamation); or"
+  },
+  {
+   "id": "s70",
+   "text": "b) the Contractor commits a breach of this agreement or of the Contract which is material and not capable of remedy or which is capable of remedy but which is not remedied within 60 days of notice to the Agency."
+  },
+  {
+   "id": "s71",
+   "text": "6.2 "
+  },
+  {
+   "id": "s72",
+   "text": "The Contractor may terminate this agreement if the Contract is cancelled by the Agency for some reason other than the fault of the Contractor."
+  },
+  {
+   "id": "s73",
+   "text": "7. Miscellaneous"
+  },
+  {
+   "id": "s74",
+   "text": "7.1 Both the Agency and the Contractor make no representation and give no warranty concerning the accuracy, format (either in hard copy or electronic form) suitability or fitness for purpose of the Proprietary Information supplied under this agreement. "
+  },
+  {
+   "id": "s75",
+   "text": "Neither the Agency nor the Contractor shall be liable in any form for any loss, damage or expenses incurred an Authorised Person or Agency Authorised Person which result either directly or indirectly from the accessing, using, distributing, circulating, supplying or copying the Proprietary Information supplied under this agreement unless such loss, damage or expense cannot be excluded by agreement under the governing law of this agreement."
+  },
+  {
+   "id": "s76",
+   "text": "7.2 "
+  },
+  {
+   "id": "s77",
+   "text": "This agreement is for the benefit of the Agency and Contractor and no right, title, licence or interest obtained by virtue of the agreement may be assigned or licensed by an Authorised Person or Agency Authorised Person without the prior written consent from the supplier of the Proprietary Information. "
+  },
+  {
+   "id": "s78",
+   "text": "For the avoidance of doubt, no rights under this agreement pass to successors in title to the Agency, Contractor, or any Authorised Person or Agency Authorised Person."
+  },
+  {
+   "id": "s79",
+   "text": "7.3 "
+  },
+  {
+   "id": "s80",
+   "text": "For the avoidance of doubt, all obligations in this agreement concerning the access, use, distribution, circulation and copying of Proprietary Information supplied by the Agency and the Contractor remain valid and enforceable following completion of the Contract."
+  },
+  {
+   "id": "s81",
+   "text": "7.4 "
+  },
+  {
+   "id": "s82",
+   "text": "No amendment made to this agreement shall be binding or effective unless made in writing and signed by both the Agency and the Contractor."
+  },
+  {
+   "id": "s83",
+   "text": "8. Governing Law/Disputes"
+  },
+  {
+   "id": "s84",
+   "text": "8.1 "
+  },
+  {
+   "id": "s85",
+   "text": "The validity, construction and performance of this agreement shall be governed by the laws of [France]."
+  },
+  {
+   "id": "s86",
+   "text": "8.2 "
+  },
+  {
+   "id": "s87",
+   "text": "All disputes arising out of or in connection with this agreement shall be finally settled under the Rules of Arbitration of the International Chamber of Commerce by one or more arbitrators appointed in accordance with the said Rules."
+  },
+  {
+   "id": "s88",
+   "text": "IN WITNESS whereof this agreement has been executed on the date first above written"
+  },
+  {
+   "id": "s89",
+   "text": "Signed by [ ] "
+  },
+  {
+   "id": "s90",
+   "text": "Signed by [ ]"
+  },
+  {
+   "id": "s91",
+   "text": "for and on behalf of for and on behalf of"
+  },
+  {
+   "id": "s92",
+   "text": "the [European Space Agency] the [Contractor]"
+  },
+  {
+   "id": "s93",
+   "text": "Date: Date:"
+  },
+  {
+   "id": "s94",
+   "text": "Appendix 1"
+  },
+  {
+   "id": "s95",
+   "text": "Authorised Persons"
+  },
+  {
+   "id": "s96",
+   "text": "The following individuals named by the Contractor have read and understood the terms and conditions of this Non-Disclosure Agreement dated [ ] and their signature confirms agreement to be bound by its terms."
+  },
+  {
+   "id": "s97",
+   "text": "Contractor Employees"
+  },
+  {
+   "id": "s98",
+   "text": "Name Signature Address Date"
+  },
+  {
+   "id": "s99",
+   "text": "Contractor Third Parties"
+  },
+  {
+   "id": "s100",
+   "text": "Name Signature Address Date"
+  },
+  {
+   "id": "s101",
+   "text": "Agency Authorised Persons"
+  },
+  {
+   "id": "s102",
+   "text": "The following individuals named by the Agency have read and understood the terms and conditions of this Non-Disclosure Agreement dated [ ] and their signature confirms agreement to be bound by its terms."
+  },
+  {
+   "id": "s103",
+   "text": "Agency Employees"
+  },
+  {
+   "id": "s104",
+   "text": "Name Signature Address Date"
+  },
+  {
+   "id": "s105",
+   "text": "Agency Third Parties"
+  },
+  {
+   "id": "s106",
+   "text": "Name Signature Address Date"
+  },
+  {
+   "id": "s107",
+   "text": "Approved Purpose"
+  },
+  {
+   "id": "s108",
+   "text": "The Agency agrees to supply Proprietary Information for the sole purpose of completing [ ]."
+  }
+ ]
+}

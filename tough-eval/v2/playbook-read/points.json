@@ -1,0 +1,691 @@
+{
+ "canary": "2eb20c99-e785-485c-b97c-b5e8d177c40a",
+ "format": "tough-eval-playbook-points/1",
+ "updatedAt": "2026-10-16T09:49:38.774Z",
+ "note": "P2: every point gets a disposition (\"fixed\" or \"kept\") and a reason, copied to calibration-log.md, before P3 freezes the playbooks.",
+ "failures": [],
+ "points": [
+  {
+   "family": "deepseek",
+   "side": "csa-customer",
+   "playbook": "playbook-bundle.json",
+   "ruleId": "C-07",
+   "type": "inconsistent",
+   "paragraphs": [],
+   "explanation": "The acceptable position allows disclosure of Usage Data to Provider subprocessors bound by confidentiality, which would permit identifying Usage Data to be disclosed to entities outside Provider. That contradicts the preferred position (only aggregated and non-identifying disclosure) and the escalation position (identifying Usage Data to anyone outside Provider). If an agreement allowed identifying Usage Data to subprocessors, the same clause would be both acceptable and escalation under the playbook.",
+   "suggestion": "Clarify that the subprocessor exception applies only to aggregated/non-identifying Usage Data, or remove the exception and treat identifying disclosure to subprocessors as an escalation.",
+   "source": "csa-customer.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "deepseek",
+   "side": "csa-customer",
+   "playbook": "playbook-bundle.json",
+   "ruleId": "C-09",
+   "type": "not-met",
+   "paragraphs": [
+    "p37"
+   ],
+   "explanation": "Preferred suspension grounds are limited to an undisputed overdue balance, breach of use restrictions, and use that materially harms the Product or others. p37(c) adds a broader freestanding ground: any use of the Product in violation of the Agreement. Since p37(b) already covers breach of Section 2.1, this catch-all goes beyond the preferred three grounds.",
+   "suggestion": "Delete 'uses the Product in violation of the Agreement' as a separate ground, or add an acceptable position for suspension on any material breach of the Agreement.",
+   "source": "csa-customer.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "deepseek",
+   "side": "csa-customer",
+   "playbook": "playbook-bundle.json",
+   "ruleId": "C-21",
+   "type": "ambiguous",
+   "paragraphs": [
+    "a24"
+   ],
+   "explanation": "The DPA gives 'at least 10 business days' advance notice of a new subprocessor, says this allows Customer to object before Provider begins using it, but also gives Customer 30 days to object and deems acceptance if no objection within 30 days. It is unclear whether Provider may begin using the new subprocessor after 10 business days while the 30-day objection window is still open, making it hard to apply the acceptable position of 10 business days' notice plus a 30-day right to object.",
+   "suggestion": "Clarify that Provider may not use a new subprocessor until the 30-day objection period ends and while an objection is pending.",
+   "source": "csa-customer.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "deepseek",
+   "side": "csa-customer",
+   "playbook": "playbook-bundle.json",
+   "ruleId": "C-23",
+   "type": "ambiguous",
+   "paragraphs": [
+    "a50"
+   ],
+   "explanation": "Preferred requires a copy of Provider's current independent audit report on written request. DPA a50 only provides a 'summary copy' of the Report. The playbook does not state whether a summary copy satisfies the audit-report access requirement or whether that counts as removal of access to independent audit reports (escalation).",
+   "suggestion": "State expressly that a summary copy of the then-current SOC 2 (or equivalent) report is acceptable, or require the full report.",
+   "source": "csa-customer.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "deepseek",
+   "side": "csa-customer",
+   "playbook": "playbook-bundle.json",
+   "ruleId": "C-24",
+   "type": "other",
+   "paragraphs": [
+    "a58"
+   ],
+   "explanation": "Preferred allows the Provider to keep personal data only where storage is required or authorised by Applicable Law. DPA a58(a) adds a further exception: Provider may keep personal data when return or destruction is 'impracticable', even if no law requires or authorises the storage. The playbook has no position on this impracticability exception, so a reviewer cannot tell whether it is acceptable or should be escalated.",
+   "suggestion": "Either accept impracticability as an express exception (with duties to minimise further processing and protect the data), or amend a58 to allow retention only when required or authorised by Applicable Law.",
+   "source": "csa-customer.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "deepseek",
+   "side": "csa-vendor",
+   "playbook": "playbook-vendor.json",
+   "ruleId": "V-02",
+   "type": "not-met",
+   "paragraphs": [
+    "p10"
+   ],
+   "explanation": "The preferred Increased Cap Amount is 2x the 12-month Fees, but the Key Terms set it at 3x. The 3x is within the rule's acceptable tier, so it should not be escalated, but the preferred position is not literally met.",
+   "suggestion": "Change the Increased Cap Amount to 2x if the preferred position is to be enforced, or amend V-02 to make 3x the preferred value.",
+   "source": "csa-vendor.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "deepseek",
+   "side": "csa-vendor",
+   "playbook": "playbook-vendor.json",
+   "ruleId": "V-11",
+   "type": "not-met",
+   "paragraphs": [
+    "p19"
+   ],
+   "explanation": "The preferred position requires renewal fee increases of up to 7% on notice before the renewal date. The clean order form caps increases at 5% but contains no notice-before-renewal requirement, so the preferred increase and notice condition are not met. The 5% cap is at least within the acceptable tier.",
+   "suggestion": "Add an express right for Provider to give notice of renewal increases before the renewal date, or revise V-11 to state that a 5% cap without notice is acceptable.",
+   "source": "csa-vendor.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "deepseek",
+   "side": "csa-vendor",
+   "playbook": "playbook-vendor.json",
+   "ruleId": "V-14",
+   "type": "not-met",
+   "paragraphs": [
+    "p67"
+   ],
+   "explanation": "The preferred warranty remedy says Provider has 45 days to restore functionality. Section 6.4 only requires Provider to 'attempt to restore' within 45 days, which is a weaker obligation and leaves the trigger for the termination/refund remedy less precise.",
+   "suggestion": "If the preferred position is literal, change 'attempt to restore' to 'restore' or clarify that a failed restoration attempt within 45 days triggers the customer's termination right.",
+   "source": "csa-vendor.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "deepseek",
+   "side": "csa-vendor",
+   "playbook": "playbook-vendor.json",
+   "ruleId": "V-15",
+   "type": "not-met",
+   "paragraphs": [
+    "p95"
+   ],
+   "explanation": "The preferred position includes Provider's right to update operational policies on notice without materially reducing protection. The clean agreement only contains the general amendments clause requiring written/signed or electronically accepted changes, with no operational-policy update carve-out. This is worse for Provider and falls within the rule's escalation ('removal of our right to update operational policies').",
+   "suggestion": "Add an operational-policy update clause (security, acceptable use, support) with notice and no material reduction in protection, or amend V-15 to accept the standard terms' silence.",
+   "source": "csa-vendor.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "deepseek",
+   "side": "csa-vendor",
+   "playbook": "playbook-vendor.json",
+   "ruleId": "V-19",
+   "type": "inconsistent",
+   "paragraphs": [
+    "a49"
+   ],
+   "explanation": "V-19 says Provider does not accept customer audits of its systems beyond published security reports, while V-23 accepts one on-site audit a year at the Customer's cost where reports and questionnaires do not answer a specific concern. A customer audit clause in the DPA would therefore be evaluated under two rules with different outcomes.",
+   "suggestion": "State that V-19 covers licence/use verification only and that DPA/security audits are governed exclusively by V-23.",
+   "source": "csa-vendor.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "deepseek",
+   "side": "csa-vendor",
+   "playbook": "playbook-vendor.json",
+   "ruleId": "V-21",
+   "type": "ambiguous",
+   "paragraphs": [
+    "a24"
+   ],
+   "explanation": "The first sentence says Provider will not transfer Personal Data to a subprocessor 'unless Customer has approved' the subprocessor, which can be read as requiring affirmative prior approval. The following 10-business-day notice and 30-day deemed-acceptance mechanism says approval may occur by lapse. This makes it unclear whether the no-veto position in V-21 is satisfied.",
+   "suggestion": "Clarify that 'approved' includes deemed acceptance when Customer does not object within 30 days, and that an unresolved objection does not block the change.",
+   "source": "csa-vendor.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "deepseek",
+   "side": "csa-vendor",
+   "playbook": "playbook-vendor.json",
+   "ruleId": "V-22",
+   "type": "not-met",
+   "paragraphs": [
+    "a26"
+   ],
+   "explanation": "V-22 lists 'a duty to give the Customer copies of subprocessor contracts' as an escalation, but DPA section 2.6(c) requires Provider to share copies of its subprocessor agreements at Customer's request (with redaction). The clean bundle therefore contains a term the playbook treats as escalable, rather than meeting the preferred position.",
+   "suggestion": "Remove or narrow the subprocessor-contract sharing obligation (for example, provide summaries only), or revise V-22 to allow the standard redacted-copy-on-request term.",
+   "source": "csa-vendor.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "deepseek",
+   "side": "csa-vendor",
+   "playbook": "playbook-vendor.json",
+   "ruleId": "V-23",
+   "type": "ambiguous",
+   "paragraphs": [
+    "a49"
+   ],
+   "explanation": "V-23's preferred position says audit rights are exercised only through the Report and questionnaires, but DPA section 5.1 first says Provider will allow for and contribute to audits 'including inspections by Customer'. The later sentence limits exercise of audit rights to the reporting/due-diligence requirements, but the unqualified 'including inspections' language makes it unclear whether an inspection right exists.",
+   "suggestion": "Remove 'including inspections' or expressly state that the contractual audit right excludes inspections except as required by Applicable Data Protection Laws.",
+   "source": "csa-vendor.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "deepseek",
+   "side": "csa-vendor",
+   "playbook": "playbook-vendor.json",
+   "ruleId": "V-25",
+   "type": "ambiguous",
+   "paragraphs": [
+    "a63"
+   ],
+   "explanation": "The preferred position makes DPA liability subject to the Agreement's caps, but DPA section 8.3 says the DPA does not limit liability between the parties for violations of the EEA SCCs or UK Addendum. Depending on whether SCC/UK Addendum liability counts as 'under the DPA', this either conflicts with the preferred position or falls into the rule's escalation for DPA liability outside the Agreement's limits.",
+   "suggestion": "Clarify that SCC/UK Addendum liability is or is not carved out of the Agreement's liability caps, and align V-25's escalation wording with that clarification.",
+   "source": "csa-vendor.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "deepseek",
+   "side": "csa-vendor",
+   "playbook": "playbook-vendor.json",
+   "ruleId": "V-26",
+   "type": "ambiguous",
+   "paragraphs": [
+    "p19",
+    "a92"
+   ],
+   "explanation": "V-26 expresses credits as percentages of the 'monthly Cloud Service Fee', but the order form states only an annual Cloud Service Fee (£48,000 per 12-month Subscription Period) and does not define a monthly fee. The credit calculation base is therefore unclear.",
+   "suggestion": "Define the 'monthly Cloud Service Fee' in the order form (for example, the annual Cloud Service Fee divided by 12) or state the monthly amount explicitly.",
+   "source": "csa-vendor.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "deepseek",
+   "side": "nda-discloser",
+   "playbook": "v2/playbook-nda-discloser.json",
+   "ruleId": "NDA-03",
+   "type": "ambiguous",
+   "paragraphs": [
+    "p14"
+   ],
+   "explanation": "The preferred position requires information to be protected in whatever form it is disclosed, including orally, visually or by demonstration. p14 only says the Disclosing Party may 'disclose or make available' information and does not explicitly cover oral, visual or demonstration disclosures, so a reviewer must infer form-neutrality rather than finding it stated as written.",
+   "suggestion": "Make p14 explicit (for example, 'Confidential Information is protected in any form, including orally, visually or by demonstration') or amend the preferred position to state that form-neutral 'disclose or make available' language is sufficient.",
+   "source": "nda-discloser.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "deepseek",
+   "side": "nda-discloser",
+   "playbook": "v2/playbook-nda-discloser.json",
+   "ruleId": "NDA-01",
+   "type": "inconsistent",
+   "paragraphs": [
+    "p14"
+   ],
+   "explanation": "NDA-01's acceptable position requires the reasonable-understanding limb to remain for everything other than documents, while NDA-03's acceptable position would allow oral and visual disclosures to be protected solely by identification or a 30-day written confirmation. A definition that removes the reasonable-understanding limb for oral/visual information and substitutes 30-day confirmation would be acceptable under NDA-03 but an escalation under NDA-01, so the two rules covering the same definitional clause give conflicting guidance.",
+   "suggestion": "Align NDA-01 and NDA-03: either allow the 30-day confirmation mechanism for oral/visual information only if the reasonable-understanding limb is retained generally, or make NDA-03 the controlling position for oral/visual disclosures.",
+   "source": "nda-discloser.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "csa-customer",
+   "playbook": "playbook-bundle.json",
+   "ruleId": "C-09",
+   "type": "not-met",
+   "paragraphs": [
+    "p37"
+   ],
+   "explanation": "The preferred position limits suspension to three grounds: an undisputed balance more than 30 days overdue, breach of the use restrictions (Section 2.1), and use that materially harms the Product or others. p37(c) also permits suspension whenever Customer 'uses the Product in violation of the Agreement', which is broader than the use restrictions and not clearly matched by any preferred, acceptable, or escalation wording — the escalation triggers (disputed amounts, balances overdue 30 days or less, no attempt at notice) do not cover it, so the reviewer has no filed position for this Provider right.",
+   "suggestion": "Extend the preferred position (or add an acceptable trigger) to cover suspension for use that violates the Agreement, as in the Common Paper standard terms, or add an escalation trigger for suspension on grounds beyond the three listed.",
+   "source": "csa-customer.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "csa-customer",
+   "playbook": "playbook-bundle.json",
+   "ruleId": "C-10",
+   "type": "ambiguous",
+   "paragraphs": [
+    "p21",
+    "p43"
+   ],
+   "explanation": "The hard line 'Payment in advance of invoice' has no clear referent. p21 has Provider 'invoice Customer annually in advance' for the coming Subscription Period, with payment due only within 30 days from receipt of each invoice (p43 similarly bills other Fees in advance). Read literally (paying before any invoice is issued) the hard line is not triggered, but a reviewer could wrongly treat standard advance annual invoicing as hitting the hard line, and the playbook gives no guidance on the boundary.",
+   "suggestion": "Reword the hard line to 'payment required before any invoice is issued' and add an acceptable position expressly covering Fees invoiced annually in advance for the service period with payment within 30 days of receipt.",
+   "source": "csa-customer.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "csa-customer",
+   "playbook": "playbook-bundle.json",
+   "ruleId": "C-12",
+   "type": "inconsistent",
+   "paragraphs": [
+    "p106",
+    "p81"
+   ],
+   "explanation": "The escalation trigger 'Any termination right available to only one party' literally catches the Provider-only termination rights that the acceptable position expressly permits (the IP-remedy termination in p81 and the export-controls/sanctions termination in p106). The boundary is further blurred because the acceptable carves out only termination 'where export controls or sanctions laws require it', whereas p106 grants termination 'to comply, as determined in Provider's sole discretion', which is broader than the carve-out's wording.",
+   "suggestion": "Narrow the escalation trigger to one-party termination rights other than the whitelisted IP-remedy and export/sanctions terminations, and align the acceptable wording with p106's 'as determined in Provider's sole discretion' (or state that the sole-discretion determination is itself an escalation point).",
+   "source": "csa-customer.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "csa-customer",
+   "playbook": "playbook-bundle.json",
+   "ruleId": "C-23",
+   "type": "not-met",
+   "paragraphs": [
+    "a50"
+   ],
+   "explanation": "The preferred position requires 'a copy of the Provider's current independent audit report on written request', but a50 delivers only 'a summary copy of its then-current Report'. Access to audit material is not removed, so no escalation trigger fires, but the preferred (and the acceptable position built on it) is not met as written and no position acknowledges the reduced deliverable.",
+   "suggestion": "Amend the preferred/acceptable positions to expressly accept a summary copy of the then-current Report, or add an escalation trigger where only a summary is provided in place of the full report.",
+   "source": "csa-customer.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "csa-vendor",
+   "playbook": "playbook-vendor.json",
+   "ruleId": "V-04",
+   "type": "ambiguous",
+   "paragraphs": [
+    "p80"
+   ],
+   "explanation": "The acceptable tier ('No settlement admitting fault on the Customer's behalf or imposing obligations on the Customer without its consent, not unreasonably withheld') can be read two ways: as requiring consent to be qualified by 'not unreasonably withheld', or as merely describing the existing arrangement. p80 (CSA default 9.3) gives the Protected Party an unqualified consent right over fault-admitting settlements, with no reasonableness qualifier, so the clean text fails one reading and passes the other. The escalation tiers cover only exclusions, Customer-spec indemnity and the exclusive-remedy wording — nothing addresses settlement consent — so an unqualified consent right cannot be classified.",
+   "suggestion": "State expressly whether the CSA 9.3 draft (consent limited to fault-admitting or materially adverse settlements, but absolute) meets the acceptable tier; if not, move unqualified consent rights into escalation.",
+   "source": "csa-vendor.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "csa-vendor",
+   "playbook": "playbook-vendor.json",
+   "ruleId": "V-06",
+   "type": "ambiguous",
+   "paragraphs": [
+    "p32"
+   ],
+   "explanation": "The same amendment can fall in both tiers. A standard customer ask — 'Customer Content must not be used to train any AI/ML models, including third-party models incorporated in the Product' — matches the acceptable tier ('No training on Customer Content') but also arguably matches the escalation tier ('a prohibition that reaches third-party components we rely on'), since p32 expressly covers third-party components. Striking only 'including third-party components of the Product' cannot be classified either way, and no tie-breaker is given between the acceptable and escalation readings.",
+   "suggestion": "Give a criterion: escalate only where the ban would bar use of a relied-on third-party component outright (even when no Customer Content is involved with training), not where it merely excludes Customer Content from such components' training.",
+   "source": "csa-vendor.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "csa-vendor",
+   "playbook": "playbook-vendor.json",
+   "ruleId": "V-11",
+   "type": "ambiguous",
+   "paragraphs": [
+    "p19"
+   ],
+   "explanation": "The acceptable tier allows 'increases capped at 5%, or at CPI if higher', but the escalation tier escalates 'a cap below CPI' with no CPI reference point or date. A fixed 5% cap (as at p19) is simultaneously 'capped at 5%' (acceptable) and, whenever measured CPI exceeds 5%, plausibly 'a cap below CPI' (escalation) — the tiers collide and the reviewer needs an external, time-varying number they cannot know. Separately, the preferred requires increases 'on notice before the renewal date', but p19 contains no notice mechanism for increases, which no tier addresses.",
+   "suggestion": "Anchor the CPI test (e.g., escalate only a fixed cap below a stated percentage floor, or only where no CPI fallback is offered at renewal), and state whether the absence of an increase-notice mechanism is acceptable.",
+   "source": "csa-vendor.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "csa-vendor",
+   "playbook": "playbook-vendor.json",
+   "ruleId": "V-13",
+   "type": "ambiguous",
+   "paragraphs": [
+    "p57"
+   ],
+   "explanation": "The acceptable tier stops at 'Deletion within 30 days' and the escalation tier starts at 'Immediate deletion', so fixed windows of 1–29 days (e.g., 7 or 14 days) fall in no bucket. V-24, which covers the same subject matter for Personal Data, escalates any fixed deletion commitment under 30 days, so a single exit-deletion regime covering both Customer Content and Personal Data (a common customer ask) is 'unclassified' under V-13 but 'escalate' under V-24 depending on which paragraph it amends. p57 itself sits at the preferred (60 days), so the ambiguity only bites on departures — but that is exactly where the reviewer must act.",
+   "suggestion": "Set one shared threshold across V-13 and V-24 (e.g., anything under 30 days escalates unless backups are unaffected by the rotation) so the same exit-deletion departure cannot be classified differently under the two rules.",
+   "source": "csa-vendor.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "csa-vendor",
+   "playbook": "playbook-vendor.json",
+   "ruleId": "V-15",
+   "type": "not-met",
+   "paragraphs": [
+    "p95",
+    "p129"
+   ],
+   "explanation": "The preferred requires that operational policies (security, acceptable use, support) 'may be updated on notice without material reduction in protection'. The bundle grants no such right anywhere: p95 confines all changes to signed writing, and p129 only sweeps in policies 'referenced in or attached to the Key Terms', of which none are referenced. The escalation trigger ('removal of our right to update operational policies') can therefore never fire against this agreement, and the acceptable tier (30 days' notice with objection right) has no object either — the preferred/acceptable/escalation split is half inapplicable to this bundle, so the provenance claim that the clean copy meets every preferred position does not hold for this rule.",
+   "suggestion": "Either add the update-operational-policies-on-notice right to the template documents, or strip that element from the preferred so the rule tests only the signed-writing requirement it can actually measure (p95).",
+   "source": "csa-vendor.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "csa-vendor",
+   "playbook": "playbook-vendor.json",
+   "ruleId": "V-19",
+   "type": "inconsistent",
+   "paragraphs": [
+    "a49",
+    "a50"
+   ],
+   "explanation": "V-19 and V-23 both govern audits of us and contradict each other. V-19's usage notes say we accept audits only through our published security reports, and its escalation targets 'a Customer right to audit our systems or premises'; V-23's acceptable tier expressly allows one on-site audit a year at the Customer's cost, and its preferred blesses the channelling mechanism in DPA 5.1 — whose opening sentence (a49) still says Provider 'will allow for and contribute to audits, including inspections by Customer'. The same audit markup — and even the bundled a49 wording on a literal reading — can be classified as escalation under V-19 and as preferred or acceptable under V-23; neither rule says which of them owns DPA Section 5.",
+   "suggestion": "Scope V-19 to usage/licence verification under the CSA only, and defer all data-protection audits (DPA Section 5, a49–a51) to V-23; optionally add a note that the channelling sentence in 5.1 rescues the 'inspections' wording.",
+   "source": "csa-vendor.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "csa-vendor",
+   "playbook": "playbook-vendor.json",
+   "ruleId": "V-21",
+   "type": "ambiguous",
+   "paragraphs": [
+    "a24"
+   ],
+   "explanation": "The boundary between the acceptable tier ('a right for the Customer to terminate the affected service, without penalty and with a prorated refund, if an objection cannot be resolved') and the escalation tier ('a Customer veto') is unclear for the common middle-ground formulations customers draft, e.g. 'Provider will not engage the new subprocessor until the objection is resolved; if unresolved after 60 days, Customer may terminate the affected Order Form'. Blocking use pending resolution is functionally close to a veto (escalation), while an exit with refund is acceptable — and it is also unclear whether 'the affected service' includes the whole Order Form.",
+   "suggestion": "Define the line: acceptable = an exit right limited to the affected service with refund; escalation = any mechanism that prevents Provider from engaging the subprocessor outright, even temporarily pending resolution; and state whether Order Form-wide termination counts as 'the affected service'.",
+   "source": "csa-vendor.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "csa-vendor",
+   "playbook": "playbook-vendor.json",
+   "ruleId": "V-22",
+   "type": "inconsistent",
+   "paragraphs": [
+    "a26"
+   ],
+   "explanation": "The escalation list includes 'a duty to give the Customer copies of subprocessor contracts', yet the preferred's own source is DPA Standard Terms sections 2.6(b)–(d) — and 2.6(c), present as a26, imposes exactly that duty: Provider will share, at Customer's request, a copy of its Subprocessor agreements (redact able for business secrets). As written, V-22 escalates the very default the preferred adopts, so a reviewer applying the rule to the clean bundle would raise an escalation on a clause the playbook treats as standard, i.e. both positions fire on the same clause with opposite results.",
+   "suggestion": "Narrow the escalation (e.g., copies demanded without the 2.6(c) redaction safeguard, or flow-down obligations materially weaker than equivalent protection) and treat the standard redacted-copy sharing within the acceptable/preferred band.",
+   "source": "csa-vendor.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "csa-vendor",
+   "playbook": "playbook-vendor.json",
+   "ruleId": "V-25",
+   "type": "ambiguous",
+   "paragraphs": [
+    "a63"
+   ],
+   "explanation": "a63 (standard DPA 8.3) says the DPA 'does not limit any liability between the parties for violations of the EEA SCCs or UK Addendum'. Read with a61 (DPA liability subject to the Agreement's waivers, exclusions and limitations) and a65 (SCCs/UK Addendum prevail over both DPA and Agreement), it cannot be decided from the rule whether SCC or Addendum-violation liability stays inside the Agreement's caps or sits outside them — which is precisely V-25's escalation test ('DPA liability outside the Agreement's limits') and arguably its hard line ('uncapped liability under the DPA beyond what Applicable Data Protection Laws require'), since whether the carve-out is itself required by law is the unsettled question. Reviewers can therefore false-positive on the clean Standard Terms.",
+   "suggestion": "State expressly that the standard 8.3 carve-out (a63) is within the preferred/acceptable band (or, alternatively, require SCC/Addendum-violation liability to remain subject to Section 8 to the extent permitted by law) so the clean terms are not misclassified as escalation.",
+   "source": "csa-vendor.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "csa-vendor",
+   "playbook": "playbook-vendor.json",
+   "ruleId": "V-27",
+   "type": "ambiguous",
+   "paragraphs": [
+    "a110"
+   ],
+   "explanation": "The acceptable tier fixes termination right at failures 'in 3 of any 6 months' and the escalation tier only names 'a single month's failure'. Triggers between the two positions — e.g. 2 out of any 6 consecutive months, or 3 out of any 9 — are in neither list, so a customer counter between the playbook's positions cannot be classified and the reviewer is left with escalation-by-caution as the only resolution. (The clean a110 sits at the preferred, so the ambiguity bites once the customer counters.)",
+   "suggestion": "Define the boundary parametrically, e.g. escalate any termination trigger that requires fewer than 2 failures or operates over a window shorter than 3 months — whichever line is intended — instead of naming only the extreme poles.",
+   "source": "csa-vendor.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "nda-discloser",
+   "playbook": "v2/playbook-nda-discloser.json",
+   "ruleId": "NDA-01",
+   "type": "other",
+   "paragraphs": [
+    "p4",
+    "p5",
+    "p14"
+   ],
+   "explanation": "The positions cover only the two-limb test, but the rule's own source records that the Standard Terms definition does not reach information disclosed before the Effective Date and offers an edit extending it; no position turns that note into a preferred/acceptable/escalation rung. This is live here: the Effective Date is 1 Sep 2026 (p5) and the Purpose (p4) assumes Corvel shares designs, roadmap, pricing and security documentation in an ongoing evaluation, so on the source's reading any design, roadmap or pricing already shared before 1 Sep 2026 sits outside p14's limbs, and the reviewer has no instruction on whether (or under which position) to raise the gap.",
+   "suggestion": "Add a position on pre-Effective-Date disclosures, e.g. preferred: the definition extends to information disclosed before the Effective Date in connection with the Purpose; acceptable: silence; escalation: any express cut-off excluding earlier disclosures.",
+   "source": "nda-discloser.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "nda-discloser",
+   "playbook": "v2/playbook-nda-discloser.json",
+   "ruleId": "NDA-03",
+   "type": "ambiguous",
+   "paragraphs": [
+    "p14"
+   ],
+   "explanation": "Two unclear boundaries. (1) The preferred demands protection 'in whatever form ... including orally, visually or by demonstration', but this agreement never says so: p14 is form-neutral ('disclose or make available') and oral/visual coverage in practice rides on the two-limb test, so a careful reviewer must infer that silence satisfies the preferred rather than scoring it as a non-meeting. (2) Acceptable blesses a written-confirmation regime 'within 30 days' while escalation is reserved for windows 'within fewer than 30 days', so a confirmation window longer than 30 days (e.g. 60 days) fits neither cell and cannot be classified.",
+   "suggestion": "State expressly that a form-neutral definition with no confirmation regime meets the preferred, and complete the ladder: confirmation windows of 30 days or more acceptable (longer is more protective), windows below 30 days escalation.",
+   "source": "nda-discloser.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "nda-discloser",
+   "playbook": "v2/playbook-nda-discloser.json",
+   "ruleId": "NDA-05",
+   "type": "inconsistent",
+   "paragraphs": [
+    "p15"
+   ],
+   "explanation": "p15(b) is a single clause policed by both NDA-05 (employees) and NDA-07 (agents, advisors, contractors and other representatives): the reasonable-need-to-know limiter, the binding to obligations 'no less protective than the MNDA' and the sentence making the Receiving Party responsible for their compliance are shared text. One departure - deleting the proviso, dropping need-to-know, or cutting the recipient list - escalates under both rules, and the two rules offer different acceptable edits to the same clause (named employees or signed acknowledgements under NDA-05; affiliates under common control under NDA-07), so a redline to p15(b) cannot be allocated between them.",
+   "suggestion": "Split ownership (NDA-05: employees; NDA-07: representatives other than employees, plus affiliates) and record that the shared proviso is checked under both with a single raise, or designate which rule governs each part of p15(b).",
+   "source": "nda-discloser.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "nda-discloser",
+   "playbook": "v2/playbook-nda-discloser.json",
+   "ruleId": "NDA-07",
+   "type": "inconsistent",
+   "paragraphs": [
+    "p15"
+   ],
+   "explanation": "Same double coverage from the other side: an edit weakening the shared p15(b) safeguards triggers NDA-07 and NDA-05 escalations almost word-for-word ('without a need to know', 'without being bound', 'without the Receiving Party remaining responsible'), and an edit adding affiliates to the p15(b) recipient list is governed by NDA-07's no-affiliates preferred even though NDA-05's positions also apply to that clause, so the same departure is classified differently depending on which rule the reviewer reaches for first.",
+   "suggestion": "Add a cross-reference recording that NDA-05 and NDA-07 share p15(b), with precedence or a single-raise convention for departures in the shared proviso.",
+   "source": "nda-discloser.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "nda-discloser",
+   "playbook": "v2/playbook-nda-discloser.json",
+   "ruleId": "NDA-07",
+   "type": "ambiguous",
+   "paragraphs": [
+    "p15"
+   ],
+   "explanation": "The positions leave a middle band unclassified. Preferred is 'no disclosure to affiliates'; acceptable adds only affiliates under common control; escalation requires the affiliate disclosure to lack need-to-know, equivalent obligations or Receiving-Party responsibility. An express right to disclose to affiliates with all three safeguards but no common-control limit - a standard counterparty ask - is neither acceptable nor escalation, and neither 'affiliate' nor 'common control' is defined in the MNDA. The positions also never say whether p15(b)'s 'other representatives' already includes affiliates, which decides whether this agreement meets the no-affiliates preferred at all.",
+   "suggestion": "Add the missing rung and definitions: adding affiliates is acceptable only if limited to affiliates under common control (defined) on the same need-to-know/bound/responsible terms, any wider affiliate right escalates, and p15(b)'s 'other representatives' is not read to include affiliates.",
+   "source": "nda-discloser.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "nda-discloser",
+   "playbook": "v2/playbook-nda-discloser.json",
+   "ruleId": "NDA-16",
+   "type": "inconsistent",
+   "paragraphs": [
+    "p19"
+   ],
+   "explanation": "NDA-16 and NDA-20 both cover p19. NDA-16's preferred reads across subsections (a)-(c): 'promptly after our written request it destroys or returns all Confidential Information'; NDA-20 governs the final sentence, which is drafted 'as an exception to subsection (b)' and lets the Receiving Party retain backups and records. Read against NDA-16 alone, the retention exception looks like a dilution of 'all ... promptly' (edging toward the escalation trigger 'no obligation to return or destroy on request'); read with NDA-20 it is squarely preferred. A single edit to the last sentence of p19 falls under both rules and can be scored escalation or met depending on which rule the reviewer applies.",
+   "suggestion": "Cross-reference the rules: NDA-16 applies to p19(a)-(c) subject to NDA-20 for the retention sentence; raise a departure in that sentence once, under NDA-20.",
+   "source": "nda-discloser.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "nda-discloser",
+   "playbook": "v2/playbook-nda-discloser.json",
+   "ruleId": "NDA-19",
+   "type": "ambiguous",
+   "paragraphs": [
+    "p6",
+    "p7"
+   ],
+   "explanation": "The acceptable/escalation ladder is built only on Terms measured 'from the Effective Date' (at least 18 months, or perpetuity), yet the rule's own source records that the Cover Page can instead measure the Term 'from the date of last disclosure'. A redline to, say, 2 years from last disclosure fits neither the acceptable list nor any escalation trigger (it is not 'from the Effective Date' and does not end when the MNDA expires), so the reviewer cannot classify it or weigh it against this agreement's 2 years from the Effective Date with a 1-year MNDA Term (p6, p7), even though for late-disclosed pricing it would extend protection.",
+   "suggestion": "Add an explicit position for last-disclosure-based Terms (e.g. acceptable if at least 18 months measured from the later of the Effective Date and each disclosure; escalation if shorter), or state that moving off the Effective-Date convention is itself a departure to raise.",
+   "source": "nda-discloser.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "nda-discloser",
+   "playbook": "v2/playbook-nda-discloser.json",
+   "ruleId": "NDA-20",
+   "type": "inconsistent",
+   "paragraphs": [
+    "p19"
+   ],
+   "explanation": "NDA-20's clause is the last sentence of p19, which NDA-16 also reaches because that sentence is expressly 'an exception to subsection (b)': an edit to it (for example 'may retain and use for any purpose' or releasing retained copies from the MNDA) triggers NDA-20's escalation ('retention for any other purpose' / 'retained information released from the MNDA's obligations') while also arguably tripping NDA-16's 'no obligation to return or destroy on request'. The two rules also give different acceptable cells for the same clause (30-day return at the Receiving Party's choice under NDA-16 versus one archival copy kept by legal counsel under NDA-20), with no precedence or single-raise convention.",
+   "suggestion": "Add cross-references and precedence (NDA-20 governs the retention sentence; NDA-16 applies to subsections (a)-(c) subject to it) so a redline to p19 is scored once and consistently.",
+   "source": "nda-discloser.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "nda-recipient",
+   "playbook": "v2/playbook-nda-recipient.json",
+   "ruleId": "NDA-02",
+   "type": "ambiguous",
+   "paragraphs": [
+    "p14"
+   ],
+   "explanation": "The acceptable position ('a shorter list of examples') sets no floor, and the escalation tier only grades extensions (other-source information, analyses or derivatives, affiliates'/customers' information) — it says nothing about narrowing. For this agreement the examples cover exactly the categories the Purpose (p4) depends on (product designs/roadmap, pricing, security documentation), so a variant that trims the list — even striking categories this deal needs — lands in the ungraded gap between acceptable and escalation, and two careful reviewers could grade it differently.",
+   "suggestion": "Floor the acceptable tier: a shorter list is acceptable only while it retains the categories named in the Purpose (product designs, roadmaps, pricing, security and compliance documentation); dropping any of those should be treated as a departure requiring escalation.",
+   "source": "nda-recipient.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "nda-recipient",
+   "playbook": "v2/playbook-nda-recipient.json",
+   "ruleId": "NDA-04",
+   "type": "ambiguous",
+   "paragraphs": [
+    "p4",
+    "p15"
+   ],
+   "explanation": "The escalation trigger — a Purpose 'narrowed so the described evaluation cannot be carried out (for example excluding internal planning or review by the warehouse sites)' — is a wording test with no clear limit and is not anchored in this agreement. The clean Purpose (p4) covers evaluating whether to buy and sharing warehouse-site information but never mentions internal planning, even though the guidance says the evaluation must include 'our internal planning'. A reviewer therefore cannot tell whether internal-planning uses are within 'use solely for the Purpose' (p15(a)) or amount to a narrowing departure, nor how narrow a Purpose must get ('cannot be carried out' can be read strictly or loosely) before escalating.",
+   "suggestion": "Anchor the boundary in the activities the p4 Purpose names (robot/software fit, warehouse-site review, pricing and roadmap review) and state expressly that internal planning in aid of that evaluation is inside the Purpose; replace 'cannot be carried out' with a defined trigger (e.g., any named evaluation activity excluded).",
+   "source": "nda-recipient.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "nda-recipient",
+   "playbook": "v2/playbook-nda-recipient.json",
+   "ruleId": "NDA-05",
+   "type": "inconsistent",
+   "paragraphs": [
+    "p15"
+   ],
+   "explanation": "NDA-05 (employees) and NDA-07 (advisers, contractors, other representatives) both rest on the same clause — the representatives exception in p15(b). They split the list by recipient type, but a single counterparty edit made at the level of the whole list (e.g., prior consent, named individuals, or individual undertakings for every recipient) would fall under both rules, and their tiers are not parallel: individual undertakings are an escalation only in NDA-05, while consent-not-unreasonably-withheld and affiliates appear only in NDA-07, so the same edit can grade differently depending on which rule the reviewer consults.",
+   "suggestion": "Merge NDA-05 and NDA-07 into one representatives rule, or fix precedence (NDA-05 governs employees; NDA-07 governs all other representatives) and mirror the consent/undertaking positions across both rules.",
+   "source": "nda-recipient.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "nda-recipient",
+   "playbook": "v2/playbook-nda-recipient.json",
+   "ruleId": "NDA-16",
+   "type": "not-met",
+   "paragraphs": [
+    "p19"
+   ],
+   "explanation": "The preferred position requires 'we destroy or return all Confidential Information, at our choice', but p19(b) as written states only 'destroy all Confidential Information in the Receiving Party's possession or control or return it to the Disclosing Party' and nowhere allocates the election to the Receiving Party (nothing in p10 or p12 adds it). 'At our choice' therefore rests on an implication rather than text, and the Disclosing Party could read the clause as permitting it to demand return; the preferred position is not verifiable as written, despite the playbook's claim that the clean copy meets every preferred position. The stakes are visible in the rule itself: a demand that return is mandatory rather than destruction-optional is already an escalation item.",
+   "suggestion": "Cover Page modification adding 'at the Receiving Party's election' to the return-or-destruction clause, or reword the preferred position to acknowledge that the election is implied rather than stated in the Standard Terms.",
+   "source": "nda-recipient.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "nda-recipient",
+   "playbook": "v2/playbook-nda-recipient.json",
+   "ruleId": "NDA-16",
+   "type": "inconsistent",
+   "paragraphs": [
+    "p19"
+   ],
+   "explanation": "NDA-16 and NDA-20 both attach to the same clause (p19) and both carry backup positions: NDA-16's escalation includes 'destruction of backups outside their normal rotation', while NDA-20's preferred allows retention under standard backup policies and its escalation is an absolute obligation to destroy every copy including backups. Any single counterparty change touching backups would be graded under both rules at once, and the NDA-16 phrase is itself two-way readable ('destroy backups although they are still inside their normal rotation' vs 'destroy backups that fall outside the normal rotation'), so the same edit could draw inconsistent classifications from the two rules.",
+   "suggestion": "Consolidate all backup and retention positions in NDA-20 (which already owns that ground) and confine NDA-16 to the timing, manner and confirmation of return or destruction; if retained, reword the backup item so it has a single sense.",
+   "source": "nda-recipient.raw.json",
+   "disposition": null,
+   "reason": null
+  },
+  {
+   "family": "glm",
+   "side": "nda-recipient",
+   "playbook": "v2/playbook-nda-recipient.json",
+   "ruleId": "NDA-19",
+   "type": "ambiguous",
+   "paragraphs": [
+    "p7"
+   ],
+   "explanation": "The escalation tier catches 'a period running from each disclosure or the last disclosure with no outer limit', and the acceptable tier is confined to 'up to 3 years from the Effective Date'. 'With no outer limit' can be read as part of the trigger (only unbounded last-disclosure periods escalate) or as descriptive (any last-disclosure period escalates); under the first reading a capped Term of Confidentiality measured from the last disclosure — a formulation the rule's own source says the Cover Page field offers — falls in the ungraded gap between acceptable ('from the Effective Date') and escalation, and reviewers can reasonably disagree, since for this Receiving Party the same length measured from the last disclosure runs materially longer.",
+   "suggestion": "Settle the parse and add a position: either escalate any Term of Confidentiality not measured from the Effective Date (keeping the trade-secret proviso), or expressly place capped last-disclosure periods on the acceptable/escalation ladder.",
+   "source": "nda-recipient.raw.json",
+   "disposition": null,
+   "reason": null
+  }
+ ]
+}

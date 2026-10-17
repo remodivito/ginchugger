@@ -1,0 +1,491 @@
+{
+  "format": "ginchugger-clause-types/1",
+  "source": "CUAD v1 category list: The Atticus Project, Contract Understanding Atticus Dataset, https://github.com/TheAtticusProject/cuad (category_descriptions.csv, read 15 October 2026); Hendrycks, Burns, Chen and Ball, \"CUAD: An Expert-Annotated NLP Dataset for Legal Contract Review\", NeurIPS 2021 Datasets and Benchmarks, arXiv:2103.06268. Licence CC BY 4.0. Custom types are this project's own (decision 159), added only where no CUAD category fits.",
+  "types": [
+    {
+      "id": "cuad:document-name",
+      "name": "Document Name",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:parties",
+      "name": "Parties",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:agreement-date",
+      "name": "Agreement Date",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:effective-date",
+      "name": "Effective Date",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:expiration-date",
+      "name": "Expiration Date",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:renewal-term",
+      "name": "Renewal Term",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:notice-period-to-terminate-renewal",
+      "name": "Notice Period to Terminate Renewal",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:governing-law",
+      "name": "Governing Law",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:most-favored-nation",
+      "name": "Most Favored Nation",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:non-compete",
+      "name": "Non-Compete",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:exclusivity",
+      "name": "Exclusivity",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:no-solicit-of-customers",
+      "name": "No-Solicit of Customers",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:competitive-restriction-exception",
+      "name": "Competitive Restriction Exception",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:no-solicit-of-employees",
+      "name": "No-Solicit of Employees",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:non-disparagement",
+      "name": "Non-Disparagement",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:termination-for-convenience",
+      "name": "Termination for Convenience",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:rofr-rofo-rofn",
+      "name": "Rofr/Rofo/Rofn",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:change-of-control",
+      "name": "Change of Control",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:anti-assignment",
+      "name": "Anti-Assignment",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:revenue-profit-sharing",
+      "name": "Revenue/Profit Sharing",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:price-restrictions",
+      "name": "Price Restrictions",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:minimum-commitment",
+      "name": "Minimum Commitment",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:volume-restriction",
+      "name": "Volume Restriction",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:ip-ownership-assignment",
+      "name": "IP Ownership Assignment",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:joint-ip-ownership",
+      "name": "Joint IP Ownership",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:license-grant",
+      "name": "License Grant",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:non-transferable-license",
+      "name": "Non-Transferable License",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:affiliate-license-licensor",
+      "name": "Affiliate License-Licensor",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:affiliate-license-licensee",
+      "name": "Affiliate License-Licensee",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:unlimited-all-you-can-eat-license",
+      "name": "Unlimited/All-You-Can-Eat-License",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:irrevocable-or-perpetual-license",
+      "name": "Irrevocable or Perpetual License",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:source-code-escrow",
+      "name": "Source Code Escrow",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:post-termination-services",
+      "name": "Post-Termination Services",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:audit-rights",
+      "name": "Audit Rights",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:uncapped-liability",
+      "name": "Uncapped Liability",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:cap-on-liability",
+      "name": "Cap on Liability",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:liquidated-damages",
+      "name": "Liquidated Damages",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:warranty-duration",
+      "name": "Warranty Duration",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:insurance",
+      "name": "Insurance",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:covenant-not-to-sue",
+      "name": "Covenant Not to Sue",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "cuad:third-party-beneficiary",
+      "name": "Third Party Beneficiary",
+      "source": "CUAD v1 (Atticus Project, CC BY 4.0)",
+      "status": "active"
+    },
+    {
+      "id": "custom:confidentiality",
+      "name": "Confidentiality obligations",
+      "source": "custom",
+      "status": "active",
+      "addedOn": "2026-10-15"
+    },
+    {
+      "id": "custom:confidential-information",
+      "name": "Definition of confidential information",
+      "source": "custom",
+      "status": "active",
+      "addedOn": "2026-10-15"
+    },
+    {
+      "id": "custom:permitted-use",
+      "name": "Use and handling of confidential information",
+      "source": "custom",
+      "status": "active",
+      "addedOn": "2026-10-15"
+    },
+    {
+      "id": "custom:permitted-disclosure",
+      "name": "Permitted and compelled disclosure",
+      "source": "custom",
+      "status": "active",
+      "addedOn": "2026-10-15"
+    },
+    {
+      "id": "custom:confidentiality-exclusions",
+      "name": "Exclusions from confidential information",
+      "source": "custom",
+      "status": "active",
+      "addedOn": "2026-10-15"
+    },
+    {
+      "id": "custom:confidentiality-term",
+      "name": "Duration of confidentiality obligations",
+      "source": "custom",
+      "status": "active",
+      "addedOn": "2026-10-15"
+    },
+    {
+      "id": "custom:data-deletion",
+      "name": "Return and deletion of data",
+      "source": "custom",
+      "status": "active",
+      "addedOn": "2026-10-15"
+    },
+    {
+      "id": "custom:no-implied-licence",
+      "name": "No licence or transfer of rights",
+      "source": "custom",
+      "status": "active",
+      "addedOn": "2026-10-15"
+    },
+    {
+      "id": "custom:customer-data-use",
+      "name": "Use of customer data and content",
+      "source": "custom",
+      "status": "active",
+      "addedOn": "2026-10-15"
+    },
+    {
+      "id": "custom:ai-training",
+      "name": "Machine learning on customer data",
+      "source": "custom",
+      "status": "active",
+      "addedOn": "2026-10-15"
+    },
+    {
+      "id": "custom:usage-data",
+      "name": "Usage data and feedback",
+      "source": "custom",
+      "status": "active",
+      "addedOn": "2026-10-15"
+    },
+    {
+      "id": "custom:indemnity",
+      "name": "Indemnities",
+      "source": "custom",
+      "status": "active",
+      "addedOn": "2026-10-15"
+    },
+    {
+      "id": "custom:suspension",
+      "name": "Suspension of service",
+      "source": "custom",
+      "status": "active",
+      "addedOn": "2026-10-15"
+    },
+    {
+      "id": "custom:payment-terms",
+      "name": "Payment terms",
+      "source": "custom",
+      "status": "active",
+      "addedOn": "2026-10-15"
+    },
+    {
+      "id": "custom:termination",
+      "name": "Termination and refunds",
+      "source": "custom",
+      "status": "active",
+      "addedOn": "2026-10-15"
+    },
+    {
+      "id": "custom:warranty",
+      "name": "Warranties",
+      "source": "custom",
+      "status": "active",
+      "addedOn": "2026-10-15"
+    },
+    {
+      "id": "custom:amendments",
+      "name": "Changes to the agreement",
+      "source": "custom",
+      "status": "active",
+      "addedOn": "2026-10-15"
+    },
+    {
+      "id": "custom:publicity",
+      "name": "Publicity",
+      "source": "custom",
+      "status": "active",
+      "addedOn": "2026-10-15"
+    },
+    {
+      "id": "custom:data-protection",
+      "name": "Data protection terms",
+      "source": "custom",
+      "status": "active",
+      "addedOn": "2026-10-15"
+    },
+    {
+      "id": "custom:service-levels",
+      "name": "Service levels and credits",
+      "source": "custom",
+      "status": "active",
+      "addedOn": "2026-10-15"
+    },
+    {
+      "id": "custom:order-of-precedence",
+      "name": "Order of precedence",
+      "source": "custom",
+      "status": "active",
+      "addedOn": "2026-10-15"
+    }
+  ],
+  "mappings": {
+    "customer": {
+      "C-01": "cuad:cap-on-liability",
+      "C-02": "cuad:cap-on-liability",
+      "C-03": "cuad:uncapped-liability",
+      "C-04": "custom:indemnity",
+      "C-05": "custom:customer-data-use",
+      "C-06": "custom:ai-training",
+      "C-07": "custom:usage-data",
+      "C-08": "custom:confidentiality",
+      "C-09": "custom:suspension",
+      "C-10": "custom:payment-terms",
+      "C-11": "cuad:renewal-term",
+      "C-12": "custom:termination",
+      "C-13": "custom:data-deletion",
+      "C-14": "custom:warranty",
+      "C-15": "custom:amendments",
+      "C-16": "cuad:anti-assignment",
+      "C-17": "cuad:governing-law",
+      "C-18": "custom:publicity",
+      "C-19": "cuad:audit-rights",
+      "C-20": "custom:data-protection",
+      "C-21": "custom:data-protection",
+      "C-22": "custom:data-protection",
+      "C-23": "cuad:audit-rights",
+      "C-24": "custom:data-deletion",
+      "C-25": "custom:data-protection",
+      "C-26": "custom:service-levels",
+      "C-27": "custom:service-levels"
+    },
+    "vendor": {
+      "V-01": "cuad:cap-on-liability",
+      "V-02": "cuad:cap-on-liability",
+      "V-03": "cuad:uncapped-liability",
+      "V-04": "custom:indemnity",
+      "V-05": "custom:customer-data-use",
+      "V-06": "custom:ai-training",
+      "V-07": "custom:usage-data",
+      "V-08": "custom:confidentiality",
+      "V-09": "custom:suspension",
+      "V-10": "custom:payment-terms",
+      "V-11": "cuad:renewal-term",
+      "V-12": "custom:termination",
+      "V-13": "custom:data-deletion",
+      "V-14": "custom:warranty",
+      "V-15": "custom:amendments",
+      "V-16": "cuad:anti-assignment",
+      "V-17": "cuad:governing-law",
+      "V-18": "custom:publicity",
+      "V-19": "cuad:audit-rights",
+      "V-20": "custom:data-protection",
+      "V-21": "custom:data-protection",
+      "V-22": "custom:data-protection",
+      "V-23": "cuad:audit-rights",
+      "V-24": "custom:data-deletion",
+      "V-25": "custom:data-protection",
+      "V-26": "custom:service-levels",
+      "V-27": "custom:service-levels"
+    },
+    "nda": {
+      "NDA-01": "custom:confidential-information",
+      "NDA-02": "custom:confidential-information",
+      "NDA-03": "custom:confidential-information",
+      "NDA-04": "custom:permitted-use",
+      "NDA-05": "custom:permitted-disclosure",
+      "NDA-07": "custom:permitted-disclosure",
+      "NDA-08": "custom:permitted-disclosure",
+      "NDA-10": "custom:confidentiality",
+      "NDA-11": "custom:permitted-use",
+      "NDA-12": "custom:confidentiality-exclusions",
+      "NDA-13": "custom:confidentiality-exclusions",
+      "NDA-15": "custom:no-implied-licence",
+      "NDA-16": "custom:data-deletion",
+      "NDA-17": "custom:permitted-use",
+      "NDA-18": "cuad:no-solicit-of-employees",
+      "NDA-19": "custom:confidentiality-term",
+      "NDA-20": "custom:data-deletion",
+      "DUR-01": "custom:confidentiality-term",
+      "USE-01": "custom:permitted-use",
+      "RET-01": "custom:data-deletion"
+    },
+    "order-form": {
+      "PAY-01": "custom:payment-terms",
+      "CAP-01": "cuad:cap-on-liability",
+      "IND-01": "custom:indemnity",
+      "REN-01": "cuad:renewal-term",
+      "PRI-01": "cuad:price-restrictions",
+      "TFC-01": "cuad:termination-for-convenience",
+      "LAW-01": "cuad:governing-law",
+      "PRE-01": "custom:order-of-precedence"
+    }
+  }
+}

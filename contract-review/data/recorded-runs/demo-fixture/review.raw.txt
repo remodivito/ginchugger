@@ -1,0 +1,137 @@
+```json
+{
+  "findings": [
+    {
+      "paragraphId": "p5",
+      "title": "Confidentiality Period reduced from seven to five years",
+      "status": "within-guidance",
+      "decision": "accept",
+      "explanation": "Against the v2 baseline, the period moves from seven (7) years to five (5) years from the date of disclosure. The trade-secret tail is unchanged. DUR-01 prefers 3 years and treats up to 5 years as within the demonstration ceiling, so five years is acceptable without escalation. The lawyer's matter instructions (matter-instructions, from the reviewing lawyer) say to be flexible on the confidentiality period for this strategic customer, which supports accepting. History shows Brightwater floated five years itself and made that conditional on the trade-secret tail staying as drafted, which it does. This is not approval. See the separate finding on p12, where the survival clause refers to an undefined term, so the five-year period may not operate as intended.",
+      "evidence": [
+        { "paragraphId": "p5", "quote": "Confidentiality Period: five (5) years from the date of disclosure" },
+        { "paragraphId": "p5", "quote": "seven (7) years from the date of disclosure", "source": "baseline" }
+      ],
+      "ruleIds": ["DUR-01"],
+      "options": [],
+      "positions": {
+        "preferred": "General confidentiality should last 3 years after termination.",
+        "acceptable": "Up to 5 years is within the demonstration ceiling; trade-secret protection may last while information qualifies as a trade secret.",
+        "escalation": null,
+        "hardLine": null
+      },
+      "risk": { "rating": null, "basis": "The playbook gives no risk rating for this point. The matter instructions say to be flexible on the confidentiality period." },
+      "history": [
+        { "itemId": "13aff8f6-6332-4025-92af-d6d796e8acac", "quote": "Confidentiality period extended to seven years.", "note": "Brightwater's original v2 ask" },
+        { "itemId": "ce5f50fe-69a0-4308-aa2e-d1f0ad18c82a", "quote": "we could live with five years if the trade-secret tail stays as drafted", "note": "Brightwater signalled five years is acceptable, conditional on the trade-secret tail" }
+      ],
+      "untouched": false
+    },
+    {
+      "paragraphId": "p13",
+      "title": "New backup and compliance-copy retention sentence",
+      "status": "attention",
+      "decision": "accept-with-modification",
+      "explanation": "A new sentence lets the Receiving Party retain copies in routine backup systems and as required by its internal compliance policies, provided the copies remain subject to this MNDA. RET-01 permits ordinary backup and legally required retention only while the confidentiality and purpose restrictions continue. The sentence is partly consistent with that, because the copies stay subject to the MNDA. There are three weaknesses. (1) It largely duplicates the preceding sentence, which already allows retention under standard backup or record retention policies or as required by law. (2) It adds retention under 'internal compliance policies', which are set by the retaining party rather than by law. (3) It does not say that the confidentiality and the Purpose-only use restriction continue for as long as the copies are kept. Under p12, survival is tied to the confidentiality term, so protection could lapse while the copies are still held. I recommend accepting the carve-out, because Brightwater has said it cannot move on it, and adding the RET-01 fallback so that confidentiality and limited-use protection follow the retained copies. This extends protection for retained copies beyond the Confidentiality Period, so please confirm that is intended. The playbook and the instructions are silent on how long retained copies should stay protected.",
+      "evidence": [
+        { "paragraphId": "p13", "quote": "Notwithstanding the foregoing, the Receiving Party may retain copies of Confidential Information in its routine backup systems and as required by its internal compliance policies, provided such copies remain subject to this MNDA." },
+        { "paragraphId": "p13", "quote": "the Receiving Party may retain Confidential Information in accordance with its standard backup or record retention policies or as required by law" }
+      ],
+      "ruleIds": ["RET-01", "USE-01"],
+      "proposedText": "Upon expiration or termination of this MNDA or upon the Disclosing Party’s earlier request, the Receiving Party will: (a) cease using Confidential Information; (b) promptly after the Disclosing Party’s written request, destroy all Confidential Information in the Receiving Party’s possession or control or return it to the Disclosing Party; and (c) if requested by the Disclosing Party, confirm its compliance with these obligations in writing. As an exception to subsection (b), the Receiving Party may retain Confidential Information in accordance with its standard backup or record retention policies or as required by law, but the terms of this MNDA will continue to apply to the retained Confidential Information. Notwithstanding the foregoing, the Receiving Party may retain copies of Confidential Information in its routine backup systems and as required by its internal compliance policies, provided such copies remain subject to this MNDA, including the confidentiality obligations and the restriction on use solely for the Purpose, for so long as they are retained.",
+      "options": [],
+      "positions": {
+        "preferred": "Ordinary backup and legally required retention are permitted only while confidentiality and purpose restrictions continue.",
+        "acceptable": "Retention for backup or legal reasons with confidentiality and limited-use protection preserved for retained copies.",
+        "escalation": null,
+        "hardLine": null
+      },
+      "risk": { "rating": null, "basis": "The playbook gives no risk rating for RET-01 deviations." },
+      "history": [
+        { "itemId": "13aff8f6-6332-4025-92af-d6d796e8acac", "quote": "since we cannot purge immutable backup media on request", "note": "Brightwater's reason for the retention carve-out" },
+        { "itemId": "ce5f50fe-69a0-4308-aa2e-d1f0ad18c82a", "quote": "The retention carve-out is the one we cannot move on because of the backup media.", "note": "Brightwater treats the carve-out as non-negotiable" }
+      ],
+      "untouched": false
+    },
+    {
+      "paragraphId": "p14",
+      "title": "Residuals clause now carries carve-outs",
+      "status": "within-guidance",
+      "decision": "accept",
+      "explanation": "The v2 residuals sentence, which was Brightwater's insertion, now carries a proviso. The proviso excludes trade secrets and information the Disclosing Party has marked as restricted, and states that no licence is granted under any patent or copyright. The matter instructions (matter-instructions, from the reviewing lawyer) say to hold the residuals carve-outs. I read that as keeping these limits on the residuals clause, and the text now has them, so I accept. Residuals use is in tension with USE-01, which requires use solely to evaluate the stated relationship. The carve-outs limit that tension, and the instruction is the lawyer's judgment on it. The playbook has no specific residuals rule. Two drafting points for the lawyer: 'marked as restricted' has no marking mechanism elsewhere in the MNDA, and the new wording uses 'licence' while the preceding sentence uses 'license'. Neither changes the decision.",
+      "evidence": [
+        { "paragraphId": "p14", "quote": "provided that this does not apply to trade secrets or to information the Disclosing Party has marked as restricted, and grants no licence under any patent or copyright" }
+      ],
+      "ruleIds": ["USE-01"],
+      "options": [],
+      "positions": {
+        "preferred": "Use Confidential Information solely to evaluate the stated business relationship.",
+        "acceptable": "Broader business or product-development use needs judgment; the matter instruction is to hold the residuals carve-outs.",
+        "escalation": null,
+        "hardLine": null
+      },
+      "risk": { "rating": null, "basis": "The playbook has no residuals rule or rating. The matter instructions govern." },
+      "history": [
+        { "itemId": "13aff8f6-6332-4025-92af-d6d796e8acac", "quote": "A residuals sentence so that our analysts are not treated as in breach for what they remember.", "note": "Brightwater's stated reason for the residuals sentence" }
+      ],
+      "untouched": false
+    },
+    {
+      "paragraphId": "p12",
+      "title": "Survival clause uses undefined 'Term of Confidentiality'",
+      "status": "attention",
+      "decision": "none",
+      "explanation": "This paragraph is unchanged and the issue is not a counterparty change. The survival sentence refers to 'the Term of Confidentiality', but the Cover Page in p5 defines the period as the 'Confidentiality Period'. The five-year period accepted under DUR-01 depends on this link, so the mismatch could make it uncertain how long the obligations survive. The playbook does not prescribe wording. A conforming correction is offered as an option for the lawyer to approve, not as a proposal.",
+      "evidence": [
+        { "paragraphId": "p12", "quote": "will survive for the Term of Confidentiality" },
+        { "paragraphId": "p5", "quote": "Confidentiality Period: five (5) years from the date of disclosure" }
+      ],
+      "ruleIds": ["DUR-01"],
+      "options": [
+        {
+          "label": "Conform to Cover Page term",
+          "text": "This MNDA commences on the Effective Date and expires at the end of the MNDA Term . Either party may terminate this MNDA for any or no reason upon written notice to the other party. The Receiving Party’s obligations relating to Confidential Information will survive for the Confidentiality Period , despite any expiration or termination of this MNDA."
+        }
+      ],
+      "positions": {
+        "preferred": "General confidentiality should last 3 years after termination.",
+        "acceptable": "Up to 5 years is within the demonstration ceiling.",
+        "escalation": null,
+        "hardLine": null
+      },
+      "risk": { "rating": null, "basis": "No rating in the playbook or instructions." },
+      "history": [],
+      "untouched": true
+    },
+    {
+      "paragraphId": "p16",
+      "title": "Governing law clause uses unpopulated US-style template wording",
+      "status": "context",
+      "decision": "none",
+      "explanation": "This paragraph is unchanged and the issue is not a counterparty change. The clause refers to 'the laws of the State of Governing Law' and to 'federal or state courts located in Jurisdiction'. The Cover Page (p6) selects England and Wales for both. Read literally, the template wording does not fit that choice. The playbook has no governing-law rule, so I make no proposal, but the lawyer may want to conform it before signature.",
+      "evidence": [
+        { "paragraphId": "p16", "quote": "the laws of the State of Governing Law" },
+        { "paragraphId": "p6", "quote": "Governing Law: England and Wales. Jurisdiction: the courts of England and Wales." }
+      ],
+      "ruleIds": [],
+      "options": [],
+      "positions": {
+        "preferred": "The playbook states no position on governing law.",
+        "acceptable": null,
+        "escalation": null,
+        "hardLine": null
+      },
+      "risk": { "rating": null, "basis": "No playbook rule or instruction covers this point." },
+      "history": [],
+      "untouched": true
+    }
+  ],
+  "limits": [
+    "The materials do not say who made the v3 changes. The document title suggests a Helix counter, while the mode is own-paper. I compared the document with the v2 baseline, and the three differences are in p5, p13 and p14. No cover email for v3 was provided.",
+    "The playbook is a provisional demonstration playbook and is not lawyer validated. It has no escalation tiers or hard lines for duration, retention or purpose, and no rule on residuals, governing law or defined-term consistency.",
+    "DUR-01 speaks of 3 years 'after termination', while the Cover Page runs the period 'from the date of disclosure'. I applied the 5-year ceiling to the stated figure, and the lawyer may want to confirm that the different start point is acceptable.",
+    "I read the instruction 'hold the residuals carve-outs' as keeping the limits on the residuals clause (trade secrets, restricted-marked information, no patent or copyright licence). If it meant something else, p14 should be revisited.",
+    "The instructions and playbook do not say how long retained backup copies should stay protected. The p13 modification draws on the RET-01 fallback, and the lawyer should confirm it.",
+    "History item helix-oakfield-nda-v1.docx relates to a different counterparty and was not relied on. The helix-brightwater-nda-v1.docx history item matches the original baseline wording and adds nothing further."
+  ]
+}
+```

@@ -1,0 +1,161 @@
+{
+ "id": "N178",
+ "revision": 1,
+ "title": "NDA_7.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 178,
+  "type": "search-pdf",
+  "url": "http://www.seyed.tech/EPC/theory/NDA.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "This agreement is made this 28th of March 2014"
+  },
+  {
+   "id": "s2",
+   "text": "Between"
+  },
+  {
+   "id": "s3",
+   "text": "COMPANY NAME A (Registration Number)"
+  },
+  {
+   "id": "s4",
+   "text": "ADDRESS"
+  },
+  {
+   "id": "s5",
+   "text": "PROVINCE"
+  },
+  {
+   "id": "s6",
+   "text": "COUNTRY"
+  },
+  {
+   "id": "s7",
+   "text": "and"
+  },
+  {
+   "id": "s8",
+   "text": "COMPANY NAME B (Registration Number)"
+  },
+  {
+   "id": "s9",
+   "text": "ADDRESS"
+  },
+  {
+   "id": "s10",
+   "text": "PROVINCE"
+  },
+  {
+   "id": "s11",
+   "text": "COUNTRY"
+  },
+  {
+   "id": "s12",
+   "text": "Where as the parties here to wish to hold discussions concerning financial and Investment issues with regards to the project XXXXX (“the Field”) and may wish to disclose to one another confidential technical and business information relating to or relevant within the Field (“the Confidential Information”) and wish to ensure that the Confidential Information remains confidential."
+  },
+  {
+   "id": "s13",
+   "text": "Now it is agreed as follows:-"
+  },
+  {
+   "id": "s14",
+   "text": "1. The extent of the Confidential Information to be disclosed will at all times be at the discretion of the disclosing party."
+  },
+  {
+   "id": "s15",
+   "text": "2. Each party will treat the confidential information disclosed to it by the other party as a secret and confidential and will not except with the prior written consent of the other, make use of the same except for the purpose of evaluation thereof, nor disclose the same to any third party except, and then only to the extent necessary to evaluate the same, to such of its employees as shall have been made fully aware that the same is secret and confidential and are bound to treat it as such."
+  },
+  {
+   "id": "s16",
+   "text": "3. Disclosure: A party (the “disclosing Party”) may, in connection with the Business Discussions, disclose to the other Party information, including, without limitation, oral, written, graphical or electronic information and all compilations, analyses, notes, copies prepared, generated or delivered there from, which is identified as “confidential information” or “confidential business information” (the “Confidential Business Information”) by the Disclosing Party at the time of disclosure to the receiving party (the “Receiving Party”). "
+  },
+  {
+   "id": "s17",
+   "text": "The fact the Business Discussions are occurring and any negotiations, terms or facts related to the Business Discussions are Confidential Business Information."
+  },
+  {
+   "id": "s18",
+   "text": "4. The restrictions as to the use and disclosure set out above shall not apply to:"
+  },
+  {
+   "id": "s19",
+   "text": "a. any of the confidential information which is or becomes published otherwise than by unauthorised publication in breach of this agreement."
+  },
+  {
+   "id": "s20",
+   "text": "b. or any of the Confidential Information which is shown by written or other tangible evidence to have been known to the recipient prior to the date of the disclosure hereunder."
+  },
+  {
+   "id": "s21",
+   "text": "c. or any of the confidential information which is lawfully acquired by the recipient from an independent source having a bona fida right to disclose the same."
+  },
+  {
+   "id": "s22",
+   "text": "d. or any Confidential Information which as demonstrate by tangible evidence is independently developed by an employee of the recipient who has not had access to any of the Information disclosed to the recipient by the other party."
+  },
+  {
+   "id": "s23",
+   "text": "5. Neither party shall, with out the prior written consent of the other party, copy or reproduce any document which may be supplied hereunder and either party receiving any such document will "
+  },
+  {
+   "id": "s24",
+   "text": "a) return the same and any copies made thereof to the party supplying the same if so requested by the supplying party and "
+  },
+  {
+   "id": "s25",
+   "text": "b) certify in writing that it has complied with this agreement."
+  },
+  {
+   "id": "s26",
+   "text": "6. The obligations of confidentiality in this agreement shall cease when both parties give written notification of its termination, or 5 years after the date hereof, whichever is the sooner."
+  },
+  {
+   "id": "s27",
+   "text": "7. The confidential information, including any documents, drawings, sketches, designs, materials or samples supplied hereunder, will remain the property of the party disclosing or supplying the same and no rights are granted to the other party in the same, whether patented or not except the limited right to use set out above with respect to the said Field."
+  },
+  {
+   "id": "s28",
+   "text": "8. The parties do not intend that any agency or partnership relationship be created between them by this agreement."
+  },
+  {
+   "id": "s29",
+   "text": "9. All the additions to this agreement must be made in writing and must be executed by both parties."
+  },
+  {
+   "id": "s30",
+   "text": "10. This agreement must be in accordance with, and governed in all respects by the laws of Spain."
+  },
+  {
+   "id": "s31",
+   "text": "11. Each party shall be not entitled to assign the rights and obligations hereunder to any successor in title of its entire business in the Field without consent of the other party."
+  },
+  {
+   "id": "s32",
+   "text": "Signed on behalf of “COMPANY NAME A”"
+  },
+  {
+   "id": "s33",
+   "text": "By------------------------------------------------ name: “name and surname”"
+  },
+  {
+   "id": "s34",
+   "text": "Position:"
+  },
+  {
+   "id": "s35",
+   "text": "Signed on behalf of “COMPANY NAME B”"
+  },
+  {
+   "id": "s36",
+   "text": "By------------------------------------------------ name: “name and surname”"
+  }
+ ]
+}

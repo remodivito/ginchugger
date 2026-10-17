@@ -1,0 +1,45 @@
+{
+ "version": 1,
+ "id": "fixture-nda-discloser",
+ "title": "Fixture NDA playbook (discloser-weighted)",
+ "party": "Disclosing Party",
+ "rules": [
+  {
+   "id": "NDA-04",
+   "title": "Use only for the Purpose",
+   "guidance": "Our information is used for the deal only.",
+   "preferred": "Use only for the Purpose.",
+   "acceptable": "Use only for the Purpose.",
+   "escalation": "Any wider use.",
+   "enabled": true
+  },
+  {
+   "id": "NDA-08",
+   "title": "Notice before compelled disclosure",
+   "guidance": "We must be told first.",
+   "preferred": "Prompt prior notice.",
+   "acceptable": "Notice where legally permitted.",
+   "escalation": "No notice.",
+   "enabled": true
+  },
+  {
+   "id": "NDA-16",
+   "title": "Return or destroy",
+   "guidance": "We get our information back.",
+   "preferred": "Return or destroy on request.",
+   "acceptable": "Return or destroy on request.",
+   "escalation": "No return or destruction obligation.",
+   "enabled": true
+  },
+  {
+   "id": "NDA-19",
+   "title": "Duration of obligations",
+   "guidance": "Long protection.",
+   "preferred": "5 years.",
+   "acceptable": "At least 2 years.",
+   "escalation": "Fewer than 2 years.",
+   "enabled": true
+  }
+ ],
+ "canary": "5f0c1e2a-9b7d-4c3e-8a61-0d2f4b6c8e10"
+}

@@ -1,0 +1,52 @@
+[
+ {
+  "id": "C00",
+  "playbook": "playbook.json",
+  "file": "Agreement A.docx"
+ },
+ {
+  "id": "P01",
+  "playbook": "playbook.json",
+  "file": "Agreement B.docx"
+ },
+ {
+  "id": "P10",
+  "playbook": "playbook.json",
+  "file": "Agreement C.docx"
+ },
+ {
+  "id": "P21",
+  "playbook": "playbook.json",
+  "file": "Agreement D.docx"
+ },
+ {
+  "id": "D01",
+  "playbook": "playbook.json",
+  "file": "Agreement E.docx"
+ },
+ {
+  "id": "M2",
+  "playbook": "playbook.json",
+  "file": "Agreement F.docx"
+ },
+ {
+  "id": "K04",
+  "playbook": "playbook.json",
+  "file": "Agreement G.docx"
+ },
+ {
+  "id": "K09",
+  "playbook": "playbook.json",
+  "file": "Agreement H.docx"
+ },
+ {
+  "id": "BL06",
+  "playbook": "playbook-bundle.json",
+  "file": "Agreement I.docx"
+ },
+ {
+  "id": "BK5",
+  "playbook": "playbook-bundle.json",
+  "file": "Agreement J.docx"
+ }
+]

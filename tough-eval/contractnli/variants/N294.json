@@ -1,0 +1,765 @@
+{
+ "id": "N294",
+ "revision": 1,
+ "title": "Non-Disclosure-SmartCMS.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 294,
+  "type": "search-pdf",
+  "url": "https://www.ihis.com.sg/SmartCMS_Programme/Documents/Non-Disclosure-SmartCMS.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "THIS AGREEMENT is made on Click here to enter a date. "
+  },
+  {
+   "id": "s2",
+   "text": "between"
+  },
+  {
+   "id": "s3",
+   "text": "1 INTEGRATED HEALTH INFORMATION SYSTEMS PTE LTD (ACRA No. 200814464H), a company incorporated in Singapore and having its office at 6 Serangoon North Ave 5 #01-01/02 "
+  },
+  {
+   "id": "s4",
+   "text": "Singapore 554910 (hereinafter referred to as “IHIS”); and"
+  },
+  {
+   "id": "s5",
+   "text": "2 [ENTER NAME HERE] (ACRA No. [Enter ARCA Number Here]), a company incorporated in [Enter Country Here] and having its office at [Enter Vendor's Address Here] (hereinafter referred to as “the Company”)."
+  },
+  {
+   "id": "s6",
+   "text": "WHEREAS:"
+  },
+  {
+   "id": "s7",
+   "text": "1 IHiS and the Company may have exchanged and intend to exchange business, technical and financial information, including but not limited to, trade secrets and proprietary know-how, for the purpose of discussing and evaluating the possibility of establishing a business relationship."
+  },
+  {
+   "id": "s8",
+   "text": "2 "
+  },
+  {
+   "id": "s9",
+   "text": "All information or data relating to the Purpose whether in writing, orally or by any other means is highly confidential, and any unauthorized disclosure thereof (whether directly or indirectly) to a third party and would have a detrimental effect to IHiS. "
+  },
+  {
+   "id": "s10",
+   "text": "In particular, the Company acknowledges that an unauthorized disclosure might also adversely affect patients and under certain circumstances, such disclosure by the Company could expose IHiS to criminal prosecution and judicial sanctions."
+  },
+  {
+   "id": "s11",
+   "text": "NOW IT IS HEREBY AGREED AS FOLLOWS:"
+  },
+  {
+   "id": "s12",
+   "text": "1 DEFINITIONS"
+  },
+  {
+   "id": "s13",
+   "text": "1.1 "
+  },
+  {
+   "id": "s14",
+   "text": "In this Agreement, the following expressions shall have the following meanings:"
+  },
+  {
+   "id": "s15",
+   "text": "(a) “Purpose” shall mean the intention to establish a business relationship between the parties in respect of SmartCMS Programme, and the conduct of business by the parties in respect of the same."
+  },
+  {
+   "id": "s16",
+   "text": "(b) “Confidential Information” shall mean all information whether or not regarding the Purpose, that IHiS, or any of its subsidiaries or Affiliates, may from time to time provide to the Company, whether in oral, written, visual, electronic or other form including, but not limited to:"
+  },
+  {
+   "id": "s17",
+   "text": "(i) all Personal Data, including patient data and information;"
+  },
+  {
+   "id": "s18",
+   "text": "(ii) all commercial, marketing and business information, strategic and development plans, forecasts, intentions, any matter concerning IHiS, its affairs, business, operations, shareholders, directors, officers, business associates, clients or any other person or entity having dealings with IHiS;"
+  },
+  {
+   "id": "s19",
+   "text": "(iii) information relating to the financial condition of IHiS, its accounts, audited or otherwise, notes, memoranda, documents and/or records in any form whatsoever, whether electronic or otherwise;"
+  },
+  {
+   "id": "s20",
+   "text": "(iv) scientific, technical, or other information in any form whatsoever, whether electronic or otherwise, relating to methods, processes, formulae, compositions, systems, techniques, product information, inventions, know-how, trade secrets, ideas, blue prints, design rights, machines, computer programs, software, development codes and research projects;"
+  },
+  {
+   "id": "s21",
+   "text": "(v) business plans, co-developer/collaborator identities, data, business records of every nature, customer lists and client database, pricing data, project records, market reports, sources of supply, employee lists, business manuals, policies and procedures, information relating to technologies or theory and all other information which may be disclosed by IHiS to the Company or which the Company may be provided access by IHiS, whether stored electronically or otherwise; and"
+  },
+  {
+   "id": "s22",
+   "text": "(vi) all information or materials identified as Confidential Information or proprietary information which is not generally available to the public;"
+  },
+  {
+   "id": "s23",
+   "text": "(vii) all such information or data relating to any Affiliate of IHIS; and all copies, reproductions and extracts thereof, in any format or manner of storage, whether in whole or in part, together with any other property of IHiS made or acquired by the Company or coming into the Company’s possession or control in any manner whatsoever."
+  },
+  {
+   "id": "s24",
+   "text": "Information communicated orally or by inspection or is not so marked shall be identified as Confidential Information at the time of initial disclosure."
+  },
+  {
+   "id": "s25",
+   "text": "(c) “Confidential Information” does not include information:"
+  },
+  {
+   "id": "s26",
+   "text": "(i) which is or becomes public knowledge and public property in any way through no fault of the Company or its "
+  },
+  {
+   "id": "s27",
+   "text": "Representatives;"
+  },
+  {
+   "id": "s28",
+   "text": "(ii) which is hereafter made generally available by IHiS to a third party without a duty of confidentiality, including without limitation, by way of the publication of a patent specification;"
+  },
+  {
+   "id": "s29",
+   "text": "(iii) which the Company can show has been known or has been developed by or for the Company at any time independently of the information disclosed to it by IHiS;"
+  },
+  {
+   "id": "s30",
+   "text": "(iv) which is already in the possession of the Company without any obligation of confidentiality; or"
+  },
+  {
+   "id": "s31",
+   "text": "(v) which is obtained by the Company from a third party without any obligation of confidentiality."
+  },
+  {
+   "id": "s32",
+   "text": "PROVIDED HOWEVER THAT the foregoing exceptions shall not apply to information relating to any combination of features or any combination of items of information merely because information relating to one or more of the relevant individual features or one or more of the relevant items (but not the combination itself) falls within any one or more of such exceptions."
+  },
+  {
+   "id": "s33",
+   "text": "(d) Notwithstanding any other provision to the contrary in this Agreement, any information relating or pertaining to the patients of IHIS’ "
+  },
+  {
+   "id": "s34",
+   "text": "Affiliates shall be deemed to be Confidential Information of IHIS. "
+  },
+  {
+   "id": "s35",
+   "text": "The Company shall ensure that none of the patients of IHIS’ "
+  },
+  {
+   "id": "s36",
+   "text": "Affiliates can be identified in any reports, submissions and publications of the Company, which shall be deemed to be Confidential information of IHIS within the meaning of this clause."
+  },
+  {
+   "id": "s37",
+   "text": "(e) “Affiliate” means an organisation/institution that is related to IHiS "
+  },
+  {
+   "id": "s38",
+   "text": "(i) either by reason of IHiS directly or indirectly controlling the organisation/institution; "
+  },
+  {
+   "id": "s39",
+   "text": "(ii) by reason of both IHiS and organisation/institution being controlled by or under the common control of a third party; or "
+  },
+  {
+   "id": "s40",
+   "text": "(iii) by reason that IHiS is obliged to provide support services to that organisation/institution for any reason. "
+  },
+  {
+   "id": "s41",
+   "text": "In the context of corporate entities, a person “controls” the entity if it owns and controls "
+  },
+  {
+   "id": "s42",
+   "text": "(i) more than fifty (50) percent of whose shares or other securities entitled to vote for election of directors (or other managing authority) in the entity, or "
+  },
+  {
+   "id": "s43",
+   "text": "(ii) more than fifty (50) percent of the equity interest in the entity, or "
+  },
+  {
+   "id": "s44",
+   "text": "(iii) is otherwise able to direct or cause the direction of the management and policies of such person or entity whether by contract or otherwise."
+  },
+  {
+   "id": "s45",
+   "text": "(f) “Personal Data” has the same meaning assigned to this phrase as in Section 2(1) of the Personal Data Protection Act 2012 (No. 26 of 2012) of the Statutes of the Republic of Singapore."
+  },
+  {
+   "id": "s46",
+   "text": "(g) “Representatives\" means the Company’s directors, officers, employees, contractors, agents, consultants and professional advisers and those of the Company’s related companies. "
+  },
+  {
+   "id": "s47",
+   "text": "The related companies shall have the meaning in accordance with Singapore’s Companies Act."
+  },
+  {
+   "id": "s48",
+   "text": "2 DURATION"
+  },
+  {
+   "id": "s49",
+   "text": "2.1 "
+  },
+  {
+   "id": "s50",
+   "text": "This Agreement shall continue to be in force for five (5) years period from the date of this Agreement, or until the completion of the Purpose, whichever is later, unless terminated prematurely in accordance with the terms of this Agreement."
+  },
+  {
+   "id": "s51",
+   "text": "2.2 "
+  },
+  {
+   "id": "s52",
+   "text": "This Agreement may be terminated:"
+  },
+  {
+   "id": "s53",
+   "text": "(a) by mutual consent; or"
+  },
+  {
+   "id": "s54",
+   "text": "(b) by either party giving to the other not less than thirty (30) days’ prior written notice."
+  },
+  {
+   "id": "s55",
+   "text": "2.3 "
+  },
+  {
+   "id": "s56",
+   "text": "All of IHiS’ rights hereunder and all of the Company’s obligations and undertakings hereunder shall survive termination or expiration of this Agreement."
+  },
+  {
+   "id": "s57",
+   "text": "3 HANDLING OF CONFIDENTIAL INFORMATION"
+  },
+  {
+   "id": "s58",
+   "text": "3.1 "
+  },
+  {
+   "id": "s59",
+   "text": "In consideration of the foregoing and the exchange and disclosure of Confidential Information by IHiS, the Company undertakes in relation to IHiS’ Confidential Information:"
+  },
+  {
+   "id": "s60",
+   "text": "(a) to maintain the same in confidence and to use it only for the Purpose and for no other purpose;"
+  },
+  {
+   "id": "s61",
+   "text": "(b) not to make any commercial use thereof;"
+  },
+  {
+   "id": "s62",
+   "text": "(c) not to use the same for the benefit of itself or of any third party other than pursuant to a further agreement with IHiS;"
+  },
+  {
+   "id": "s63",
+   "text": "(d) not to use the same for the purpose of guiding or conducting a search of any information, materials or sources, whether or not available to the public, for any purpose whatsoever, including without limitation, for the purpose of demonstrating that any information falls within one of the exceptions in Clause 1.1(c);"
+  },
+  {
+   "id": "s64",
+   "text": "(e) not to copy, reproduce, reverse engineer or reduce to writing any part thereof except as may be reasonably necessary for the Purpose and that any copies, reproductions or reductions to writing so made shall be the property of IHiS;"
+  },
+  {
+   "id": "s65",
+   "text": "(f) not to disclose the same whether to its employees or to third parties except in confidence to such of its "
+  },
+  {
+   "id": "s66",
+   "text": "Representatives who have been informed of the confidential nature thereof and who need to know the same for the Purpose and that:"
+  },
+  {
+   "id": "s67",
+   "text": "(i) such Representatives are obliged by their contracts of employment or service not to disclose the same or to use the same otherwise than for the Purpose; and"
+  },
+  {
+   "id": "s68",
+   "text": "(ii) the Company shall enforce such obligations at its expense and at the request of IHiS in so far as breach thereof relates to IHiS' Confidential Information;"
+  },
+  {
+   "id": "s69",
+   "text": "(g) to be responsible for the performance of sub-clauses "
+  },
+  {
+   "id": "s70",
+   "text": "(a) to "
+  },
+  {
+   "id": "s71",
+   "text": "(f) above on the part of its "
+  },
+  {
+   "id": "s72",
+   "text": "Representatives to whom the same is disclosed pursuant to sub-clause "
+  },
+  {
+   "id": "s73",
+   "text": "(f) above; and"
+  },
+  {
+   "id": "s74",
+   "text": "(h) to apply to the Confidential Information disclosed no lesser security measures and degree of care than those which the Company applies to its own confidential or proprietary information of similar nature, but in no event less than reasonable care, and which the Company warrants as providing adequate protection of such information from unauthorised disclosure, copying or use."
+  },
+  {
+   "id": "s75",
+   "text": "3.2 "
+  },
+  {
+   "id": "s76",
+   "text": "The Company shall cause its Representatives involved in the Purpose to observe or be similarly bound by the terms of Agreement. "
+  },
+  {
+   "id": "s77",
+   "text": "The Company as the principal party shall be responsible and held liable for any breach of this Agreement by any of its Representatives."
+  },
+  {
+   "id": "s78",
+   "text": "3.3 "
+  },
+  {
+   "id": "s79",
+   "text": "If the Company is uncertain as to whether any information is Confidential Information, the Company shall treat the information as if it was Confidential Information and not being in the public domain unless and until IHiS agrees in writing that the information is in the public domain."
+  },
+  {
+   "id": "s80",
+   "text": "3.4 "
+  },
+  {
+   "id": "s81",
+   "text": "The Company shall immediately notify IHiS of any unauthorised disclosure or use of the Confidential Information of which the Company becomes aware and will take all steps which IHiS may require in relation to such unauthorised disclosure or use."
+  },
+  {
+   "id": "s82",
+   "text": "3.5 Notwithstanding the foregoing, the Company shall be entitled to make any disclosure the Confidential Information as required by law, but shall give IHiS not less than two (2) business days' notice of such disclosure and shall consult with IHiS prior to such disclosure with a view to avoiding such disclosure if legally possible."
+  },
+  {
+   "id": "s83",
+   "text": "4 PROTECTION OF PERSONAL DATA"
+  },
+  {
+   "id": "s84",
+   "text": "4.1 "
+  },
+  {
+   "id": "s85",
+   "text": "The Company shall, in relation to Personal Data:-"
+  },
+  {
+   "id": "s86",
+   "text": "(a) ensure that it has, in relation to all Personal Data obtained and/or collected by it, fully complied with all requirements of the Personal Data Protection Act (No. 26 of 2012);"
+  },
+  {
+   "id": "s87",
+   "text": "(b) process Personal Data only in accordance with the written instructions given by IHiS and to such extent necessary and appropriate for the completion of the Purpose;"
+  },
+  {
+   "id": "s88",
+   "text": "(c) promptly deal with any enquiry from IHiS relating to the Company’s processing of Personal Data;"
+  },
+  {
+   "id": "s89",
+   "text": "(d) not transfer or allow the Personal Data to be transferred, outside of Singapore, unless expressly instructed or authorised by IHiS; and"
+  },
+  {
+   "id": "s90",
+   "text": "(e) provide all necessary co-operation and assistance (whether to IHiS or otherwise) to allow access and/or correction of Personal Data in accordance with the Personal Data Protection Act 2012."
+  },
+  {
+   "id": "s91",
+   "text": "4.2 "
+  },
+  {
+   "id": "s92",
+   "text": "Without prejudice to Clause 4.1 above, the Company shall take all reasonable measures to ensure:"
+  },
+  {
+   "id": "s93",
+   "text": "(a) that any Personal Data belonging to IHiS or its Affiliates which is held by the Company is protected against loss, unauthorised access, use, modification, disclosure or other misuse, and that only authorised personnel have access to that Personal Data;"
+  },
+  {
+   "id": "s94",
+   "text": "(b) that, to the extent that the Personal Data is no longer required by the Company for legal or business purposes, that Personal Data is destroyed or re-delivered to IHiS in accordance with Clause 5 below;"
+  },
+  {
+   "id": "s95",
+   "text": "(c) that IHiS is immediately alerted in writing (with full particulars) of any unauthorised access, disclosure or other breach of this Clause 4 and the Company undertakes, as soon as reasonably practicable, all steps to prevent further unauthorised access, disclosure or other breach of this clause (including providing IHiS with such reports or information concerning such steps as and when requested by IHiS); and"
+  },
+  {
+   "id": "s96",
+   "text": "(d) it keeps itself appraised of any and all notices and circulars which IHiS may from time to time notify to the Company, including without limitation any policies, guidelines, circulars or notices relating to personal data (“PDPA Documentation”), and to perform its duties or discharge its liabilities in connection with the Purpose in a manner which is consistent with the PDPA Documentation, and will not cause IHiS to be in breach of the same. "
+  },
+  {
+   "id": "s97",
+   "text": "For the purposes of this clause, the Company hereby expressly acknowledges and agrees that it has read the PDPA Documentation and is aware of and will compensate IHiS for any and all potential loss and damage caused to IHiS and/or its Affiliates arising from or in connection with any breach of this clause."
+  },
+  {
+   "id": "s98",
+   "text": "4.3 Notwithstanding and further to anything stated elsewhere in the Agreement, IHiS reserves the right and the Company agrees that IHiS may conduct (or appoint a qualified, independent third party to conduct) an audit and/or assessment of the standard of compliance or non-compliance by the Company with the obligations under this Clause 4."
+  },
+  {
+   "id": "s99",
+   "text": "5 RETURN OF CONFIDENTIAL INFORMATION"
+  },
+  {
+   "id": "s100",
+   "text": "5.1 "
+  },
+  {
+   "id": "s101",
+   "text": "The Company shall within seven days of:"
+  },
+  {
+   "id": "s102",
+   "text": "(f) completion of the Purpose; or"
+  },
+  {
+   "id": "s103",
+   "text": "(g) receipt of a written request from IHiS; or"
+  },
+  {
+   "id": "s104",
+   "text": "(h) expiry or termination of the Agreement,"
+  },
+  {
+   "id": "s105",
+   "text": "return to IHiS all documents and materials (and all copies thereof) containing the IHiS’ Confidential Information or destroy the same, and certify in writing to IHiS that it has complied with the requirements of this sub-clause. "
+  },
+  {
+   "id": "s106",
+   "text": "Notwithstanding the completion of the Purpose or return of the documents and materials as aforesaid, the Company shall continue to be bound by the undertakings set out in Clauses 3 and 4 above."
+  },
+  {
+   "id": "s107",
+   "text": "6 DISCLAIMER AND WARRANTY"
+  },
+  {
+   "id": "s108",
+   "text": "6.1 IHiS reserves all rights in its Confidential Information and no rights or obligations other than those expressly recited here are granted or to be implied from this Agreement. "
+  },
+  {
+   "id": "s109",
+   "text": "In particular, no licence is hereby granted directly or indirectly under any patent, patent application, invention, discovery, copyright or other intellectual property right now or in the future held, made, obtained or licensable by IHiS."
+  },
+  {
+   "id": "s110",
+   "text": "6.2 All Confidential Information shall be disclosed on an “AS IS” basis. "
+  },
+  {
+   "id": "s111",
+   "text": "IHiS accepts no responsibility for and does not make any representation (express or implied) with respect to the accuracy or completeness of the Confidential Information provided. "
+  },
+  {
+   "id": "s112",
+   "text": "IHiS shall not be liable to the Company for any expenses, losses or damages incurred by, or action taken against, the reciving party in reliance on information disclosed hereunder."
+  },
+  {
+   "id": "s113",
+   "text": "6.3 "
+  },
+  {
+   "id": "s114",
+   "text": "Nothing herein requires the disclosure of any Confidential Information of IHiS or requires IHiS to enter into any agreement or relationship or to proceed with or complete any transaction."
+  },
+  {
+   "id": "s115",
+   "text": "6.4 "
+  },
+  {
+   "id": "s116",
+   "text": "No waiver or modification of this Agreement will be binding upon a party unless made in writing and signed by a duly authorized representative of such party and no failure or delay by IHiS in exercising or enforcing any right, power or privilege under this Agreement shall be deemed a waiver of any such right, power or privilege, nor shall any single or partial exercise of any such right, power or privilege preclude any other or further exercise."
+  },
+  {
+   "id": "s117",
+   "text": "7 DAMAGES NOT AN ADEQUATE REMEDY"
+  },
+  {
+   "id": "s118",
+   "text": "7.1 "
+  },
+  {
+   "id": "s119",
+   "text": "The Company acknowledges that the Confidential Information has been developed or obtained by IHiS through the investment of significant time, effort and expense, and that such Confidential Information provides IHiS with a significant competitive advantage over its competitors. "
+  },
+  {
+   "id": "s120",
+   "text": "The Company understands and agrees that any breach of this Agreement, as well as any unauthorised processing, collection, access, use or disclosure of Personal Data by the Company, will result in immediate and irreparable harm to IHiS and its Affiliates and that monetary damages may not be an adequate remedy in the event of such a breach or threatened breach of this Agreement. "
+  },
+  {
+   "id": "s121",
+   "text": "Accordingly, the Company agrees that IHiS shall be entitled to seek equitable relief, including injunctive relief and specific performance, in the event of a breach or threatened breach of this Agreement in addition to all other remedies available to IHiS seeking remedy at law or in equity."
+  },
+  {
+   "id": "s122",
+   "text": "8 NO GRANT OF INTELLECTUAL PROPERTY RIGHTS"
+  },
+  {
+   "id": "s123",
+   "text": "8.1 IHiS reserves all rights in the Confidential Information and no rights or obligations other than those expressly recited herein are granted or to be implied from this Agreement. "
+  },
+  {
+   "id": "s124",
+   "text": "In particular, no license is hereby granted directly or indirectly under any patent, invention, discovery, copyright or other industrial property right now or in the future held, made, obtained or licensable by IHiS."
+  },
+  {
+   "id": "s125",
+   "text": "9 CONFIDENTIALITY OF THIS AGREEMENT"
+  },
+  {
+   "id": "s126",
+   "text": "9.1 "
+  },
+  {
+   "id": "s127",
+   "text": "The Company agrees to keep the existence and nature of this Agreement confidential and not to use the same or the name of IHiS or of any other Affiliate of IHiS in any publicity, advertisement or other disclosure with regard to this Agreement without the prior written consent of IHiS, such consent not to be unreasonably withheld."
+  },
+  {
+   "id": "s128",
+   "text": "10 INDEMNITY"
+  },
+  {
+   "id": "s129",
+   "text": "10.1 "
+  },
+  {
+   "id": "s130",
+   "text": "The Company shall render all assistance to IHiS in any action or proceeding and shall indemnify and hold IHiS harmless against all costs, expenses, losses, fees, penalties, charges, damages, claims, actions, proceedings, investigations, complaints, orders, directions and judgements (including legal costs on a full indemnity basis) of whatsoever nature and howsoever incurred and suffered arising out of or in connection with the Company’s breach of this Agreement."
+  },
+  {
+   "id": "s131",
+   "text": "11 NOTICES"
+  },
+  {
+   "id": "s132",
+   "text": "11.1 Except as otherwise provided in this Agreement, notices which are required to be given under or permitted by this Agreement shall be in writing (unless expressly stated otherwise)."
+  },
+  {
+   "id": "s133",
+   "text": "11.2 "
+  },
+  {
+   "id": "s134",
+   "text": "Every request, notice or communication so sent shall be deemed to have been properly served and validly made if sent by facsimile, email, post or hand."
+  },
+  {
+   "id": "s135",
+   "text": "11.3 Service by facsimile shall be deemed valid and effected on the next working day after transmission, but only if a transmission report is generated by the sender’s fax machine recording a message from the recipient’s fax machine, confirming that the fax was sent to the number indicated and confirming that all pages were successfully transmitted."
+  },
+  {
+   "id": "s136",
+   "text": "11.4 "
+  },
+  {
+   "id": "s137",
+   "text": "Service by email shall be deemed valid and effected upon proof of sending to the email address of the intended recipient regardless whether the same was in fact received."
+  },
+  {
+   "id": "s138",
+   "text": "11.5 Service by post shall be deemed valid and effected if sent by certified mail and properly addressed to the address of the party concerned as specified in this Agreement or to such other address as the party may later specify."
+  },
+  {
+   "id": "s139",
+   "text": "11.6 Service by post shall be deemed valid and effected two (2) days after posting if posted to an address within Singapore and eight (8) days after posting, if posted to an address outside Singapore, notwithstanding the fact that the letter may be returned by the post office undelivered."
+  },
+  {
+   "id": "s140",
+   "text": "11.7 "
+  },
+  {
+   "id": "s141",
+   "text": "Service by hand shall be deemed valid and effected upon acknowledgment of receipt or left at the address of the party concerned if no acknowledgement can be obtained for whatever reason."
+  },
+  {
+   "id": "s142",
+   "text": "12 NON-ASSIGNMENT"
+  },
+  {
+   "id": "s143",
+   "text": "12.1 "
+  },
+  {
+   "id": "s144",
+   "text": "The Company shall not transfer or assign all or any of its rights, obligations or benefits hereunder in whole or in part to any third party, without the prior written consent of IHiS, which consent shall not be unreasonably withheld."
+  },
+  {
+   "id": "s145",
+   "text": "13 SEVERABILITY"
+  },
+  {
+   "id": "s146",
+   "text": "13.1 "
+  },
+  {
+   "id": "s147",
+   "text": "In the event that any term, condition or provision contained in this Agreement or the application of any such term, condition or provision shall be held by a court of competent jurisdiction to be wholly or partly illegal, invalid, unenforceable or a violation of any applicable law, statute or regulation of any jurisdiction, the same shall be deemed to be deleted from this Agreement and shall be of no force and effect; whereas the remaining terms and provisions of this Agreement shall remain in full force and effect as if such term, condition and provision had not originally been contained in this Agreement."
+  },
+  {
+   "id": "s148",
+   "text": "14 WAIVER"
+  },
+  {
+   "id": "s149",
+   "text": "14.1 "
+  },
+  {
+   "id": "s150",
+   "text": "No waiver of any rights arising under this Agreement shall be effective unless in writing and signed by IHiS. "
+  },
+  {
+   "id": "s151",
+   "text": "No waiver of any breach of any covenant, condition, stipulation, obligation or provision contained or implied in this Agreement shall operate or be interpreted as a waiver of another breach of the same or of any covenant, condition, stipulation, obligation or provision in this Agreement."
+  },
+  {
+   "id": "s152",
+   "text": "14.2 "
+  },
+  {
+   "id": "s153",
+   "text": "Any time or other indulgence granted by IHiS under this Agreement shall be without prejudice to and shall not be taken as a waiver of any of IHiS’ rights under this Agreement nor shall it prejudice or in any way limit or affect any statutory rights or powers from time to time vested in or exercisable by IHiS."
+  },
+  {
+   "id": "s154",
+   "text": "15 DISPUTE RESOLUTION"
+  },
+  {
+   "id": "s155",
+   "text": "15.1 "
+  },
+  {
+   "id": "s156",
+   "text": "In the event of any dispute or difference arising out of or in connection with or in relation to this Agreement or the existence, validity, termination, application or interpretation of this Agreement or any of its provisions, both parties shall use their best endeavours to settle the dispute informally by agreement between the parties. "
+  },
+  {
+   "id": "s157",
+   "text": "Both parties shall always"
+  },
+  {
+   "id": "s158",
+   "text": "act in good faith and co-operate with each other to resolve any disputes."
+  },
+  {
+   "id": "s159",
+   "text": "15.2 "
+  },
+  {
+   "id": "s160",
+   "text": "For the avoidance of doubt, it is agreed that nothing herein shall prevent a party from seeking urgent equitable relief before any appropriate court and the commencement of any dispute resolution proceedings shall in no way affect the continual performance of the parties’ obligations under this Agreement."
+  },
+  {
+   "id": "s161",
+   "text": "16 ENTIRE AGREEMENT"
+  },
+  {
+   "id": "s162",
+   "text": "16.1 "
+  },
+  {
+   "id": "s163",
+   "text": "This Agreement supersedes all prior agreements arrangements and undertakings between the parties and constitutes the entire agreement between the parties relating to the subject matter hereof. "
+  },
+  {
+   "id": "s164",
+   "text": "No addition to or modification of any provision of this Agreement shall be binding upon the parties unless made by a written instrument signed by the respective parties or a duly authorised representative of each of the parties."
+  },
+  {
+   "id": "s165",
+   "text": "17 NO THIRD PARTY BENEFICIARIES"
+  },
+  {
+   "id": "s166",
+   "text": "17.1 Save for IHiS’ Affiliates, nothing contained in this Agreement is intended to confer upon any person (other than the Parties hereto) any rights, benefits or remedies of any kind or character whatsoever or any right to enforce the terms of this Agreement under the Contracts (Rights of Third Parties) Act (Cap. 53B), and no person shall be deemed to be a third party beneficiary under or by reason of this Agreement."
+  },
+  {
+   "id": "s167",
+   "text": "18 GOVERNING LAW"
+  },
+  {
+   "id": "s168",
+   "text": "18.1 "
+  },
+  {
+   "id": "s169",
+   "text": "This Agreement shall be deemed to be made in Singapore, subject to, governed by and construed in all respects in accordance with the laws of the Republic of Singapore for every intent and purpose."
+  },
+  {
+   "id": "s170",
+   "text": "18.2 "
+  },
+  {
+   "id": "s171",
+   "text": "The parties hereby agree to submit irrevocably to the exclusive jurisdiction of the Courts of the Republic of Singapore to settle any and all disputes in connection with this Agreement."
+  },
+  {
+   "id": "s172",
+   "text": "19 MISCELLANEOUS"
+  },
+  {
+   "id": "s173",
+   "text": "19.1 "
+  },
+  {
+   "id": "s174",
+   "text": "Words incorporating the masculine gender only shall include the feminine and/or neuter genders and vice versa and words incorporating the singular meaning shall include the plural meaning and vice versa and words denoting natural persons shall include bodies corporate, incorporate, associated partnerships, firms, trusts, associations, joint ventures, governments, governmental agencies or departments or any other entity, and all such words shall be construed interchangeably in that manner."
+  },
+  {
+   "id": "s175",
+   "text": "19.2 References in this Agreement to anything which any party is required to do or not to do shall include its acts, defaults and omissions, whether direct or indirect, on its own account, or for or through any other person and those which it permits or suffers to be done or not done by any other person."
+  },
+  {
+   "id": "s176",
+   "text": "IN WITNESS WHEREOF "
+  },
+  {
+   "id": "s177",
+   "text": "the duly authorised representatives of the parties hereto have executed this Agreement as of the day and year first abovewritten."
+  },
+  {
+   "id": "s178",
+   "text": "Signed for and on behalf of Signed for and on behalf of the IHiS the Company"
+  },
+  {
+   "id": "s179",
+   "text": "By: Ms. Phyllis "
+  },
+  {
+   "id": "s180",
+   "text": "Yap By: [Enter Name Here]"
+  },
+  {
+   "id": "s181",
+   "text": "Director, Primary Care Capabilities "
+  },
+  {
+   "id": "s182",
+   "text": "[Enter Designation Here]"
+  },
+  {
+   "id": "s183",
+   "text": "In the presence of: In the presence of:"
+  },
+  {
+   "id": "s184",
+   "text": "Name: Mr. Yap "
+  },
+  {
+   "id": "s185",
+   "text": "Chee Guan Name: [Enter Name Here]"
+  },
+  {
+   "id": "s186",
+   "text": "Designation: Deputy Director, Primary Care Designation: [Enter Designation Here]"
+  },
+  {
+   "id": "s187",
+   "text": "Capabilities"
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "id": "N424",
+ "revision": 1,
+ "title": "922913_0000943440-00-000122_document_2.txt",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 424,
+  "type": "sec-text",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000922913/000094344000000122/0000943440-00-000122.txt"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "This Agreement is entered into this 10th day of April, 2000, between INFe.com, Inc. (\"INFE\"), and ClubComputer, Inc., (\"RECIPIENT\"), having offices at: 2771 Rockfish Valley Highway, Nellysford, VA 22958."
+  },
+  {
+   "id": "s2",
+   "text": "WHEREAS, the disclosure by the parties of certain proprietary and trade secret information is necessary for the purchase of assets by INFE from RECIPIENT; and"
+  },
+  {
+   "id": "s3",
+   "text": "WHEREAS, the parties desire to protect and maintain the confidentiality of their respective trade secrets and/or other proprietary information (hereafter collectively referred to as \"Proprietary Information\") and to control and restrict its dissemination to prevent disclosure to unauthorized parties; and"
+  },
+  {
+   "id": "s4",
+   "text": "NOW THEREFORE, INFE and RECIPIENT agree to the following:"
+  },
+  {
+   "id": "s5",
+   "text": "1. INFE will disclose to RECIPIENT such portions of its Proprietary Information solely to enable RECIPIENT to determine the desirability of selling its assets to INFE; and RECIPIENT shall not disseminate any portions of the Proprietary Information to any third party individual or entity."
+  },
+  {
+   "id": "s6",
+   "text": "2. As used in this Agreement, the phrase Proprietary Information shall include, but not be limited to the following: "
+  },
+  {
+   "id": "s7",
+   "text": "(a) information"
+  },
+  {
+   "id": "s8",
+   "text": "relating to trade secrets, appropriate licenses with certain third parties, data, designs, samples, drawings, relationships, documentation, machinery, prototypes, processes, methods, concepts, facilities, research, development, patent applications, and other Proprietary Information relating to the development, testing, manufacture, or application of any such devices or systems (including but not limited to system concepts, architectures, source documents and programming documents); and "
+  },
+  {
+   "id": "s9",
+   "text": "(b) all marketing or financial plans, projections, resources, contracts, studies, and general information relating to the specific business opportunity contemplated herein, whether obtained verbally or in writing, or through observation. "
+  },
+  {
+   "id": "s10",
+   "text": "All information, tangible or intangible, whether obtained verbally or in writing, is to be considered Proprietary Information."
+  },
+  {
+   "id": "s11",
+   "text": "4. No Proprietary Information shall be disclosed to any third party whatsoever by RECIPIENT without the prior written approval of INFE and all such information shall be protected with at least the same diligence, care, and precaution that Recipient uses to protect its own Proprietary Information."
+  },
+  {
+   "id": "s12",
+   "text": "5. The undertakings and obligations of RECIPIENT under this Agreement shall not apply to any information which: "
+  },
+  {
+   "id": "s13",
+   "text": "(a) is disclosed in a printed publication available to the general public, is described by or in a patent anywhere in the world, or is otherwise in the public domain at the time of disclosure other than through the wrongful act or omission of the receiving party; "
+  },
+  {
+   "id": "s14",
+   "text": "(b) is generally disclosed to third parties by the disclosing party without restriction on such third parties; "
+  },
+  {
+   "id": "s15",
+   "text": "(c) is approved for release by prior, express, written authorization from the disclosing party."
+  },
+  {
+   "id": "s16",
+   "text": "8. With respect to each item of Proprietary Information disclosed, this obligation of the parties under this Agreement shall expire three (3) years from the date of each such disclosure or the maximum period permitted by law if such period is less than three (3) years."
+  },
+  {
+   "id": "s17",
+   "text": "<PAGE> Ex-2; Pg. 14"
+  },
+  {
+   "id": "s18",
+   "text": "9. No modification, alteration, or addition to this Agreement shall be binding unless mutually agreed to in writing by both parties."
+  },
+  {
+   "id": "s19",
+   "text": "10. This Agreement shall be construed, interpreted, and enforced according to the laws of the Commonwealth of Virginia and the parties hereto consent to jurisdiction therein."
+  },
+  {
+   "id": "s20",
+   "text": "IN WITNESS WHEREOF, the parties hereto have executed this Agreement on the date first written above."
+  },
+  {
+   "id": "s21",
+   "text": "INFe.com, "
+  },
+  {
+   "id": "s22",
+   "text": "Inc. "
+  },
+  {
+   "id": "s23",
+   "text": "RECIPIENT: ClubComputer.com, Inc."
+  },
+  {
+   "id": "s24",
+   "text": "By:____________________ "
+  },
+  {
+   "id": "s25",
+   "text": "By:_________________________"
+  },
+  {
+   "id": "s26",
+   "text": "Name: Thomas M. Richfield Name: Dennis Tracz"
+  },
+  {
+   "id": "s27",
+   "text": "Its: President and CEO Its: President"
+  }
+ ]
+}

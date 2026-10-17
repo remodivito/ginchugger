@@ -1,0 +1,329 @@
+{
+ "id": "N387",
+ "revision": 1,
+ "title": "65781_0000950123-00-009565_y41542ex99-d_3.txt",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 387,
+  "type": "sec-text",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000065781/000095012300009565/0000950123-00-009565.txt"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "The parties to this Agreement are MPD Technologies, Inc. (\"Disclosing Party\") and the undersigned \"Recipient\". "
+  },
+  {
+   "id": "s2",
+   "text": "The parties desire that Disclosing Party disclose certain Information or Items to Recipient, but Disclosing Party desires to maintain the trade secret, proprietary or private nature of such Information or Items."
+  },
+  {
+   "id": "s3",
+   "text": "As used herein, the following words have the indicated meanings:"
+  },
+  {
+   "id": "s4",
+   "text": "(i) \"Disclose\" means to reveal, make known, make available, furnish, or permit access to, whether or not intentionally."
+  },
+  {
+   "id": "s5",
+   "text": "(ii) \"Information\" means all oral, written, or other information whatsoever, including information in documents and other recording media and information embodied in any item, which in connection with the Matter, is "
+  },
+  {
+   "id": "s6",
+   "text": "(a) obtained by Recipient from or through Disclosing Party, "
+  },
+  {
+   "id": "s7",
+   "text": "(b) obtained by or through Recipient by an examination of any Item, or "
+  },
+  {
+   "id": "s8",
+   "text": "(c) created by or through Recipient with the use of information in "
+  },
+  {
+   "id": "s9",
+   "text": "(a) or "
+  },
+  {
+   "id": "s10",
+   "text": "(b). "
+  },
+  {
+   "id": "s11",
+   "text": "It includes but is not limited to ideas, inventions, discoveries, formulas, methods, designs, drawings, specifications, engineering and manufacturing data. "
+  },
+  {
+   "id": "s12",
+   "text": "This information is limited to trade secrets and other proprietary or private information of Disclosing Party or of any third party if disclosed by or through Disclosing Party."
+  },
+  {
+   "id": "s13",
+   "text": "(iii) \"Item\" means any system, subsystem, assembly, subassembly, device, components, product, or machine, work of authorship, or part thereof, or substance which is disclosed by or through Disclosing Party hereunder, which embodies trade secret or other proprietary or private information of Disclosing Party or of any third party if disclosed by or through Disclosing Party."
+  },
+  {
+   "id": "s14",
+   "text": "(iv) \"Matter\" means the project or other matter in connection with which this Agreement is executed. "
+  },
+  {
+   "id": "s15",
+   "text": "This matter is or relates to the potential acquisition by the Recipient of a controlling ownership interest in the share capital or business of the Disclosing Party."
+  },
+  {
+   "id": "s16",
+   "text": "The parties to this Agreement have agreed as follows:"
+  },
+  {
+   "id": "s17",
+   "text": "1. Non-Disclosure. "
+  },
+  {
+   "id": "s18",
+   "text": "Recipient agrees as follows:"
+  },
+  {
+   "id": "s19",
+   "text": "1.1. For a period of three (3) years from the date of entering in to this Agreement, not to disclosure any Information or Item, in any manner whatsoever, directly or indirectly, whether in whole or in part, without the prior written consent of Disclosing Party, to any individual, firm or entity, excepting solely an individual who "
+  },
+  {
+   "id": "s20",
+   "text": "(a) is an officer, director or employee of Disclosing Party or of the Recipient and "
+  },
+  {
+   "id": "s21",
+   "text": "(b) has a clear need to know for purposes directly related to the Matter."
+  },
+  {
+   "id": "s22",
+   "text": "2. Exclusions. "
+  },
+  {
+   "id": "s23",
+   "text": "The obligations of a Recipient under Section 1.1 hereof shall not apply to the following:"
+  },
+  {
+   "id": "s24",
+   "text": "2.1. Any Information which, at the time of disclosure, is already rightfully possessed by Recipient or is already in the public domain;"
+  },
+  {
+   "id": "s25",
+   "text": "2.2. Any Information which, after the disclosure, enters the public domain without any action or fault of Recipient."
+  },
+  {
+   "id": "s26",
+   "text": "2.3. Any Information which is obtained, other than in connection with the Matter, from any individual, firm or entity which had the unrestricted right to disclose it;"
+  },
+  {
+   "id": "s27",
+   "text": "2.4. Any Information which is developed independently by Recipient without reference to any Information or Item;"
+  },
+  {
+   "id": "s28",
+   "text": "3. Non-Disclosure "
+  },
+  {
+   "id": "s29",
+   "text": "Agreements from Third Parties. "
+  },
+  {
+   "id": "s30",
+   "text": "If Disclosing Party gives its written consent to Recipient to disclose Information or Items to a third party, Recipient shall require the third party to execute a non-disclosure agreement in form, and substance satisfactory to Disclosing Party. "
+  },
+  {
+   "id": "s31",
+   "text": "Recipient shall promptly furnish Disclosing Party with a copy of all such non-disclosure agreements."
+  },
+  {
+   "id": "s32",
+   "text": "4. Notification of Mandatory Disclosure by Recipient. "
+  },
+  {
+   "id": "s33",
+   "text": "In the event you are required by any legal or civil proceeding to disclose the Information or Items to a third party, you agree to provide prompt notice to the Disclosing Party, so that we might attempt to secure an appropriate protective order, or waive your compliance with this Agreement. "
+  },
+  {
+   "id": "s34",
+   "text": "You agree to cooperate with the Disclosing Party in its attempts to secure such a protective order."
+  },
+  {
+   "id": "s35",
+   "text": "5. Only One Source of Discussion. "
+  },
+  {
+   "id": "s36",
+   "text": "You agree that you will only discuss the Matter with Mr. Al Weber, Chief Executive Officer, or Mr. Thomas V. Gilboy, Chief Financial Officer of the Disclosing Party. "
+  },
+  {
+   "id": "s37",
+   "text": "Under no circumstances will you discuss the Matter, or admit that the Matter has been a topic of discussion with any other employees of the Disclosing Party, or any other third party. "
+  },
+  {
+   "id": "s38",
+   "text": "In addition, during 2000, you agree not to undertake any unusual efforts to research the business, operations, prospects or finances of the Disclosing Party, where such research efforts would include discussions with any third party, except in the ordinary course of business."
+  },
+  {
+   "id": "s39",
+   "text": "6. Employees. "
+  },
+  {
+   "id": "s40",
+   "text": "For a period of two (2) years Recipient (or any agent or affiliates of the Recipient) will not have discussions with any \"Covered Employees\" of the Disclosing Party regarding employment opportunities with the Recipient or any of its affiliates. "
+  },
+  {
+   "id": "s41",
+   "text": "\"Covered Employees\" will include any person who is employed by the recipient as a part or full time employee either as of the date of this Agreement, or persons that subsequently become employees of the Disclosing Party. "
+  },
+  {
+   "id": "s42",
+   "text": "However, if a person subsequently terminates their employment with the Disclosing Party, then the recipient can have such discussions with that person, after a 5-day waiting period. "
+  },
+  {
+   "id": "s43",
+   "text": "In addition, if the Recipient published a general posting for employment opportunities in any publication or web site, and one of the Recipient's Covered Employees should respond to the posting, then the Recipient will be free to have such discussions with that person."
+  },
+  {
+   "id": "s44",
+   "text": "7. Survival. "
+  },
+  {
+   "id": "s45",
+   "text": "This Agreement shall survive the execution of any subsequent contract between the parties hereto, excepting solely if the subsequent contract relates to the Matter and expressly addresses Recipient's non-disclosure obligations with respect to the Matter."
+  },
+  {
+   "id": "s46",
+   "text": "8. Preservation of Markings. "
+  },
+  {
+   "id": "s47",
+   "text": "Recipient shall not alter or delete any markings on any Information or Item restricting its disclosure, use or reproduction or indicating its proprietary or private status. "
+  },
+  {
+   "id": "s48",
+   "text": "Recipient shall include all such markings in all copies of any Information which it makes."
+  },
+  {
+   "id": "s49",
+   "text": "9. No Proprietary Right; Return of Information or Items. "
+  },
+  {
+   "id": "s50",
+   "text": "Nothing herein shall confer upon Recipient any right, title, interest or license whatsoever in or to any Information or Items. "
+  },
+  {
+   "id": "s51",
+   "text": "At the end of our discussions regarding the Matter, the Disclosing Party has the right to request that the Recipient return all Information or Items to the Disclosing Party."
+  },
+  {
+   "id": "s52",
+   "text": "10. No Obligations regarding any Transaction. "
+  },
+  {
+   "id": "s53",
+   "text": "Neither party is under any obligation to pursue or conclude a transaction in connection with the Matter. "
+  },
+  {
+   "id": "s54",
+   "text": "Both parties will bear their own expenses associated with discussions pertaining to the Matter."
+  },
+  {
+   "id": "s55",
+   "text": "11. No Representations or Warranties. "
+  },
+  {
+   "id": "s56",
+   "text": "The Disclosing Party makes no representation or warranties of any nature regarding the accuracy or completeness of the Information or Items provided to the Recipient at this time."
+  },
+  {
+   "id": "s57",
+   "text": "12. Injunction. "
+  },
+  {
+   "id": "s58",
+   "text": "In the event of any breach of this Agreement by either party, or any threatened or attempted breach by either party, the other party to this Agreement shall be entitled to an injunction against the breaching party. "
+  },
+  {
+   "id": "s59",
+   "text": "Nothing contained herein precludes the other party from pursuing any other remedies available hereunder or at law or equity for such breach, including the recovery of damages."
+  },
+  {
+   "id": "s60",
+   "text": "13. General"
+  },
+  {
+   "id": "s61",
+   "text": "13.1. This agreement constitutes the entire, final and complete agreement between the parties relevant to the subject matter hereof, and it supersedes and replaces all written and oral agreements relevant to the subject matter made or existing by and between the parties or their representatives, and there shall be no modifications hereto unless it is in writing signed by the parties."
+  },
+  {
+   "id": "s62",
+   "text": "13.2. Validity, interpretation, performance, remedies, and all other issues relating to this Agreement shall be governed by the internal law of the State of New York."
+  },
+  {
+   "id": "s63",
+   "text": "13.3. This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective heirs, legal representatives, successors and assigns."
+  },
+  {
+   "id": "s64",
+   "text": "MPD TECHNOLOGIES, INC. "
+  },
+  {
+   "id": "s65",
+   "text": "TELEFONAKTIEBOLAGET LM ERICSSON"
+  },
+  {
+   "id": "s66",
+   "text": "Signature: /s/ Thomas V. Gilboy Signature: /s/ Rolf Eriksson"
+  },
+  {
+   "id": "s67",
+   "text": "--------------------- "
+  },
+  {
+   "id": "s68",
+   "text": "------------------------"
+  },
+  {
+   "id": "s69",
+   "text": "Name: Thomas V. Gilboy Name: Rolf Eriksson"
+  },
+  {
+   "id": "s70",
+   "text": "------------------------ "
+  },
+  {
+   "id": "s71",
+   "text": "-----------------------------"
+  },
+  {
+   "id": "s72",
+   "text": "Title: Chief Financial Officer Title: Vice President"
+  },
+  {
+   "id": "s73",
+   "text": "----------------------- "
+  },
+  {
+   "id": "s74",
+   "text": "----------------------------"
+  },
+  {
+   "id": "s75",
+   "text": "Date: 6 July 2000 Date: 6 July 2000"
+  },
+  {
+   "id": "s76",
+   "text": "----------------------- "
+  },
+  {
+   "id": "s77",
+   "text": "-----------------------------"
+  },
+  {
+   "id": "s78",
+   "text": "4"
+  }
+ ]
+}

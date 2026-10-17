@@ -1,0 +1,175 @@
+{
+ "canary": "2eb20c99-e785-485c-b97c-b5e8d177c40a",
+ "format": "layer-c-source/1",
+ "dataset": "crosbylegal/RedlineBench",
+ "revision": "eee1b6790982ed1279e86bec7616b662a61993e6",
+ "url": "https://huggingface.co/datasets/crosbylegal/RedlineBench/tree/eee1b6790982ed1279e86bec7616b662a61993e6",
+ "licence": {
+  "data": "CC BY 4.0",
+  "code": "MIT",
+  "attribution": "RedlineBench by Crosby Legal and micro1"
+ },
+ "cardLicence": "cc-by-4.0",
+ "lastModified": "2026-06-18T14:40:28.000Z",
+ "fetchedAt": "2026-10-15T22:13:19.692Z",
+ "tasks": {
+  "redline-s1-t3-g01a": [
+   {
+    "path": "environment/app/contract.docx",
+    "local": "redline-s1-t3-g01a/contract.docx",
+    "size": 117209,
+    "oid": "88bb2a07ca1040a456e400574c246e5d84e512d3",
+    "lfsSha256": "b3f02ab482133343f5113b83ce270649f8baade391e7350026837c7226ffb76e",
+    "sha256": "b3f02ab482133343f5113b83ce270649f8baade391e7350026837c7226ffb76e"
+   },
+   {
+    "path": "environment/app/grounding/AgentCo_-_Platform_Agreement.extracted.md",
+    "local": "redline-s1-t3-g01a/grounding/AgentCo_-_Platform_Agreement.extracted.md",
+    "size": 39294,
+    "oid": "827de66b09192ed1bbdebdb7b397bbdf79c54182",
+    "lfsSha256": null,
+    "sha256": "cc48ef41b620688e55b56e7bcc56e4ddbd4c00c0efb40d496ba7d253b8948953"
+   },
+   {
+    "path": "environment/app/grounding/Contract_Review_Guidelines_for_Reviewing_Attorneys_v1.extracted.md",
+    "local": "redline-s1-t3-g01a/grounding/Contract_Review_Guidelines_for_Reviewing_Attorneys_v1.extracted.md",
+    "size": 9924,
+    "oid": "89abe2eaf3e919a255c8d2789eb15ac1db7d0b40",
+    "lfsSha256": null,
+    "sha256": "98153395455c06728cd2eeb98bc626c13abb626508b84511c87c2287c02fbdfd"
+   },
+   {
+    "path": "environment/app/grounding/Project_Veritas_Scenario_1_AgentCo_TalentFlow_.docx_-_Google_Docs.extracted.md",
+    "local": "redline-s1-t3-g01a/grounding/Project_Veritas_Scenario_1_AgentCo_TalentFlow_.docx_-_Google_Docs.extracted.md",
+    "size": 5248,
+    "oid": "3454e5bdb6b375717380bdc8c767f0edaa52a53f",
+    "lfsSha256": null,
+    "sha256": "0ebdf938028d56d9349c63055b4f3054ea7913ed75efde9ffa9622b891d83227"
+   },
+   {
+    "path": "instruction.md",
+    "local": "redline-s1-t3-g01a/instruction.md",
+    "size": 16440,
+    "oid": "18f7d62c84104efae1014eeadaea36b86d6b078b",
+    "lfsSha256": null,
+    "sha256": "3bf6326fcd3d0f668b54b95f78f8daaab48a043134d3904280371df163c9c345"
+   },
+   {
+    "path": "task.toml",
+    "local": "redline-s1-t3-g01a/task.toml",
+    "size": 1318,
+    "oid": "f1a3799335fd368de7b41afbf68768f4c7bfebeb",
+    "lfsSha256": null,
+    "sha256": "e68f75f214974086d1b1b8936f9d210cfebea7271b924435caf50dffbbb79104"
+   },
+   {
+    "path": "tests/attorney_redlines.docx",
+    "local": "redline-s1-t3-g01a/tests/attorney_redlines.docx",
+    "size": 126305,
+    "oid": "196bcbc3bd89f810f5ddc952780ee8ddb539b778",
+    "lfsSha256": "a76d1a8cc58cf5c42ccae125ed8cc9659256d2c98d97d80c89093875ce7caf71",
+    "sha256": "a76d1a8cc58cf5c42ccae125ed8cc9659256d2c98d97d80c89093875ce7caf71"
+   },
+   {
+    "path": "tests/rubrics.json",
+    "local": "redline-s1-t3-g01a/tests/rubrics.json",
+    "size": 11113,
+    "oid": "122a72577fb79b3f1e746d81172f1cd9685e81d7",
+    "lfsSha256": null,
+    "sha256": "47b9aab847581ffe0b63248c1f37f7d9c1510ea4dcb6c9176f0e4303252a2346"
+   }
+  ],
+  "redline-s2-t4-g03a": [
+   {
+    "path": "environment/app/contract.docx",
+    "local": "redline-s2-t4-g03a/contract.docx",
+    "size": 62677,
+    "oid": "bce571a369a940b3804e393e30bb3a5b551c5db3",
+    "lfsSha256": null,
+    "sha256": "5555338b589633d4ace64001b2c88c3c7a8254b9fb29e101f58e2cd3720e7cf8"
+   },
+   {
+    "path": "environment/app/grounding/Scenario_2_AgentCo_TalentFlow_.docx_-_Google_Docs.extracted.md",
+    "local": "redline-s2-t4-g03a/grounding/Scenario_2_AgentCo_TalentFlow_.docx_-_Google_Docs.extracted.md",
+    "size": 5232,
+    "oid": "077b1285d4b0a12217619ecce83b366e9a98547f",
+    "lfsSha256": null,
+    "sha256": "2e8f3898ab2665ab452f4a47556291532a86c9826d7274884529c9d205b24972"
+   },
+   {
+    "path": "instruction.md",
+    "local": "redline-s2-t4-g03a/instruction.md",
+    "size": 16179,
+    "oid": "b19a0f15e3c417101cb53db4acdbf4deeb21eab5",
+    "lfsSha256": null,
+    "sha256": "5a71fc24cf9512b4d935bced4915e63cde5d304a9e4c4346100114416bcb30b7"
+   },
+   {
+    "path": "task.toml",
+    "local": "redline-s2-t4-g03a/task.toml",
+    "size": 1320,
+    "oid": "70a0baccca6101b21997b590aac6a8d33682f6f6",
+    "lfsSha256": null,
+    "sha256": "5ff65d39123c4d75e7e1a7062f0b389f1905d48a3a52ccc5cba5130ddad8be0b"
+   },
+   {
+    "path": "tests/rubrics.json",
+    "local": "redline-s2-t4-g03a/tests/rubrics.json",
+    "size": 1291,
+    "oid": "ee0c690ddd7eb5a4bfcc594678c7efa131be0874",
+    "lfsSha256": null,
+    "sha256": "3cc8527de648b241496a0b1fd8b05044bf8f55aef1da64ecdc385040dcee91ca"
+   }
+  ],
+  "redline-s3-t4-g02a": [
+   {
+    "path": "environment/app/contract.docx",
+    "local": "redline-s3-t4-g02a/contract.docx",
+    "size": 80856,
+    "oid": "212003d621558262a636eda016699bcd90e06fbf",
+    "lfsSha256": null,
+    "sha256": "a9ba38faae7c36e9cea7d4d8f640663c37b441e6cef14cbf85500d7c4ce96ae5"
+   },
+   {
+    "path": "environment/app/grounding/Project_Veritas_Scenario_3_TalentFlow_Production_GiantCo_Context.extracted.md",
+    "local": "redline-s3-t4-g02a/grounding/Project_Veritas_Scenario_3_TalentFlow_Production_GiantCo_Context.extracted.md",
+    "size": 5198,
+    "oid": "51f137d421a6b97c26277e0befd9233d8044a972",
+    "lfsSha256": null,
+    "sha256": "88057d64be4f16675b755645e0d2dde0239bf1312fcf2d599af4df8965aba52d"
+   },
+   {
+    "path": "instruction.md",
+    "local": "redline-s3-t4-g02a/instruction.md",
+    "size": 16451,
+    "oid": "5304a96df72901a21e327d8afeecd60821f26ec1",
+    "lfsSha256": null,
+    "sha256": "c4f5ad6a1d5226ebe8edd8edc2bb37722670a1b848ff8a5583677d96c82ff7a1"
+   },
+   {
+    "path": "task.toml",
+    "local": "redline-s3-t4-g02a/task.toml",
+    "size": 1333,
+    "oid": "820b01f74ef1de27ae522e954d8830e8b9157ed4",
+    "lfsSha256": null,
+    "sha256": "8d41c2fda5762ef0693ee946a1a4638d0345ca31c081b7583f7bb84d2db82e32"
+   },
+   {
+    "path": "tests/attorney_redlines.docx",
+    "local": "redline-s3-t4-g02a/tests/attorney_redlines.docx",
+    "size": 81680,
+    "oid": "65b6da659c33aca9c02b8e08d22e7cb821563fbc",
+    "lfsSha256": null,
+    "sha256": "57144bc640fa2cadd568c772fdee5145e1070d99f14ae1334a4e0869c1c62b36"
+   },
+   {
+    "path": "tests/rubrics.json",
+    "local": "redline-s3-t4-g02a/tests/rubrics.json",
+    "size": 4912,
+    "oid": "ba1d204a95a2b2c483db1514c0e29f2bf0c0c4b0",
+    "lfsSha256": null,
+    "sha256": "2603371015700b5b2cbbf1065ba0cdc75a3d4f8ff58774eaef8f552f559986c7"
+   }
+  ]
+ }
+}

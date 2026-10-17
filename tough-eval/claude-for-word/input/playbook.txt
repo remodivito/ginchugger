@@ -1,0 +1,134 @@
+Northwind Analytics — SaaS procurement playbook (customer side)
+
+C-01: General liability cap
+Guidance: Liability caps must be mutual and sized against what we pay. The general cap should be at least the Fees paid or payable in the 12 months before the claim, applying equally to both parties.
+Preferred: Mutual general cap of 1x the Fees paid or payable in the 12 months before the claim.
+Acceptable: Mutual general cap between 1x and 2x the 12-month Fees, or a fixed amount at least equal to the annual Fees.
+Escalate: Any cap below 1x the 12-month Fees, or a cap measured over a shorter period. Escalate to the General Counsel.
+Hard line: A cap that limits only the Provider's liability, or a general cap below 0.5x the annual Fees.
+
+C-02: Increased cap for data, security and confidentiality breaches
+Guidance: Breaches of the Provider's privacy and security obligations and of confidentiality must sit under a higher cap than the general cap, without having to prove gross negligence or wilful misconduct.
+Preferred: Increased Claims cover breach of the privacy and security section and breach of confidentiality, with an Increased Cap Amount of at least 3x the 12-month Fees.
+Acceptable: Increased Cap Amount of at least 2x the 12-month Fees for the same claims. A security obligation of commercially reasonable efforts, as in the Key Terms Security Policy, is acceptable.
+Escalate: Increased Cap Amount below 2x, or confidentiality breaches dropped from Increased Claims.
+Hard line: No increased cap for privacy and security breaches, or the increased cap available only for gross negligence or wilful misconduct.
+
+C-03: Uncapped indemnities and damages-waiver exceptions
+Guidance: Indemnification obligations of both parties sit outside the caps. The waiver of lost profits and consequential damages must not apply to Increased Claims or to breach of confidentiality.
+Preferred: Each Indemnifying Party's indemnification obligation is an Unlimited Claim; the damages waiver excludes Increased Claims and breach of confidentiality.
+Acceptable: Indemnities capped at no less than the Increased Cap Amount, applied to both parties equally.
+Escalate: Any asymmetry between the parties' indemnity caps.
+Hard line: Only the Customer's indemnity left uncapped, or the damages waiver applied to confidentiality breaches.
+
+C-04: IP indemnity from the Provider
+Guidance: The Provider must defend and indemnify us against third-party claims that the Cloud Service infringes intellectual property. Standard exclusions are acceptable. The Provider controls the defence but may not settle on terms that admit our fault or materially harm us without our written consent.
+Preferred: IP infringement indemnity with exclusions limited to unauthorised modification, misuse, combination with items not provided by the Provider, and use of an old version; no settlement admitting fault or adversely affecting us without consent; remedy options ending in a prorated refund.
+Acceptable: Reasonable additional exclusions tied to our own conduct.
+Escalate: Removal of the consent requirement for settlements, or removal of the refund option.
+Hard line: No IP indemnity from the Provider.
+
+C-05: Use of our content
+Guidance: The Provider may use Customer Content only as needed to provide and maintain the Product. We keep ownership. Everything we or our Users submit is Customer Content.
+Preferred: Use limited to providing and maintaining the Product and related offerings; Customer retains all rights in Customer Content; Customer Content defined as everything submitted by or for Customer or Users, excluding only Feedback.
+Acceptable: Use to provide support and to secure the service.
+Escalate: Any use of Customer Content to improve the Product beyond the ML terms in C-06, or any narrowing of what counts as Customer Content.
+Hard line: Use of Customer Content to build other products, or any transfer of ownership.
+
+C-06: Machine learning on our data
+Guidance: Training the Provider's models on our data is acceptable only if the data is aggregated and de-identified first, and only within the Provider's own products.
+Preferred: Usage Data and Customer Content may be used for ML only after aggregation and commercially reasonable de-identification; personal data obligations unaffected. Use within the Provider's own products and services, including third-party components of the Product, is within this position.
+Acceptable: The same, with an opt-out we can exercise.
+Escalate: Training on Customer Content that is aggregated but not de-identified.
+Hard line: Training on Customer Content that is neither aggregated nor de-identified, or licensing it to third parties for their own models.
+
+C-07: Usage data and feedback
+Guidance: The Provider may use Feedback freely and use Usage Data to run and improve its services, but may disclose Usage Data only in aggregated form that does not identify us or our Users.
+Preferred: Disclosure of Usage Data only when aggregated and non-identifying.
+Acceptable: Disclosure to the Provider's subprocessors bound by confidentiality.
+Escalate: Disclosure of identifying Usage Data to anyone outside the Provider.
+Hard line: Sale of Usage Data that identifies us.
+
+C-08: Confidentiality
+Guidance: Confidentiality must be mutual, must protect our non-public Customer Content, must carry the four standard exclusions only, must require advance notice of compelled disclosures where lawful, and must survive termination.
+Preferred: Mutual non-use and non-disclosure with at least reasonable care; non-public Customer Content is our Confidential Information; exclusions limited to prior knowledge, public availability without fault, lawful receipt from a third party, and independent development; compelled disclosure only with advance notice where lawful; confidentiality survives termination.
+Acceptable: A fixed survival period of at least 5 years for information that is not a trade secret or Customer Content. Survival through the survival clause together with the retention clause that keeps confidentiality and privacy obligations applying to retained copies is acceptable; Section 3 need not be listed separately.
+Escalate: Any additional exclusion, or removal of the advance-notice requirement.
+Hard line: Customer Content outside the definition of Confidential Information, or confidentiality that ends on termination.
+
+C-09: Suspension of service
+Guidance: The Provider may suspend only for an undisputed balance more than 30 days overdue, breach of the use restrictions, or use that materially harms the Product or others, should try to warn us first, and must reinstate once the issue is resolved.
+Preferred: Suspension limited to those three grounds, with an attempt at prior notice and reinstatement on resolution. Suspension 'with or without notice' is within this position when the Provider commits to try to inform us first where practical.
+Acceptable: Immediate suspension without notice for genuine security emergencies.
+Escalate: Suspension for disputed amounts, for balances overdue 30 days or less, or without any attempt at notice.
+Hard line: Suspension at the Provider's discretion.
+
+C-10: Payment terms
+Guidance: We pay invoices at least 30 days after receipt, in pounds sterling, and may withhold disputed amounts in good faith while paying the rest.
+Preferred: Payment within 30 days of receipt of invoice; good-faith disputes notified before the due date; undisputed amounts paid on time.
+Acceptable: Payment within 30 days of the invoice date. A default currency in the standard terms is acceptable where the Order Form specifies pounds sterling.
+Escalate: Payment terms shorter than 30 days, or late-payment interest above 1% per month.
+Hard line: Payment in advance of invoice, or loss of the right to dispute fees.
+
+C-11: Renewal and price increases
+Guidance: Automatic renewal is acceptable if we can opt out by notice given no more than 60 days before the end of the Subscription Period. Price increases at renewal are capped at 5%.
+Preferred: Non-renewal notice of 30 days before the end of the period; fee increases of up to 5% per renewal.
+Acceptable: Non-renewal notice of up to 60 days; increases of up to 5%.
+Escalate: Non-renewal notice above 60 days, or increases between 5% and 7%.
+Hard line: Uncapped price increases, or renewal we cannot stop.
+
+C-12: Termination and refunds
+Guidance: Both parties must be able to terminate for uncured material breach after no more than 30 days' notice and for insolvency. Where the service fails through no fault of ours (a long force majeure, a failed warranty, an IP remedy), prepaid fees for the unused period are refunded.
+Preferred: Mutual termination for material breach uncured 30 days after notice and for insolvency; prorated refunds of prepaid Fees on termination for force majeure, warranty failure or IP remedy.
+Acceptable: Cure periods of up to 45 days for both parties. The Provider's right to terminate an affected Order Form with a prorated refund as an IP remedy; the Provider's right to terminate immediately, without refund, where export controls or sanctions laws require it; and insolvency proceedings that must continue for more than 60 days, are acceptable.
+Escalate: Any termination right available to only one party, or cure periods above 45 days.
+Hard line: No refund of prepaid Fees when the service fails.
+
+C-13: Return and deletion of data on exit
+Guidance: On expiry or termination the Provider deletes our content on request and both parties return or destroy confidential information. Backup retention is acceptable only while confidentiality and security obligations keep applying.
+Preferred: Deletion of Customer Content within 60 days of our request; return or destruction of Confidential Information; retained copies stay protected.
+Acceptable: Deletion within 90 days. Privacy and security obligations that continue for retained data through the retention clause are acceptable without a separate survival listing.
+Escalate: Deletion periods longer than 90 days.
+Hard line: No deletion obligation, or retained copies without continuing protection.
+
+C-14: Provider warranty
+Guidance: The Provider warrants that it will not materially reduce the general functionality of the Cloud Service during the Subscription Period. If it cannot restore functionality, we may terminate and recover prepaid fees for the rest of the period.
+Preferred: Functionality warranty with a restore-or-terminate remedy and prorated refund; notice within 45 days of discovering the issue.
+Acceptable: Notice periods of at least 30 days. An obligation to attempt restoration followed by our right to terminate with a refund, stated as our only remedy, is acceptable; Beta Products may be excluded from the warranty.
+Escalate: Shorter notice windows, or a remedy without refund.
+Hard line: No functionality warranty.
+
+C-15: Changes to the agreement
+Guidance: Nothing in the agreement may change without both parties' written agreement. Policies incorporated by reference must be fixed versions, not documents the Provider can update unilaterally.
+Preferred: Waivers and changes only in writing signed or accepted by each party; no incorporation of documents 'as updated from time to time'.
+Acceptable: Provider changes to operational documentation that do not reduce our rights. Compliance with the Provider's Documentation and the agreed Use Limitations is acceptable, as is incorporation of the Security Policy and DPA as agreed in the Key Terms.
+Escalate: Any Provider right to change terms on notice.
+Hard line: Unilateral changes that take effect without our signature.
+
+C-16: Assignment
+Guidance: Assignment needs the other party's written consent, except that either party may assign on notice in a merger, change of control or sale of the relevant business. The rule must be the same for both parties.
+Preferred: Mutual consent requirement with the mutual merger and change-of-control exception on notice.
+Acceptable: Assignment to Affiliates on notice, for both parties.
+Escalate: Any assignment right that only the Provider has.
+Hard line: Provider free to assign to anyone without notice.
+
+C-17: Governing law and courts
+Guidance: English law and the courts of London, exclusively.
+Preferred: Governing Law: England and Wales. Chosen Courts: London, exclusive.
+Acceptable: Non-exclusive jurisdiction of the English courts. Injunctive relief for breach of confidentiality or infringement in any competent court is acceptable.
+Escalate: Any other European law.
+Hard line: Any US state law or US courts.
+
+C-18: Publicity
+Guidance: The Provider may name us and show our logo as a customer. Case studies, testimonials or any description of how we use the service need our prior written consent.
+Preferred: Name and logo use to identify us as a customer only.
+Acceptable: The same, with a right for us to withdraw it on notice.
+Escalate: Any statement about our use of the service or results.
+Hard line: Endorsements or case studies without our consent.
+
+C-19: Audits by the Provider
+Guidance: We do not accept audit rights over our systems. If an audit of our usage is agreed, it needs at least 30 days' notice, at most once a year, during business hours and at the Provider's expense.
+Preferred: No audit right.
+Acceptable: Usage audits on 30 days' notice, once a year, at the Provider's cost.
+Escalate: Audit rights on shorter notice or at our cost.
+Hard line: On-site or system audits at the Provider's discretion.

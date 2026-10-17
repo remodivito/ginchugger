@@ -1,0 +1,281 @@
+{
+ "id": "N192",
+ "revision": 1,
+ "title": "NDA%20Form%20WEB_WITH%20Instructions%20%28RECIPROCAL%29%20%28v%202016-03-18_EN%29.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 192,
+  "type": "search-pdf",
+  "url": "https://tbdo.crg.eu/sites/default/files/NDA%20Form%20WEB_WITH%20Instructions%20%28RECIPROCAL%29%20%28v%202016-03-18_EN%29.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "NON-DISCLOSURE AGREEMENT (RECIPROCAL)"
+  },
+  {
+   "id": "s1",
+   "text": "This Agreement is made effective as of the date of (the “Effective Date”) by and between:"
+  },
+  {
+   "id": "s2",
+   "text": "FUNDACIÓ CENTRE DE REGULACIÓ GENÒMICA (hereinafter “CRG”), a non-for-profit Spanish foundation with tax registration number G-62426937, based in Barcelona, Spain, calle Doctor Aiguader 88, represented by Dr Pablo Cironi that acts in his capacity of Head of the Technology and Business Development Office (TBDO),"
+  },
+  {
+   "id": "s3",
+   "text": "and,"
+  },
+  {
+   "id": "s4",
+   "text": "(hereinafter “ORGANIZATION”), a with tax registration number based in represented by that acts in his/her capacity as"
+  },
+  {
+   "id": "s5",
+   "text": "CRG and ORGANIZATION are collectively referred to as the “Parties” and individually as a “Party”."
+  },
+  {
+   "id": "s6",
+   "text": "RECITALS"
+  },
+  {
+   "id": "s7",
+   "text": "I. WHEREAS, each Party is the owner of certain technical and business data and information relative to"
+  },
+  {
+   "id": "s8",
+   "text": "(hereinafter the “Confidential Information”);"
+  },
+  {
+   "id": "s9",
+   "text": "II. WHEREAS, such Confidential Information is not public knowledge but it is proprietary and/or confidential and is being disclosed by each Party to the other Party only under the terms and conditions of this document (hereinafter, the “Agreement”);"
+  },
+  {
+   "id": "s10",
+   "text": "III. WHEREAS, both Parties to this Agreement consider the disclosure of the Confidential Information to the other to be necessary and desirable for the purpose of (hereinafter the “Purpose”); and"
+  },
+  {
+   "id": "s11",
+   "text": "IV. WHEREAS, this Agreement is being entered into by and between the Parties in order to protect the confidentiality and non-disclosure of their respective Confidential Information."
+  },
+  {
+   "id": "s12",
+   "text": "NOW, THEREFORE, in consideration of the mutual promises and covenants herein contained, and the mutual disclosure of confidential information, the Parties agree as follows:"
+  },
+  {
+   "id": "s13",
+   "text": "CLAUSES"
+  },
+  {
+   "id": "s14",
+   "text": "1. Definition of Confidential Information"
+  },
+  {
+   "id": "s15",
+   "text": "\"Confidential Information\" means non-public information which is disclosed orally, electronically, visually or in a document or other tangible form and which is by nature confidential or is identified confidential by a Party to this Agreement (hereinafter the “DISCLOSING PARTY”) or which, under the circumstances surrounding disclosure ought to be treated as confidential by the Party that receives such information (hereinafter “RECIPIENT”). "
+  },
+  {
+   "id": "s16",
+   "text": "Confidential Information includes, without limitation, information in tangible or intangible form relating to its installations, work and projects effectively carried out in such installations, accessible information by means of DISCLOSING PARTY's computer systems, including, without limitation, "
+  },
+  {
+   "id": "s17",
+   "text": "(i) scientific information, technical information, data, know-how, formulas, compositions, processes, documents, designs, sketches, photographs, plans, graphs, drawings or specifications, "
+  },
+  {
+   "id": "s18",
+   "text": "(ii) software, source or object codes, algorithms, or information about the methods, concepts and techniques on which software is based, "
+  },
+  {
+   "id": "s19",
+   "text": "(iii) amino/nucleic acid sequences, structural biology, or descriptions of any devices, cell lines or molecular models, "
+  },
+  {
+   "id": "s20",
+   "text": "(iv) clinical trial protocols, assays, services, studies, results, findings, inventions, ideas and other knowledge, or "
+  },
+  {
+   "id": "s21",
+   "text": "(v) finances, financial models, business plans and marketing plans, reports, clients, pricing information, suppliers, machinery, processes organization and current products or products in process, and information received from others that DISCLOSING PARTY is obligated to treat as confidential."
+  },
+  {
+   "id": "s22",
+   "text": "Confidential Information also includes the existence, terms and Purpose of this Agreement, the terms of any other agreements being discussed by the parties related to the Purpose, as well as the fact that any such discussions are taking place with respect thereto."
+  },
+  {
+   "id": "s23",
+   "text": "2. Use of the Confidential Information"
+  },
+  {
+   "id": "s24",
+   "text": "2.1. RECIPIENT shall use the Confidential Information only for the Purpose as set forth herein."
+  },
+  {
+   "id": "s25",
+   "text": "2.2. RECIPIENT agrees to hold in confidence any and all Confidential Information disclosed, and further agrees not to disclose Confidential Information to third parties without the prior written permission of DISCLOSING PARTY and restrict the use of Confidential Information to the Purpose (and not to use it for any other purpose)."
+  },
+  {
+   "id": "s26",
+   "text": "2.3. RECIPIENT undertakes to use its best efforts to limit access to the Confidential Information under its control solely to RECIPIENT's employees whose access to the Confidential Information is essential, provided that such employees have been specifically informed of the confidentiality of the Confidential Information and have agreed to be bound by the terms of this Agreement, or have entered into an agreement of similar scope and obligations with RECIPIENT to protect the proprietary/confidential information of RECIPIENT, or the proprietary/confidential information of third parties in the RECIPIENT’s possession. "
+  },
+  {
+   "id": "s27",
+   "text": "Notwithstanding the above, RECIPIENT shall remain liable for the compliance of the terms and conditions of this Agreement by its employees as if they were actions or omissions of the RECIPIENT."
+  },
+  {
+   "id": "s28",
+   "text": "2.4. RECIPIENT shall use at least the same degree of care with respect to Confidential Information that it uses to protect its own confidential information of a similar nature, but in no event less than a reasonable degree of care, to prevent the unauthorized use, disclosure or publication of the Confidential Information."
+  },
+  {
+   "id": "s29",
+   "text": "2.5. RECIPIENT shall not perform reverse engineering on any Confidential Information. "
+  },
+  {
+   "id": "s30",
+   "text": "In particular, in the event that DISCLOSING PARTY provides any computer software and/or hardware to RECIPIENT as Confidential Information, RECIPIENT may not directly or indirectly, disassemble, decrypt, electronically scan, decompile or derive source code from the Confidential Information, or otherwise reverse engineer or attempt to reverse engineer the design and function of the Confidential Information."
+  },
+  {
+   "id": "s31",
+   "text": "2.6. RECIPIENT shall notify DISCLOSING PARTY immediately upon discovery of any unauthorized use or disclosure of Confidential Information, or any other breach of this Agreement by RECIPIENT and its employees, and will cooperate with DISCLOSING PARTY in every reasonable way to help DISCLOSING PARTY regain possession of the Confidential Information, and to prevent its further unauthorized use or disclosure."
+  },
+  {
+   "id": "s32",
+   "text": "3. Ownership of the Confidential Information"
+  },
+  {
+   "id": "s33",
+   "text": "3.1. All Confidential Information is and shall remain the property of DISCLOSING PARTY, and DISCLOSING PARTY may use such Confidential Information for any purpose without obligation to RECIPIENT. "
+  },
+  {
+   "id": "s34",
+   "text": "Neither the execution of this Agreement nor the furnishing or disclosing of any Confidential Information hereunder shall be construed as an assignment or transfer, either expressly or by implication, estoppel or otherwise, or as granting any express or implied rights or license to the RECIPIENT to, or under any patents, patent applications, inventions, design rights, copyrights, trademarks, trade secret information, or other intellectual and/or industrial property right of any kind now or hereafter owned by or controlled or possessed by DISCLOSING PARTY."
+  },
+  {
+   "id": "s35",
+   "text": "3.2. RECIPIENT covenants and undertakes not to use under its name (or register), nor shall it collaborate with any third party for said purpose, all or part of patent applications, inventions, design rights, copyrights, trademarks, trade secret information, or other intellectual and/or industrial property rights of any kind owned by or controlled or possessed by the DISCLOSING PARTY."
+  },
+  {
+   "id": "s36",
+   "text": "4. Limitations on Confidentiality"
+  },
+  {
+   "id": "s37",
+   "text": "Nothing in this Agreement shall be interpreted as placing any obligation of confidentiality and non-use by RECIPIENT with respect to any information that:"
+  },
+  {
+   "id": "s38",
+   "text": "(a) can be demonstrated to have been in the public domain as of the Effective Date of this Agreement, or legitimately comes into the public domain through no fault of the RECIPIENT;"
+  },
+  {
+   "id": "s39",
+   "text": "(b) can be demonstrated to have been known to or have been in the possession of the RECIPIENT prior to disclosure hereunder and was not acquired, directly or indirectly, from DISCLOSING PARTY;"
+  },
+  {
+   "id": "s40",
+   "text": "(c) can be demonstrated to have been rightfully received by the RECIPIENT after disclosure under this Agreement from an independent third party on a non-confidential basis having the legal right to make such disclosure, and who did not acquire it, directly or indirectly, from DISCLOSING PARTY under a continuing obligation of confidentiality;"
+  },
+  {
+   "id": "s41",
+   "text": "(d) can be demonstrated to have been independently developed by or on behalf of the RECIPIENT without the aid, application or use of any information provided by DISCLOSING PARTY; or"
+  },
+  {
+   "id": "s42",
+   "text": "(e) is required to be disclosed pursuant to law or court order, court decision, or arbitration award, provided that RECIPIENT serves prior notice of such to DISCLOSING PARTY prior to disclosure and provides sufficient time to DISCLOSING PARTY to assert any exclusions or privileges that may be available by law or seek a protective order or other appropriate remedy to preserve the confidentiality of such information. "
+  },
+  {
+   "id": "s43",
+   "text": "In any event, RECIPIENT shall disclose only that portion of the information that is legally required to be disclosed and will exercise reasonable efforts to ensure that any information so disclosed will be accorded confidential treatment by the court or arbitrator through protective orders, filings under seal and other appropriate means."
+  },
+  {
+   "id": "s44",
+   "text": "5. Limited Warranty and Liability"
+  },
+  {
+   "id": "s45",
+   "text": "DISCLOSING PARTY warrants that it has the right to disclose the Confidential Information to RECIPIENT. "
+  },
+  {
+   "id": "s46",
+   "text": "DISCLOSING PARTY makes no other warranties in respect of the Confidential Information and provides all information “as is”, without any express or implied warranty of any kind, including any warranty as to merchantability, fitness for a particular purpose, accuracy, completeness or violation of third party industrial and/or intellectual property rights. "
+  },
+  {
+   "id": "s47",
+   "text": "In no event will DISCLOSING PARTY be liable for any special, incidental or consequential damages of any kind whatsoever resulting from the disclosure, use or receipt of the Confidential Information."
+  },
+  {
+   "id": "s48",
+   "text": "6. Remedies"
+  },
+  {
+   "id": "s49",
+   "text": "The Parties acknowledge that monetary damages may not be a sufficient remedy for unauthorized disclosure of Confidential Information and that DISCLOSING PARTY shall be entitled, without waiving any other rights or remedies, to such injunctive or equitable relief as may be deemed proper by a court of competent jurisdiction."
+  },
+  {
+   "id": "s50",
+   "text": "7. Term"
+  },
+  {
+   "id": "s51",
+   "text": "7.1. This Agreement shall remain in full force and effect for a term of from the Effective Date hereof, during which the exchanges of Confidential Information between the Parties pursuant to this Agreement shall take place, and for an additional term of five (5) years from the expiration or termination of this Agreement. "
+  },
+  {
+   "id": "s52",
+   "text": "This Agreement shall automatically terminate in case of failure to meet the Purpose."
+  },
+  {
+   "id": "s53",
+   "text": "7.2. Upon expiration or termination of this Agreement, whichever occurs first, RECIPIENT will immediately cease any and all disclosures or uses of Confidential Information and, upon request by DISCLOSING PARTY, all such information obtained from DISCLOSING PARTY, and all originals, copies, reproductions and summaries of the Confidential Information, and all other tangible materials and devices provided to RECIPIENT as Confidential Information will be delivered and returned to DISCLOSING PARTY or, at the DISCLOSING PARTY's option, destroyed and/or erased (where held electronically) within fifteen (15) days from the expiration or termination of this Agreement, provided however that RECIPIENT shall be entitled to retain one (1) copy of the Confidential Information solely for legal archiving purposes in a secure location ."
+  },
+  {
+   "id": "s54",
+   "text": "8. Notices"
+  },
+  {
+   "id": "s55",
+   "text": "All notices and other communications under this Agreement shall be deemed to have been duly given three (3) days after being sent by certified mail, postage prepaid, or one day after being sent by overnight courier, and addressed to the Parties as set forth above, or to such other address as a party designates by written notice to the other."
+  },
+  {
+   "id": "s56",
+   "text": "9. Miscellaneous"
+  },
+  {
+   "id": "s57",
+   "text": "9.1. The Agreement may not be changed or modified, in whole or in part, except by an agreement in writing signed by authorized representatives of DISCLOSING PARTY and RECIPIENT."
+  },
+  {
+   "id": "s58",
+   "text": "10. Governing Law and Jurisdiction."
+  },
+  {
+   "id": "s59",
+   "text": "10.1. This Agreement shall be construed according to the laws of Spain, except its provision on conflicts of law. "
+  },
+  {
+   "id": "s60",
+   "text": "Any dispute arising from the interpretation, performance, or execution of this Agreement, which cannot be settled amicably, shall be submitted exclusively to the competent courts of the city of Barcelona (Spain)."
+  },
+  {
+   "id": "s61",
+   "text": "IN WITNESS WHEREOF, the Parties have caused this Agreement in two (2) originals and one sole effect to be executed by their duly authorized representatives."
+  },
+  {
+   "id": "s62",
+   "text": "ON BEHALF OF ORGANIZATION: ON BEHALF OF CRG:"
+  },
+  {
+   "id": "s63",
+   "text": "Name: Name: Pablo Cironi"
+  },
+  {
+   "id": "s64",
+   "text": "Title: Title: Head Technology and Business"
+  },
+  {
+   "id": "s65",
+   "text": "Development Office"
+  },
+  {
+   "id": "s66",
+   "text": "Date: Date:"
+  }
+ ]
+}

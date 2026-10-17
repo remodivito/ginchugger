@@ -1,0 +1,185 @@
+{
+ "id": "N122",
+ "revision": 1,
+ "title": "example-NDA-one-way-short-form-2012-1.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 122,
+  "type": "search-pdf",
+  "url": "http://www.newleaflaw.co.uk/wp-content/uploads/2012/04/example-NDA-one-way-short-form-2012-1.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "Example one way non-disclosure agreement short form"
+  },
+  {
+   "id": "s1",
+   "text": "CONFIDENTIALITY AGREEMENT dated [ ] 201[ ]"
+  },
+  {
+   "id": "s2",
+   "text": "BETWEEN"
+  },
+  {
+   "id": "s3",
+   "text": "(1) [FULL COMPANY NAME] incorporated and registered in England and Wales with company number [NUMBER], whose registered office is at [REGISTERED OFFICE ADDRESS] (‘Discloser’)"
+  },
+  {
+   "id": "s4",
+   "text": "(2) [FULL COMPANY NAME] [incorporated and registered in England and Wales with company number] [NUMBER], whose registered office is at [REGISTERED OFFICE ADDRESS] "
+  },
+  {
+   "id": "s5",
+   "text": "(‘Recipient’)"
+  },
+  {
+   "id": "s6",
+   "text": "TERMS"
+  },
+  {
+   "id": "s7",
+   "text": "1. OBLIGATIONS OF CONFIDENTIALITY"
+  },
+  {
+   "id": "s8",
+   "text": "1.1 "
+  },
+  {
+   "id": "s9",
+   "text": "In this agreement, Confidential Information means confidential information disclosed by the Discloser to the Recipient, including information relating to its business, operations, products, customers or plans, but excluding any information that is or becomes generally available to the public, was already lawfully in the possession of the Recipient, or is developed by the Recipient independently of any disclosure by the Discloser."
+  },
+  {
+   "id": "s10",
+   "text": "1.2 "
+  },
+  {
+   "id": "s11",
+   "text": "The Recipient shall keep the Confidential Information confidential and shall not use or exploit the Confidential Information in any way except for the purpose of [STATE PURPOSE] (the “Purpose”) and shall not disclose the Confidential Information to any third party (except as expressly permitted by this agreement)."
+  },
+  {
+   "id": "s12",
+   "text": "1.3 "
+  },
+  {
+   "id": "s13",
+   "text": "The Recipient may disclose Confidential Information to the extent required by law or by a court or other authority of competent jurisdiction provided that, to the extent it is legally permitted to do so, it gives the Discloser as much notice of this disclosure as possible."
+  },
+  {
+   "id": "s14",
+   "text": "1.4 "
+  },
+  {
+   "id": "s15",
+   "text": "At the request of the Discloser, the Recipient shall destroy or return to the disclosing party all documents and materials containing Confidential Information."
+  },
+  {
+   "id": "s16",
+   "text": "1.5 All Confidential Information shall remain the property of the Discloser and no rights in the Confidential Information are granted to the Recipient other than those expressly stated in this agreement."
+  },
+  {
+   "id": "s17",
+   "text": "2. TERMINATION"
+  },
+  {
+   "id": "s18",
+   "text": "If either party decides not to become involved in the Purpose with the other party, it shall notify the other party in writing of its intention to terminate this agreement. "
+  },
+  {
+   "id": "s19",
+   "text": "The obligations of each party shall continue for a period of [STATE NUMBER OF YEARS] year(s) from the termination of this agreement."
+  },
+  {
+   "id": "s20",
+   "text": "Example one way non-disclosure agreement short form"
+  },
+  {
+   "id": "s21",
+   "text": "3. OTHER PROVISIONS"
+  },
+  {
+   "id": "s22",
+   "text": "3.1 "
+  },
+  {
+   "id": "s23",
+   "text": "This agreement constitutes the whole agreement between the parties and supersedes all previous agreements between the parties relating to the Purpose."
+  },
+  {
+   "id": "s24",
+   "text": "3.2 "
+  },
+  {
+   "id": "s25",
+   "text": "No variation of this agreement shall be effective unless it is in writing and signed by each of the parties."
+  },
+  {
+   "id": "s26",
+   "text": "3.3 "
+  },
+  {
+   "id": "s27",
+   "text": "No party may assign any of its rights or obligations under this agreement."
+  },
+  {
+   "id": "s28",
+   "text": "3.4 "
+  },
+  {
+   "id": "s29",
+   "text": "Nothing in this agreement shall be deemed to establish any partnership or joint venture between the parties."
+  },
+  {
+   "id": "s30",
+   "text": "3.5 "
+  },
+  {
+   "id": "s31",
+   "text": "A person who is not a party to this agreement shall not have any rights under it."
+  },
+  {
+   "id": "s32",
+   "text": "4. GOVERNING LAW AND JURISDICTION"
+  },
+  {
+   "id": "s33",
+   "text": "4.1 "
+  },
+  {
+   "id": "s34",
+   "text": "This agreement and any dispute or claim arising out of or in connection with it or its subject matter or formation shall be governed by and construed in accordance with English law."
+  },
+  {
+   "id": "s35",
+   "text": "4.2 "
+  },
+  {
+   "id": "s36",
+   "text": "The parties irrevocably agree that the courts of England and Wales shall have exclusive jurisdiction to settle any dispute or claim that arises out of or in connection with this agreement or its subject matter or formation."
+  },
+  {
+   "id": "s37",
+   "text": "This agreement has been entered into on the date stated at the beginning of it."
+  },
+  {
+   "id": "s38",
+   "text": "Signed by [NAME OF DIRECTOR] ......................................."
+  },
+  {
+   "id": "s39",
+   "text": "for and on behalf of Director"
+  },
+  {
+   "id": "s40",
+   "text": "[FULL COMPANY NAME]"
+  },
+  {
+   "id": "s41",
+   "text": "Signed by [NAME OF DIRECTOR] ......................................."
+  },
+  {
+   "id": "s42",
+   "text": "for and on behalf of Director"
+  }
+ ]
+}

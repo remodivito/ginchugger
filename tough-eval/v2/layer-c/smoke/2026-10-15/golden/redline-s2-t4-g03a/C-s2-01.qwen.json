@@ -1,0 +1,44 @@
+{
+ "canary": "2eb20c99-e785-485c-b97c-b5e8d177c40a",
+ "format": "layer-c-judgement/1",
+ "output": "smoke-golden",
+ "task": "redline-s2-t4-g03a",
+ "criterion": "C-s2-01",
+ "kind": "keep",
+ "judge": "qwen",
+ "family": "alibaba",
+ "executor": "openai",
+ "model": "qwen/qwen3.8-27b",
+ "servedModel": null,
+ "effort": "provider default",
+ "maxOutputTokens": 64000,
+ "promptFile": "tough-eval/v2/layer-c/prompts/judge-c.md",
+ "promptSha256": "26e25c058dbc97265fab8072a182c1adb1a9f5c9d8fa7e5a874123c674c0ad48",
+ "userSha256": "bc3f49cc117ad3c4e5c4b009bc68a3a61ce33e667906a2f15ae9fc23d3168afb",
+ "renderedSha256": "c650bb2935c1cc8894d097769028545ec317a75dc994a2465f7e9036a39ea065",
+ "at": "2026-10-15T22:27:58.061Z",
+ "seconds": 3.842,
+ "ok": true,
+ "pass": true,
+ "reason": "The output proposes no changes, so LargeCo's deletion of Section 4.3 (p-033) remains undisturbed and is not restored.",
+ "finishReason": "stop",
+ "usage": {
+  "prompt_tokens": 14236,
+  "total_tokens": 14496,
+  "completion_tokens": 260,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "created_cache_tokens": 11200
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 215
+  }
+ },
+ "costUsd": null,
+ "attempts": [
+  {
+   "ok": true
+  }
+ ],
+ "raw": "{\"pass\": true, \"reason\": \"The output proposes no changes, so LargeCo's deletion of Section 4.3 (p-033) remains undisturbed and is not restored.\"}"
+}

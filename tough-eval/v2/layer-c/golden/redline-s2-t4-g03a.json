@@ -1,0 +1,8 @@
+{
+ "canary": "2eb20c99-e785-485c-b97c-b5e8d177c40a",
+ "task": "redline-s2-t4-g03a",
+ "source": "none",
+ "note": "RedlineBench publishes no golden redline for redline-s2-t4-g03a at eee1b6790982ed1279e86bec7616b662a61993e6. Every transferable criterion of this task is a 'keep' criterion (the attorney accepts the counterparty's change), so the attorneys' position is the document left as it is: the golden is the empty output here, and the control expects it to pass every criterion.",
+ "changes": [],
+ "explanations": []
+}

@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>GinChugger — help</title>
+<style>body{font:17px/1.6 system-ui,sans-serif;color:#183e36;background:#f7f4eb;max-width:42rem;margin:3rem auto;padding:0 1.5rem}a{color:inherit}h1{font-size:2rem}li{margin:.7rem 0}</style></head>
+<body><main><h1>GinChugger</h1><p>An AI-assisted contract review tool for in-house legal teams.</p>
+<h2>Review an agreement</h2><ol><li>Open your agreement in Word and open the GinChugger task pane.</li><li>Press Review. The pane names the playbook it will use; change it if the document is a different kind of agreement.</li><li>Work through the points, worst first: Apply writes a tracked change under your name, Dismiss records why. Ask about the draft at the foot of the pane. You remain responsible for decisions and edits.</li></ol>
+<p>Reviews need a model route, chosen in Settings · Models on the local server: the Claude CLI signed in on this computer, an Anthropic API key, or an OpenAI-compatible endpoint. The example playbooks are provisional and do not represent any organisation's policy.</p>
+<h2>If something does not work</h2><p>Check that the local server is running and its HTTPS certificate is trusted. The Word integration requires WordApi 1.6. If the document has changed since the review, the pane says so; review again before applying a suggestion. Ambiguous locations and edits overlapping existing revisions require manual editing.</p>
+<p>The repository includes setup instructions in <strong>docs/SETUP.md</strong>, Word-specific instructions in <strong>docs/WORD.md</strong>, and the current verification limits in <strong>docs/VERIFICATION.md</strong>. This is a local prototype; no hosted support service is provided.</p>
+<p><a href="/?host=word">Return to the task pane</a></p></main></body></html>

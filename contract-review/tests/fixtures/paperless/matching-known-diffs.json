@@ -1,0 +1,10 @@
+{
+ "note": "Golden or held-out cases the port does not reproduce, with the reason; each is also in docs/ports/known-diffs.md.",
+ "diffs": [
+  {
+   "id": "0caee26099ab235d",
+   "set": "held-out",
+   "reason": "\\N{name} escapes are refused: JavaScript has no named-character escape and the port carries no Unicode name table."
+  }
+ ]
+}

@@ -1,0 +1,342 @@
+{
+ "format": "tough-eval-scenario/1",
+ "canary": "5f0c1e2a-9b7d-4c3e-8a61-0d2f4b6c8e10",
+ "id": "H-opus-01",
+ "author": "opus",
+ "kind": "relevant-precedent",
+ "current": {
+  "itemId": "A-opus-csa-customer-01",
+  "variantId": "A-opus-csa-customer-01",
+  "document": "csa",
+  "side": "customer",
+  "playbook": "v2/fixtures/synthetic/playbook-customer.json"
+ },
+ "matter": {
+  "id": "m-current",
+  "name": "Northgate cloud renewal 2026",
+  "counterparty": "cp-1",
+  "kind": "customer",
+  "round": 2
+ },
+ "seed": {
+  "format": "ginchugger-record-seed/1",
+  "counterparties": [
+   {
+    "id": "cp-1",
+    "name": "Northgate Systems Ltd",
+    "aliases": [
+     "Northgate"
+    ]
+   },
+   {
+    "id": "cp-2",
+    "name": "Larkspur Hosting Ltd",
+    "aliases": []
+   }
+  ],
+  "users": [
+   {
+    "id": "u-1",
+    "name": "Fixture Lawyer"
+   }
+  ],
+  "matters": [
+   {
+    "id": "m-1",
+    "name": "Northgate cloud 2025",
+    "counterparty": "cp-1",
+    "kind": "customer",
+    "status": "signed",
+    "signedRound": 3,
+    "rounds": [
+     {
+      "n": 1,
+      "side": "theirs",
+      "respondsTo": null,
+      "receivedAt": "2025-03-01T10:00:00Z",
+      "document": {
+       "id": "fixture-csa-round",
+       "revision": 1,
+       "title": "Cloud Service Agreement (synthetic fixture)",
+       "paragraphs": [
+        {
+         "id": "p1",
+         "text": "Cloud Service Agreement"
+        },
+        {
+         "id": "p2",
+         "text": "Key Terms between Northgate Systems Ltd (\"Provider\") and Fairhaven Retail Ltd (\"Customer\")."
+        },
+        {
+         "id": "p3",
+         "text": "General Cap Amount: 0.5x the Fees paid or payable by Customer in the 12 months before the claim."
+        },
+        {
+         "id": "p4",
+         "text": "Payment Period: 30 days from the invoice date."
+        },
+        {
+         "id": "p5",
+         "text": "Term: The Agreement starts on the Effective Date and continues for 12 months."
+        },
+        {
+         "id": "p6",
+         "text": "Security. Provider will maintain reasonable administrative, physical and technical safeguards to protect Customer Content."
+        },
+        {
+         "id": "p7",
+         "text": "Breach notice. Provider will notify Customer of any Security Breach without undue delay and in any event within 72 hours."
+        },
+        {
+         "id": "p8",
+         "text": "Definitions. \"Customer Content\" means all data submitted to the Cloud Service by or for Customer."
+        },
+        {
+         "id": "p9",
+         "text": "Governing Law: the laws of England and Wales."
+        },
+        {
+         "id": "p10",
+         "text": "Liability. Each party's total liability under this Agreement will not exceed the General Cap Amount."
+        }
+       ]
+      },
+      "events": [
+       {
+        "type": "finding_flagged",
+        "at": "2025-03-01T10:01:00Z",
+        "actor": "u-1",
+        "payload": {
+         "ruleId": "C-01",
+         "findingId": "f-1",
+         "paragraphId": "p3",
+         "quote": "0.5x the Fees",
+         "decision": "counter"
+        }
+       }
+      ]
+     },
+     {
+      "n": 2,
+      "side": "ours",
+      "respondsTo": 1,
+      "receivedAt": "2025-03-04T10:00:00Z",
+      "document": {
+       "id": "fixture-csa-round",
+       "revision": 1,
+       "title": "Cloud Service Agreement (synthetic fixture)",
+       "paragraphs": [
+        {
+         "id": "p1",
+         "text": "Cloud Service Agreement"
+        },
+        {
+         "id": "p2",
+         "text": "Key Terms between Northgate Systems Ltd (\"Provider\") and Fairhaven Retail Ltd (\"Customer\")."
+        },
+        {
+         "id": "p3",
+         "text": "General Cap Amount: 1x the Fees paid or payable by Customer in the 12 months before the claim."
+        },
+        {
+         "id": "p4",
+         "text": "Payment Period: 30 days from the invoice date."
+        },
+        {
+         "id": "p5",
+         "text": "Term: The Agreement starts on the Effective Date and continues for 12 months."
+        },
+        {
+         "id": "p6",
+         "text": "Security. Provider will maintain reasonable administrative, physical and technical safeguards to protect Customer Content."
+        },
+        {
+         "id": "p7",
+         "text": "Breach notice. Provider will notify Customer of any Security Breach without undue delay and in any event within 72 hours."
+        },
+        {
+         "id": "p8",
+         "text": "Definitions. \"Customer Content\" means all data submitted to the Cloud Service by or for Customer."
+        },
+        {
+         "id": "p9",
+         "text": "Governing Law: the laws of England and Wales."
+        },
+        {
+         "id": "p10",
+         "text": "Liability. Each party's total liability under this Agreement will not exceed the General Cap Amount."
+        }
+       ]
+      },
+      "events": [
+       {
+        "type": "finding_flagged",
+        "at": "2025-03-04T10:01:00Z",
+        "actor": "u-1",
+        "payload": {
+         "ruleId": "C-01",
+         "findingId": "f-1",
+         "paragraphId": "p3",
+         "quote": "1x the Fees",
+         "decision": "counter"
+        }
+       },
+       {
+        "type": "edit_applied",
+        "at": "2025-03-04T10:02:00Z",
+        "actor": "u-1",
+        "payload": {
+         "ruleId": "C-01",
+         "findingId": "f-1",
+         "paragraphId": "p3",
+         "before": "General Cap Amount: 0.5x the Fees paid or payable by Customer in the 12 months before the claim.",
+         "after": "General Cap Amount: 1x the Fees paid or payable by Customer in the 12 months before the claim."
+        }
+       }
+      ]
+     },
+     {
+      "n": 3,
+      "side": "theirs",
+      "respondsTo": 2,
+      "receivedAt": "2025-03-10T10:00:00Z",
+      "document": {
+       "id": "fixture-csa-round",
+       "revision": 1,
+       "title": "Cloud Service Agreement (synthetic fixture)",
+       "paragraphs": [
+        {
+         "id": "p1",
+         "text": "Cloud Service Agreement"
+        },
+        {
+         "id": "p2",
+         "text": "Key Terms between Northgate Systems Ltd (\"Provider\") and Fairhaven Retail Ltd (\"Customer\")."
+        },
+        {
+         "id": "p3",
+         "text": "General Cap Amount: 1x the Fees paid or payable by Customer in the 12 months before the claim."
+        },
+        {
+         "id": "p4",
+         "text": "Payment Period: 30 days from the invoice date."
+        },
+        {
+         "id": "p5",
+         "text": "Term: The Agreement starts on the Effective Date and continues for 12 months."
+        },
+        {
+         "id": "p6",
+         "text": "Security. Provider will maintain reasonable administrative, physical and technical safeguards to protect Customer Content."
+        },
+        {
+         "id": "p7",
+         "text": "Breach notice. Provider will notify Customer of any Security Breach without undue delay and in any event within 72 hours."
+        },
+        {
+         "id": "p8",
+         "text": "Definitions. \"Customer Content\" means all data submitted to the Cloud Service by or for Customer."
+        },
+        {
+         "id": "p9",
+         "text": "Governing Law: the laws of England and Wales, without regard to conflict rules."
+        },
+        {
+         "id": "p10",
+         "text": "Liability. Each party's total liability under this Agreement will not exceed the General Cap Amount."
+        }
+       ]
+      },
+      "events": []
+     }
+    ]
+   },
+   {
+    "id": "m-2",
+    "name": "Larkspur hosting 2025",
+    "counterparty": "cp-2",
+    "kind": "customer",
+    "status": "signed",
+    "signedRound": 1,
+    "rounds": [
+     {
+      "n": 1,
+      "side": "theirs",
+      "respondsTo": null,
+      "receivedAt": "2025-05-01T10:00:00Z",
+      "document": {
+       "id": "fixture-csa-round",
+       "revision": 1,
+       "title": "Cloud Service Agreement (synthetic fixture)",
+       "paragraphs": [
+        {
+         "id": "p1",
+         "text": "Cloud Service Agreement"
+        },
+        {
+         "id": "p2",
+         "text": "Key Terms between Larkspur Hosting Ltd (\"Provider\") and Fairhaven Retail Ltd (\"Customer\")."
+        },
+        {
+         "id": "p3",
+         "text": "General Cap Amount: 1x the Fees paid or payable by Customer in the 12 months before the claim."
+        },
+        {
+         "id": "p4",
+         "text": "Payment Period: 40 days from the invoice date."
+        },
+        {
+         "id": "p5",
+         "text": "Term: The Agreement starts on the Effective Date and continues for 12 months."
+        },
+        {
+         "id": "p6",
+         "text": "Security. Provider will maintain reasonable administrative, physical and technical safeguards to protect Customer Content."
+        },
+        {
+         "id": "p7",
+         "text": "Breach notice. Provider will notify Customer of any Security Breach without undue delay and in any event within 72 hours."
+        },
+        {
+         "id": "p8",
+         "text": "Definitions. \"Customer Content\" means all data submitted to the Cloud Service by or for Customer."
+        },
+        {
+         "id": "p9",
+         "text": "Governing Law: the laws of England and Wales."
+        },
+        {
+         "id": "p10",
+         "text": "Liability. Each party's total liability under this Agreement will not exceed the General Cap Amount."
+        }
+       ]
+      },
+      "events": []
+     }
+    ]
+   }
+  ]
+ },
+ "expect": {
+  "cite": {
+   "matterId": "m-1",
+   "wording": "General Cap Amount: 1x the Fees paid or payable by Customer in the 12 months before the claim."
+  },
+  "otherCounterpartyMatters": [
+   "m-2"
+  ]
+ },
+ "verification": [
+  {
+   "family": "glm",
+   "expectFollows": true,
+   "reasons": "synthetic"
+  },
+  {
+   "family": "deepseek",
+   "expectFollows": true,
+   "reasons": "synthetic"
+  }
+ ],
+ "status": "verified"
+}

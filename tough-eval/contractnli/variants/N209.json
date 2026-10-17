@@ -1,0 +1,333 @@
+{
+ "id": "N209",
+ "revision": 1,
+ "title": "NDA-STP-Performance-Coating-revC.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 209,
+  "type": "search-pdf",
+  "url": "https://www.performancecoating.com/wp-content/uploads/2016/12/NDA-STP-Performance-Coating-revC.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "This Agreement is effective __________(DATE), by and between STP Performance Coating, LLC, a Limited Liability Company, 1131W."
+  },
+  {
+   "id": "s2",
+   "text": "Watkins Street, Phoenix, AZ 85007 and "
+  },
+  {
+   "id": "s3",
+   "text": "_______________________________("
+  },
+  {
+   "id": "s4",
+   "text": "COMPANY) having a place of business at "
+  },
+  {
+   "id": "s5",
+   "text": "___________________________________(Address) (\"Company\")."
+  },
+  {
+   "id": "s6",
+   "text": "WHEREAS STP and Company (each a \"Disclosing Party\", and together the \"Parties\") contemplate that they may disclose Proprietary Information (as defined below) to the other party (the \"Receiving Party\") relating to the following activity: exchange of technical and business information related to Coatings for military and non military applications in support of quoting activities and potential procurement of painting and chemical conversion services (the \"Purpose\")."
+  },
+  {
+   "id": "s7",
+   "text": "NOW THEREFORE, in consideration of the mutual obligations and promises contained in this Agreement, the Parties agree as follows:"
+  },
+  {
+   "id": "s8",
+   "text": "1. \"Proprietary Information\" means any information, knowledge, or data that is received by the Receiving Party from the Disclosing Party in furtherance of or pursuant to the Purpose, and that is "
+  },
+  {
+   "id": "s9",
+   "text": "(a) in writing and clearly marked with a proprietary or confidential legend at the time of disclosure; "
+  },
+  {
+   "id": "s10",
+   "text": "(b) in a machine-readable form, with the information or the media in which it is provided being clearly marked with a proprietary or confidential legend at the time of disclosure, or if such marking is not practicable, such information or media being identified as proprietary or confidential by written communication of the Disclosing Party prior to or contemporaneously with its disclosure; "
+  },
+  {
+   "id": "s11",
+   "text": "(c) disclosed orally or visually, with the information being identified as proprietary or confidential at the time of disclosure, and reduced to writing and clearly marked with a proprietary or confidential legend within thirty (30) days of the initial disclosure; or "
+  },
+  {
+   "id": "s12",
+   "text": "(d) incorporated or embodied in a sample product or other equipment, material or item clearly marked with a proprietary or confidential legend at the time of disclosure."
+  },
+  {
+   "id": "s13",
+   "text": "2. The Receiving Party shall not disclose Proprietary Information to a third party without the Disclosing Party's express written consent"
+  },
+  {
+   "id": "s14",
+   "text": "3. The Receiving Party shall safeguard Proprietary Information using at least the same degree of care the Receiving Party uses to protect its own proprietary information, but with no less than reasonable care under the circumstances."
+  },
+  {
+   "id": "s15",
+   "text": "4. The Receiving Party shall not use Proprietary Information except in furtherance of the Purpose for the mutual benefit of the Parties. "
+  },
+  {
+   "id": "s16",
+   "text": "The Receiving Party shall not use Proprietary Information for any other purpose, without the Disclosing Party's express prior written consent. "
+  },
+  {
+   "id": "s17",
+   "text": "The Receiving Party shall not make or permit to be made any copies of Proprietary Information except as required for the Purpose."
+  },
+  {
+   "id": "s18",
+   "text": "5. The Receiving Party shall permit access to Proprietary Information only to "
+  },
+  {
+   "id": "s19",
+   "text": "(a) persons who have a need to know for the Purpose and are bona fide employees or contract labor personnel of the Receiving Party,"
+  },
+  {
+   "id": "s20",
+   "text": "(b) the Receiving Party's information technology system administrators and service providers in the ordinary course of business, and "
+  },
+  {
+   "id": "s21",
+   "text": "(c) the Receiving Party's accountants, attorneys and similar professional advisors: provided that each such recipient is obligated to protect Proprietary Information under terms and conditions at least as restrictive as the terms and conditions of this Agreement. "
+  },
+  {
+   "id": "s22",
+   "text": "Disclosure to any other persons, including consultants, contractors. "
+  },
+  {
+   "id": "s23",
+   "text": "subsidiaries and affiliates of Receiving Party, shall be treated as disclosure to a third party."
+  },
+  {
+   "id": "s24",
+   "text": "6. All Proprietary Information shall remain the property of the Disclosing Party. "
+  },
+  {
+   "id": "s25",
+   "text": "Upon expiration or termination of this Agreement, unless otherwise promptly requested by the Disclosing Party in advance of such expiration or termination, the Receiving Party shall return or destroy (and, in the case of destruction, promptly provide a certification of such destruction to the Disclosing Party) all Proprietary Information in its possession, including, without limitation, any copies, summaries, and/or compilations made of or from Proprietary Information, and shall make no further use of Proprietary Information. "
+  },
+  {
+   "id": "s26",
+   "text": "Notwithstanding the immediately preceding sentence, the Receiving Party is not obligated to return or destroy "
+  },
+  {
+   "id": "s27",
+   "text": "(a) any Proprietary Information stored on back-up media for purposes of disaster recovery in the ordinary course of business that may be subject to destruction in due course, provided that the Receiving Party is precluded from accessing such Proprietary Information after expiration or termination but prior to its destruction, and "
+  },
+  {
+   "id": "s28",
+   "text": "(b) residual or latent data such as resulting from deleted files, automatically created temporary files, printer spool files, and metadata that can only be retrieved by computer forensics experts and is generally considered inaccessible without the use of specialized tools and techniques."
+  },
+  {
+   "id": "s29",
+   "text": "7. The obligations under this Agreement as to any Proprietary Information shall continue for twenty (20) years from the date of expiration or termination of this Agreement."
+  },
+  {
+   "id": "s30",
+   "text": "8. Nothing in this Agreement shall restrict the right of the Receiving Party to use or disclose information that is:"
+  },
+  {
+   "id": "s31",
+   "text": "a. in the public domain at the time the Disclosing Party first disclosed it to the Receiving Party hereunder, or subsequently became publicly known through no wrongful act of the Receiving Party;"
+  },
+  {
+   "id": "s32",
+   "text": "b. known to the Receiving Party, other than through receipt under a separate non-disclosure agreement or similar agreement, prior to receipt under this agreement disclosed to the Receiving Party without restriction by a third party who had the lawful right to disclose such information;"
+  },
+  {
+   "id": "s33",
+   "text": "c. independently developed by the Receiving Party without the use of or reference to Proprietary Information; or"
+  },
+  {
+   "id": "s34",
+   "text": "d. required to be disclosed by judicial process, provided that the Receiving Party promptly provides notice of such process to the Disclosing Party and cooperates with any efforts of the Disclosing Party to contest disclosure, limits disclosure to the extent strictly required, and otherwise continues to protect such information as Proprietary Information until such time as one of the foregoing exceptions "
+  },
+  {
+   "id": "s35",
+   "text": "(a) through "
+  },
+  {
+   "id": "s36",
+   "text": "(d) are satisfied."
+  },
+  {
+   "id": "s37",
+   "text": "10. The Disclosing Party represents and warrants that it has the full right and authority to enter into this Agreement and to disclose the Proprietary Information to the Receiving Party pursuant to the terms hereof. "
+  },
+  {
+   "id": "s38",
+   "text": "The Disclosing Party makes no other representations or warranties concerning Proprietary Information, and hereby disclaims all other representations and warranties, whether express, implied, statutory or otherwise, including, without limitation, any warranties concerning the quality, accuracy or completeness of the Proprietary Information. "
+  },
+  {
+   "id": "s39",
+   "text": "In no event shall either Party be liable for indirect, incidental, special, consequential, punitive or"
+  },
+  {
+   "id": "s40",
+   "text": "11. Exemplary damages, including, without limitation, loss of income, revenue, profits or opportunities, arising out of or relating to this Agreement or Proprietary Information."
+  },
+  {
+   "id": "s41",
+   "text": "12. Except for the limited rights expressly granted to the Receiving Party in this Agreement. "
+  },
+  {
+   "id": "s42",
+   "text": "neither the execution of this Agreement, nor the furnishing of information hereunder, shall be construed as granting to the Receiving Party any right or license under any patent, copyright, trademark, trade secret or other intellectual or industrial property right."
+  },
+  {
+   "id": "s43",
+   "text": "13. This Agreement shall expire five (5) year(s) after its effective date, provided, however, that either Party may terminate the Agreement on an earlier date, without cause, by giving the other Party thirty (30) days written notice. "
+  },
+  {
+   "id": "s44",
+   "text": "The Receiving Party's obligations with respect to the protection of Proprietary Information shall survive any termination or expiration of this Agreement for the period of protection specified in paragraph 7 above."
+  },
+  {
+   "id": "s45",
+   "text": "12. Neither Party may assign or transfer its rights and obligations under the Agreement without the express prior written consent of the other Party (not to be unreasonably withheld), except that each Party, upon prior written notice to the other, may assign or transfer this Agreement "
+  },
+  {
+   "id": "s46",
+   "text": "(a) in connection with the sale of the business to which this Agreement relates or "
+  },
+  {
+   "id": "s47",
+   "text": "(b) to a subsidiary or affiliate of the Party."
+  },
+  {
+   "id": "s48",
+   "text": "13. The following individuals are designated as the persons to receive Proprietary Information from the Disclosing Party:"
+  },
+  {
+   "id": "s49",
+   "text": "For STP Performance Coating, LLC"
+  },
+  {
+   "id": "s50",
+   "text": "Steve Grass, President; steve@performancecoating.com"
+  },
+  {
+   "id": "s51",
+   "text": "Todd Didlo, "
+  },
+  {
+   "id": "s52",
+   "text": "Vice President; todd@performancecoating.com"
+  },
+  {
+   "id": "s53",
+   "text": "Pete Mathews, "
+  },
+  {
+   "id": "s54",
+   "text": "Vice President; pete@ performancecoating.com"
+  },
+  {
+   "id": "s55",
+   "text": "For Company:"
+  },
+  {
+   "id": "s56",
+   "text": "Each Party may change its designated recipient by written notice to the other. "
+  },
+  {
+   "id": "s57",
+   "text": "Receipt of Proprietary Information by an individual other than the designated recipient shall not affect the obligations of the Receiving Party."
+  },
+  {
+   "id": "s58",
+   "text": "14. Nothing in this Agreement requires either Party to disclose any information."
+  },
+  {
+   "id": "s59",
+   "text": "15. Without regard to the duration of its other obligations hereunder, the Receiving Party shall control access to, and use of, Proprietary Information and the direct product thereof in accordance with all applicable foreign and U.S. export laws and regulations, including, without limitation, the Arms Export Control Act and the International Traffic in Arms Regulations (ITAR), 22 C.F.R. parts "
+  },
+  {
+   "id": "s60",
+   "text": "120 - 130 and the Export Administration Act and the Export Administration Regulations (EAR), 15 C.F.R. parts 730 - 774 (uExport Laws and Regulations\"). "
+  },
+  {
+   "id": "s61",
+   "text": "In connection with and without limiting the general applicability of the foregoing, the Disclosing Party shall, in addition to the marking requirements of paragraph 1, conspicuously mark any Proprietary Information controlled under the Export Laws and Regulations (detailing the nature of control) and the Receiving Party shall not make or permit disclosure of such Proprietary Information or the direct product thereof to any other company, entity, person, or destination unless "
+  },
+  {
+   "id": "s62",
+   "text": "(a) the Receiving Party has received the Disclosing Party's express written consent to do so and "
+  },
+  {
+   "id": "s63",
+   "text": "(b) authorization under applicable Export Laws and Regulations have been obtained."
+  },
+  {
+   "id": "s64",
+   "text": "16. To the extent that any provision of this Agreement is invalid under any applicable statute or rule of law, such provision or portion thereof shall be deemed to be omitted without affecting the continued validity of the remaining provisions."
+  },
+  {
+   "id": "s65",
+   "text": "17. This Agreement shall be governed by and interpreted under the internal laws of the state of Arizona. "
+  },
+  {
+   "id": "s66",
+   "text": "U.S.A."
+  },
+  {
+   "id": "s67",
+   "text": "18. This Agreement constitutes the entire understanding between the Parties and supersedes all previous understandings, agreements, communications, and representations, whether written or oral, concerning the treatment of Proprietary Information. "
+  },
+  {
+   "id": "s68",
+   "text": "This Agreement may not be superseded, amended, or modified except by a written agreement between the Parties, signed by a duly authorized official of each of the Parties."
+  },
+  {
+   "id": "s69",
+   "text": "IN WITNESS WHEREOF, the Parties have executed this agreement through their duly authorized representatives."
+  },
+  {
+   "id": "s70",
+   "text": "STP PERFORMANCE COATING,LLC"
+  },
+  {
+   "id": "s71",
+   "text": "1131 WEST WATKINS STREET"
+  },
+  {
+   "id": "s72",
+   "text": "PHOENIX, ARIZONA 85007"
+  },
+  {
+   "id": "s73",
+   "text": "By:"
+  },
+  {
+   "id": "s74",
+   "text": "Sign"
+  },
+  {
+   "id": "s75",
+   "text": "Title"
+  },
+  {
+   "id": "s76",
+   "text": "Company"
+  },
+  {
+   "id": "s77",
+   "text": "By:"
+  },
+  {
+   "id": "s78",
+   "text": "Sign"
+  },
+  {
+   "id": "s79",
+   "text": "Title"
+  }
+ ]
+}

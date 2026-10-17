@@ -1,0 +1,40 @@
+{
+  "format": "ginchugger-benchmark-profiles/1",
+  "note": "Error profiles of the setups benchmarked so far (product v2 spec PR-MODEL-04; tough-eval/BENCHMARK-V2.md section 16: misses, invented quotes, false alarms, no verdict). Every figure is copied from results-ledger.md at the entry named, development splits only; the v2 test-set results (tough-eval/results/v2/) are not published yet. Caught is the share of planted deviations or labelled NDA departures found; the rest are misses. A blank figure was not reported in the ledger.",
+  "ledger": "results-ledger.md",
+  "profiles": [
+    { "model": "claude-opus-5-5", "name": "Opus 5.5", "effort": "medium", "executors": ["claude", "anthropic"],
+      "layers": [
+        { "name": "Planted deviations", "scope": "53 development cases, 3 runs", "caught": "0.995 ±0.009", "inventedQuotes": "0", "falseAlarms": "0.044 ±0.029 per agreement", "ledger": ["R20", "R22"], "runs": ["2026-10-10T09-26-39Z-opus55-medium-r1", "2026-10-10T09-47-20Z-opus55-medium-r2", "2026-10-10T09-56-20Z-opus55-medium-r3"] },
+        { "name": "Real NDAs (ContractNLI)", "scope": "61 development NDAs, 2 runs, playbook v2", "caught": "0.812", "inventedQuotes": "0 of 122 reviews", "falseAlarms": "0.46 per NDA", "ledger": ["R23"], "runs": ["2026-10-14T16-50-19Z-cnli-dev-opus55-r2", "2026-10-14T17-43-49Z-cnli-dev-opus55-r3"] }
+      ] },
+    { "model": "claude-sonnet-5-5", "name": "Sonnet 5.5", "effort": "medium", "executors": ["claude", "anthropic"],
+      "layers": [
+        { "name": "Planted deviations", "scope": "53 development cases, 3 runs", "caught": "0.995 ±0.005", "inventedQuotes": null, "falseAlarms": "0.182 ±0.111 per agreement", "ledger": ["R20"], "runs": ["2026-10-10T09-26-37Z-sonnet55-medium-r1", "2026-10-10T09-44-59Z-sonnet55-medium-r2", "2026-10-10T09-56-36Z-sonnet55-medium-r3"] }
+      ] },
+    { "model": "claude-opus-5", "name": "Opus 5", "effort": "medium", "executors": ["claude", "anthropic"],
+      "layers": [
+        { "name": "Planted deviations", "scope": "53 development cases, 3 runs", "caught": "0.984 ±0.008", "inventedQuotes": null, "falseAlarms": "0.170 ±0.038 per agreement", "ledger": ["R20"], "runs": ["2026-10-10T09-12-15Z-opus5-medium", "2026-10-11T01-10-31Z-opus5-dev-r2", "2026-10-11T04-30-29Z-opus5-dev-r3"] }
+      ] },
+    { "model": "zai-org/glm-5.3-flash", "name": "GLM-5.3 Flash", "effort": null, "executors": ["openai"],
+      "layers": [
+        { "name": "Planted deviations", "scope": "53 development cases, 1 run, 48 usable", "caught": "0.694", "inventedQuotes": "0.125 of agreements", "falseAlarms": "0.35 per agreement", "ledger": ["R22"], "runs": ["2026-10-13T16-14-00Z-munito-glm-5.3-flash"] },
+        { "name": "Real NDAs (ContractNLI)", "scope": "61 development NDAs, 1 run", "caught": "0.818", "inventedQuotes": "0.098 of NDAs", "falseAlarms": "0.46 per NDA", "ledger": ["R25"], "runs": ["2026-10-15T01-43-52Z-cnli-munito-glm-5.3-flash"] }
+      ] },
+    { "model": "deepseek-ai/deepseek-v4-flash", "name": "DeepSeek V4 Flash", "effort": null, "executors": ["openai"],
+      "layers": [
+        { "name": "Planted deviations", "scope": "53 development cases, 1 run", "caught": "0.927", "inventedQuotes": "0.038 of agreements", "falseAlarms": "0.62 per agreement", "ledger": ["R22"], "runs": ["2026-10-13T16-33-15Z-munito-deepseek-v4-flash"] },
+        { "name": "Real NDAs (ContractNLI)", "scope": "61 development NDAs, 1 run", "caught": "0.662", "inventedQuotes": "0.049 of NDAs", "falseAlarms": "0.51 per NDA", "ledger": ["R25"], "runs": ["2026-10-14T21-44-12Z-cnli-munito-deepseek-v4-flash"] }
+      ] },
+    { "model": "qwen/qwen3.8-27b", "name": "Qwen 3.8 27B", "effort": null, "executors": ["openai"],
+      "layers": [
+        { "name": "Planted deviations", "scope": "53 development cases, 1 run, 42 usable", "caught": "0.669", "inventedQuotes": "0.143 of agreements", "falseAlarms": "0.45 per agreement", "ledger": ["R22"], "runs": ["2026-10-13T16-42-42Z-munito-qwen3.8-27b"] },
+        { "name": "Real NDAs (ContractNLI)", "scope": "61 development NDAs, 1 run", "caught": "0.753", "inventedQuotes": "0.180 of NDAs", "falseAlarms": "0.59 per NDA", "ledger": ["R25"], "runs": ["2026-10-14T14-40-58Z-cnli-munito-qwen3.8-27b"] }
+      ] },
+    { "model": "mistralai/mistral-small-4-119b-2603", "name": "Mistral Small 4", "effort": null, "executors": ["openai"],
+      "layers": [
+        { "name": "Planted deviations", "scope": "53 development cases, 1 run", "caught": "0.097", "inventedQuotes": "0.283 of agreements", "falseAlarms": "3.30 per agreement", "ledger": ["R22"], "runs": ["2026-10-13T16-25-53Z-munito-mistral-small-4-119b-2603"] },
+        { "name": "Real NDAs (ContractNLI)", "scope": "61 development NDAs, 1 run", "caught": "0.338", "inventedQuotes": "0.410 of NDAs", "falseAlarms": "0.25 per NDA", "ledger": ["R25"], "runs": ["2026-10-15T11-59-19Z-cnli-munito-mistral-small-4-119b-2603"] }
+      ] }
+  ]
+}

@@ -1,0 +1,26 @@
+Paperless-ngx source files, copied unchanged for provenance of the JavaScript port in ../matching.js.
+
+Project:  Paperless-ngx, https://github.com/paperless-ngx/paperless-ngx
+Licence:  GNU General Public License v3.0 (GPL-3.0); this repository is GPL-3.0-or-later (see LICENSE at the root).
+Commit:   c50c6f5517e3fd8f97fa546ede69a52b622e2b20 (branch dev, fetched 15 October 2026)
+
+Files (path in Paperless-ngx -> file here):
+  src/documents/matching.py               -> matching.py        (matches, _split_match: ported)
+  src/documents/regex.py                  -> regex.py           (safe_regex_search: its time guard is ported)
+  src/documents/tests/test_matchables.py  -> test_matchables.py (its cases are in the oracle corpus)
+
+Mail consumer (slice S8, fetched 15 October 2026 at the same commit), ported to ../mail.js and ../network.js:
+  src/paperless_mail/mail.py              -> mail.py            (rule criteria, actions, attachment selection,
+                                                                   processed-mail tracking, host pinning: ported)
+  src/paperless_mail/models.py            -> mail_models.py     (the rule model's choices, kept as plain data)
+  src/paperless/network.py                -> network.py         (is_public_ip, resolve_hostname_ips: ported)
+  src/paperless_mail/tests/test_mail.py   -> test_mail.py       (ported to tests/paperless-mail.test.js)
+  src/paperless_mail/tests/test_mail_nfc.py -> test_mail_nfc.py (ported to tests/paperless-mail.test.js)
+  src/paperless_mail/tests/helpers.py     -> mail_test_helpers.py (BogusMailBox, MessageBuilder: ported to
+                                                                   tests/fixtures/paperless/bogus-mailbox.js)
+  src/paperless/tests/test_network.py     -> test_network.py    (is_public_ip cases: ported)
+The JavaScript port leaves out the Django models, Celery chords, GPG decryption preprocessor, OAuth refresh-token
+manager and HTML-to-PDF rendering; IMAP and MIME are imapflow and mailparser (MIT), not imap_tools.
+
+Dependencies the oracle ran with (Paperless's uv.lock at that commit): rapidfuzz 3.14.6, regex 2026.9.10, CPython 3.12.
+The oracle harness is scripts/paperless-matching-oracle.py; its outputs are tests/fixtures/paperless/matching-*.json.

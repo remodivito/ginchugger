@@ -1,0 +1,429 @@
+{
+ "id": "N170",
+ "revision": 1,
+ "title": "NCDG_Non-disclosure-agreement.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 170,
+  "type": "search-pdf",
+  "url": "http://cdg.nic.in/img/NCDG_Non-disclosure-agreement.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "NON - DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "This Agreement made on this _____ day of __________, ______ (the ‘Effective Date’)"
+  },
+  {
+   "id": "s2",
+   "text": "BETWEEN:"
+  },
+  {
+   "id": "s3",
+   "text": "The HoG, Centre for Data Governance, NIC, here in after referred to as NCDG, (which shall unless exclude by or repugnant to the context be deemed to include his/her successor in office or assigned) of the FIRST PART."
+  },
+  {
+   "id": "s4",
+   "text": "And"
+  },
+  {
+   "id": "s5",
+   "text": "Between The HEAD OF USER DEPARTMENT, here in after referred to as USER DEPARTMNET (which expression shall unless exclude by or repugnant to the context be deemed to include his/her successor in office or assigned) of the SECOND PART."
+  },
+  {
+   "id": "s6",
+   "text": "USER DEPARTMENT and NCDG hereinafter collectively referred to as the “Parties” and individually referred to as the “Party” as per the context."
+  },
+  {
+   "id": "s7",
+   "text": "I. Background:"
+  },
+  {
+   "id": "s8",
+   "text": "1. The Parties are, or will be, evaluating, discussing and negotiating a potential contractual relationship concerning the ___________________________________________ "
+  },
+  {
+   "id": "s9",
+   "text": "________________ "
+  },
+  {
+   "id": "s10",
+   "text": "________________ "
+  },
+  {
+   "id": "s11",
+   "text": "___________ (the ‘Project’)."
+  },
+  {
+   "id": "s12",
+   "text": "2. The Parties may, in these evaluations, discussions and negotiations, disclose to each other information that is technically and /or commercially confidential."
+  },
+  {
+   "id": "s13",
+   "text": "3. The Parties have agreed that disclosure and use of such technical and/or commercial confidential information shall be made and on the terms and conditions of this Agreement."
+  },
+  {
+   "id": "s14",
+   "text": "Now it is agreed as follows:"
+  },
+  {
+   "id": "s15",
+   "text": "II. Definitions:"
+  },
+  {
+   "id": "s16",
+   "text": "In this Agreement the following terms shall, unless the context otherwise requires, have the following meanings:"
+  },
+  {
+   "id": "s17",
+   "text": "1. ‘Disclosing Party’ means the Party disclosing Confidential Information to the other Party under this Agreement."
+  },
+  {
+   "id": "s18",
+   "text": "2. ‘Receiving Party’ means the Party receiving Confidential Information from the other Party under this Agreement."
+  },
+  {
+   "id": "s19",
+   "text": "3. ‘Confidential Information’ means any information or sensitive data , which shall include but is not limited to, design, fabrication & assembly drawings, know-how, processes, product specifications, raw materials, trade secrets, market opportunities, or business or financial affairs of the Parties or their customers, product samples, inventions, concepts and any other technical and/or commercial information, disclosed directly or indirectly and in any form"
+  },
+  {
+   "id": "s20",
+   "text": "whatsoever (including, but not limited to, disclosure made in writing, oral or in the form of samples, models, computer programs, drawings or other instruments) furnished by the Disclosing Party to the Receiving Party under this Agreement."
+  },
+  {
+   "id": "s21",
+   "text": "4. Such Confidential "
+  },
+  {
+   "id": "s22",
+   "text": "Information shall also include but shall not be limited to:"
+  },
+  {
+   "id": "s23",
+   "text": "a) information disclosed by the Disclosing Party in writing marked as confidential at the time of disclosure;"
+  },
+  {
+   "id": "s24",
+   "text": "b) information disclosed by the Disclosing Party orally which is slated to be confidential at the time of disclosure;"
+  },
+  {
+   "id": "s25",
+   "text": "c) information disclosed in any other manner is designated in writing as Confidential Information at the time of disclosure; or"
+  },
+  {
+   "id": "s26",
+   "text": "d) notwithstanding sub-clauses a,b & c of this definition, any information whose nature makes it obvious that it is confidential."
+  },
+  {
+   "id": "s27",
+   "text": "e) Such Confidential "
+  },
+  {
+   "id": "s28",
+   "text": "Information shall not include any information which:is, at the time of disclosure, publicly known; or"
+  },
+  {
+   "id": "s29",
+   "text": "f) becomes at a later date, publicly available otherwise than a wrongful act or negligence or breach of this Agreement of or by the Receiving Party; or"
+  },
+  {
+   "id": "s30",
+   "text": "g) the Receiving Party can demonstrate by its written records was in its possession, or known to the Receiving Party, before receipt under this Agreement, and which was not previously acquired under an obligation of confidentiality; or"
+  },
+  {
+   "id": "s31",
+   "text": "h) is legitimately obtained at any time by the Receiving Party from a third party without restrictions in respect of disclosure or use; or"
+  },
+  {
+   "id": "s32",
+   "text": "i) the Receiving Party can demonstrate to the satisfaction of the Disclosing Party, has been developed independently of its obligations under this Agreement and without access to the Confidential Information."
+  },
+  {
+   "id": "s33",
+   "text": "j) ‘Purpose’ means the evaluations, discussions, negotiations and execution regarding a contractual relationship between the Parties in respect of the Project defined in paragraph "
+  },
+  {
+   "id": "s34",
+   "text": "(i) of the Background section."
+  },
+  {
+   "id": "s35",
+   "text": "k) ‘Affiliate’ means any legal entity which, at the time of disclosure to it on any `Confidential Information, is directly or indirectly controlling, controlled by or under common control with any of the Parties."
+  },
+  {
+   "id": "s36",
+   "text": "l) ‘Contemplated Agreement’ means any future legally binding Agreement between the Parties in respect of the Project envisaged under this Agreement."
+  },
+  {
+   "id": "s37",
+   "text": "III. Non-Disclosure of Confidential Information:"
+  },
+  {
+   "id": "s38",
+   "text": "1. In consideration of the disclosure of Confidential Information by the Disclosing Party to the Receiving Party solely for the Purpose, the Receiving Party undertakes whether by itself, its successors and heirs, not to disclose Confidential Information to any third party, unless in accordance with Clause 4."
+  },
+  {
+   "id": "s39",
+   "text": "2. In addition to the undertaking in Clause 2.1, the Receiving Party shall be liable for:"
+  },
+  {
+   "id": "s40",
+   "text": "3. any loss, theft or other inadvertent disclosure of Confidential Information, and"
+  },
+  {
+   "id": "s41",
+   "text": "4. any unauthorized disclosure of Confidential Information by persons (including, but not limited to, present and former employees) or entities to whom the Receiving Party under this Agreement has the right to disclose Confidential Information, except where, the Receiving Party has used the same degree of care in safeguarding such Confidential Information as it uses for its own Confidential Information of like importance and in no event less than a reasonable degree of care; and upon becoming aware of such inadvertent or unauthorized disclosure the Receiving Party has promptly notified the Disclosing Party thereof and taken all reasonable measures to mitigate the effects of such disclosure and to prevent further disclosure."
+  },
+  {
+   "id": "s42",
+   "text": "5. The Receiving Party understands and agrees that:"
+  },
+  {
+   "id": "s43",
+   "text": "6. any information known only to a few people to whom it might be of commercial interest and not generally known to the public is not public knowledge;"
+  },
+  {
+   "id": "s44",
+   "text": "7. a combination of two or more parts of the Confidential Information is not public knowledge merely because each part is separately available to the public."
+  },
+  {
+   "id": "s45",
+   "text": "8. The Receiving Party acknowledges the technical, commercial and strategic value of the Confidential Information to the Disclosing Party and understands that unauthorized disclosure of such Confidential Information will be injurious to the Disclosing Party."
+  },
+  {
+   "id": "s46",
+   "text": "9."
+  },
+  {
+   "id": "s47",
+   "text": "Use of Confidential Information:"
+  },
+  {
+   "id": "s48",
+   "text": "The Receiving Party is entitled to use the Confidential Information but only for the Purpose."
+  },
+  {
+   "id": "s49",
+   "text": "IV. Permitted Disclosure of Confidential Information:"
+  },
+  {
+   "id": "s50",
+   "text": "1."
+  },
+  {
+   "id": "s51",
+   "text": "The Receiving Party may disclose in confidence Confidential Information to any of its Affiliates and employees, in which event the Affiliate and employee shall be entitled to use the Confidential Information but only to the same extent the Receiving Party is permitted to do so under this Agreement. "
+  },
+  {
+   "id": "s52",
+   "text": "The Receiving Party agrees that such Affiliates or employees are subject to confidentiality obligations no less restrictive than those of this Agreement."
+  },
+  {
+   "id": "s53",
+   "text": "2.The Receiving Party shall limit the dissemination of Confidential Information of its Affiliates and employees having a need to receive such information to carry out the Purpose."
+  },
+  {
+   "id": "s54",
+   "text": "3."
+  },
+  {
+   "id": "s55",
+   "text": "The Receiving Party may disclose Confidential Information to its consultants, contractors, sub-contractors, agents or similar persons and entities having a need to receive such information to carry out the Purpose on the prior written consent of the Disclosing Party. "
+  },
+  {
+   "id": "s56",
+   "text": "In the event that the Disclosing Party gives such consents, the Receiving Party agrees that such individuals are subject to confidentiality obligations no less restrictive than those of this Agreement."
+  },
+  {
+   "id": "s57",
+   "text": "4.Notwithstanding "
+  },
+  {
+   "id": "s58",
+   "text": "Clause 2.1, the Receiving Party shall not be prevented from disclosing Confidential Information, where "
+  },
+  {
+   "id": "s59",
+   "text": "(i) such disclosure is in response to a valid order of a court or any other governmental body having jurisdiction over this Agreement or "
+  },
+  {
+   "id": "s60",
+   "text": "(ii) such disclosure is otherwise required by law, provided that the Receiving Party, to the extent possible, has first given prior written notice to the Disclosing Party and made reasonable efforts to protect the Confidential Information in connection with such disclosure."
+  },
+  {
+   "id": "s61",
+   "text": "V. Copying and Return of Furnished Instruments:"
+  },
+  {
+   "id": "s62",
+   "text": "1."
+  },
+  {
+   "id": "s63",
+   "text": "The Receiving Party shall not be entitled to copy samples, models, computer programs, drawings, documents or other instruments furnished by the Disclosing Party hereunder and containing Confidential Information, unless and to the extent it is necessary for the Purpose."
+  },
+  {
+   "id": "s64",
+   "text": "2.All samples, models, computer programs, drawings, documents and other instruments furnished hereunder and containing Confidential Information shall remain the Disclosing Party’s property."
+  },
+  {
+   "id": "s65",
+   "text": "3. At any time upon request from the Disclosing Party or upon the conclusion of the Purpose or expiry of this Agreement, the Receiving Party, at its own cost, will return or procure the return, promptly and in any event within 14 days of receipt of such request, of each and every copy of Confidential Information given by the Disclosing Party, and satisfy the Disclosing Party that it no longer holds any further Confidential Information."
+  },
+  {
+   "id": "s66",
+   "text": "VI. Non-Disclosure of Negotiations:"
+  },
+  {
+   "id": "s67",
+   "text": "Except as provided in Clause 4, each Party agrees that it will not, without the other Party’s prior written approval, disclose to any third party the fact that the Parties are discussing the Project. "
+  },
+  {
+   "id": "s68",
+   "text": "The Parties acknowledge that the provisions of this Agreement shall apply in respect of the content of any such discussions. "
+  },
+  {
+   "id": "s69",
+   "text": "The undertaking set forth in this Clause 7 shall survive the termination of this Agreement."
+  },
+  {
+   "id": "s70",
+   "text": "VII. Term and Termination:"
+  },
+  {
+   "id": "s71",
+   "text": "1. This Agreement shall become effective on the Effective Date. "
+  },
+  {
+   "id": "s72",
+   "text": "The provisions of this Agreement shall however apply retroactively to any Confidential Information, which may have been disclosed in connection with discussions and negotiations regarding the Project prior to the Effective Date."
+  },
+  {
+   "id": "s73",
+   "text": "2. This Agreement shall remain in force for five (5) years from the Effective Date, except to the extent this Agreement is superseded by stipulations of the Contemplated Agreement."
+  },
+  {
+   "id": "s74",
+   "text": "3. The rights and obligations of each Party with respect to all Confidential Information of the other Party that is received under this Agreement shall remain in effect for a period of five (5) years from the date of disclosure of Confidential Information."
+  },
+  {
+   "id": "s75",
+   "text": "VIII. Intellectual Property Rights:"
+  },
+  {
+   "id": "s76",
+   "text": "All Confidential Information disclosed herein shall remain the sole property of the Disclosing Party and the Receiving Party shall obtain no right thereto of any kind by reason of this Agreement."
+  },
+  {
+   "id": "s77",
+   "text": "IX. Future Agreements:"
+  },
+  {
+   "id": "s78",
+   "text": "Nothing in this Agreement shall obligate either Party to enter into any further Agreements."
+  },
+  {
+   "id": "s79",
+   "text": "X. Amendments:"
+  },
+  {
+   "id": "s80",
+   "text": "Any amendment to this Agreement shall be agreed in writing by both Parties and shall refer to this Agreement."
+  },
+  {
+   "id": "s81",
+   "text": "XI. "
+  },
+  {
+   "id": "s82",
+   "text": "Severance:"
+  },
+  {
+   "id": "s83",
+   "text": "If any term or provision in this Agreement is held to be either illegal or unenforceable, in whole or in part, under any enactment or rule of law, such term or provision or part shall to that extent be deemed not to form part of this Agreement, but the validity and enforceability of the remainder of this Agreement shall not be affected."
+  },
+  {
+   "id": "s84",
+   "text": "XII. "
+  },
+  {
+   "id": "s85",
+   "text": "Governing Law:"
+  },
+  {
+   "id": "s86",
+   "text": "This Agreement shall be governed by and construed in accordance with the laws of India and in any dispute arising out of or relating to this agreement, the Parties submit to the exclusive jurisdiction of the Courts situated at Delhi, India."
+  },
+  {
+   "id": "s87",
+   "text": "XIII. "
+  },
+  {
+   "id": "s88",
+   "text": "General:"
+  },
+  {
+   "id": "s89",
+   "text": "1. Upon 45 days written notice, the Disclosing Party may audit the use of the programs, materials, marketing materials, services, and such additional disclosed resources. "
+  },
+  {
+   "id": "s90",
+   "text": "The Receiving Party agrees to co-operate with the Disclosing Party’s audit and to provide reasonable assistance and access to information."
+  },
+  {
+   "id": "s91",
+   "text": "2. The Disclosing Party shall not have any liability to the Receiving Party for any claims made by third parties arising out of their use of the Disclosing Party’s trademarks (including “Logo”) or marketing materials. "
+  },
+  {
+   "id": "s92",
+   "text": "The Receiving Party agrees to indemnify the Disclosing Party for any loss, liability, damages, cost or expense (including attorney’s fees) arising out of any claims, which may be made against the Disclosing Party arising out of their use of the Logo or marketing materials where such claim relates to their activities, products or services. "
+  },
+  {
+   "id": "s93",
+   "text": "Notwithstanding above, the Receiving Party shall have no obligation to indemnify the Disclosing Party with respect to a claim of trademark or copyright infringement based upon their use of the Logo or marketing materials, as expressly permitted under this Agreement."
+  },
+  {
+   "id": "s94",
+   "text": "3. The Receiving Party shall disclose of any similar agreements explicit or otherwise, for similar purpose/application with in its own organization, or any other third party."
+  },
+  {
+   "id": "s95",
+   "text": "4. In the event of a breach or threatened breach by the Receiving Party of any provisions of this Agreement, the Disclosing Party, in addition to and not in limitation of any other rights, remedies or damages available to the Disclosing Party at law or in equity, shall be entitled to a temporary restraining order / preliminary injunction in order to prevent or to restrain any such breach by the Receiving Party, or by any or all persons directly or indirectly acting for, on behalf of, or with the Receiving Party."
+  },
+  {
+   "id": "s96",
+   "text": "IN WITNESS WHEREOF, this Agreement was duly executed on behalf of the Parties on the day and year first above written."
+  },
+  {
+   "id": "s97",
+   "text": "For and on behalf of For and on behalf of"
+  },
+  {
+   "id": "s98",
+   "text": "Sign : "
+  },
+  {
+   "id": "s99",
+   "text": "_____________________ "
+  },
+  {
+   "id": "s100",
+   "text": "Sign : "
+  },
+  {
+   "id": "s101",
+   "text": "_____________________"
+  },
+  {
+   "id": "s102",
+   "text": "Name : Name :"
+  },
+  {
+   "id": "s103",
+   "text": "Title : Title :"
+  }
+ ]
+}

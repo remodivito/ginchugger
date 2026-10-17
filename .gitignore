@@ -1,0 +1,35 @@
+# dependencies and build output
+node_modules
+contract-review/dist/
+contract-review/.local/
+
+# secrets and local state
+.env
+.env.local
+*.pem
+*.key
+
+# evaluation runs (raw model outputs are not published)
+tough-eval/runs/
+tough-eval/results/
+
+# OS
+.DS_Store
+
+# held back until the frozen release (see README)
+tough-eval/v2/items.json
+tough-eval/v2/markups.json
+tough-eval/v2/manifest.json
+tough-eval/v2/inserted-checks.json
+tough-eval/v2/scenarios-manifest.json
+tough-eval/v2/ERRATA.md
+tough-eval/v2/variants/
+tough-eval/v2/authoring/
+tough-eval/v2/verification/
+tough-eval/v2/scenarios/
+tough-eval/v2/verification-scenarios/
+tough-eval/v2/dev/
+tough-eval/v2/prelim/snapshot-*/
+tough-eval/v2/prelim/logs/
+tough-eval/v2/prelim/state/
+tough-eval/*.log

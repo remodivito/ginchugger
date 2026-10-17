@@ -1,0 +1,301 @@
+{
+ "id": "N413",
+ "revision": 1,
+ "title": "883905_0001095811-01-000469_f68556ex99-d12.txt",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 413,
+  "type": "sec-text",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000883905/000109581101000469/0001095811-01-000469.txt"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "CORPORATE NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "This Agreement is entered into and made effective as of the date set forth above by and between Intel Corporation (hereinafter \"Intel\"), and the participant identified below (hereinafter \"Participant\"). "
+  },
+  {
+   "id": "s2",
+   "text": "Unless the Participant indicates that this Agreement shall apply only to a specific division or location, this Agreement shall apply to the Participant's entire company."
+  },
+  {
+   "id": "s3",
+   "text": "THE PARTIES AGREE AS FOLLOWS:"
+  },
+  {
+   "id": "s4",
+   "text": "CONFIDENTIAL INFORMATION TRANSMITTAL FORM. "
+  },
+  {
+   "id": "s5",
+   "text": "The confidential, proprietary and trade secret information of the disclosing party (hereinafter \"Confidential Information\") provided hereunder, is that information described in the Confidential Information Transmittal Record (CITR) form executed from time to time hereafter. "
+  },
+  {
+   "id": "s6",
+   "text": "CITR's are subject to the terms of this Agreement and shall be executed by the parties prior to the disclosure of Confidential Information. "
+  },
+  {
+   "id": "s7",
+   "text": "All information described in a CITR and marked with a \"confidential,\" \"proprietary,\" or similar legend shall be deemed Confidential Information. "
+  },
+  {
+   "id": "s8",
+   "text": "All Confidential Information received from the disclosing party shall be in tangible form. "
+  },
+  {
+   "id": "s9",
+   "text": "The CITR shall set forth the disclosing party, a description of the Confidential Information disclosed, the names of the representatives of the parties and the date when the disclosure covered by the CITR commenced."
+  },
+  {
+   "id": "s10",
+   "text": "OBLIGATIONS OF RECEIVING PARTY. "
+  },
+  {
+   "id": "s11",
+   "text": "The receiving party shall not disclose Confidential Information to any third party without the prior written approval of the disclosing party. "
+  },
+  {
+   "id": "s12",
+   "text": "The receiving party shall maintain the Confidential Information with at least the same degree of care that the receiving party uses to protect its own similar categories of confidential and proprietary information, but no less than a reasonable degree of care under the circumstances. "
+  },
+  {
+   "id": "s13",
+   "text": "The receiving party shall not make any copies of Confidential Information received from the disclosing party except as necessary for its employees with a need to know. "
+  },
+  {
+   "id": "s14",
+   "text": "Any copies which are made shall be identified as belonging to the disclosing party and marked \"confidential,\" \"proprietary,\" or with a similar legend."
+  },
+  {
+   "id": "s15",
+   "text": "PERIOD OF CONFIDENTIALITY. "
+  },
+  {
+   "id": "s16",
+   "text": "Unless a shorter period is stated in the applicable CITR, the disclosing party will not assert any claims against the receiving party for disclosures of Confidential Information made more than five (5) years from the date of the CITR."
+  },
+  {
+   "id": "s17",
+   "text": "TERMINATION OF OBLIGATION OF CONFIDENTIALITY. "
+  },
+  {
+   "id": "s18",
+   "text": "The receiving party shall not be liable for the disclosure of any Confidential Information which is:"
+  },
+  {
+   "id": "s19",
+   "text": "(a) in the public domain other than by a breach of this Agreement on the part of the receiving party; or"
+  },
+  {
+   "id": "s20",
+   "text": "(b) rightfully received from a third party without any obligation of confidentiality; or"
+  },
+  {
+   "id": "s21",
+   "text": "(c) rightfully known to the receiving party without any limitation on use or disclosure prior to its receipt from the disclosing party; or"
+  },
+  {
+   "id": "s22",
+   "text": "(d) independently developed by employees of the receiving party; or "
+  },
+  {
+   "id": "s23",
+   "text": "(e) generally made available to third parties by the disclosing party"
+  },
+  {
+   "id": "s24",
+   "text": "without restriction on disclosure."
+  },
+  {
+   "id": "s25",
+   "text": "TITLE. "
+  },
+  {
+   "id": "s26",
+   "text": "Title or the right to possess Confidential Information as between the parties shall remain in the disclosing party."
+  },
+  {
+   "id": "s27",
+   "text": "NO OBLIGATION OF DISCLOSURE. "
+  },
+  {
+   "id": "s28",
+   "text": "Neither party has any obligation to disclose Confidential Information to the other. "
+  },
+  {
+   "id": "s29",
+   "text": "Either party may, at any time, cease giving Confidential Information to the other party without any liability or request in writing the return of Confidential Information previously disclosed."
+  },
+  {
+   "id": "s30",
+   "text": "TERMINATION AND DUTY TO RETURN. "
+  },
+  {
+   "id": "s31",
+   "text": "Either party may terminate this Agreement at any time without cause upon notice to the other party. "
+  },
+  {
+   "id": "s32",
+   "text": "However, all obligations of confidentiality shall survive the termination of this Agreement. "
+  },
+  {
+   "id": "s33",
+   "text": "In the event this Agreement is terminated, and the disclosing party so requests, the receiving party shall promptly return or destroy (and certify destruction of) all Confidential Information which it received from the disclosing party along with all copies which it made. "
+  },
+  {
+   "id": "s34",
+   "text": "GENERAL."
+  },
+  {
+   "id": "s35",
+   "text": "(a) This Agreement is neither intended to nor shall it be construed as creating a joint venture, partnership or other form of business association between the parties, nor an obligation to buy or sell products using or incorporating the Confidential Information, nor as creating an implied or express license grant from either party to the other."
+  },
+  {
+   "id": "s36",
+   "text": "(b) The failure of either party to enforce any right resulting from breach of any provision of this Agreement by the other party shall not be deemed a waiver of any right relating to a subsequent breach of such provision or of any other right hereunder."
+  },
+  {
+   "id": "s37",
+   "text": "(c) This Agreement shall be governed by the laws of the State of California."
+  },
+  {
+   "id": "s38",
+   "text": "(d) This Agreement, any accompanying CITR and CITRs executed from time to time hereafter which incorporate the terms of this Agreement constitute the entire agreement, written or verbal, between the parties with respect to the disclosure(s) of Confidential Information described in each CITR. "
+  },
+  {
+   "id": "s39",
+   "text": "This Agreement may not be amended except in writing signed by a duly authorized representative of the respective parties. "
+  },
+  {
+   "id": "s40",
+   "text": "Any other agreements between the parties, including non-disclosure agreements, shall not be affected by this Agreement."
+  },
+  {
+   "id": "s41",
+   "text": "<TABLE>"
+  },
+  {
+   "id": "s42",
+   "text": "<S> <C>"
+  },
+  {
+   "id": "s43",
+   "text": "AGREED: PARTICIPANT: XIRCOM"
+  },
+  {
+   "id": "s44",
+   "text": "-------------------------------------------"
+  },
+  {
+   "id": "s45",
+   "text": "INTEL CORPORATION "
+  },
+  {
+   "id": "s46",
+   "text": "(Company Name, Division/Sub, if applicable)"
+  },
+  {
+   "id": "s47",
+   "text": "3065 "
+  },
+  {
+   "id": "s48",
+   "text": "Bowers Avenue"
+  },
+  {
+   "id": "s49",
+   "text": "Santa Clara, CA 95052 26025 "
+  },
+  {
+   "id": "s50",
+   "text": "Mureau Road"
+  },
+  {
+   "id": "s51",
+   "text": "--------------------------------------------------------"
+  },
+  {
+   "id": "s52",
+   "text": "(Address)"
+  },
+  {
+   "id": "s53",
+   "text": "Calabasas CA 91302"
+  },
+  {
+   "id": "s54",
+   "text": "--------------------------------------------------------"
+  },
+  {
+   "id": "s55",
+   "text": "(City) (State) (Zip)"
+  },
+  {
+   "id": "s56",
+   "text": "/s/ CARL EVERETT /s/ JEROME P. CHERWINSKI"
+  },
+  {
+   "id": "s57",
+   "text": "-------------------------------- "
+  },
+  {
+   "id": "s58",
+   "text": "--------------------------------------------------------"
+  },
+  {
+   "id": "s59",
+   "text": "Signature Signature"
+  },
+  {
+   "id": "s60",
+   "text": "CARL EVERETT JEROME P. "
+  },
+  {
+   "id": "s61",
+   "text": "CHERWINSKI"
+  },
+  {
+   "id": "s62",
+   "text": "-------------------------------- "
+  },
+  {
+   "id": "s63",
+   "text": "--------------------------------------------------------"
+  },
+  {
+   "id": "s64",
+   "text": "Printed Name Printed Name"
+  },
+  {
+   "id": "s65",
+   "text": "VICE PRESIDENT-DIRECTOR OF SALES V.P. ENG. 230-0000-30 (7/90)"
+  },
+  {
+   "id": "s66",
+   "text": "-------------------------------- "
+  },
+  {
+   "id": "s67",
+   "text": "--------------------------------------------------------"
+  },
+  {
+   "id": "s68",
+   "text": "Title Title"
+  },
+  {
+   "id": "s69",
+   "text": "</TABLE>"
+  },
+  {
+   "id": "s70",
+   "text": "SEND TO: CORPORATE CONTRACT"
+  },
+  {
+   "id": "s71",
+   "text": "MANAGEMENT, FM 1-03"
+  }
+ ]
+}

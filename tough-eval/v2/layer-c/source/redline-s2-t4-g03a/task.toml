@@ -1,0 +1,47 @@
+schema_version = "1.3"
+artifacts = ["/app/contract.docx"]
+
+[task]
+name = "micro1/redline-s2-t4-g03a"
+description = "Turn-4 response redline for AgentCo vs LargeCo (scenario 2, group g03, attorney variant a)"
+keywords = ["legal", "contract-redlining", "docx", "tracked-changes", "llm-judge"]
+
+[metadata]
+benchmark = "RedlineBench"
+scenario_id = "2"
+platform_scenario_id = "5"
+platform_task_id = "104"
+scenario_label = "Customer-led SaaS MSA"
+input_group = "s2-t4-g03"
+variant = "a"
+side = "A"
+level = "4"
+represented_party = "AgentCo"
+counterparty = "LargeCo"
+n_rubrics = "3"
+n_penalty_rubrics = "0"
+
+[environment]
+build_timeout_sec = 1200.0
+cpus = 2
+memory_mb = 4096
+skills_dir = "/skills"
+
+[agent]
+timeout_sec = 3600.0
+
+[verifier]
+timeout_sec = 1200.0
+
+[verifier.env]
+# All three provider keys forwarded so the default 3-judge panel
+# (gpt-5.4-mini + claude-haiku-4-5 + gemini-3.1-flash-lite) can
+# authenticate. The verifier tolerates missing keys at run time —
+# any judge that fails auth is dropped from the vote, and the panel
+# proceeds with the survivors. JUDGE_PANEL / JUDGE_MODEL are the
+# overrides documented in tests/judge.py.
+OPENAI_API_KEY = "${OPENAI_API_KEY}"
+ANTHROPIC_API_KEY = "${ANTHROPIC_API_KEY}"
+GEMINI_API_KEY = "${GEMINI_API_KEY}"
+JUDGE_PANEL = "${JUDGE_PANEL}"
+JUDGE_MODEL = "${JUDGE_MODEL}"

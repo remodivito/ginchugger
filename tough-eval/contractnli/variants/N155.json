@@ -1,0 +1,201 @@
+{
+ "id": "N155",
+ "revision": 1,
+ "title": "MUTUAL-NDA-Form-2.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 155,
+  "type": "search-pdf",
+  "url": "http://seabrookpartnersllc.com/wp-content/uploads/2017/12/MUTUAL-NDA-Form-2.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "MUTUAL NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "This MUTUAL NON-DISCLOSURE AGREEMENT (the \"Agreement\") is made by and between _____ "
+  },
+  {
+   "id": "s2",
+   "text": "Capital, Inc., a Delaware corporation, having its principal place of business at _______________, and ___________, having its principal place of business "
+  },
+  {
+   "id": "s3",
+   "text": "________________."
+  },
+  {
+   "id": "s4",
+   "text": "WHEREAS, in the course of business the parties will share Confidential Information (as defined below) with each other, the parties agree to the following terms and conditions."
+  },
+  {
+   "id": "s5",
+   "text": "1. Confidential Information. "
+  },
+  {
+   "id": "s6",
+   "text": "As used herein, \"Confidential Information\" shall mean any and all oral and written proprietary information provided by one party (the \"Provider\") to the other (the \"Recipient\"), including but not limited to financial documents, customer lists, development plans, business plans, trade secrets, and intellectual property. "
+  },
+  {
+   "id": "s7",
+   "text": "\"Confidential Information\" does not include information that "
+  },
+  {
+   "id": "s8",
+   "text": "(i) is generally available to the public on the date of this agreement, "
+  },
+  {
+   "id": "s9",
+   "text": "(ii) becomes generally available to the public other than as a result of a disclosure not otherwise permissible hereunder, "
+  },
+  {
+   "id": "s10",
+   "text": "(iii) was in the Recipient's possession prior to disclosure by the Provider, except to the extent that the Recipient received the information in violation of any requirement of confidentiality of which the Recipient was aware or reasonably should have been aware, or "
+  },
+  {
+   "id": "s11",
+   "text": "(iv) is made available to the Recipient lawfully and in good faith by a third party who Recipient reasonably believes is not under an obligation to keep such information confidential."
+  },
+  {
+   "id": "s12",
+   "text": "2. Use of Confidential Information. "
+  },
+  {
+   "id": "s13",
+   "text": "Each party agrees that at all times and notwithstanding any termination or expiration of this Agreement it will hold in strict confidence and not disclose to any third party Confidential Information of the other, except as approved in advance in writing by the other party to this Agreement, and will use the Confidential Information for no purpose other than evaluating or pursuing a business relationship with the other party to this Agreement."
+  },
+  {
+   "id": "s14",
+   "text": "3. Employees, Advisors, and Agents. "
+  },
+  {
+   "id": "s15",
+   "text": "The Recipient will only share Confidential Information with its employees, advisors, and agents when such disclosure is necessary for the purpose for which the Provider disclosed the information. "
+  },
+  {
+   "id": "s16",
+   "text": "All employees, advisors, and agents of the Recipient party with access to Confidential Information shall be bound by this Agreement and the Recipient shall be responsible for any unauthorized disclosure of Confidential Information by its employees, advisors and/or agents."
+  },
+  {
+   "id": "s17",
+   "text": "4. Court Order. "
+  },
+  {
+   "id": "s18",
+   "text": "Notwithstanding the above, the Recipient shall not be in violation of this Agreement if the disclosure is in response to a valid subpoena or order by a court or other government body, provided the Recipient presents the Provider with as much prior written notice of such disclosure as is reasonable in order to permit the Provider an opportunity to seek confidential treatment of such information."
+  },
+  {
+   "id": "s19",
+   "text": "5. Care. The Recipient will use at least as much care in maintaining the confidentiality of any disclosed Information as that party uses in maintaining its own Confidential Information, and the Recipient will use at least reasonable care."
+  },
+  {
+   "id": "s20",
+   "text": "6. Notification of Loss or Disclosure. "
+  },
+  {
+   "id": "s21",
+   "text": "Each party shall immediately notify the other upon discovery of any loss or unauthorized disclosure of the Confidential Information of the other party."
+  },
+  {
+   "id": "s22",
+   "text": "7. Reproduction of Information. "
+  },
+  {
+   "id": "s23",
+   "text": "Confidential Information shall not be reproduced in any form except as required to accomplish the intent of this Agreement. "
+  },
+  {
+   "id": "s24",
+   "text": "Any reproduction of any Confidential Information by the Recipient shall remain the property of the Provider and shall contain any and all confidential or proprietary notices or legends that appear on the original, unless otherwise authorized in writing by the Provider."
+  },
+  {
+   "id": "s25",
+   "text": "8. Return of Information. "
+  },
+  {
+   "id": "s26",
+   "text": "Upon termination or expiration of the Agreement, or upon written request by either party, each party shall promptly return to the other all documents and other tangible materials representing the other's Confidential Information and all copies thereof, or destroy all Confidential Information and copies thereof and certify its destruction to the Provider."
+  },
+  {
+   "id": "s27",
+   "text": "9. No Property Rights; No Partnership or Joint Venture. "
+  },
+  {
+   "id": "s28",
+   "text": "The parties recognize and agree that nothing contained in this Agreement shall be construed as granting any property rights, by license or otherwise, to the Confidential Information of the other party disclosed pursuant to this Agreement, and any grant, if any, shall be set forth in a separate, express written agreement. "
+  },
+  {
+   "id": "s29",
+   "text": "Unless set forth in a separate, express written agreement, the parties hereto have not formed and are not forming a partnership or joint venture and neither party may claim otherwise."
+  },
+  {
+   "id": "s30",
+   "text": "10. Term. "
+  },
+  {
+   "id": "s31",
+   "text": "This Agreement shall commence on the first date that both parties have signed the Agreement (the \"Effective Date\") and shall terminate 3 years following the Effective Date. "
+  },
+  {
+   "id": "s32",
+   "text": "Either party may terminate this Agreement at any time, given that the party provides the other party with at least 90 days prior written notice. "
+  },
+  {
+   "id": "s33",
+   "text": "Following termination of this agreement, confidentiality shall still be maintained for two years following the termination of this Agreement."
+  },
+  {
+   "id": "s34",
+   "text": "11. State Law. "
+  },
+  {
+   "id": "s35",
+   "text": "This Agreement and all disputes rising hereunder shall be governed by the laws of the State of New York without regard to its conflict of laws provisions."
+  },
+  {
+   "id": "s36",
+   "text": "12. Injunctive Relief. "
+  },
+  {
+   "id": "s37",
+   "text": "In the event that one party breaches or threatens to breach this agreement the parties agree that monetary damages will be an inadequate remedy, and therefore, the other party will be entitled to an immediate permanent injunction against such breach and such other equitable relief as is necessary to enforce any and all of the provisions of this Agreement."
+  },
+  {
+   "id": "s38",
+   "text": "13. Interpretation. "
+  },
+  {
+   "id": "s39",
+   "text": "Whenever possible, each provision of this Agreement will be interpreted in such a manner as to be effective and valid under applicable law. "
+  },
+  {
+   "id": "s40",
+   "text": "If any provision of this Agreement is held to be invalid, illegal, or unenforceable in any respect under applicable law or rule in any jurisdiction, such invalidity, illegality, or unenforceability will not affect other provisions, but this Agreement will be reformed, construed, and enforced as if such invalid, illegal, or unenforceable provisions had never been contained herein. "
+  },
+  {
+   "id": "s41",
+   "text": "The language in all parts of this Agreement will be construed, in all cases, according to its fair meaning, and not for or against either party hereto because one party may have drafted the Agreement."
+  },
+  {
+   "id": "s42",
+   "text": "14. Entire Agreement; No Oral Modification. "
+  },
+  {
+   "id": "s43",
+   "text": "This Agreement constitutes the entire Agreement between the parties relating to the subject matter hereof. "
+  },
+  {
+   "id": "s44",
+   "text": "This Agreement is the complete, final, and exclusive embodiment of their agreement with regard to this subject matter and supersedes any prior oral discussions or written communications and agreements. "
+  },
+  {
+   "id": "s45",
+   "text": "This Agreement is entered into without reliance on any promise or representation other than those expressly contained herein, and it cannot be modified or amended except in writing signed by both parties."
+  },
+  {
+   "id": "s46",
+   "text": "IN WITNESS WHEREOF, the parties hereto have duly executed this Agreement effective as of the date first set forth above."
+  }
+ ]
+}

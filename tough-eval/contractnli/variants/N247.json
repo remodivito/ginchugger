@@ -1,0 +1,481 @@
+{
+ "id": "N247",
+ "revision": 1,
+ "title": "NON-Disclosure_Agreement_2.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 247,
+  "type": "search-pdf",
+  "url": "https://www.cert-in.org.in/PDF/NON-Disclosure_Agreement.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "MODEL NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "(Between CERT-In empanelled Auditor & Auditee)"
+  },
+  {
+   "id": "s2",
+   "text": "THIS NON-DISCLOSURE AGREEMENT "
+  },
+  {
+   "id": "s3",
+   "text": "is made on this …….. day (date) of ………… "
+  },
+  {
+   "id": "s4",
+   "text": "(Year)"
+  },
+  {
+   "id": "s5",
+   "text": "By and between"
+  },
+  {
+   "id": "s7",
+   "text": "# In case of Central Government Ministry/ Departments #/State Government Departments"
+  },
+  {
+   "id": "s8",
+   "text": "President of India/Governor of (name of state) acting through ……………………………. "
+  },
+  {
+   "id": "s9",
+   "text": "(Name, Designation) of …………………….. "
+  },
+  {
+   "id": "s10",
+   "text": "(Name of Ministry/ Department) address …………………… hereinafter referred to as “Auditee”which expression shall unless repugnant to the context or meaning thereof ,include its successors and assigns)of the first part."
+  },
+  {
+   "id": "s11",
+   "text": "# "
+  },
+  {
+   "id": "s12",
+   "text": "In case of Autonomous Societies/ Not-for-profit companies/ Public sector Undertakings/Private sector"
+  },
+  {
+   "id": "s13",
+   "text": "……………………………. "
+  },
+  {
+   "id": "s14",
+   "text": "(Name of Company/ Society) incorporated /registered under the Companies Act,1956/2013/ the societies registration Act,1860 having its registered/corporate office at …………………… "
+  },
+  {
+   "id": "s15",
+   "text": "(hereinafter referred to as “Auditee” which expression shall unless repugnant to the context or meaning thereof, includes its successors, administrators and permitted assigns) of the first part ."
+  },
+  {
+   "id": "s16",
+   "text": "And"
+  },
+  {
+   "id": "s17",
+   "text": "Name incorporated/registered under the….….. "
+  },
+  {
+   "id": "s18",
+   "text": "Name of the Act having its registered/corporate office at ………………(herein referred to as “Auditor” which expression shall unless repugnant to the context or meaning thereof ,includes its seccessors,assigns,administrators,liquidators and recievers)of the second part WHEREAS"
+  },
+  {
+   "id": "s19",
+   "text": "A.Auditor is a services organization empanelled by the Indian Computer Emergency Response Team (hereinafter CERT-IN) under Department of Electronics & IT, for auditing, including vulnerability assessment and penetration testing of computer systems , networks, computer resources & applications of various agencies or departments of the Government, critical infrastructure organizations and those in other sectors of Indian economy vide communication No…………dated……."
+  },
+  {
+   "id": "s20",
+   "text": "B.Auditor as an empanelled Information Security Auditing organization has agreed to fully comply the “Guidelines for CERT-In Empanelled Information Security Auditing Organizations , Terms & conditions of empanelment and Policy guidelines for handling audit related data” while conducting audits."
+  },
+  {
+   "id": "s21",
+   "text": "C.Auditee is also aware of the aforesaid Guidelines along with guidelines for Auditee Organizations published by CERT-In."
+  },
+  {
+   "id": "s22",
+   "text": "D.Both Auditor and Auditee have given their irrevocable consent to fully comply the aforesaid Guidelines and any amendments thereof without any reservations."
+  },
+  {
+   "id": "s23",
+   "text": "NOW, THEREFORE, in consideration of the foregoing and the covenants and agreements contained herein, the parties agree as follows:"
+  },
+  {
+   "id": "s24",
+   "text": "1. Definitions. :"
+  },
+  {
+   "id": "s25",
+   "text": "(a) The term “Confidential Information” shall include, without limitation, all information and materials, furnished by either Party to the other in connection with Auditee products and services including information transmitted in writing, orally, visually, (e.g. video terminal display) or on magnetic media, and including all proprietary information, customer & prospect lists, trade secrets, trade names or proposed trade names, methods and procedures of operation, business or marketing plans, licensed document know-how, ideas, concepts, designs, drawings, flow charts, diagrams, quality manuals, checklists, guidelines, processes, formulae, source code materials, specifications, programs, software packages, codes and other intellectual property relating to Auditee products and services. "
+  },
+  {
+   "id": "s26",
+   "text": "Results of any information security audits, tests, analysis, extracts or usages carried out by the Auditor in connection with the Auditee’s products and/or services, IT infrastructure, etc. shall also be considered Confidential Information."
+  },
+  {
+   "id": "s28",
+   "text": "(b) The term “Auditee products” shall include all such products, goods, services, deliverables, which are subject to audit by the empanelled auditor under the Agreement."
+  },
+  {
+   "id": "s30",
+   "text": "2 Protection of Confidential Information. "
+  },
+  {
+   "id": "s31",
+   "text": "With respect to any Confidential Information disclosed to it or to which it has access, Auditor affirms that it shall:"
+  },
+  {
+   "id": "s32",
+   "text": "(a) Use the Confidential Information as necessary only in connection with scope of audit and in accordance with the terms and conditions contained herein;"
+  },
+  {
+   "id": "s33",
+   "text": "(b) Maintain the Confidential Information in strict confidence and take all reasonable steps to enforce the confidentiality obligations imposed hereunder, but in no event take less care with the Confidential Information that the parties take to protect the confidentiality of its own proprietary and confidential information and that of its other clients;"
+  },
+  {
+   "id": "s34",
+   "text": "(c) Not to make or retain copy of any details of products and/or services, prototypes, business or marketing plans, Client lists, Proposals developed by or originating from Auditee or any of the prospective clients of Auditee."
+  },
+  {
+   "id": "s35",
+   "text": "(d) Not to make or retain copy of any details of results of any information security audits, tests, analysis, extracts or usages carried out by the Auditor in connection with the Auditee’s products and/or services, IT infrastructure, etc. without the express written consent of Auditee."
+  },
+  {
+   "id": "s36",
+   "text": "(e) Not disclose or in any way assist or permit the disclosure of any Confidential Information to any other person or entity without the express written consent of theauditee ; and"
+  },
+  {
+   "id": "s37",
+   "text": "(f) Return to theauditee, or destroy, at auditee’s discretion, any and all Confidential Information disclosed in a printed form or other permanent record, or in any other tangible form (including without limitation, all copies, notes, extracts, analyses, studies, summaries, records and reproductions thereof) immediately on "
+  },
+  {
+   "id": "s38",
+   "text": "(i) expiration or termination ofthis agreement, or "
+  },
+  {
+   "id": "s39",
+   "text": "(ii) the request of Auditee therefor."
+  },
+  {
+   "id": "s40",
+   "text": "(g) Not to send Auditee’s audit information or data and/or any such Confidential Information at any time outside India for the purpose of storage, processing, analysis or handling without the express written consent of the Auditee."
+  },
+  {
+   "id": "s41",
+   "text": "(h) The auditor shall use only the best possible secure methodology to avoid confidentiality breach, while handling audit related data for the purpose of storage, processing, transit or analysis including sharing of information with auditee."
+  },
+  {
+   "id": "s42",
+   "text": "(i) Not to engage or appoint any non-resident/foreigner to undertake any activity related to Information Security Audit. "
+  },
+  {
+   "id": "s43",
+   "text": "In case of information security audits for Government/ critical sector organization, only the man power declared to CERT-In shall be deployed to carry out such audit related activities."
+  },
+  {
+   "id": "s44",
+   "text": "(j) Not to discuss with any member of public, media, press, any or any other person about the nature of arrangement entered between the Auditor and the Auditee or the nature of services to be provided by Auditor to the Auditee."
+  },
+  {
+   "id": "s45",
+   "text": "(k) Make sure that all the employees and/or consultants engaged to undertake any audit on its behalf have signed the mandatory non-disclosure agreement."
+  },
+  {
+   "id": "s46",
+   "text": "3. Onus. "
+  },
+  {
+   "id": "s47",
+   "text": "Auditor shall have the burden of proving that any disclosure or use inconsistent with the terms and conditions hereof falls within any of the foregoing exceptions."
+  },
+  {
+   "id": "s48",
+   "text": "4. Permitted disclosure of audit related information:"
+  },
+  {
+   "id": "s49",
+   "text": "The auditor may share audit information with CERT-In or similar Government entities mandated under the law as and when called upon to do so by such agencies with prior written information to the auditee."
+  },
+  {
+   "id": "s50",
+   "text": "5. Exceptions. "
+  },
+  {
+   "id": "s51",
+   "text": "The Confidentiality obligations as enumerated in Article 2of this Agreement shall not applyin following cases:"
+  },
+  {
+   "id": "s52",
+   "text": "(a) Which is independently developed by Auditor or lawfully received from another source free of restriction and without breach of this Agreement; or"
+  },
+  {
+   "id": "s53",
+   "text": "(b) After it has become generally available to the public without breach of this Agreement by Auditor; or"
+  },
+  {
+   "id": "s54",
+   "text": "(c) Which at the time of disclosure to Auditor was known to such party free of restriction and evidenced by documents in the possession of such party; or"
+  },
+  {
+   "id": "s55",
+   "text": "(d) Which Auditee agrees in writing is free of such restrictions."
+  },
+  {
+   "id": "s56",
+   "text": "(e) Which is received from a third party not subject to the obligation of confidentiality with respect to such Information;"
+  },
+  {
+   "id": "s57",
+   "text": "6. Remedies. "
+  },
+  {
+   "id": "s58",
+   "text": "Auditor acknowledges that any actual or threatened disclosure or use of the Confidential Information by Auditor would be a breach of this agreement and may cause immediate and irreparable harm to Auditee or to its clients; Auditor affirms that damages from such disclosure or use by it may be impossible to measure accurately; and injury sustained by Auditee / its clients may be impossible to calculate and compensate fully. "
+  },
+  {
+   "id": "s59",
+   "text": "Therefore, Auditor acknowledges that in the event of such a breach, Auditee shall be entitled to specific performance by Auditor of its obligations contained in this Agreement. "
+  },
+  {
+   "id": "s60",
+   "text": "In addition Auditor shall compensate the Auditee for the loss or damages caused to the auditee actual and liquidated damages which may be demanded by Auditee. "
+  },
+  {
+   "id": "s61",
+   "text": "Liquidated damages not to exceed the Contract value. "
+  },
+  {
+   "id": "s62",
+   "text": "Moreover, Auditee shall be entitled to recover all costs of litigation including reasonable attorneys’ fees which it or they may incur in connection with defending its interests and enforcement of contractual rights arising due to a breach of this agreement by Auditor. "
+  },
+  {
+   "id": "s63",
+   "text": "All rights and remedies hereunder are cumulative and in addition to any other rights or remedies under any applicable law, at equity, or under this Agreement, subject only to any limitations stated herein."
+  },
+  {
+   "id": "s64",
+   "text": "7. Need to Know. "
+  },
+  {
+   "id": "s65",
+   "text": "Auditor shall restrict disclosure of such Confidential Information to its employees and/or consultants with a need to know (and advise such employees and/or consultants of the obligations assumed herein), shall use the Confidential Information only for the purposes set forth in the Agreement, and shall not disclose such Confidential Information to any affiliates, subsidiaries, associates and/or third party without prior written approval of the Auditee. "
+  },
+  {
+   "id": "s66",
+   "text": "No information relating to auditee shall be hosted or taken outside the country in any circumstances."
+  },
+  {
+   "id": "s67",
+   "text": "8. Intellectual Property Rights Protection. "
+  },
+  {
+   "id": "s68",
+   "text": "No license to a party, under any trademark, patent, copyright, design right, mask work protection right, or any other intellectual property right is either granted or implied by the conveying of Confidential Information to such party."
+  },
+  {
+   "id": "s69",
+   "text": "9. No Conflict. "
+  },
+  {
+   "id": "s70",
+   "text": "The parties represent and warrant that the performance of its obligations hereunder do not and shall not conflict with any other agreement or obligation of the respective parties to which they are a party or by which the respective parties are bound."
+  },
+  {
+   "id": "s71",
+   "text": "10. Authority. "
+  },
+  {
+   "id": "s72",
+   "text": "The parties represent and warrant that they have all necessary authority and power to enter into this Agreement and perform their obligations hereunder."
+  },
+  {
+   "id": "s73",
+   "text": "11. Governing Law. "
+  },
+  {
+   "id": "s74",
+   "text": "This Agreement shall be interpreted in accordance with and governed by the substantive and procedural laws of India and the parties hereby consent to the jurisdiction of Courts and/or Forums situated at < Name of the city>"
+  },
+  {
+   "id": "s75",
+   "text": "12. Entire Agreement. "
+  },
+  {
+   "id": "s76",
+   "text": "This Agreement constitutes the entire understanding and agreement between the parties, and supersedes all previous or contemporaneous agreement or communications, both oral and written, representations and under standings among the parties with respect to the subject matter hereof."
+  },
+  {
+   "id": "s77",
+   "text": "13. Amendments. "
+  },
+  {
+   "id": "s78",
+   "text": "No amendment, modification and/or discharge of this Agreement shall be valid or binding on the parties unless made in writing and signed on behalf of each of the parties by their respective duly authorized officers or representatives."
+  },
+  {
+   "id": "s79",
+   "text": "14. Binding Agreement. "
+  },
+  {
+   "id": "s80",
+   "text": "This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and permitted assigns."
+  },
+  {
+   "id": "s81",
+   "text": "15. Severability. "
+  },
+  {
+   "id": "s82",
+   "text": "It is the intent of the parties that in case any one or more of the provisions contained in this Agreement shall be held to be invalid or unenforceable in any respect, such provision shall be modified to the extent necessary to render it, as modified, valid and enforceable under applicable laws, and such invalidity or unenforceability shall not affect the other provisions of this Agreement."
+  },
+  {
+   "id": "s83",
+   "text": "16. Waiver. "
+  },
+  {
+   "id": "s84",
+   "text": "Waiver by either party of a breach of any provision of this Agreement, shall not be deemed to be waiver of any preceding or succeeding breach of the same or any other provision hereof."
+  },
+  {
+   "id": "s85",
+   "text": "17. Survival. "
+  },
+  {
+   "id": "s86",
+   "text": "Both parties agree that all of their obligations undertaken herein with respect to Confidential Information received pursuant to this Agreement shall survive till perpetuity even after expiration or termination of this Agreement."
+  },
+  {
+   "id": "s87",
+   "text": "18. Non-solicitation. "
+  },
+  {
+   "id": "s88",
+   "text": "During the term of this Agreement and thereafter for a further period of two (2) years Auditor shall not solicit or attempt to solicit Auditee’s employees and/or consultants, for the purpose of hiring/contract or to proceed to conduct business similar to Auditee with any employee and/or consultant of the Auditee who has knowledge of the Confidential Information, without the prior written consent of Auditee."
+  },
+  {
+   "id": "s89",
+   "text": "19. This Agreement is governed by and shall be construed in accordance with the laws of India. "
+  },
+  {
+   "id": "s90",
+   "text": "In the event of dispute arises between the parties in connection with the validity, interpretation, implementation or alleged breach of any provision of this Agreement, the parties shall attempt to resolve the dispute in good faith by senior level negotiations. "
+  },
+  {
+   "id": "s91",
+   "text": "In case, any such difference or dispute is not amicably resolved within forty five (45) days of such referral for negotiations, it shall be resolved through arbitration process, wherein both the parties will appoint one arbitrator each and the third one will be appointed by the two arbitrators in accordance with the Arbitration and Conciliation Act, "
+  },
+  {
+   "id": "s92",
+   "text": "1996. The venue of arbitration in India shall be (please choose the venue of dispute resolution as the city) or where the services are provided. "
+  },
+  {
+   "id": "s93",
+   "text": "The proceedings of arbitration shall be conducted in English language and the arbitration award shall be substantiated in writing and binding on the parties. "
+  },
+  {
+   "id": "s94",
+   "text": "The arbitration proceedings shall be completed within a period of one hundred and eighty (180) days from the date of reference of the dispute to arbitration."
+  },
+  {
+   "id": "s95",
+   "text": "20. Term. "
+  },
+  {
+   "id": "s96",
+   "text": "This Agreement shall come into force on the date of its signing by both the parties and shall be valid up to ……… year."
+  },
+  {
+   "id": "s97",
+   "text": "IN WITNESS HEREOF, and intending to be legally bound, the parties have executed this Agreement to make it effective from the date and year first written above."
+  },
+  {
+   "id": "s98",
+   "text": "# "
+  },
+  {
+   "id": "s99",
+   "text": "In case of auditee being Central Government Ministry/ Departments #"
+  },
+  {
+   "id": "s100",
+   "text": "For & on behalf of President of India"
+  },
+  {
+   "id": "s101",
+   "text": "(Name and designation of authorized signatory)"
+  },
+  {
+   "id": "s102",
+   "text": "……………………………"
+  },
+  {
+   "id": "s103",
+   "text": "<Name of Central Govt. Ministry/Department>"
+  },
+  {
+   "id": "s104",
+   "text": "Or"
+  },
+  {
+   "id": "s105",
+   "text": "# "
+  },
+  {
+   "id": "s106",
+   "text": "In case of auditee being State Government Department #"
+  },
+  {
+   "id": "s107",
+   "text": "For & on behalf of Governor of ……. < State name>"
+  },
+  {
+   "id": "s108",
+   "text": "……………………….."
+  },
+  {
+   "id": "s109",
+   "text": "(Name and designation of authorized signatory)"
+  },
+  {
+   "id": "s110",
+   "text": "<Name of State Department>"
+  },
+  {
+   "id": "s111",
+   "text": "Or"
+  },
+  {
+   "id": "s112",
+   "text": "# "
+  },
+  {
+   "id": "s113",
+   "text": "In case of Autonomous Societies/Not-for-profit-company/Public sector undertaking /Private Sector #"
+  },
+  {
+   "id": "s114",
+   "text": "for <Name of organization> , "
+  },
+  {
+   "id": "s115",
+   "text": "<Name and designation of authorized signatory> duly authorized by rules & regulations / of <Name of society>/ vide resolution no. …. "
+  },
+  {
+   "id": "s116",
+   "text": "Dated ……. Of Board of Directors of ...........<Name of organization>."
+  },
+  {
+   "id": "s117",
+   "text": "(AUDITEE) (AUDITOR)"
+  },
+  {
+   "id": "s118",
+   "text": "WITNESSES:"
+  },
+  {
+   "id": "s119",
+   "text": "1."
+  }
+ ]
+}

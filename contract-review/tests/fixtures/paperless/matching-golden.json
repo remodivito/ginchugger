@@ -1,0 +1,3012 @@
+{
+ "source": "Paperless-ngx src/documents/matching.py",
+ "commit": "c50c6f5517e3fd8f97fa546ede69a52b622e2b20",
+ "python": "3.12.15",
+ "rapidfuzz": "3.14.6",
+ "regex": "2026.9.10",
+ "split": "a case is held out when the first hex digit of its id is 0-3 (a quarter)",
+ "cases": [
+  {
+   "id": "83088f97a22433b4",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "none",
+   "match": "",
+   "insensitive": true,
+   "content": "no",
+   "expected": false
+  },
+  {
+   "id": "68d4f64eeef1b77f",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "none",
+   "match": "",
+   "insensitive": true,
+   "content": "match",
+   "expected": false
+  },
+  {
+   "id": "5f2929f70c1635cf",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "alpha charlie gamma",
+   "insensitive": true,
+   "content": "I have charlie in me",
+   "expected": false
+  },
+  {
+   "id": "df874005252495b4",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "alpha charlie gamma",
+   "insensitive": true,
+   "content": "I have gamma in me",
+   "expected": false
+  },
+  {
+   "id": "95d3a4ea15914f6f",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "alpha charlie gamma",
+   "insensitive": true,
+   "content": "I have alpha and charlie in me",
+   "expected": false
+  },
+  {
+   "id": "651825b5fd9f4ad1",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "alpha charlie gamma",
+   "insensitive": true,
+   "content": "I have alphas in me",
+   "expected": false
+  },
+  {
+   "id": "5ab941d9fc67e6c9",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "alpha charlie gamma",
+   "insensitive": true,
+   "content": "I have bravo in me",
+   "expected": false
+  },
+  {
+   "id": "962212e2db69e159",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "12 34 56",
+   "insensitive": true,
+   "content": "I have 12 in me",
+   "expected": false
+  },
+  {
+   "id": "a67fe58d98141246",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "12 34 56",
+   "insensitive": true,
+   "content": "I have 34 in me",
+   "expected": false
+  },
+  {
+   "id": "a7f7436088bf361a",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "12 34 56",
+   "insensitive": true,
+   "content": "I have 56 in me",
+   "expected": false
+  },
+  {
+   "id": "e497e64399063c98",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "12 34 56",
+   "insensitive": true,
+   "content": "I have 12 and 34 in me",
+   "expected": false
+  },
+  {
+   "id": "4d9e5a390f91a8de",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "12 34 56",
+   "insensitive": true,
+   "content": "I have 01234567 in me",
+   "expected": false
+  },
+  {
+   "id": "755f8d831ddb8b5a",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "brown fox \"lazy dogs\"",
+   "insensitive": true,
+   "content": "the quick brown fox jumped over the lazy dogs",
+   "expected": true
+  },
+  {
+   "id": "8165d5045e002e78",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "brown fox \"lazy dogs\"",
+   "insensitive": true,
+   "content": "the quick brown wolf jumped over the lazy dogs",
+   "expected": false
+  },
+  {
+   "id": "ec068183e2d7e759",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "brown fox \"lazy dogs\"",
+   "insensitive": true,
+   "content": "the quick brown fox jumped over the lazy... dogs",
+   "expected": false
+  },
+  {
+   "id": "a780b8d92213562a",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "alpha charlie gamma",
+   "insensitive": true,
+   "content": "I have alpha, charlie, and gamma in me",
+   "expected": true
+  },
+  {
+   "id": "ae17324812d50f67",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "alpha charlie gamma",
+   "insensitive": true,
+   "content": "I have alpha and charlie in me",
+   "expected": true
+  },
+  {
+   "id": "922c812961338c46",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "alpha charlie gamma",
+   "insensitive": true,
+   "content": "I have bravo in me",
+   "expected": false
+  },
+  {
+   "id": "e37ae239c0a5b485",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "12 34 56",
+   "insensitive": true,
+   "content": "I have 12 in me",
+   "expected": true
+  },
+  {
+   "id": "96edef22191b75eb",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "12 34 56",
+   "insensitive": true,
+   "content": "I have 34 in me",
+   "expected": true
+  },
+  {
+   "id": "b04a898251622182",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "12 34 56",
+   "insensitive": true,
+   "content": "I have 56 in me",
+   "expected": true
+  },
+  {
+   "id": "59180c48feae06ea",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "12 34 56",
+   "insensitive": true,
+   "content": "I have 12 and 34 in me",
+   "expected": true
+  },
+  {
+   "id": "71f9b6763a5941a8",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "12 34 56",
+   "insensitive": true,
+   "content": "I have 120, 34, and 56 in me",
+   "expected": true
+  },
+  {
+   "id": "4ff1e0a921fc1677",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "12 34 56",
+   "insensitive": true,
+   "content": "I have 123456 in me",
+   "expected": false
+  },
+  {
+   "id": "69903849e8fd05c4",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "12 34 56",
+   "insensitive": true,
+   "content": "I have 01234567 in me",
+   "expected": false
+  },
+  {
+   "id": "cd30c3c5162d1f06",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "\"brown fox\" \" lazy  dogs \"",
+   "insensitive": true,
+   "content": "the quick brown fox",
+   "expected": true
+  },
+  {
+   "id": "ad506f3b864c924a",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "\"brown fox\" \" lazy  dogs \"",
+   "insensitive": true,
+   "content": "jumped over the lazy  dogs.",
+   "expected": true
+  },
+  {
+   "id": "6b9d85c81a0f9c45",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "\"brown fox\" \" lazy  dogs \"",
+   "insensitive": true,
+   "content": "the lazy fox jumped over the brown dogs",
+   "expected": false
+  },
+  {
+   "id": "44a015d4b5693835",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "alpha charlie gamma",
+   "insensitive": true,
+   "content": "I have 'alpha charlie gamma' in me",
+   "expected": true
+  },
+  {
+   "id": "fa138312b0f848d1",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "alpha charlie gamma",
+   "insensitive": true,
+   "content": "I have alpha in me",
+   "expected": false
+  },
+  {
+   "id": "8e679e16e767b310",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "alpha charlie gamma",
+   "insensitive": true,
+   "content": "I have gamma in me",
+   "expected": false
+  },
+  {
+   "id": "f6289c1033e3cb5d",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "alpha charlie gamma",
+   "insensitive": true,
+   "content": "I have alpha and charlie in me",
+   "expected": false
+  },
+  {
+   "id": "a2912e81e0cf0268",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "alpha charlie gamma",
+   "insensitive": true,
+   "content": "I have alpha, charlie, and gamma in me",
+   "expected": false
+  },
+  {
+   "id": "acee82425c88c5f8",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "alpha charlie gamma",
+   "insensitive": true,
+   "content": "I have alphas in me",
+   "expected": false
+  },
+  {
+   "id": "a750687bba7dbc16",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "alpha charlie gamma",
+   "insensitive": true,
+   "content": "I have bravo in me",
+   "expected": false
+  },
+  {
+   "id": "99fbfd7230527d17",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "12 34 56",
+   "insensitive": true,
+   "content": "I have 12 34 56 in me",
+   "expected": true
+  },
+  {
+   "id": "9e374ca5517db43c",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "12 34 56",
+   "insensitive": true,
+   "content": "I have 12 in me",
+   "expected": false
+  },
+  {
+   "id": "d5333a6e2242d3d0",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "12 34 56",
+   "insensitive": true,
+   "content": "I have 34 in me",
+   "expected": false
+  },
+  {
+   "id": "8b70b0f52081e219",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "12 34 56",
+   "insensitive": true,
+   "content": "I have 56 in me",
+   "expected": false
+  },
+  {
+   "id": "8ac4d5118a2f9d36",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "12 34 56",
+   "insensitive": true,
+   "content": "I have 12 and 34 in me",
+   "expected": false
+  },
+  {
+   "id": "642fb085836b93c6",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "12 34 56",
+   "insensitive": true,
+   "content": "I have 12 34, and 56 in me",
+   "expected": false
+  },
+  {
+   "id": "8d2c98d89ba0013c",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "12 34 56",
+   "insensitive": true,
+   "content": "I have 120, 340, and 560 in me",
+   "expected": false
+  },
+  {
+   "id": "f58b114af8a67a59",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "12 34 56",
+   "insensitive": true,
+   "content": "I have 123456 in me",
+   "expected": false
+  },
+  {
+   "id": "ac97081cdcb5bd7c",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "12 34 56",
+   "insensitive": true,
+   "content": "I have 01234567 in me",
+   "expected": false
+  },
+  {
+   "id": "f5dd639589286e7d",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "alpha\\w+gamma",
+   "insensitive": true,
+   "content": "I have alpha_and_gamma in me",
+   "expected": true
+  },
+  {
+   "id": "4fa405fa45f64f09",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "alpha\\w+gamma",
+   "insensitive": true,
+   "content": "I have alphas_and_gamma in me",
+   "expected": true
+  },
+  {
+   "id": "8b66aeeb20247709",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "alpha\\w+gamma",
+   "insensitive": true,
+   "content": "I have alpha in me",
+   "expected": false
+  },
+  {
+   "id": "ad46faced2453d53",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "alpha\\w+gamma",
+   "insensitive": true,
+   "content": "I have gamma in me",
+   "expected": false
+  },
+  {
+   "id": "42ba8c0f43ad90e5",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "alpha\\w+gamma",
+   "insensitive": true,
+   "content": "I have alpha and gamma in me",
+   "expected": false
+  },
+  {
+   "id": "d22ff2d42f5c83f8",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "alpha\\w+gamma",
+   "insensitive": true,
+   "content": "I have alpha, charlie, and gamma in me",
+   "expected": false
+  },
+  {
+   "id": "ce68f20a367922d9",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "alpha\\w+gamma",
+   "insensitive": true,
+   "content": "I have alphas, charlie, and gamma in me",
+   "expected": false
+  },
+  {
+   "id": "a29ce062482246d8",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "alpha\\w+gamma",
+   "insensitive": true,
+   "content": "I have alphas in me",
+   "expected": false
+  },
+  {
+   "id": "d7d3f596b215dafd",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "[",
+   "insensitive": true,
+   "content": "Don't match this",
+   "expected": false
+  },
+  {
+   "id": "eb2b010126d6dfb3",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "Springfield, Miss.",
+   "insensitive": true,
+   "content": "1220 Main Street, Springf eld, Miss.",
+   "expected": true
+  },
+  {
+   "id": "d8f88387466c09b0",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "Springfield, Miss.",
+   "insensitive": true,
+   "content": "1220 Main Street, Spring field, Miss.",
+   "expected": true
+  },
+  {
+   "id": "a8b8d9d8e6cab9dd",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "Springfield, Miss.",
+   "insensitive": true,
+   "content": "1220 Main Street, Springfeld, Miss.",
+   "expected": true
+  },
+  {
+   "id": "9f0abc791985022d",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "Springfield, Miss.",
+   "insensitive": true,
+   "content": "1220 Main Street Springfield Miss",
+   "expected": true
+  },
+  {
+   "id": "db982db56d784f2b",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "Springfield, Miss.",
+   "insensitive": true,
+   "content": "1220 Main Street, Springfield, Mich.",
+   "expected": false
+  },
+  {
+   "id": "cd4cffec422d1f8c",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "alpha charlie gamma",
+   "insensitive": false,
+   "content": "I have alpha, charlie, and gamma in me",
+   "expected": true
+  },
+  {
+   "id": "52cf2eb82f402f8a",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "alpha charlie gamma",
+   "insensitive": false,
+   "content": "I have Alpha, charlie, and gamma in me",
+   "expected": false
+  },
+  {
+   "id": "bf2c8e52e10b4784",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "Alpha charlie Gamma",
+   "insensitive": false,
+   "content": "I have Alpha, charlie, and gamma in me",
+   "expected": false
+  },
+  {
+   "id": "71a55d075615d1bb",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "Alpha charlie Gamma",
+   "insensitive": false,
+   "content": "I have gamma, charlie, and alpha in me",
+   "expected": false
+  },
+  {
+   "id": "ebb25d59a4afe527",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "Alpha charlie Gamma",
+   "insensitive": false,
+   "content": "I have Gamma, Charlie, and ALPHA in me",
+   "expected": false
+  },
+  {
+   "id": "87f455a71a541396",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "brown fox \"lazy dogs\"",
+   "insensitive": false,
+   "content": "the quick brown fox jumped over the lazy dogs",
+   "expected": true
+  },
+  {
+   "id": "efb75d70e03cb7e8",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "brown fox \"lazy dogs\"",
+   "insensitive": false,
+   "content": "the quick brown fox jumped over the lazy  dogs",
+   "expected": true
+  },
+  {
+   "id": "5eba4d310eb6bafe",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "brown fox \"lazy dogs\"",
+   "insensitive": false,
+   "content": "the quick Brown fox jumped over the lazy dogs",
+   "expected": false
+  },
+  {
+   "id": "dd486aaeaaeafbc6",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "brown fox \"lazy dogs\"",
+   "insensitive": false,
+   "content": "the quick brown Fox jumped over the lazy  dogs",
+   "expected": false
+  },
+  {
+   "id": "d6aa9fe1da5aab53",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "brown fox \"lazy dogs\"",
+   "insensitive": false,
+   "content": "the quick brown fox jumped over the Lazy dogs",
+   "expected": false
+  },
+  {
+   "id": "77419c3b8f7b00dc",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "brown fox \"lazy dogs\"",
+   "insensitive": false,
+   "content": "the quick brown fox jumped over the lazy  Dogs",
+   "expected": false
+  },
+  {
+   "id": "a7470e8954b432be",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "alpha charlie gamma",
+   "insensitive": false,
+   "content": "I have alpha in me",
+   "expected": true
+  },
+  {
+   "id": "aa19de6a22e0838a",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "alpha charlie gamma",
+   "insensitive": false,
+   "content": "I have gamMA in me",
+   "expected": false
+  },
+  {
+   "id": "b1199dfe2e05e97c",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "alpha charlie gamma",
+   "insensitive": false,
+   "content": "I have aLPha, cHArlie, and gAMma in me",
+   "expected": false
+  },
+  {
+   "id": "659b0e1783459a41",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "Alpha Charlie Gamma",
+   "insensitive": false,
+   "content": "I have alpha in me",
+   "expected": false
+  },
+  {
+   "id": "83f89390812855e3",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "Alpha Charlie Gamma",
+   "insensitive": false,
+   "content": "I have ChaRLie in me",
+   "expected": false
+  },
+  {
+   "id": "75606e4f7ffa4498",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "Alpha Charlie Gamma",
+   "insensitive": false,
+   "content": "I have GamMA in me",
+   "expected": false
+  },
+  {
+   "id": "d3badb938160f2d0",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "Alpha Charlie Gamma",
+   "insensitive": false,
+   "content": "I have ALPha, CHArlie, and GAMma in me",
+   "expected": false
+  },
+  {
+   "id": "c885005a3406338f",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "\"brown fox\" \" lazy  dogs \"",
+   "insensitive": false,
+   "content": "the quick brown fox",
+   "expected": true
+  },
+  {
+   "id": "e775b890dd8b50f2",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "\"brown fox\" \" lazy  dogs \"",
+   "insensitive": false,
+   "content": "jumped over the lazy  dogs.",
+   "expected": true
+  },
+  {
+   "id": "c9c31092631840f7",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "\"brown fox\" \" lazy  dogs \"",
+   "insensitive": false,
+   "content": "the quick Brown fox",
+   "expected": false
+  },
+  {
+   "id": "e524cb8e5dc1e12e",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "\"brown fox\" \" lazy  dogs \"",
+   "insensitive": false,
+   "content": "jumped over the lazy  Dogs.",
+   "expected": false
+  },
+  {
+   "id": "80534046053c1372",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "alpha charlie gamma",
+   "insensitive": false,
+   "content": "I have 'Alpha charlie gamma' in me",
+   "expected": false
+  },
+  {
+   "id": "67b3ba73f5812196",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "alpha charlie gamma",
+   "insensitive": false,
+   "content": "I have 'alpha Charlie gamma' in me",
+   "expected": false
+  },
+  {
+   "id": "d98567f97c963baa",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "alpha charlie gamma",
+   "insensitive": false,
+   "content": "I have 'Alpha Charlie Gamma' in me",
+   "expected": false
+  },
+  {
+   "id": "c79f62742c23a27e",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Alpha Charlie Gamma",
+   "insensitive": false,
+   "content": "I have 'alpha charlie gamma' in me",
+   "expected": false
+  },
+  {
+   "id": "febbbff78f09abd8",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Alpha Charlie Gamma",
+   "insensitive": false,
+   "content": "I have 'alpha Charlie gamma' in me",
+   "expected": false
+  },
+  {
+   "id": "bf023547c5d19fe4",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "alpha\\w+gamma",
+   "insensitive": false,
+   "content": "I have alpha_and_gamma in me",
+   "expected": true
+  },
+  {
+   "id": "e724939a87f61070",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "alpha\\w+gamma",
+   "insensitive": false,
+   "content": "I have Alpha_and_Gamma in me",
+   "expected": false
+  },
+  {
+   "id": "4cd03d7c5437ada5",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "alpha\\w+gamma",
+   "insensitive": false,
+   "content": "I have alpHAs_and_gaMMa in me",
+   "expected": false
+  },
+  {
+   "id": "8b045662fb37f949",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "Alpha\\w+gamma",
+   "insensitive": false,
+   "content": "I have Alpha_and_gamma in me",
+   "expected": true
+  },
+  {
+   "id": "5e22dda5bf52dd74",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "Alpha\\w+gamma",
+   "insensitive": false,
+   "content": "I have Alpha_and_Gamma in me",
+   "expected": false
+  },
+  {
+   "id": "d33be01a1df9396f",
+   "tag": "upstream",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "Alpha\\w+gamma",
+   "insensitive": false,
+   "content": "I have alphas_and_gamma in me",
+   "expected": false
+  },
+  {
+   "id": "41a60b672a302875",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Müller GmbH",
+   "insensitive": true,
+   "content": "Agreement between Helix Ltd and Müller GmbH, dated",
+   "expected": true
+  },
+  {
+   "id": "7399c054348348e2",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Müller GmbH",
+   "insensitive": true,
+   "content": "MÜLLER GMBH",
+   "expected": true
+  },
+  {
+   "id": "9568f0d034d102c9",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Müller GmbH",
+   "insensitive": true,
+   "content": "Mueller GmbH",
+   "expected": false
+  },
+  {
+   "id": "d3b5ec04a76feb44",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Müller GmbH",
+   "insensitive": true,
+   "content": "Müller GmbHs",
+   "expected": false
+  },
+  {
+   "id": "8430895a0e8047dc",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Müller GmbH",
+   "insensitive": true,
+   "content": "Müller GmbH",
+   "expected": false
+  },
+  {
+   "id": "fc4d94355fbe9677",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Müller GmbH",
+   "insensitive": true,
+   "content": "Müller\nGmbH",
+   "expected": false
+  },
+  {
+   "id": "46d970abff8b7344",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Müller GmbH",
+   "insensitive": false,
+   "content": "MÜLLER GMBH",
+   "expected": false
+  },
+  {
+   "id": "a8f727b734d057af",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Société Générale",
+   "insensitive": true,
+   "content": "between Société Générale and",
+   "expected": true
+  },
+  {
+   "id": "596c88dedecc28d0",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Société Générale",
+   "insensitive": true,
+   "content": "Societe Generale",
+   "expected": false
+  },
+  {
+   "id": "8a15f1041c272632",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Société Générale",
+   "insensitive": true,
+   "content": "Société Générale's office",
+   "expected": true
+  },
+  {
+   "id": "95dd5687382049ec",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Société Générale",
+   "insensitive": true,
+   "content": "société générale",
+   "expected": true
+  },
+  {
+   "id": "97a30c7208ce9862",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Société Générale",
+   "insensitive": false,
+   "content": "société générale",
+   "expected": false
+  },
+  {
+   "id": "cdecd6d91818c51c",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Société Générale",
+   "insensitive": false,
+   "content": "Société Générale",
+   "expected": true
+  },
+  {
+   "id": "9a47e6f8a95b6b11",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Acme Ltd.",
+   "insensitive": true,
+   "content": "Acme Ltd. agrees",
+   "expected": false
+  },
+  {
+   "id": "d18e7ba716f37455",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Acme Ltd.",
+   "insensitive": true,
+   "content": "Acme Ltd.x",
+   "expected": true
+  },
+  {
+   "id": "d20ca96197697286",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "O'Brien & Sons",
+   "insensitive": true,
+   "content": "O'Brien & Sons Limited",
+   "expected": true
+  },
+  {
+   "id": "98fe5c9f57b233cc",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "O'Brien & Sons",
+   "insensitive": true,
+   "content": "OBrien & Sons",
+   "expected": false
+  },
+  {
+   "id": "b96816710404382e",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "AT&T",
+   "insensitive": true,
+   "content": "AT&T Inc",
+   "expected": true
+  },
+  {
+   "id": "fcf94c09c3ac60af",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "AT&T",
+   "insensitive": true,
+   "content": "at&t",
+   "expected": true
+  },
+  {
+   "id": "dbc9a749fbf56845",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "AT&T",
+   "insensitive": true,
+   "content": "AT & T",
+   "expected": false
+  },
+  {
+   "id": "8ddf0f05096e39e8",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "C++ Labs",
+   "insensitive": true,
+   "content": "C++ Labs Ltd",
+   "expected": true
+  },
+  {
+   "id": "d64cd8096c1bebc3",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "C++ Labs",
+   "insensitive": true,
+   "content": "C Labs",
+   "expected": false
+  },
+  {
+   "id": "6f2267cf5c5d9ae3",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "(Acme)",
+   "insensitive": true,
+   "content": "Party (Acme) agrees",
+   "expected": false
+  },
+  {
+   "id": "b11f02f5dcc46781",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "(Acme)",
+   "insensitive": true,
+   "content": "x(Acme)y",
+   "expected": true
+  },
+  {
+   "id": "a8d2eb58f1e77549",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "(Acme)",
+   "insensitive": true,
+   "content": "Acme",
+   "expected": false
+  },
+  {
+   "id": "a944db18b4f4aa2c",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Acme [UK]",
+   "insensitive": true,
+   "content": "Acme [UK] Limited",
+   "expected": false
+  },
+  {
+   "id": "7322a2478ce319d7",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Acme [UK]",
+   "insensitive": true,
+   "content": "Acme UK",
+   "expected": false
+  },
+  {
+   "id": "7a2553d3bef85a16",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "a.b*c",
+   "insensitive": true,
+   "content": "see a.b*c here",
+   "expected": true
+  },
+  {
+   "id": "4322bd5a9060d5b2",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "a.b*c",
+   "insensitive": true,
+   "content": "see aXbbbc here",
+   "expected": false
+  },
+  {
+   "id": "ce3811855de325ad",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Dvořák s.r.o.",
+   "insensitive": true,
+   "content": "Dvořák s.r.o. Praha",
+   "expected": false
+  },
+  {
+   "id": "fba18b2e213eddb6",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Dvořák s.r.o.",
+   "insensitive": true,
+   "content": "DVOŘÁK S.R.O.",
+   "expected": false
+  },
+  {
+   "id": "8e3b4346e1db113c",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Dvořák s.r.o.",
+   "insensitive": true,
+   "content": "Dvorak s.r.o.",
+   "expected": false
+  },
+  {
+   "id": "76553a50f89a04c1",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Ørsted A/S",
+   "insensitive": true,
+   "content": "ørsted a/s",
+   "expected": true
+  },
+  {
+   "id": "740a014f0a9b58eb",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Ørsted A/S",
+   "insensitive": true,
+   "content": "Orsted A/S",
+   "expected": false
+  },
+  {
+   "id": "f2465114b7eb3ecd",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "İstanbul Ticaret",
+   "insensitive": true,
+   "content": "istanbul ticaret",
+   "expected": true
+  },
+  {
+   "id": "a5134797902fb2c9",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "ΣΟΦΙΑ",
+   "insensitive": true,
+   "content": "σοφια ltd",
+   "expected": true
+  },
+  {
+   "id": "e44a177bae5d212d",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "ΣΟΦΙΑ",
+   "insensitive": true,
+   "content": "σοφιας",
+   "expected": false
+  },
+  {
+   "id": "41d488c0c285a0ba",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "ΣΟΦΙΑ",
+   "insensitive": true,
+   "content": "ΣΟΦΙΑ",
+   "expected": true
+  },
+  {
+   "id": "9d23ce9312e2d39c",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Straße AG",
+   "insensitive": true,
+   "content": "STRASSE AG",
+   "expected": false
+  },
+  {
+   "id": "94305a67c89b4037",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Straße AG",
+   "insensitive": true,
+   "content": "STRAẞE AG",
+   "expected": true
+  },
+  {
+   "id": "fa5024b5ad2ac63b",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Kelvin Ltd",
+   "insensitive": true,
+   "content": "Kelvin Ltd",
+   "expected": true
+  },
+  {
+   "id": "73df10fb3812ba2d",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "東京海上",
+   "insensitive": true,
+   "content": "東京海上日動火災",
+   "expected": false
+  },
+  {
+   "id": "826f05353ff2e4da",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "東京海上",
+   "insensitive": true,
+   "content": "株式会社 東京海上 様",
+   "expected": true
+  },
+  {
+   "id": "90454da6f4a77578",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Acme 2",
+   "insensitive": true,
+   "content": "Acme 2 Ltd",
+   "expected": true
+  },
+  {
+   "id": "79c3639906abcd6b",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Acme 2",
+   "insensitive": true,
+   "content": "Acme 23",
+   "expected": false
+  },
+  {
+   "id": "6b13e3d29906a07f",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Acme 2",
+   "insensitive": true,
+   "content": "Acme 2",
+   "expected": true
+  },
+  {
+   "id": "e85742e5e7692560",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "acme_corp",
+   "insensitive": true,
+   "content": "acme_corp_ltd",
+   "expected": false
+  },
+  {
+   "id": "7578c480bf297bad",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "acme_corp",
+   "insensitive": true,
+   "content": "acme_corp ltd",
+   "expected": true
+  },
+  {
+   "id": "e6a65d57c7771968",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "acme_corp",
+   "insensitive": true,
+   "content": "ACME_CORP.",
+   "expected": true
+  },
+  {
+   "id": "686e5eb421b6fdf5",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Helix",
+   "insensitive": true,
+   "content": "helix²",
+   "expected": false
+  },
+  {
+   "id": "b66dccfa73cb972d",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Helix",
+   "insensitive": true,
+   "content": "helix́",
+   "expected": true
+  },
+  {
+   "id": "e0c2d4cea801503b",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Helix",
+   "insensitive": true,
+   "content": "helix‿",
+   "expected": true
+  },
+  {
+   "id": "4f5d108abca58171",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Helix",
+   "insensitive": true,
+   "content": "helix‍",
+   "expected": true
+  },
+  {
+   "id": "53513a6c9fbd954b",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Acme Ltd",
+   "insensitive": true,
+   "content": "Acme\tLtd",
+   "expected": false
+  },
+  {
+   "id": "ffba5761384835b0",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "Acme Ltd",
+   "insensitive": true,
+   "content": "Acme Ltd",
+   "expected": true
+  },
+  {
+   "id": "be3bf9028b7f2d82",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "   ",
+   "insensitive": true,
+   "content": "anything",
+   "expected": false
+  },
+  {
+   "id": "e4129e508158817b",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": " ",
+   "insensitive": true,
+   "content": " ",
+   "expected": false
+  },
+  {
+   "id": "675fdd557710c9a2",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": " ",
+   "insensitive": true,
+   "content": "a b",
+   "expected": false
+  },
+  {
+   "id": "585ce2e20480c120",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "\u001c",
+   "insensitive": true,
+   "content": "\u001c",
+   "expected": false
+  },
+  {
+   "id": "9861fe1b24baba74",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "﻿",
+   "insensitive": true,
+   "content": "﻿",
+   "expected": false
+  },
+  {
+   "id": "d6941b7ef2f5ef29",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "﻿",
+   "insensitive": true,
+   "content": "a﻿b",
+   "expected": true
+  },
+  {
+   "id": "624e097a5bc25453",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": " Acme ",
+   "insensitive": true,
+   "content": "Acme",
+   "expected": false
+  },
+  {
+   "id": "c8fd1ef2703d6e17",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "𝐀𝐜𝐦𝐞",
+   "insensitive": true,
+   "content": "by 𝐀𝐜𝐦𝐞 Ltd",
+   "expected": true
+  },
+  {
+   "id": "b2e6962f190a6053",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "𝐀𝐜𝐦𝐞",
+   "insensitive": true,
+   "content": "𝐀𝐜𝐦𝐞𝐱",
+   "expected": false
+  },
+  {
+   "id": "588bf5b33becb9ab",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "-Acme-",
+   "insensitive": true,
+   "content": "x-Acme-y",
+   "expected": true
+  },
+  {
+   "id": "dc7e37c574cd71b4",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "literal",
+   "match": "-Acme-",
+   "insensitive": true,
+   "content": " -Acme- ",
+   "expected": false
+  },
+  {
+   "id": "685de8b30198baec",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "Müller Bau",
+   "insensitive": true,
+   "content": "Bau GmbH",
+   "expected": true
+  },
+  {
+   "id": "a75d405733b9b8ec",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "Müller Bau",
+   "insensitive": true,
+   "content": "Müllers",
+   "expected": false
+  },
+  {
+   "id": "c83a78321fa90b0d",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "Müller Bau",
+   "insensitive": true,
+   "content": "Baustelle",
+   "expected": false
+  },
+  {
+   "id": "a839f0fb0b3b4414",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "\"Société Générale\" SG",
+   "insensitive": true,
+   "content": "SG Paris",
+   "expected": true
+  },
+  {
+   "id": "6e786ddb4ebe71f8",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "\"Société Générale\" SG",
+   "insensitive": true,
+   "content": "Société\n\tGénérale",
+   "expected": true
+  },
+  {
+   "id": "5ff46fe93c761f93",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "\"Société Générale\" SG",
+   "insensitive": true,
+   "content": "SGX",
+   "expected": false
+  },
+  {
+   "id": "926472b3c07d855e",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "Acme+ Ltd.",
+   "insensitive": true,
+   "content": "Acme+ Ltd.",
+   "expected": false
+  },
+  {
+   "id": "77f616a5530447fd",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "Acme+ Ltd.",
+   "insensitive": true,
+   "content": "Acme+x",
+   "expected": true
+  },
+  {
+   "id": "d8a7c15ef0e76cf8",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "Acme+ Ltd.",
+   "insensitive": true,
+   "content": "Acme Ltd",
+   "expected": false
+  },
+  {
+   "id": "b0f7403b4e0757de",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "\"Acme Ltd",
+   "insensitive": true,
+   "content": "\"Acme Ltd",
+   "expected": true
+  },
+  {
+   "id": "bb79af89cc69de89",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "\"Acme Ltd",
+   "insensitive": true,
+   "content": "Acme Ltd",
+   "expected": true
+  },
+  {
+   "id": "584bcee7d6bd7c74",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "O'Brien",
+   "insensitive": true,
+   "content": "O'Brien",
+   "expected": true
+  },
+  {
+   "id": "e69f9f1496639578",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "O'Brien",
+   "insensitive": true,
+   "content": "o'brien's",
+   "expected": true
+  },
+  {
+   "id": "c78cb134ac580872",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "-Acme",
+   "insensitive": true,
+   "content": "x-Acme",
+   "expected": true
+  },
+  {
+   "id": "879652a4cd7dff4e",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "-Acme",
+   "insensitive": true,
+   "content": "-Acme",
+   "expected": false
+  },
+  {
+   "id": "6fc0b29e86116248",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "Dvořák Ørsted",
+   "insensitive": true,
+   "content": "dvořák",
+   "expected": true
+  },
+  {
+   "id": "5e1b1a5194aadba6",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "Dvořák Ørsted",
+   "insensitive": true,
+   "content": "ØRSTED",
+   "expected": true
+  },
+  {
+   "id": "94f49ddead4bf04a",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "東京 海上",
+   "insensitive": true,
+   "content": "東京海上",
+   "expected": false
+  },
+  {
+   "id": "df4cc34cc0e5e378",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "any",
+   "match": "東京 海上",
+   "insensitive": true,
+   "content": "東京 x",
+   "expected": true
+  },
+  {
+   "id": "4728d462475f1955",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "Müller GmbH Berlin",
+   "insensitive": true,
+   "content": "Müller GmbH, Berlin",
+   "expected": true
+  },
+  {
+   "id": "9cef5341b11a7e2d",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "Müller GmbH Berlin",
+   "insensitive": true,
+   "content": "MÜLLER GMBH BERLIN",
+   "expected": true
+  },
+  {
+   "id": "75913bf955723065",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "Müller GmbH Berlin",
+   "insensitive": true,
+   "content": "Müller GmbH München",
+   "expected": false
+  },
+  {
+   "id": "9c086e67d5809d56",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "Société Générale",
+   "insensitive": true,
+   "content": "Société Générales",
+   "expected": false
+  },
+  {
+   "id": "cecc13ee78739401",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "Acme Ltd",
+   "insensitive": false,
+   "content": "Acme Ltd",
+   "expected": true
+  },
+  {
+   "id": "60507f27b6ea14dc",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "Acme Ltd",
+   "insensitive": false,
+   "content": "ACME",
+   "expected": false
+  },
+  {
+   "id": "af17e842433ef404",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "\"lazy dogs\" fox",
+   "insensitive": true,
+   "content": "lazy dogs fox",
+   "expected": true
+  },
+  {
+   "id": "a8d55b53065bc88a",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "\"lazy dogs\" fox",
+   "insensitive": true,
+   "content": "lazy\u001cdogs fox",
+   "expected": true
+  },
+  {
+   "id": "5386bf1608e46381",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "a.b",
+   "insensitive": true,
+   "content": "aXb",
+   "expected": false
+  },
+  {
+   "id": "4052563229684add",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "a.b",
+   "insensitive": true,
+   "content": "a.bc",
+   "expected": false
+  },
+  {
+   "id": "681b4b4cacc91ec2",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "Ab",
+   "insensitive": false,
+   "content": "ab",
+   "expected": false
+  },
+  {
+   "id": "96b7f594db6baf09",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "none",
+   "match": "Acme",
+   "insensitive": true,
+   "content": "Acme",
+   "expected": false
+  },
+  {
+   "id": "83aa57a68b9a3424",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "none",
+   "match": "Acme",
+   "insensitive": false,
+   "content": "Acme",
+   "expected": false
+  },
+  {
+   "id": "89383089759beb7b",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "all",
+   "match": "\t\n",
+   "insensitive": true,
+   "content": "\t\n",
+   "expected": false
+  },
+  {
+   "id": "e68350d5892ed92b",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "acme\\s+(ltd|limited)",
+   "insensitive": true,
+   "content": "ACME   Limited",
+   "expected": true
+  },
+  {
+   "id": "ba0b35974f25bc25",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "acme\\s+(ltd|limited)",
+   "insensitive": true,
+   "content": "Acme\nLtd",
+   "expected": true
+  },
+  {
+   "id": "f677543d2664ce77",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "acme\\s+(ltd|limited)",
+   "insensitive": true,
+   "content": "acmeltd",
+   "expected": false
+  },
+  {
+   "id": "96dfc583b46b9fc4",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "acme\\s+(ltd|limited)",
+   "insensitive": true,
+   "content": "Acme Ltd",
+   "expected": true
+  },
+  {
+   "id": "7249019ebe3ad9c3",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "^Acme",
+   "insensitive": true,
+   "content": "Acme Ltd",
+   "expected": true
+  },
+  {
+   "id": "d9db83fc055131b0",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "^Acme",
+   "insensitive": true,
+   "content": "x\nAcme",
+   "expected": false
+  },
+  {
+   "id": "e0c59bee88270734",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "(?m)^Acme",
+   "insensitive": true,
+   "content": "x\nAcme",
+   "expected": true
+  },
+  {
+   "id": "6e935b7d697c3c6b",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "(?m)^Acme",
+   "insensitive": true,
+   "content": "x\rAcme",
+   "expected": false
+  },
+  {
+   "id": "b5c396e318e56552",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "(?m)^Acme",
+   "insensitive": true,
+   "content": "x Acme",
+   "expected": false
+  },
+  {
+   "id": "be08c641cca82334",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "Ltd\\.$",
+   "insensitive": true,
+   "content": "Acme Ltd.\n",
+   "expected": true
+  },
+  {
+   "id": "5998dc042ff379e5",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "Ltd\\.$",
+   "insensitive": true,
+   "content": "Acme Ltd.\n\n",
+   "expected": false
+  },
+  {
+   "id": "8a979a4ecaf92007",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "(?m)Ltd\\.$",
+   "insensitive": true,
+   "content": "Acme Ltd.\nx",
+   "expected": true
+  },
+  {
+   "id": "48afbb1e4d1b3652",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "(?m)Ltd\\.$",
+   "insensitive": true,
+   "content": "Acme Ltd.\rx",
+   "expected": false
+  },
+  {
+   "id": "9927458501a3403c",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "(?i)acme",
+   "insensitive": false,
+   "content": "ACME",
+   "expected": true
+  },
+  {
+   "id": "59f314e85f5e4cf2",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "(?P<n>ab)-(?P=n)",
+   "insensitive": true,
+   "content": "ab-ab",
+   "expected": true
+  },
+  {
+   "id": "ca80a5843b3987e0",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "(?P<n>ab)-(?P=n)",
+   "insensitive": true,
+   "content": "AB-ab",
+   "expected": true
+  },
+  {
+   "id": "653739584180d90a",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "\\bMüller\\b",
+   "insensitive": true,
+   "content": "Herr Müller",
+   "expected": true
+  },
+  {
+   "id": "ef0f879b466b4a89",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "\\bMüller\\b",
+   "insensitive": true,
+   "content": "MÜLLER",
+   "expected": true
+  },
+  {
+   "id": "e309fe9e2b9e1e79",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "Soci\\w+\\s+G\\w+",
+   "insensitive": true,
+   "content": "Societe Generale",
+   "expected": true
+  },
+  {
+   "id": "6560e0d4befbb00e",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "Soci\\w+\\s+G\\w+",
+   "insensitive": true,
+   "content": "Soci G",
+   "expected": false
+  },
+  {
+   "id": "a619a4af0230cac4",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "\\d{3}-\\d{4}",
+   "insensitive": true,
+   "content": "123-4567",
+   "expected": true
+  },
+  {
+   "id": "5ad6b052dc3a3bc5",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "\\d{3}-\\d{4}",
+   "insensitive": true,
+   "content": "12-3456",
+   "expected": false
+  },
+  {
+   "id": "47fc576fae396937",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "\\d{3}-\\d{4}",
+   "insensitive": true,
+   "content": "²²²-²²²²",
+   "expected": false
+  },
+  {
+   "id": "7efdd9213b43ae39",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "[A-Z]{2,}\\s+AG",
+   "insensitive": true,
+   "content": "XY AG",
+   "expected": true
+  },
+  {
+   "id": "f741112202bb42a9",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "[A-Z]{2,}\\s+AG",
+   "insensitive": true,
+   "content": "Xy AG",
+   "expected": true
+  },
+  {
+   "id": "e73615c033df55f6",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "[A-Z]{2,}\\s+AG",
+   "insensitive": false,
+   "content": "XY AG",
+   "expected": true
+  },
+  {
+   "id": "b73410317180a634",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "[A-Z]{2,}\\s+AG",
+   "insensitive": false,
+   "content": "xy ag",
+   "expected": false
+  },
+  {
+   "id": "d1f4835c2a1d9af2",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "colou?r",
+   "insensitive": true,
+   "content": "color",
+   "expected": true
+  },
+  {
+   "id": "f588f7f3d563c378",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "colou?r",
+   "insensitive": true,
+   "content": "colouur",
+   "expected": false
+  },
+  {
+   "id": "9a9af27b2b528068",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "a{,2}b",
+   "insensitive": true,
+   "content": "b",
+   "expected": true
+  },
+  {
+   "id": "7e699c042795a25c",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "a{,2}b",
+   "insensitive": true,
+   "content": "a{,2}b",
+   "expected": true
+  },
+  {
+   "id": "fbbb2604bf17e397",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "x{2",
+   "insensitive": true,
+   "content": "x{2",
+   "expected": true
+  },
+  {
+   "id": "4f58dbab8cfa2bfd",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "x{2",
+   "insensitive": true,
+   "content": "xx",
+   "expected": false
+  },
+  {
+   "id": "b36d13858a7dc0c1",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "]",
+   "insensitive": true,
+   "content": "a]b",
+   "expected": true
+  },
+  {
+   "id": "7623b815faa8fd2a",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "]",
+   "insensitive": true,
+   "content": "ab",
+   "expected": false
+  },
+  {
+   "id": "a39426586905d32a",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "a}b",
+   "insensitive": true,
+   "content": "ab",
+   "expected": false
+  },
+  {
+   "id": "542b2ef7c6129422",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "\\p{Lu}\\p{Ll}+ GmbH",
+   "insensitive": false,
+   "content": "müller gmbh",
+   "expected": false
+  },
+  {
+   "id": "bfd0f67f386fd74e",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "\\p{Lu}\\p{Ll}+ GmbH",
+   "insensitive": false,
+   "content": "MÜLLER GmbH",
+   "expected": false
+  },
+  {
+   "id": "a66fbdf60f36849e",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "(?s)Acme.Ltd",
+   "insensitive": true,
+   "content": "Acme\nLtd",
+   "expected": true
+  },
+  {
+   "id": "b078e8c4122b3a94",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "(?s)Acme.Ltd",
+   "insensitive": true,
+   "content": "Acme Ltd",
+   "expected": true
+  },
+  {
+   "id": "c8c68ffb524771de",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "Acme.Ltd",
+   "insensitive": true,
+   "content": "Acme\nLtd",
+   "expected": false
+  },
+  {
+   "id": "9f787ce781bc2d04",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "Acme.Ltd",
+   "insensitive": true,
+   "content": "Acme\rLtd",
+   "expected": true
+  },
+  {
+   "id": "aa3a6354e892015f",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "\\AAcme",
+   "insensitive": true,
+   "content": "Acme x",
+   "expected": true
+  },
+  {
+   "id": "e1c8ee7ec6c9fa2c",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "(?x) a c m e  # the name",
+   "insensitive": true,
+   "content": "acme",
+   "expected": true
+  },
+  {
+   "id": "4a8dc3e1ad0434b9",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "(?>acme)",
+   "insensitive": true,
+   "content": "acme",
+   "expected": true
+  },
+  {
+   "id": "d64b8b8ecf624d4f",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "\\w+@acme\\.example",
+   "insensitive": true,
+   "content": "jö@acme.example",
+   "expected": true
+  },
+  {
+   "id": "4fa21909dfcc36c2",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "\\w+@acme\\.example",
+   "insensitive": true,
+   "content": "@acme.example",
+   "expected": false
+  },
+  {
+   "id": "d37358c69d14b738",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "\\bS\\.A\\.",
+   "insensitive": true,
+   "content": "Acme S.A.",
+   "expected": true
+  },
+  {
+   "id": "ea4fe413fd4e00cd",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "[\\w-]+ GmbH",
+   "insensitive": true,
+   "content": "Müller-Lüdenscheidt GmbH",
+   "expected": true
+  },
+  {
+   "id": "b343562c525c90d3",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "[\\w-]+ GmbH",
+   "insensitive": true,
+   "content": "  GmbH",
+   "expected": false
+  },
+  {
+   "id": "816c578a3266f8eb",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "[^\\d\\s]+ Ltd",
+   "insensitive": true,
+   "content": "123 Ltd",
+   "expected": false
+  },
+  {
+   "id": "b046dbfd1a357b74",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "\\x41cme",
+   "insensitive": true,
+   "content": "Acme",
+   "expected": true
+  },
+  {
+   "id": "5faf3a5aeaf9e91f",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "über",
+   "insensitive": true,
+   "content": "über",
+   "expected": true
+  },
+  {
+   "id": "9ca6760bec07f1dc",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "über",
+   "insensitive": true,
+   "content": "uber",
+   "expected": false
+  },
+  {
+   "id": "7dca6a35f1029332",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "Acme\\b",
+   "insensitive": true,
+   "content": "Acmé",
+   "expected": false
+  },
+  {
+   "id": "a209bd85aa9f1dce",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "Acme\\b",
+   "insensitive": true,
+   "content": "Acme‿",
+   "expected": false
+  },
+  {
+   "id": "703a93eaf635530f",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "Acme\\b",
+   "insensitive": true,
+   "content": "Acme.",
+   "expected": true
+  },
+  {
+   "id": "5ca48342eb978bae",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "\\s",
+   "insensitive": true,
+   "content": "a\u001cb",
+   "expected": false
+  },
+  {
+   "id": "fc37bc016b159ce2",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "\\s",
+   "insensitive": true,
+   "content": "ab",
+   "expected": false
+  },
+  {
+   "id": "d0888c2c36cd8e68",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "(Acme|Helix) (Ltd|plc)",
+   "insensitive": true,
+   "content": "Helix plc",
+   "expected": true
+  },
+  {
+   "id": "432df4252419bc75",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "(Acme|Helix) (Ltd|plc)",
+   "insensitive": true,
+   "content": "Helix Inc",
+   "expected": false
+  },
+  {
+   "id": "f068964df6cf15b4",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "[[]x",
+   "insensitive": true,
+   "content": "[x",
+   "expected": true
+  },
+  {
+   "id": "846eb325eb7e8d75",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "\\Bcme",
+   "insensitive": true,
+   "content": "Acme",
+   "expected": true
+  },
+  {
+   "id": "bd9422f8aa706fc3",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "(?i)stra(ss|ß)e",
+   "insensitive": true,
+   "content": "STRASSE",
+   "expected": true
+  },
+  {
+   "id": "bd5b454829db9c72",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "(?i)stra(ss|ß)e",
+   "insensitive": true,
+   "content": "STRAẞE",
+   "expected": true
+  },
+  {
+   "id": "825e4deef62b14f0",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "regex",
+   "match": "(?i)stra(ss|ß)e",
+   "insensitive": true,
+   "content": "strasse",
+   "expected": true
+  },
+  {
+   "id": "d04f80729c254d36",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "Acme Limited",
+   "insensitive": true,
+   "content": "ACME Limitd agrees to",
+   "expected": true
+  },
+  {
+   "id": "a5ceb376112a6411",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "Acme Limited",
+   "insensitive": true,
+   "content": "Acme Lmited",
+   "expected": true
+  },
+  {
+   "id": "bb8ca0f674705af2",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "Acme Limited",
+   "insensitive": true,
+   "content": "Acne Limited",
+   "expected": true
+  },
+  {
+   "id": "bc9698dae145e253",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "Acme Limited",
+   "insensitive": true,
+   "content": "Acme Ltd",
+   "expected": false
+  },
+  {
+   "id": "ca14242de1babb19",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "Acme Limited",
+   "insensitive": false,
+   "content": "acme limited",
+   "expected": false
+  },
+  {
+   "id": "672eebee453ed8f5",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "Acme Limited",
+   "insensitive": false,
+   "content": "ACME LIMITED",
+   "expected": false
+  },
+  {
+   "id": "b81adc95e996cd45",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "abcdefghij",
+   "insensitive": true,
+   "content": "abcdefghiX",
+   "expected": true
+  },
+  {
+   "id": "5d73f102441ff054",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "abcdefghij",
+   "insensitive": true,
+   "content": "abcdefgXYZ",
+   "expected": false
+  },
+  {
+   "id": "77c9d56a1d6f2935",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "abcdefghij",
+   "insensitive": true,
+   "content": "abcdefghij",
+   "expected": true
+  },
+  {
+   "id": "bb679d03552516ff",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "Müller GmbH",
+   "insensitive": true,
+   "content": "Mueller GmbH",
+   "expected": true
+  },
+  {
+   "id": "8cd90f899d28cd52",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "Müller GmbH",
+   "insensitive": true,
+   "content": "MUELLER GMBH",
+   "expected": true
+  },
+  {
+   "id": "df1786281f2f86a8",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "Müller GmbH",
+   "insensitive": true,
+   "content": "Müler GmbH",
+   "expected": true
+  },
+  {
+   "id": "9a01023fcfdf6e65",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "Société Générale",
+   "insensitive": true,
+   "content": "Societe Generale",
+   "expected": false
+  },
+  {
+   "id": "75748eac5708d763",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "Société Générale",
+   "insensitive": true,
+   "content": "SOCIÉTÉ GÉNÉRALE S.A.",
+   "expected": true
+  },
+  {
+   "id": "80bc8afddb7fa02c",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "Acme, Inc.",
+   "insensitive": true,
+   "content": "Acme Inc",
+   "expected": true
+  },
+  {
+   "id": "fc489484a63f689d",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "Acme, Inc.",
+   "insensitive": true,
+   "content": "Acme Ink",
+   "expected": true
+  },
+  {
+   "id": "fa14b35dd6c47e33",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "ACME",
+   "insensitive": false,
+   "content": "acme",
+   "expected": false
+  },
+  {
+   "id": "e1608362c20d3e0a",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "!!!",
+   "insensitive": true,
+   "content": "text",
+   "expected": false
+  },
+  {
+   "id": "79985d09d671f702",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "Acme",
+   "insensitive": true,
+   "content": "...",
+   "expected": false
+  },
+  {
+   "id": "652883a614df1c2b",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "Dvořák",
+   "insensitive": true,
+   "content": "Dvorak",
+   "expected": false
+  },
+  {
+   "id": "696b3aa0b9147b1d",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "Dvořák",
+   "insensitive": true,
+   "content": "Dvořak",
+   "expected": false
+  },
+  {
+   "id": "6bdf5cb994976dea",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "Acme 🚀 Ltd",
+   "insensitive": true,
+   "content": "Acme Ltd",
+   "expected": false
+  },
+  {
+   "id": "6281387ed8c589fb",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "𝐀𝐜𝐦𝐞 Holdings",
+   "insensitive": true,
+   "content": "𝐀𝐜𝐦𝐞 Holding",
+   "expected": true
+  },
+  {
+   "id": "8fe8a4c0c2e7d11b",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "The International Business Machines Corporation of Armonk, New York, USA",
+   "insensitive": true,
+   "content": "Agreement with The International Business Machine Corporation of Armonk New York USA, dated",
+   "expected": true
+  },
+  {
+   "id": "43c4cff774fbb1b3",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "The International Business Machines Corporation of Armonk, New York, USA",
+   "insensitive": true,
+   "content": "The International Business Machines Corp of Armonk NY",
+   "expected": false
+  },
+  {
+   "id": "79951e661e42d2c9",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "Brightwater Analytics Limited",
+   "insensitive": true,
+   "content": "Brightwater Analytics Limited",
+   "expected": true
+  },
+  {
+   "id": "ad8a2c3c7c7ef9d7",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "Brightwater Analytics Limited",
+   "insensitive": true,
+   "content": "Brighter Waters Analysis Ltd",
+   "expected": false
+  },
+  {
+   "id": "ecd627e88a3121c2",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "abcd",
+   "insensitive": true,
+   "content": "dcba",
+   "expected": false
+  },
+  {
+   "id": "b9f3d9c73589e7ec",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "abcd",
+   "insensitive": true,
+   "content": "abxd",
+   "expected": false
+  },
+  {
+   "id": "b510e990a0324887",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "Northgate",
+   "insensitive": true,
+   "content": "Nrthgate x",
+   "expected": true
+  },
+  {
+   "id": "d5909fd4c5151171",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": " ",
+   "insensitive": true,
+   "content": "x",
+   "expected": false
+  },
+  {
+   "id": "8033e6aaf925a932",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "İstanbul",
+   "insensitive": true,
+   "content": "ISTANBUL",
+   "expected": true
+  },
+  {
+   "id": "e8bd41f9125ef0fb",
+   "tag": "own",
+   "kind": "matches",
+   "algorithm": "fuzzy",
+   "match": "ΣΟΦΙΑΣ",
+   "insensitive": true,
+   "content": "σοφιασ",
+   "expected": true
+  },
+  {
+   "id": "79e417efe790bb8c",
+   "tag": "own",
+   "kind": "split",
+   "match": "  some random  words \"with   quotes  \" and   spaces",
+   "expected": [
+    "some",
+    "random",
+    "words",
+    "with\\s+quotes",
+    "and",
+    "spaces"
+   ]
+  },
+  {
+   "id": "f132f81f8b4e8a62",
+   "tag": "own",
+   "kind": "split",
+   "match": "Acme+ Ltd.",
+   "expected": [
+    "Acme\\+",
+    "Ltd\\."
+   ]
+  },
+  {
+   "id": "ba63de4a4cbf92bd",
+   "tag": "own",
+   "kind": "split",
+   "match": "O'Brien & Sons",
+   "expected": [
+    "O'Brien",
+    "\\&",
+    "Sons"
+   ]
+  },
+  {
+   "id": "ff755097061c68fd",
+   "tag": "own",
+   "kind": "split",
+   "match": "\"Société  Générale\" Müller",
+   "expected": [
+    "Société\\s+Générale",
+    "Müller"
+   ]
+  },
+  {
+   "id": "fe1acc5d0892851e",
+   "tag": "own",
+   "kind": "split",
+   "match": "a\tb\nc",
+   "expected": [
+    "a",
+    "b",
+    "c"
+   ]
+  },
+  {
+   "id": "e0aa89ea96d76c4a",
+   "tag": "own",
+   "kind": "split",
+   "match": "x \"\" y",
+   "expected": [
+    "x",
+    "\"\"",
+    "y"
+   ]
+  },
+  {
+   "id": "a4c03b53deee1f3e",
+   "tag": "own",
+   "kind": "split",
+   "match": "C++ (UK) [x] {y} a|b ^$ \\d #&~",
+   "expected": [
+    "C\\+\\+",
+    "\\(UK\\)",
+    "\\[x\\]",
+    "\\{y\\}",
+    "a\\|b",
+    "\\^\\$",
+    "\\\\d",
+    "\\#\\&\\~"
+   ]
+  },
+  {
+   "id": "7bfbeb124c9c28b1",
+   "tag": "own",
+   "kind": "split",
+   "match": "\"  \"",
+   "expected": [
+    ""
+   ]
+  },
+  {
+   "id": "bb44b36c68e1883d",
+   "tag": "own",
+   "kind": "split",
+   "match": "東京 \"海上 日動\"",
+   "expected": [
+    "東京",
+    "海上\\s+日動"
+   ]
+  },
+  {
+   "id": "bdf7ff800f516154",
+   "tag": "own",
+   "kind": "split",
+   "match": " Acme Ltd\u001c",
+   "expected": [
+    "Acme",
+    "Ltd"
+   ]
+  }
+ ]
+}

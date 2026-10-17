@@ -1,0 +1,277 @@
+{
+ "id": "N211",
+ "revision": 1,
+ "title": "NDA-SqillerBetaTesters.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 211,
+  "type": "search-pdf",
+  "url": "https://sqillerapp.com/NDA-SqillerBetaTesters.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "MUTUAL NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "This Mutual Non-Disclosure Agreement (“Agreement”) is entered into by and between"
+  },
+  {
+   "id": "s2",
+   "text": "Teqball Holding S.à r.l."
+  },
+  {
+   "id": "s3",
+   "text": "44 "
+  },
+  {
+   "id": "s4",
+   "text": "Avenue J. F. Kennedy, L-1855 Luxembourg, Grand Duchy of Luxembourg"
+  },
+  {
+   "id": "s5",
+   "text": "Luxembourg Trade and Companies Register"
+  },
+  {
+   "id": "s6",
+   "text": "N° B 191.050,"
+  },
+  {
+   "id": "s7",
+   "text": "acting on its own behalf and/or on behalf of its Group Companies, and"
+  },
+  {
+   "id": "s8",
+   "text": "You (the person accessing this document and/or any of Teqball Holding’s Confidential Information),"
+  },
+  {
+   "id": "s9",
+   "text": "hereinafter referred to jointly as the “Parties”, and individually as a “Party”."
+  },
+  {
+   "id": "s10",
+   "text": "1. Purpose"
+  },
+  {
+   "id": "s11",
+   "text": "The Parties are contemplating, negotiating, executing or have already entered into one or more agreements relating to testing computer software between the Parties, which may lead to the exchange of information that they wish to protect and whose use they wish to limit through this Agreement (the “Purpose”)."
+  },
+  {
+   "id": "s12",
+   "text": "2. Definitions"
+  },
+  {
+   "id": "s13",
+   "text": "1.1. “Authorized Persons” means a person or entity that a Party or a Party’s Group Company authorizes to access the Confidential Information for the Purpose, and who is bound by confidentiality terms at least as protective of the Confidential Information as this Agreement."
+  },
+  {
+   "id": "s14",
+   "text": "1.2. “Confidential Information” means information related to a Party, its Group Companies, its Authorized Persons, this Agreement or any agreement to which this Agreement is annexed or upon which this Agreement’s Purpose is based, that a Party receives or accesses, except information that "
+  },
+  {
+   "id": "s15",
+   "text": "(i) is or falls into the public domain without fault of the Receiving Party, "
+  },
+  {
+   "id": "s16",
+   "text": "(ii) the Receiving Party can prove was in its possession without any obligation of confidentiality prior to receipt from the Disclosing Party, "
+  },
+  {
+   "id": "s17",
+   "text": "(iii) is independently developed by the Receiving Party, or "
+  },
+  {
+   "id": "s18",
+   "text": "(iv) is obtained by the Receiving Party from third parties without any obligation of confidentiality to the Disclosing Party."
+  },
+  {
+   "id": "s19",
+   "text": "1.3. “Disclosing Party” means the Party to which Confidential Information accessed or disclosed relates."
+  },
+  {
+   "id": "s20",
+   "text": "1.4. “Effective Date” means the date of execution of this Agreement by you."
+  },
+  {
+   "id": "s21",
+   "text": "1.5. “Expiration Date” means 1 year from the Effective Date."
+  },
+  {
+   "id": "s22",
+   "text": "1.6. “Group Companies” means a Party’s ultimate holding company and any company that holding company owns (through 50% or more of the issued share capital) or controls (through the ability to appoint 50% or more of the officers)."
+  },
+  {
+   "id": "s23",
+   "text": "With respect to Teqball Holding, Group Companies shall also include International Federation of Teqball (Fédération Internationale de Teqball, an association registered in Switzerland at the Registre du Commerce du Canton de Vaud under n° CHE-327.306.031, having its registered address at 7 chemin de Beau-Rivage, c/o Ametis Conseils SA, 1006 Lausanne, Switzerland) and its Group Companies, and I. Budapest TEQBALL Sportegyesület (an association registered in Hungary at the Fővárosi Törvényszék under n° 01-02-0015920, having its registered address at 1042 Budapest, József Attila utca 18. fszt. 23.) and its Group Companies."
+  },
+  {
+   "id": "s24",
+   "text": "1.7. “Receiving Party” means the Party receiving or accessing Confidential Information."
+  },
+  {
+   "id": "s25",
+   "text": "2. Contracting Principles"
+  },
+  {
+   "id": "s26",
+   "text": "2.1. No Warranties. "
+  },
+  {
+   "id": "s27",
+   "text": "All Confidential Information furnished under this Agreement is provided AS IS. "
+  },
+  {
+   "id": "s28",
+   "text": "Neither Party makes any warranties, express or implied, for example, regarding the accuracy, completeness, merchantability, fitness for use, or non-infringing nature of its Confidential Information."
+  },
+  {
+   "id": "s29",
+   "text": "2.2. Governing Law and Venue. "
+  },
+  {
+   "id": "s30",
+   "text": "All aspects of this Agreement, all matters arising from it, including disputes or lawsuits, and the relationship of the Parties relating to this Agreement, are governed by the laws of Luxembourg, and its courts shall have exclusive jurisdiction thereover."
+  },
+  {
+   "id": "s31",
+   "text": "Nevertheless, each Party recognizes that a breach of confidentiality may cause irreparable harm to the other and that actual damages may be difficult to ascertain or inadequate in such cases. "
+  },
+  {
+   "id": "s32",
+   "text": "Each Party shall thus have the right to enforce this Agreement by injunction, specific performance, or other equitable relief, without a requirement to prove actual damages and without prejudice to any other rights and remedies that they may have otherwise."
+  },
+  {
+   "id": "s33",
+   "text": "2.3. Entire Agreement. "
+  },
+  {
+   "id": "s34",
+   "text": "This Agreement constitutes the entire agreement between the Parties with respect to the Purpose and supersedes any prior understanding or agreements thereon."
+  },
+  {
+   "id": "s35",
+   "text": "3. Non-disclosure and Non-use Obligations"
+  },
+  {
+   "id": "s36",
+   "text": "3.1. Ownership of Confidential Information. "
+  },
+  {
+   "id": "s37",
+   "text": "All Confidential Information of a Party is and shall remain the property of that Party. "
+  },
+  {
+   "id": "s38",
+   "text": "Nothing contained in this Agreement shall be construed as granting or conferring any rights to any Confidential Information of a Disclosing Party, or to any intellectual property contained therein."
+  },
+  {
+   "id": "s39",
+   "text": "3.2. Exchange of Confidential Information. "
+  },
+  {
+   "id": "s40",
+   "text": "Confidential Information may be exchanged by the Parties from the Effective Date until the Expiration Date, or, if the agreement(s) underpinning the Purpose have been entered into before the Expiration Date, then Confidential Information may be exchanged until the obligations in such agreement(s) are still in effect."
+  },
+  {
+   "id": "s41",
+   "text": "3.3. Authorized Use. Confidential Information shall be used exclusively for "
+  },
+  {
+   "id": "s42",
+   "text": "(i) discussions and/or negotiations, "
+  },
+  {
+   "id": "s43",
+   "text": "(ii) performance and/or enforcement, "
+  },
+  {
+   "id": "s44",
+   "text": "(iii) termination and/or disputes, of or relating to the Purpose, and shall not be used for any other purpose."
+  },
+  {
+   "id": "s45",
+   "text": "3.4. Non-disclosure. "
+  },
+  {
+   "id": "s46",
+   "text": "Each Party shall hold the other Party’s Confidential Information in strictest confidence and shall not disclose the other Party’s Confidential Information to any third party, except to the Receiving Party’s own Authorized Persons on a need-to-know basis."
+  },
+  {
+   "id": "s47",
+   "text": "3.5. Information Security. "
+  },
+  {
+   "id": "s48",
+   "text": "Each Party shall secure the other Party’s Confidential Information and protect it from access by anyone other than its Authorized Persons, in the same way that it protects its own Confidential Information, but in all cases using a professional degree of care. "
+  },
+  {
+   "id": "s49",
+   "text": "The Receiving Party’s obligations relating to securing and protecting Confidential Information shall remain in effect for the later of either "
+  },
+  {
+   "id": "s50",
+   "text": "(i) 5 (five) years after the last date defined in clause 3.2 or "
+  },
+  {
+   "id": "s51",
+   "text": "(ii) until the Confidential Information may reasonably be considered as no longer confidential."
+  },
+  {
+   "id": "s52",
+   "text": "3.6. Breach of Confidentiality. "
+  },
+  {
+   "id": "s53",
+   "text": "The Receiving Party shall immediately notify the Disclosing Party upon learning of any actual or potential access of its Confidential Information by unauthorized third parties. "
+  },
+  {
+   "id": "s54",
+   "text": "If "
+  },
+  {
+   "id": "s55",
+   "text": "(i) an Authorized Person’s or former Authorized Person’s action or omission would be considered a breach of this Agreement if they had been a party thereto, and "
+  },
+  {
+   "id": "s56",
+   "text": "(ii) the Receiving Party has coercive power over them at the time of such action or omission, then the Receiving Party shall be responsible for such action or omission as if it were its own breach."
+  },
+  {
+   "id": "s57",
+   "text": "3.7. Required Disclosures. "
+  },
+  {
+   "id": "s58",
+   "text": "Nothing in this Agreement shall prohibit either Party from disclosing a part of the other Party’s Confidential Information if legally required to do so by law or regulation (including those governing capital markets), judicial or governmental order, provided that it gives, to the extent and as soon as legally permissible, prior notice of such disclosure to the other Party."
+  },
+  {
+   "id": "s59",
+   "text": "3.8. Return of Confidential Information. "
+  },
+  {
+   "id": "s60",
+   "text": "Immediately upon the Disclosing Party’s request or by the last date defined in clause 3.2, the Receiving Party shall return/or destroy, at the Disclosing Party’s discretion and expense, all the Disclosing Party’s Confidential Information in its possession, irrespective of the media, and certify execution of this obligation in writing. "
+  },
+  {
+   "id": "s61",
+   "text": "This obligation shall not apply to "
+  },
+  {
+   "id": "s62",
+   "text": "(i) copies retained in compliance with a Party’s legal or regulatory obligations or "
+  },
+  {
+   "id": "s63",
+   "text": "(ii) copies made as part of preexisting data back-up processes, if such copies are not accessible to the Receiving Party’s staff or Authorized Persons in the normal course of business."
+  },
+  {
+   "id": "s64",
+   "text": "4. Proof of Execution"
+  },
+  {
+   "id": "s65",
+   "text": "The Parties agree that proof of execution of this Agreement shall be constituted by the digital record of Your (click) acceptance of its terms."
+  }
+ ]
+}

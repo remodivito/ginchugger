@@ -1,0 +1,657 @@
+{
+ "id": "N150",
+ "revision": 1,
+ "title": "mcgill_mitacs_terms-january2013.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 150,
+  "type": "search-pdf",
+  "url": "https://www.mitacs.ca/sites/default/files/mcgill_mitacs_terms-january2013.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "PROGRAM RESEARCH AGREEMENT AND NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "MITACS-ACCELERATE INTERNSHIPS AND MITACS-ELEVATE FELLOWSHIPS"
+  },
+  {
+   "id": "s2",
+   "text": "For Graduate Student and Post-Doctoral Educational Projects at McGill University Funded Through the Mitacs Accelerate Internship Program (“Mitacs Accelerate”) or the Mitacs Elevate Fellowship Program (“Mitacs Elevate”) "
+  },
+  {
+   "id": "s3",
+   "text": "As Administered by Mitacs"
+  },
+  {
+   "id": "s4",
+   "text": "PARTIES: The Royal Institution for the Advancement of Learning/ McGill University (“McGill”) "
+  },
+  {
+   "id": "s5",
+   "text": "A Canadian University having a place of business at 845 Sherbrooke Street West, Montreal, Quebec, Canada, H3A 2T5."
+  },
+  {
+   "id": "s6",
+   "text": "Sponsor / Organization Name (“Sponsor”)"
+  },
+  {
+   "id": "s7",
+   "text": "Sponsor / Organisation Address"
+  },
+  {
+   "id": "s8",
+   "text": "Intern Name (“Intern”)"
+  },
+  {
+   "id": "s9",
+   "text": "Intern Academic Address"
+  },
+  {
+   "id": "s10",
+   "text": "DATE: "
+  },
+  {
+   "id": "s11",
+   "text": "This agreement (“Agreement”) is entered into as of DD Month YYYY (“Effective Date”)"
+  },
+  {
+   "id": "s12",
+   "text": "(individually McGill, Sponsor and Intern are each a “Party” and collectively the “Parties”)"
+  },
+  {
+   "id": "s13",
+   "text": "WHEREAS the Parties wish to participate in Mitacs Accelerate or Mitacs Elevate;"
+  },
+  {
+   "id": "s14",
+   "text": "WHEREAS the Parties each have proprietary knowledge and information relating to the activities undertaken pursuant to the Mitacs Accelerate internship/Elevate fellowship;"
+  },
+  {
+   "id": "s15",
+   "text": "WHEREAS the Parties wish to enter into discussions to evaluate their mutual interest in pursuing business relations for participation in the Mitacs Accelerate internship/Elevate fellowship;"
+  },
+  {
+   "id": "s16",
+   "text": "WHEREAS during said discussions or activities undertaken pursuant to the Mitacs Accelerate internship/Elevate fellowship a Party may disclose to another certain information deemed to be confidential in nature; and"
+  },
+  {
+   "id": "s17",
+   "text": "WHEREAS the Parties wish to establish their respective rights and obligations with respect to such information."
+  },
+  {
+   "id": "s18",
+   "text": "NOW THEREFORE, in consideration of the foregoing and the mutual covenants set out in this Agreement and for other good and valuable consideration (the receipt and sufficiency of which is hereby acknowledged by each of the Parties), the Parties agree as follows:"
+  },
+  {
+   "id": "s19",
+   "text": "1. PREAMBLE: The Preamble forms an integral part of this Agreement."
+  },
+  {
+   "id": "s20",
+   "text": "2. DEFINITIONS"
+  },
+  {
+   "id": "s21",
+   "text": "a. Intern: the graduate student or post-doctoral fellow (“PDF”) participating in Mitacs Accelerate or Mitacs Elevate"
+  },
+  {
+   "id": "s22",
+   "text": "b. Academic Supervisor: the academic supervisor of an Intern."
+  },
+  {
+   "id": "s23",
+   "text": "c. Sponsor: the sponsoring organization(s) participating in Mitacs Accelerate or Mitacs Elevate."
+  },
+  {
+   "id": "s24",
+   "text": "d. Project: the activities undertaken pursuant to the Mitacs Accelerate internship/Elevate fellowship."
+  },
+  {
+   "id": "s25",
+   "text": "e. Mitacs Accelerate: a research-based internship program used to support research involving Interns, their Academic Supervisors, and a Sponsor."
+  },
+  {
+   "id": "s26",
+   "text": "f. Mitacs Elevate: postdoctoral fellowship program that supports PDFs working on applied research projects with Canadian companies and may be either an;"
+  },
+  {
+   "id": "s27",
+   "text": "i. Strategic Fellowship Program: (“SFP”), the PDF will spend their first year working on a project with their Academic Supervisor while seeking a suitable Sponsor to enable them to switch to the IFP by the end of year 1; or"
+  },
+  {
+   "id": "s28",
+   "text": "ii. Industrial Fellowship Program: (“IFP”), the PDF will work on a joint project with a Sponsor."
+  },
+  {
+   "id": "s29",
+   "text": "g. Intellectual Property: (“IP”), the right, title or interest in or to literary, artistic, scientific works and Technical Information including without limitation, scientific discoveries, inventions, patents, copyrights, trade secrets, trademarks, service marks, commercial names and designations, registered industrial designs, applications for the foregoing, and similar rights recognized from time to time in any jurisdiction together with all rights of action in relation to the infringement of any of the foregoing."
+  },
+  {
+   "id": "s30",
+   "text": "h. Background Intellectual Property: (“Background IP”), IP other than Project Intellectual Property, conceived, developed, reduced to practice or otherwise made or acquired by a Party prior to the Effective Date or outside the scope of this Agreement and used to generate the research results."
+  },
+  {
+   "id": "s31",
+   "text": "i. Project Intellectual "
+  },
+  {
+   "id": "s32",
+   "text": "Property: (“Project IP”), IP created during and as a direct result of work undertaken for a Project. "
+  },
+  {
+   "id": "s33",
+   "text": "For clarity, Project IP does not include Background IP."
+  },
+  {
+   "id": "s34",
+   "text": "j. Confidential Information: any information disclosed by one Party (the ‘Discloser’) to another party (the ‘Recipient’) relating directly or indirectly to the Project, which is identified by the disclosing Party, either orally or in writing, as confidential, either at the time of disclosure or, if disclosed orally, confirmed in writing within thirty (30) days following the original disclosure. "
+  },
+  {
+   "id": "s35",
+   "text": "Exceptions to Confidential Information: This Agreement does not apply to information that:"
+  },
+  {
+   "id": "s36",
+   "text": "i. was available to the public at the time of disclosure, or subsequently became available to the public without fault of Recipient;"
+  },
+  {
+   "id": "s37",
+   "text": "ii. was known to Recipient at the time of disclosure or was independently developed by Recipient, provided there is adequate documentation to confirm such prior knowledge or independent development;"
+  },
+  {
+   "id": "s38",
+   "text": "iii. was received by Recipient from a third party and Recipient was not aware that the third party had a duty of confidentiality to Discloser in respect of the information;"
+  },
+  {
+   "id": "s39",
+   "text": "iv. is used or disclosed by Recipient with Discloser’s prior written approval; or"
+  },
+  {
+   "id": "s40",
+   "text": "v. is required to be disclosed by law, provided that Recipient gives Discloser sufficient prior written notice of any such disclosure to allow Discloser to contest the disclosure."
+  },
+  {
+   "id": "s41",
+   "text": "k. Disclosure: means the publication of theses, articles, and scholarly writings or oral or written presentations at lectures, conferences or seminars."
+  },
+  {
+   "id": "s42",
+   "text": "3. OWNERSHIP AND USE OF INTELLECTUAL PROPERTY:"
+  },
+  {
+   "id": "s43",
+   "text": "3.1 BACKGROUND IP: Each Party will retain all right, title and interest in and to its Background IP, provided or used in the Project and no license to use any Background IP is granted or implied by this Agreement excepting that each Party will be deemed to have been granted a royalty-free, non-exclusive license to use the Background IP of another Party which that Party makes available for use in a Project, but only to the extent reasonably necessary to undertake that Project. "
+  },
+  {
+   "id": "s44",
+   "text": "McGill and Intern hereby grants Sponsor a time-limited option to negotiate an exclusive or non-exclusive, royalty-bearing licence to use Background IP under commercially reasonable terms and conditions to be negotiated in good faith by the Parties (the “Option”). "
+  },
+  {
+   "id": "s45",
+   "text": "Sponsor acknowledges that McGill and the Intern shall offer no warranty concerning patentability or non-infringement, merchantability or fitness for a particular purpose of the Background IP or Project IP or of any ensuing products. "
+  },
+  {
+   "id": "s46",
+   "text": "Except as expressly provided otherwise, nothing in this Agreement will be construed as a transfer or assignment of any right, title or interest in or to any IP, by one Party to another."
+  },
+  {
+   "id": "s47",
+   "text": "3.2 PROJECT IP: The Sponsor will own all right, title and interest in and to the Project IP other than copyright in Publications as that term is defined in the following section. "
+  },
+  {
+   "id": "s48",
+   "text": "The Sponsor grants each of McGill and the Intern, and if applicable the Academic Supervisor and members of the research team shall forever retain a royalty-free, non-exclusive, perpetual, irrevocable license to use the Project IP for research, scholarly publication, educational and other non-commercial purposes."
+  },
+  {
+   "id": "s49",
+   "text": "3.3 DISCLOSURE OFPROJECT IP TO MCGILL: By exception to the IP policy of McGill, Project IP that has been developed without the contribution of the Academic Supervisor is not required to be registered with McGill prior to any commercialization of that Project IP."
+  },
+  {
+   "id": "s50",
+   "text": "3.4 PUBLICATION: The Parties are not restricted from presenting, publishing or otherwise disseminating the results of any research relating to a Project (including without limitation the Project IP) at symposia, professional meetings or for academic evaluation or other academic purposes (including, without limitation, publishing thesis, course reports, journal articles or other academic publications) (a “Publication”) provided that during the Project and for a period of two years following the completion or other termination of the Project, the Academic Supervisor and the Intern will provide the Sponsor with a copy of any proposed Publication containing the results of any research relating to a Project or any Project IP at least thirty (30) days in advance of the proposed publication date. "
+  },
+  {
+   "id": "s51",
+   "text": "The Sponsor may, within fifteen (15) days following receipt of a copy of the proposed publication require by written notice to McGill and the Intern that the proposed publication date be delayed, for a period of not greater than sixty (60) days, so as to permit the Sponsor to make an application to register a patent with respect to the Project IP. "
+  },
+  {
+   "id": "s52",
+   "text": "Failing receipt of such notice in the time and in the manner provided, McGill and the Intern will be at liberty to publish the proposed publication without further notice to the Sponsor."
+  },
+  {
+   "id": "s53",
+   "text": "3.5 COPYRIGHT: Copyright in any Publication will be owned by the author excluding any software code and related technical documentation created as part of the Project, which shall be Project IP notwithstanding this this limitation the moral rights of the author shall not be affected."
+  },
+  {
+   "id": "s54",
+   "text": "4. LIMITED WARRANTY DISCLAIMER AND INDEMNITY FOR BACKGROUND AND PROJECT INTELLECTUAL PROPERTY: The Sponsor acknowledges that the Project is experimental and exploratory in nature and that no promise is made with respect to the achievement of any results, desired or otherwise, in a given Project. "
+  },
+  {
+   "id": "s55",
+   "text": "The Sponsor agrees to undertake its own due diligence prior to any use of the Project IP. "
+  },
+  {
+   "id": "s56",
+   "text": "No warranty or representation is given with respect to the Project IP including, without limitation, any implied warranties as to merchantability, fitness for a particular purpose or of non-infringement. "
+  },
+  {
+   "id": "s57",
+   "text": "McGill and the Intern expressly disclaim all obligations and liabilities for damages of any kind or nature whatsoever including, but not limited to, direct, indirect, special, incidental, punitive and consequential damages, solicitors’ and experts' fees, and court costs (even if they have been advised of the possibility of such damages, fees or costs), arising out of or in connection with the Project or any use in any manner whatsoever of any research results or Project IP."
+  },
+  {
+   "id": "s58",
+   "text": "The Sponsor will hold harmless and indemnify McGill, its Board of Governors, executives, faculty, staff, employees, agents, successors and assigns (including without limitation the Academic Supervisor and the Intern ) from and against any and all claims or judgments, including all associated legal fees, expenses and disbursements actually incurred, on a solicitor and own client basis, from or arising out of the use by the Sponsor, or anyone for whom the Sponsor is in law responsible or any of their successors or assigns, of Project IP or the research results of a given Project, including without limitation any damages of any kind or nature whatsoever (including but not limited to direct, indirect, special, incidental, punitive or consequential), losses of any kind or nature (including without limitation loss of revenues, profits, savings, business, data or records) or costs arising in any manner whatsoever (including arising from or incidental to any product liability or other lawsuit, claim, demand or other action brought), directly or indirectly, from or out of any use whatsoever of Project IP or the research results of the Project."
+  },
+  {
+   "id": "s59",
+   "text": "5. DESIGNATED REPRESENTATIVES: Each party designates a representative for coordinating receipt, release and delivery of Confidential Information, which for McGill will be Intern AND Name of Academic Supervisor and/or Office of Sponsored Research representative and for Sponsor: Name of designated representative for Sponsor, or another individual(s) as the Party may designate in writing to the other Party."
+  },
+  {
+   "id": "s60",
+   "text": "6. REGULATORY COMPLIANCE: Each party must comply with all applicable laws, regulations and rules in its jurisdiction."
+  },
+  {
+   "id": "s61",
+   "text": "6.1 EXPORT CONTROL AND CONTROLLED GOODS COMPLIANCE: "
+  },
+  {
+   "id": "s62",
+   "text": "In the event that goods or information falling under Canadian or United States export control rules, controlled goods or arms regulations are required to be provided by the Sponsor to McGill, Academic Supervisor or Intern, Sponsor will so inform McGill in writing prior to any such disclosure, Sponsor shall not forward or provide any such information to McGill or Intern without the express written permission of McGill. "
+  },
+  {
+   "id": "s63",
+   "text": "The burden shall be on Sponsor to make it available only to eligible individuals as designated by McGill, or to obtain the appropriate license or approval from the relevant agency, or to invoke an available exception, exemption or exclusion."
+  },
+  {
+   "id": "s64",
+   "text": "6.2 "
+  },
+  {
+   "id": "s65",
+   "text": "In the event the Project research results or any data developed in the course of the Project constitute controlled goods under Canadian law, the Parties will cooperate so that the requirements of the law are met prior to disclosure of such results or data."
+  },
+  {
+   "id": "s66",
+   "text": "6.3 McGill shall have the right to terminate this Agreement under Section 13, \"Term and Termination,\" if the disclosure of such information, under license or otherwise, would destroy McGill's ability to invoke the fundamental research exclusion with regard to the conduct or reporting of its research or McGill is unable to comply with the requirements of the Sponsor."
+  },
+  {
+   "id": "s67",
+   "text": "7. NON-DISCLOSURE:"
+  },
+  {
+   "id": "s68",
+   "text": "7.1 Recipient must keep Confidential Information in confidence. "
+  },
+  {
+   "id": "s69",
+   "text": "Recipient may disclose the Confidential Information only to such of its employees, directors, officers, agents, consultants and administrators who have a need-to-know such information for the Project provided that they are advised of the confidential nature of the Confidential Information and are under an obligation to maintain its confidentiality. "
+  },
+  {
+   "id": "s70",
+   "text": "Recipient must not otherwise disclose Confidential Information to any person or third party without the prior written approval of the Discloser."
+  },
+  {
+   "id": "s71",
+   "text": "7.2 "
+  },
+  {
+   "id": "s72",
+   "text": "The obligation to safeguard Confidential Information shall continue for a period of two (2) years from the date the internship/fellowship terminates or expires."
+  },
+  {
+   "id": "s73",
+   "text": "8. STANDARD OF CARE: Recipient agrees to protect the Confidential Information using at least the same degree of care Recipient uses to protect its own Confidential Information, but in no event less than reasonable care. "
+  },
+  {
+   "id": "s74",
+   "text": "Recipient must notify Discloser promptly upon discovery that any Confidential Information has been accessed or otherwise acquired by or disclosed to an unauthorized person."
+  },
+  {
+   "id": "s75",
+   "text": "9. RETURN OF CONFIDENTIAL INFORMATION: "
+  },
+  {
+   "id": "s76",
+   "text": "If requested in writing by Discloser, Recipient must cease using, return to Discloser and/or destroy all Confidential Information and any copies of Confidential Information in its possession or control. "
+  },
+  {
+   "id": "s77",
+   "text": "Recipient may retain one archival copy of such Confidential Information for the sole purpose of establishing the extent of the disclosure of such Confidential Information, provided that such information is not used by Recipient for any other purpose and is subject to the confidentiality requirements set out in this Agreement."
+  },
+  {
+   "id": "s78",
+   "text": "10. NO LICENCE OR OTHER RIGHTS: "
+  },
+  {
+   "id": "s79",
+   "text": "In respect of Background IP no right or license whatsoever, expressed or implied, is granted by McGill to Intern or Sponsor pursuant to this Agreement under any patent, patent application, copyright, trademark or other proprietary right now or hereafter held by or licensed to McGill. "
+  },
+  {
+   "id": "s80",
+   "text": "No legal obligations, rights, relationship or duties shall be construed or inferred from the entering into of this Agreement other than as expressly set out herein."
+  },
+  {
+   "id": "s81",
+   "text": "11. LIMITED WARRANTY & LIABILITY: The Parties warrant that they have the right to disclose the Confidential Information to another Party. "
+  },
+  {
+   "id": "s82",
+   "text": "No other warranties in respect of the Confidential Information are made by any Party and all information is provided “AS IS” without any express or implied warranty of any kind, including any warranty as to merchantability, fitness for a particular purpose, accuracy, completeness or violation of third party IP rights. "
+  },
+  {
+   "id": "s83",
+   "text": "In no event will McGill or Intern be liable for any special, incidental or consequential damages of any kind whatsoever resulting from the disclosure, use or receipt of the Confidential Information."
+  },
+  {
+   "id": "s84",
+   "text": "12. TERM AND TERMINATION:"
+  },
+  {
+   "id": "s85",
+   "text": "12.1 TERM: "
+  },
+  {
+   "id": "s86",
+   "text": "This Agreement shall come into force on the Effective Date and shall terminate on [DD MONTH YYYY INTERNSHIP/FELLOWSHIP ENDS] unless terminated earlier in accordance with the provisions of sections 13.2 or 13.3, below."
+  },
+  {
+   "id": "s87",
+   "text": "12.2 TERMINATION FOR DEFAULT. "
+  },
+  {
+   "id": "s88",
+   "text": "Termination for Default. "
+  },
+  {
+   "id": "s89",
+   "text": "Either Party may terminate this Agreement immediately upon notice to the other Party, in the event of:"
+  },
+  {
+   "id": "s90",
+   "text": "12.2.1 material breach or non-compliance by the other Party of some obligation, undertaking, representation, warranty or payment contained in this Agreement, if such default is not remedied within thirty (30) days of receipt of written notice to that effect;"
+  },
+  {
+   "id": "s91",
+   "text": "12.2.2 the other Party becoming bankrupt or insolvent, going into receivership, making an assignment of its assets to the benefit of its creditors, taking advantage of any statute which may be in force in relation to bankruptcy or insolvent debtors, or ceasing to conduct business in the normal course."
+  },
+  {
+   "id": "s92",
+   "text": "12.2.3 default on the part of the other Party caused by a force majeure, where such default lasts for more than six (6) months."
+  },
+  {
+   "id": "s93",
+   "text": "12.3 TERMINATION BY MCGILL. "
+  },
+  {
+   "id": "s94",
+   "text": "McGill shall also be able to terminate this Agreement, in its own discretion and without penalty or compensation to Sponsor, in the event that the Academic Supervisor leaves the employment of McGill, becomes permanently disabled or passes away. "
+  },
+  {
+   "id": "s95",
+   "text": "In such a case, the Parties will attempt in good faith to identify another Academic Supervisor at McGill. "
+  },
+  {
+   "id": "s96",
+   "text": "Should they be unable to find a mutually acceptable replacement, McGill shall be able to terminate this Agreement under this section. "
+  },
+  {
+   "id": "s97",
+   "text": "McGill shall also be able to terminate this Agreement pursuant to section 6.3."
+  },
+  {
+   "id": "s98",
+   "text": "12.4 EFFECT OF TERMINATION. "
+  },
+  {
+   "id": "s99",
+   "text": "Upon receipt by either Party of a notice of termination under this section 13 or expiry of the delay within which default may be cured under section 13.2.1, McGill will make all reasonable efforts to stop work on the Project and limit further expense of the Funds, provided that McGill shall have the right to disburse any sum of money committed at the time of termination. "
+  },
+  {
+   "id": "s100",
+   "text": "Sponsor shall pay to McGill all expenses reasonably incurred, committed to, or made in relation to the Project up to and including the date of receipt of a notice of termination or expiry of the delay within which default could be cured under section 13.2.1, and shall pay for all costs and fees related to the termination of the Agreement."
+  },
+  {
+   "id": "s101",
+   "text": "13. SEVERABILITY: If, for any reason, any provision of this Agreement is determined to be invalid or unenforceable in whole or in part, such invalidity or unenforceability and the remainder of this Agreement shall be enforced to the fullest extent possible."
+  },
+  {
+   "id": "s102",
+   "text": "14. ENTIRE AGREEMENT: "
+  },
+  {
+   "id": "s103",
+   "text": "These terms are the entire Agreement between the Parties with respect to the subject matter hereof and supersede all prior or contemporaneous agreements, understandings or terms of the Parties, and there are no warranties, representations or other agreements between the Parties in connection with the subject matter of the terms except as specifically set forth herein."
+  },
+  {
+   "id": "s104",
+   "text": "15. ASSIGNMENT: "
+  },
+  {
+   "id": "s105",
+   "text": "This Agreement shall not be assignable or transferable and shall enure to the benefit of and be binding upon the Parties hereto."
+  },
+  {
+   "id": "s106",
+   "text": "16. RELATIONSHIP OF THE PARTIES: During the course of the Project, the Intern remains a student/PDF of McGill. "
+  },
+  {
+   "id": "s107",
+   "text": "Moreover the Intern is not an employee, agent or representative of McGill. "
+  },
+  {
+   "id": "s108",
+   "text": "The Intern does not become an employee of the Sponsor and will not sign any agreements with the Sponsor. "
+  },
+  {
+   "id": "s109",
+   "text": "Nothing in this Agreement shall make one Party the partner of another Party nor constitute one Party the agent or legal representative of another Party, or create any fiduciary relationship between them."
+  },
+  {
+   "id": "s110",
+   "text": "17. PUBLICITY: The Sponsor will not use or permit others to use the name of McGill, the Academic Supervisor or the Intern, or refer to their participation in the Project for commercial purpose without the written consent of McGill and the Intern."
+  },
+  {
+   "id": "s111",
+   "text": "18. DISPUTE RESOLUTION:"
+  },
+  {
+   "id": "s112",
+   "text": "18.1 Cooperation. "
+  },
+  {
+   "id": "s113",
+   "text": "Each Party to this Agreement agrees to cooperate with the other to ensure that each may enjoy all rights conferred under such Agreement."
+  },
+  {
+   "id": "s114",
+   "text": "18.2 Mediation. "
+  },
+  {
+   "id": "s115",
+   "text": "The parties shall attempt to resolve any dispute, controversies, and claims with respect to this Agreement amicably through good faith negotiations. "
+  },
+  {
+   "id": "s116",
+   "text": "In the event that the Parties fail to resolve their differences, the matter shall be first submitted to a mutually acceptable mediator, qualified by education and experience to review the matter. "
+  },
+  {
+   "id": "s117",
+   "text": "The Parties shall be responsible for their own costs and shall share the fees and expenses of the mediator."
+  },
+  {
+   "id": "s118",
+   "text": "18.3 Arbitration. "
+  },
+  {
+   "id": "s119",
+   "text": "Should the mediation process fail to resolve the dispute to the satisfaction of both Parties within thirty (30) days of the appointment of the mediator, the Parties shall submit their dispute to arbitration in front of a single arbitrator and in accordance with the provisions of articles 940 and following of the Code de procédure civile du Québec. "
+  },
+  {
+   "id": "s120",
+   "text": "The award and determination of the arbitrator shall be final and binding upon the Parties. "
+  },
+  {
+   "id": "s121",
+   "text": "Each Party to the arbitration shall pay its own costs, including the expenses and fees generated by the legal representation at arbitration."
+  },
+  {
+   "id": "s122",
+   "text": "19. SURVIVAL: Notwithstanding the foregoing, the provisions of Section 3.2 (the academic and research license); Section 3.4 (Publication); Section 4 (Indemnification); Section 7 (Non-Disclosure); and Section 11 (Warranties) and will survive the end or other termination of the Project."
+  },
+  {
+   "id": "s123",
+   "text": "20. RESPONSIBILITIES OF PARTIES: No Party or Project participant will be responsible to the others for non-performance or delay in performance occasioned by any cause beyond its control, including, without limitation, acts or omissions of the other party, acts of civil or military authority, strikes, lockouts, embargoes, insurrections or Acts of God. "
+  },
+  {
+   "id": "s124",
+   "text": "If any such delay occurs, any applicable time period shall be automatically extended for a period equal to the time lost provided that the party affected gives the other party prompt notice of such delay and makes reasonable efforts to correct the reason for the delay. "
+  },
+  {
+   "id": "s125",
+   "text": "For greater certainty, the unavailability of the Intern or the Intern’s failure to fulfill his or her obligations pursuant to the Project are matters beyond the control of McGill. "
+  },
+  {
+   "id": "s126",
+   "text": "In the event this occurs, the Sponsor may elect to terminate the Project but shall have no recourse or remedy against McGill or the Academic Supervisor."
+  },
+  {
+   "id": "s127",
+   "text": "21. NOTICES: Any demand, notice or other communication to be given in connection with this Agreement shall be given in writing and shall be given by personal delivery, by registered mail or by electronic means of communication addressed to Recipient as follows:"
+  },
+  {
+   "id": "s128",
+   "text": "McGill: McGill Office of Sponsored Research Sponsor: Sponsor Name"
+  },
+  {
+   "id": "s129",
+   "text": "Associate Director, Contracts and c/o Sponsor Representative"
+  },
+  {
+   "id": "s130",
+   "text": "Agreements Sponsor Address"
+  },
+  {
+   "id": "s131",
+   "text": "James Administration Building, 2nd Floor Tel:"
+  },
+  {
+   "id": "s132",
+   "text": "845 Sherbrooke Street West Fax:"
+  },
+  {
+   "id": "s133",
+   "text": "Montreal, Quebec, H3A 0G4"
+  },
+  {
+   "id": "s134",
+   "text": "Canada"
+  },
+  {
+   "id": "s135",
+   "text": "Tel: 514.398.4373"
+  },
+  {
+   "id": "s136",
+   "text": "Fax: 514.398.4853"
+  },
+  {
+   "id": "s137",
+   "text": "Intern: Intern Name"
+  },
+  {
+   "id": "s138",
+   "text": "Intern McGill Address"
+  },
+  {
+   "id": "s139",
+   "text": "Tel:"
+  },
+  {
+   "id": "s140",
+   "text": "Fax:"
+  },
+  {
+   "id": "s141",
+   "text": "22. GOVERNING LAW: "
+  },
+  {
+   "id": "s142",
+   "text": "This Agreement shall be governed by and construed in accordance with the laws of the Province of Québec and the laws of Canada applicable therein and hereby submit to the jurisdiction of the courts of the Province of Québec."
+  },
+  {
+   "id": "s143",
+   "text": "23. LANGUAGE: The Parties hereto hereby acknowledge that they have required this Agreement to be drawn up in the English language. "
+  },
+  {
+   "id": "s144",
+   "text": "Les parties reconnaissent avoir demandé que le présent contrat soit rédigé en langue anglaise."
+  },
+  {
+   "id": "s145",
+   "text": "24. EXECUTION - This Agreement shall be executed in triplicate by original signatures only by the duly authorised representatives of each party."
+  },
+  {
+   "id": "s146",
+   "text": "[THE REMAINDER OF THIS PAGE IS LEFT INTENTIONALLY BLANK]"
+  },
+  {
+   "id": "s147",
+   "text": "IN WITNESS WHEREOF the Parties have duly executed this Agreement by their duly authorized representatives as of the Effective Date."
+  },
+  {
+   "id": "s148",
+   "text": "McGill Sponsor"
+  },
+  {
+   "id": "s149",
+   "text": "Name of Signatory Name of Signatory"
+  },
+  {
+   "id": "s150",
+   "text": "Title Title"
+  },
+  {
+   "id": "s151",
+   "text": "Date Date"
+  },
+  {
+   "id": "s152",
+   "text": "Intern"
+  },
+  {
+   "id": "s153",
+   "text": "Name of Intern"
+  },
+  {
+   "id": "s154",
+   "text": "Date"
+  },
+  {
+   "id": "s155",
+   "text": "Acknowledgement"
+  },
+  {
+   "id": "s156",
+   "text": "The Academic Supervisor acknowledges the terms and conditions set out in this Agreement and agrees to be bound by the obligations contained within it. "
+  },
+  {
+   "id": "s157",
+   "text": "The Academic Supervisor will ensure that any faculty or staff dealing with the Confidential Information is aware of the terms of this Agreement and agrees to abide by them."
+  },
+  {
+   "id": "s158",
+   "text": "Academic Supervisor"
+  },
+  {
+   "id": "s159",
+   "text": "Name of Academic Supervisor"
+  },
+  {
+   "id": "s160",
+   "text": "Date"
+  }
+ ]
+}

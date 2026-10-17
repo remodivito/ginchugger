@@ -1,0 +1,44 @@
+{
+ "canary": "2eb20c99-e785-485c-b97c-b5e8d177c40a",
+ "format": "layer-c-judgement/1",
+ "output": "smoke-golden",
+ "task": "redline-s3-t4-g02a",
+ "criterion": "C-s3-03",
+ "kind": "keep",
+ "judge": "qwen",
+ "family": "alibaba",
+ "executor": "openai",
+ "model": "qwen/qwen3.8-27b",
+ "servedModel": null,
+ "effort": "provider default",
+ "maxOutputTokens": 64000,
+ "promptFile": "tough-eval/v2/layer-c/prompts/judge-c.md",
+ "promptSha256": "26e25c058dbc97265fab8072a182c1adb1a9f5c9d8fa7e5a874123c674c0ad48",
+ "userSha256": "f1f5561d6226960e113e8fec4325e1d347bc330c3ce47f06069ff4e875f4f3e7",
+ "renderedSha256": "f62b98846233365786af90027eabfecb1c65491fb04dc1c1167f26a41e689453",
+ "at": "2026-10-15T22:29:14.264Z",
+ "seconds": 7.339,
+ "ok": true,
+ "pass": true,
+ "reason": "In p-087, the proposed change retains \"candidate-material summaries and interview-note drafting\" intact, only removing the parenthetical definition, satisfying the criterion.",
+ "finishReason": "stop",
+ "usage": {
+  "prompt_tokens": 22333,
+  "total_tokens": 22900,
+  "completion_tokens": 567,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "created_cache_tokens": 19200
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 521
+  }
+ },
+ "costUsd": null,
+ "attempts": [
+  {
+   "ok": true
+  }
+ ],
+ "raw": "{\"pass\": true, \"reason\": \"In p-087, the proposed change retains \\\"candidate-material summaries and interview-note drafting\\\" intact, only removing the parenthetical definition, satisfying the criterion.\"}"
+}

@@ -1,0 +1,189 @@
+{
+ "id": "N310",
+ "revision": 1,
+ "title": "non-disclosure-agreement-template.pdf",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 310,
+  "type": "search-pdf",
+  "url": "https://www.nationalarchives.gov.uk/documents/non-disclosure-agreement-template.pdf"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "NON-DISCLOSURE AGREEMENT"
+  },
+  {
+   "id": "s1",
+   "text": "This Nondisclosure Agreement (the \"Agreement\") is entered into by and between The National Archives, (the \"Disclosing Party\"), and _______________________, located at "
+  },
+  {
+   "id": "s2",
+   "text": "__________________ "
+  },
+  {
+   "id": "s3",
+   "text": "_________________________________________________ "
+  },
+  {
+   "id": "s4",
+   "text": "(the \"Receiving Party\"), for the purpose of preventing the unauthorised disclosure of Sensitive Information as defined below, in line with HMG’s Security Policy Framework. "
+  },
+  {
+   "id": "s5",
+   "text": "The parties agree to enter into a confidential relationship with respect to the disclosure of certain sensitive, proprietary or protected information (\"Sensitive Information\")."
+  },
+  {
+   "id": "s6",
+   "text": "1. Definition of Sensitive Information. "
+  },
+  {
+   "id": "s7",
+   "text": "For purposes of this Agreement, \"Sensitive Information\" shall include all information or material that"
+  },
+  {
+   "id": "s8",
+   "text": " has or could have commercial value or other utility in the business in which Disclosing Party is engaged"
+  },
+  {
+   "id": "s9",
+   "text": " might lead to the security of the Disclosing Party’s physical or information assets or the safety of its staff and customers being compromised."
+  },
+  {
+   "id": "s10",
+   "text": "If Sensitive Information is in a physical or electronic form, the Disclosing Party shall label or stamp the materials with the words OFFICIAL-SENSITIVE, or some similar warning, in line with HMG’s protective marking scheme. "
+  },
+  {
+   "id": "s11",
+   "text": "If Sensitive Information is transmitted orally, the Disclosing Party shall promptly provide a writing indicating that such oral communication constituted Sensitive Information."
+  },
+  {
+   "id": "s12",
+   "text": "2. Exclusions from Sensitive Information. "
+  },
+  {
+   "id": "s13",
+   "text": "Receiving Party's obligations under this Agreement do not extend to information that is: "
+  },
+  {
+   "id": "s14",
+   "text": "(a) publicly known at the time of disclosure or subsequently becomes publicly known through no fault of the Receiving Party; "
+  },
+  {
+   "id": "s15",
+   "text": "(b) discovered or created by the Receiving Party before disclosure by Disclosing Party; "
+  },
+  {
+   "id": "s16",
+   "text": "(c) learned by the Receiving Party through legitimate means other than from the Disclosing Party or Disclosing Party's representatives; "
+  },
+  {
+   "id": "s17",
+   "text": "(d) is disclosed by Receiving Party with Disclosing Party's prior written approval; or "
+  },
+  {
+   "id": "s18",
+   "text": "(e) independently developed by the Receiving Party outside the scope of this agreement."
+  },
+  {
+   "id": "s19",
+   "text": "3. Obligations of Receiving Party. "
+  },
+  {
+   "id": "s20",
+   "text": "Receiving Party shall hold and maintain the Sensitive Information in strictest confidence for the sole and exclusive benefit of the Disclosing Party. "
+  },
+  {
+   "id": "s21",
+   "text": "Receiving Party shall carefully restrict access to Sensitive Information to employees, contractors and third parties as is reasonably required and shall require those persons to sign nondisclosure restrictions at least as protective as those in this Agreement. "
+  },
+  {
+   "id": "s22",
+   "text": "Receiving Party shall put in place effective governance controls to monitor compliance and respond to (and report) any security breach incidents. "
+  },
+  {
+   "id": "s23",
+   "text": "Receiving Party shall not, without prior written approval of Disclosing Party, use for Receiving Party's own benefit, publish, copy, or otherwise disclose to others, or permit the use by others for their benefit or to the detriment of Disclosing Party, any Sensitive Information. "
+  },
+  {
+   "id": "s24",
+   "text": "Receiving Party shall return to Disclosing Party any and all records, notes, and other written, printed, or tangible materials in its possession pertaining to Sensitive Information within a reasonable time period if Disclosing Party requests it in writing."
+  },
+  {
+   "id": "s25",
+   "text": "4. Time Periods. "
+  },
+  {
+   "id": "s26",
+   "text": "The non-disclosure provisions of this Agreement shall survive the termination of this Agreement and Receiving Party's duty to hold Sensitive Information in confidence shall remain in effect until the Sensitive Information no longer qualifies as a trade secret or otherwise needing protection until Disclosing Party sends Receiving Party written notice releasing Receiving Party from this Agreement, whichever occurs first."
+  },
+  {
+   "id": "s27",
+   "text": "5. Relationships. "
+  },
+  {
+   "id": "s28",
+   "text": "Nothing contained in this Agreement shall be deemed to constitute either party a partner, joint venture or employee of the other party for any purpose."
+  },
+  {
+   "id": "s29",
+   "text": "6. Severability. "
+  },
+  {
+   "id": "s30",
+   "text": "If a court finds any provision of this Agreement invalid or unenforceable, the remainder of this Agreement shall be interpreted so as best to effect the intent of the parties."
+  },
+  {
+   "id": "s31",
+   "text": "7. Integration. "
+  },
+  {
+   "id": "s32",
+   "text": "This Agreement expresses the complete understanding of the parties with respect to the subject matter and supersedes all prior proposals, agreements, representations and understandings. "
+  },
+  {
+   "id": "s33",
+   "text": "This Agreement may not be amended except in writing signed by both parties."
+  },
+  {
+   "id": "s34",
+   "text": "8. Waiver. "
+  },
+  {
+   "id": "s35",
+   "text": "The failure to exercise any right provided in this Agreement shall not be a waiver of prior or subsequent rights."
+  },
+  {
+   "id": "s36",
+   "text": "This Agreement and each party's obligations shall be binding on the representatives, assigns and successors of such party. "
+  },
+  {
+   "id": "s37",
+   "text": "Each party has signed this Agreement through its authorised representative. "
+  },
+  {
+   "id": "s38",
+   "text": "__________________________________________________________________________ "
+  },
+  {
+   "id": "s39",
+   "text": "(Signature, on behalf of Disclosing Party)"
+  },
+  {
+   "id": "s40",
+   "text": "Date: "
+  },
+  {
+   "id": "s41",
+   "text": "_______________"
+  },
+  {
+   "id": "s42",
+   "text": "__________________________________________________________________________ "
+  },
+  {
+   "id": "s43",
+   "text": "(Signature, on behalf of Receiving Party)"
+  }
+ ]
+}

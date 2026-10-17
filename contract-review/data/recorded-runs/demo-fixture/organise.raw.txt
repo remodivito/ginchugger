@@ -1,0 +1,120 @@
+```json
+{
+  "placements": [
+    {
+      "itemId": "baae48f0-1eb0-4607-a6d5-6ded82fb5b1a",
+      "matter": "this",
+      "newMatterName": null,
+      "type": "standard form",
+      "reason": "Names Helix and Brightwater as parties and is the three-year draft that v2's reconstructed original reproduces exactly.",
+      "confidence": "medium",
+      "alternatives": []
+    },
+    {
+      "itemId": "a0d5efff-abf6-4bba-a740-c19668e0a9b7",
+      "matter": "this",
+      "newMatterName": null,
+      "type": "markup of our paper",
+      "reason": "Brightwater's tracked-change markup; rejecting its changes reproduces v1 (reconstruction match 1) and the email of 19 May names this file.",
+      "confidence": "high",
+      "alternatives": []
+    },
+    {
+      "itemId": "13aff8f6-6332-4025-92af-d6d796e8acac",
+      "matter": "this",
+      "newMatterName": null,
+      "type": "cover email",
+      "reason": "Brightwater's counsel sends the v2 markup and names the file in the body.",
+      "confidence": "high",
+      "alternatives": []
+    },
+    {
+      "itemId": "ce5f50fe-69a0-4308-aa2e-d1f0ad18c82a",
+      "matter": "this",
+      "newMatterName": null,
+      "type": "comment email",
+      "reason": "Replies in the same thread (In-Reply-To the 19 May email) about the seven-year point and the retention carve-out.",
+      "confidence": "high",
+      "alternatives": []
+    },
+    {
+      "itemId": "2f7bcbe3-fa50-4912-9b71-31b03607ce20",
+      "matter": "new",
+      "newMatterName": "Helix / Oakfield NDA",
+      "type": "standard form",
+      "reason": "Same Helix form but the counterparty is Oakfield Diagnostics Ltd, not Brightwater, so it is a different matter despite 0.96 text resemblance.",
+      "confidence": "high",
+      "alternatives": [
+        {
+          "matter": "this",
+          "why": "Text is nearly identical to the Brightwater v1, but the parties differ."
+        }
+      ]
+    },
+    {
+      "itemId": "e236b18a-8a09-4e08-9ce6-b27a5089833f",
+      "matter": "this",
+      "newMatterName": null,
+      "type": "other",
+      "reason": "Helix tracked-change counter between the Brightwater parties; rejecting its changes reproduces v2 (match 1), and it moves the period to five years, as Brightwater's 20 May email suggested.",
+      "confidence": "medium",
+      "alternatives": []
+    }
+  ],
+  "order": [
+    "baae48f0-1eb0-4607-a6d5-6ded82fb5b1a",
+    "a0d5efff-abf6-4bba-a740-c19668e0a9b7",
+    "e236b18a-8a09-4e08-9ce6-b27a5089833f"
+  ],
+  "lineage": [
+    {
+      "earlier": "baae48f0-1eb0-4607-a6d5-6ded82fb5b1a",
+      "later": "a0d5efff-abf6-4bba-a740-c19668e0a9b7",
+      "relation": "later is a markup of earlier",
+      "evidence": {
+        "itemId": "13aff8f6-6332-4025-92af-d6d796e8acac",
+        "quote": "Please find attached our markup of the NDA you sent on 4 May"
+      },
+      "confidence": "high"
+    },
+    {
+      "earlier": "a0d5efff-abf6-4bba-a740-c19668e0a9b7",
+      "later": "e236b18a-8a09-4e08-9ce6-b27a5089833f",
+      "relation": "later is a markup of earlier",
+      "evidence": {
+        "itemId": "e236b18a-8a09-4e08-9ce6-b27a5089833f",
+        "quote": "Confidentiality Period: five (5) years from the date of disclosure"
+      },
+      "confidence": "medium"
+    }
+  ],
+  "emailLinks": [
+    {
+      "email": "13aff8f6-6332-4025-92af-d6d796e8acac",
+      "document": "a0d5efff-abf6-4bba-a740-c19668e0a9b7",
+      "relation": "carries",
+      "evidence": {
+        "itemId": "13aff8f6-6332-4025-92af-d6d796e8acac",
+        "quote": "helix-brightwater-nda-v2-bw-markup.docx"
+      },
+      "confidence": "high"
+    },
+    {
+      "email": "ce5f50fe-69a0-4308-aa2e-d1f0ad18c82a",
+      "document": "a0d5efff-abf6-4bba-a740-c19668e0a9b7",
+      "relation": "comments on",
+      "evidence": {
+        "itemId": "ce5f50fe-69a0-4308-aa2e-d1f0ad18c82a",
+        "quote": "on the seven-year point, we could live with five years"
+      },
+      "confidence": "medium"
+    }
+  ],
+  "unknowns": [
+    "Who authored v3's tracked changes and whether it was sent to Brightwater; no email carries it.",
+    "Whether v3 deals with the retention carve-out; the visible text does not show it.",
+    "The 20 May email names no file, so its link to v2 rests on the seven-year point and the reply thread.",
+    "Whether v1 was Helix's own paper or a standard form; it is inferred from the 19 May email's 'the NDA you sent on 4 May'."
+  ]
+}
+```

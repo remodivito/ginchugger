@@ -1,0 +1,345 @@
+{
+ "id": "N517",
+ "revision": 1,
+ "title": "75448_0001193125-05-158309_dex99d4.htm",
+ "source": {
+  "dataset": "ContractNLI",
+  "documentId": 517,
+  "type": "sec-html",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000075448/000119312505158309/dex99d4.htm"
+ },
+ "paragraphs": [
+  {
+   "id": "s0",
+   "text": "Exhibit "
+  },
+  {
+   "id": "s1",
+   "text": "(d)(4)"
+  },
+  {
+   "id": "s2",
+   "text": "MUTUAL NON-DISCLOSURE/CONFIDENTIALITY AGREEMENT"
+  },
+  {
+   "id": "s3",
+   "text": "This Mutual Non-Disclosure/Confidentiality "
+  },
+  {
+   "id": "s4",
+   "text": "Agreement is entered into on 2 September, 2004, by and between nStor Corporation, Inc. (“nStor”), a Delaware (USA) Corporation, and Xyratex Technology Limited, Langstone Technology Park, Langstone Road, Havant, Hampshire PO9 "
+  },
+  {
+   "id": "s5",
+   "text": "1SA a company incorporated in England (‘Xyratex’) (collectively the ‘Parties’) for the purpose of sharing technical, business and financial information to foster potential mutually beneficial business relationships."
+  },
+  {
+   "id": "s6",
+   "text": "1. Confidential Information. "
+  },
+  {
+   "id": "s7",
+   "text": "Confidential Information does not need to be marked as such and is defined as any and all technical, business financial and other information belonging to either party, including but not limited to products, descriptions, drawings, bills of material, assembly drawings, compositions, business plans, financial information, trade secrets, know how, inventions, manufacturing techniques and processes, marketing and sales processes and techniques, customer lists, price lists, suppliers, current and future product developments."
+  },
+  {
+   "id": "s8",
+   "text": "Confidential Information shall not include information, technical data or knowledge which:"
+  },
+  {
+   "id": "s9",
+   "text": "a. is already known to the Receiving Party;"
+  },
+  {
+   "id": "s10",
+   "text": "b. is or becomes publicly known through no wrongful act of the Receiving Party;"
+  },
+  {
+   "id": "s11",
+   "text": "c. is rightfully received from a third party without restrictions and without breach of this Agreement;"
+  },
+  {
+   "id": "s12",
+   "text": "d. is independently developed by the Receiving Party;"
+  },
+  {
+   "id": "s13",
+   "text": "e. is approved for release by written authorization of the disclosing party; or"
+  },
+  {
+   "id": "s14",
+   "text": "f. if orally disclosed by one party to the other and within thirty (30) days after the oral disclosure, the disclosing party does not so identify it in writing as Confidential Information. "
+  },
+  {
+   "id": "s15",
+   "text": "Neither party will disclose to third parties or fail to treat as Confidential Information any information received orally from the disclosing party unless the disclosing party fails for thirty (30) days after such disclosure to identify the information disclosed as being confidential or proprietary."
+  },
+  {
+   "id": "s16",
+   "text": "2. Term. "
+  },
+  {
+   "id": "s17",
+   "text": "This Agreement shall commence when executed and continue for a period of one (1) year. "
+  },
+  {
+   "id": "s18",
+   "text": "The Parties agree that from the date of first receipt, and for a period of three (3) years following the last disclosure of Confidential Information, the party receiving the Confidential Information (the “Receiving Party”) shall not disclose the Confidential Information to any other person, or entity, or use for its own benefit except as provided in this Agreement and shall use the same degree of care to avoid publication or dissemination of such information as it does for its own confidential information which it does not desire to have published or disseminated. "
+  },
+  {
+   "id": "s19",
+   "text": "These efforts shall specifically include document control measures, such as numbered copies and sign out logs, and imposing on all employees, agents and other representatives of the Receiving Party restrictions at least as strict as required by this Agreement."
+  },
+  {
+   "id": "s20",
+   "text": "3. Marking. "
+  },
+  {
+   "id": "s21",
+   "text": "All information disclosed under this Agreement is deemed Confidential Information whether or not it is so marked. "
+  },
+  {
+   "id": "s22",
+   "text": "It is the intent of the Parties to mark information as confidential and/or proprietary prior to release to the Receiving Party. "
+  },
+  {
+   "id": "s23",
+   "text": "However, such markings may be overlooked and or disclosed verbally or visually and shall not diminish the value of its confidentiality."
+  },
+  {
+   "id": "s24",
+   "text": "4. Return of Confidential Information. "
+  },
+  {
+   "id": "s25",
+   "text": "All Confidential Information and any copies and extracts thereof shall be promptly returned to the disclosing party or at any time within thirty (30) days of receipt of a written request by the disclosing party for the return of such Confidential Information. "
+  },
+  {
+   "id": "s26",
+   "text": "If authorized by the disclosing party, such Confidential Information may be destroyed by the Receiving Party if such destruction is certified by the Receiving Party to the satisfaction of the disclosing party."
+  },
+  {
+   "id": "s27",
+   "text": "5. No License Granted. "
+  },
+  {
+   "id": "s28",
+   "text": "Nothing contained in this Agreement shall be construed as granting or conferring any rights by license, express, implied or otherwise, for any information, discovery or improvements made, conceived, or acquired after the date of this Agreement, or for any invention, discovery, or improvement made, conceived, or acquired after the date of this Agreement, or for any invention, discovery, or improvement made, conceived or acquired prior to the date of this Agreement."
+  },
+  {
+   "id": "s29",
+   "text": "6. Limitation on Use and Disclosure of Confidential Information. "
+  },
+  {
+   "id": "s30",
+   "text": "Confidential Information shall be used solely for the purpose of sharing technical, business and financial information to foster potential mutually beneficial business relationships."
+  },
+  {
+   "id": "s31",
+   "text": "(a) Confidential Information shall not be copied or reproduced by the Receiving Party, except for such copies as may be reasonably required for accomplishment of the purposes stated herein;"
+  },
+  {
+   "id": "s32",
+   "text": "(b) Confidential Information shall be disclosed only to employees, agents, and other parties of the Receiving Party who have a “need to know” in connection with the purposes stated herein; and"
+  },
+  {
+   "id": "s33",
+   "text": "(c) This Agreement shall not restrict the disclosure or use of information that:"
+  },
+  {
+   "id": "s34",
+   "text": "(i) was in the public domain at the time of disclosure or thereafter enters the public domain through no breach of this Agreement by the Receiving Party;"
+  },
+  {
+   "id": "s35",
+   "text": "(ii) was, at the time of the receipt by the Receiving Party, otherwise known to the Receiving Party without restrictions as to the use or disclosure;"
+  },
+  {
+   "id": "s36",
+   "text": "(iii) becomes known to the Receiving Party from a source other than the disclosing party without breach of this Agreement by the Receiving Party; or"
+  },
+  {
+   "id": "s37",
+   "text": "(iv) is developed independently by the Receiving Party and without reliance upon the Confidential Information disclosed herein."
+  },
+  {
+   "id": "s38",
+   "text": "7. Trading Limitations. "
+  },
+  {
+   "id": "s39",
+   "text": "The Parties’ will comply with any applicable United States securities laws."
+  },
+  {
+   "id": "s40",
+   "text": "8. Arbitration and Equitable Relief."
+  },
+  {
+   "id": "s41",
+   "text": "(a) Arbitration. "
+  },
+  {
+   "id": "s42",
+   "text": "Except as provided herein, the Parties agree that any dispute or controversy arising out of or relating to any interpretation, construction, performance or breach of this Agreement shall be settled by arbitration to be held in San Diego County, California, USA in accordance with the Commercial Arbitration Rules then in effect for the American Arbitration Association. "
+  },
+  {
+   "id": "s43",
+   "text": "The arbitrator may grant injunctions or other relief in such dispute or controversy. "
+  },
+  {
+   "id": "s44",
+   "text": "In the event of arbitration, the Parties may undertake a reasonable amount of discovery. "
+  },
+  {
+   "id": "s45",
+   "text": "The decision of the arbitrator shall be final, conclusive and binding on the parties to the arbitration. "
+  },
+  {
+   "id": "s46",
+   "text": "Judgement may be entered on the arbitrator’s decision in any court having jurisdiction."
+  },
+  {
+   "id": "s47",
+   "text": "(b) Equitable Remedies. "
+  },
+  {
+   "id": "s48",
+   "text": "The Parties agree that it would be impossible or inadequate to measure and calculate damages from any breach of the covenants set forth herein. "
+  },
+  {
+   "id": "s49",
+   "text": "Accordingly, the Parties agree that if in the event of a breach of the covenants contained in this Agreement, the affected party will have available, in addition to any other right or remedy available, the right to obtain an injunction from a court of competent jurisdiction restraining such breach or threatened breach and to specify performance of any such provision of the Agreement. "
+  },
+  {
+   "id": "s50",
+   "text": "The Parties further agree that no bond or other security shall be required in obtaining such equitable relief and the Parties hereby consent to the issuance of such injunction and to the ordering of specific performance."
+  },
+  {
+   "id": "s51",
+   "text": "9. Legal Expenses. "
+  },
+  {
+   "id": "s52",
+   "text": "If any action or proceeding is brought for enforcement of this Agreement, or because of an alleged or actual dispute, breach, default, or misrepresentation in connection with any of the provisions of this Agreement, the successful or prevailing party shall be entitled to recover reasonable attorney’s fees and other costs incurred in such action or proceeding in addition to any other relief to which it may be entitled."
+  },
+  {
+   "id": "s53",
+   "text": "10. General Provisions."
+  },
+  {
+   "id": "s54",
+   "text": "(a) Governing Law. "
+  },
+  {
+   "id": "s55",
+   "text": "This Agreement shall be governed by the laws of the United States of America, State of California."
+  },
+  {
+   "id": "s56",
+   "text": "(b) Severability. "
+  },
+  {
+   "id": "s57",
+   "text": "If one or more of the provisions in this Agreement is deemed void by law, then the remaining provisions will continue in full force and effect."
+  },
+  {
+   "id": "s58",
+   "text": "(c) Successor and Assigns. "
+  },
+  {
+   "id": "s59",
+   "text": "This Agreement will be binding upon the successors and/or assignees of the Parties."
+  },
+  {
+   "id": "s60",
+   "text": "(d) Headings. "
+  },
+  {
+   "id": "s61",
+   "text": "All headings used herein are intended for reference purposes only and shall not affect the interpretation or validity of this Agreement."
+  },
+  {
+   "id": "s62",
+   "text": "11. Obligations. "
+  },
+  {
+   "id": "s63",
+   "text": "Neither party has an obligation under this Agreement to purchase any service or item from the other party. "
+  },
+  {
+   "id": "s64",
+   "text": "Neither party has an obligation under this Agreement to offer for sale or license products using or incorporating the Confidential Information. "
+  },
+  {
+   "id": "s65",
+   "text": "Either party may, at its sole discretion, offer products for sale or license using its own information but not the Confidential Information of the other and may modify or discontinue sales at any time. "
+  },
+  {
+   "id": "s66",
+   "text": "This Agreement shall not constitute, create, give effect to, or otherwise imply a joint venture, pooling arrangement, partnership, or formal business organization of any kind, nor shall it constitute, create, give effect to, or otherwise imply an obligation or commitment on the part of either party to submit a proposal to or perform a contract with the other party. "
+  },
+  {
+   "id": "s67",
+   "text": "Nothing herein shall be construed as providing for the sharing of profits or losses arising out of the efforts of either or both parties. "
+  },
+  {
+   "id": "s68",
+   "text": "Neither party will be liable to the other party for any costs, expense, risks, or liabilities arising out of the other party’s efforts in connection with this Agreement."
+  },
+  {
+   "id": "s69",
+   "text": "12. Entire Understanding. "
+  },
+  {
+   "id": "s70",
+   "text": "This Agreement contains the entire understanding between the Parties concerning the subject matter hereof, superseding all prior contemporaneous communications, agreements and understandings between the Parties with respect to the disclosure and protection of Confidential Information. "
+  },
+  {
+   "id": "s71",
+   "text": "The rights and obligations of the Parties shall be limited to those expressly set forth herein."
+  },
+  {
+   "id": "s72",
+   "text": "nStor Corporation, Inc. Xyratex Technology Limited"
+  },
+  {
+   "id": "s73",
+   "text": "/s/ Steve Aleshire /s/ Matt Cornell"
+  },
+  {
+   "id": "s74",
+   "text": "Authorized Signature Authorized Signature"
+  },
+  {
+   "id": "s75",
+   "text": "Matt Cornell"
+  },
+  {
+   "id": "s76",
+   "text": "Steve Aleshire"
+  },
+  {
+   "id": "s77",
+   "text": "Print Name Print Name"
+  },
+  {
+   "id": "s78",
+   "text": "Executive VP − Storage Systems"
+  },
+  {
+   "id": "s79",
+   "text": "COO"
+  },
+  {
+   "id": "s80",
+   "text": "Title Title"
+  },
+  {
+   "id": "s81",
+   "text": "September 3, 2004 9/3/04"
+  },
+  {
+   "id": "s82",
+   "text": "Date Date"
+  }
+ ]
+}
