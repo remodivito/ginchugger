@@ -13,8 +13,9 @@ import { readStoreText, citableText } from '../server/store/text.js';
 import { counterpartyContext } from '../server/store/context.js';
 import { askQuestion } from '../server/review.js';
 import { docx } from './fixtures/record/helpers.js';
+import { fileURLToPath } from 'node:url';
 
-const SEED = new URL('../data/fixtures/tools-smoke/store-seed.json', import.meta.url).pathname;
+const SEED = fileURLToPath(new URL('../data/fixtures/tools-smoke/store-seed.json', import.meta.url));
 const scope = { documentId: 8, counterparty: 'Quillon Instruments Ltd' };
 const tmp = p => mkdtempSync(path.join(tmpdir(), p));
 

@@ -13,6 +13,10 @@ import { importDocx } from '../server/docx.js';
 
 const root = fileURLToPath(new URL('../', import.meta.url));
 const DIR = path.join(root, 'data/fixtures/order-form'); const read = f => readFileSync(path.join(DIR, f));
+// The committed file as the builder wrote it. A Windows checkout without .gitattributes turns the LF of the plain-text files
+// into CRLF; that is git's doing, not the builder's, so their line ends are read back as LF. The .docx and the .eml (whose
+// header lines end in CRLF on purpose) are compared exactly as they are.
+const committed = f => (/\.(txt|json|md)$/.test(f) ? Buffer.from(read(f).toString('utf8').replace(/\r\n/g, '\n')) : read(f));
 const truth = JSON.parse(read('truth.json'));
 const SENT = 'helix-northgate-order-form-v1.docx', MARKUP = 'helix-northgate-order-form-v2-customer-markup.docx';
 
@@ -20,7 +24,7 @@ test('the fixture holds the form, the markup, the email, the policy note, truth 
   for (const f of [SENT, MARKUP, '2026-06-04-northgate-returns-order-form.eml', 'policy-note.txt', 'truth.json', 'README.md']) assert.ok(existsSync(path.join(DIR, f)), f);
   const readme = read('README.md').toString();
   assert.match(readme, /licen[cs]e/i); assert.match(readme, /fictional/i); assert.match(readme, /Common Paper/); assert.match(readme, /Northgate Biosciences Ltd/);
-  for (const [name, hash] of Object.entries(truth.sha256)) assert.equal(createHash('sha256').update(read(name)).digest('hex'), hash, `${name} matches the hash the builder recorded`);
+  for (const [name, hash] of Object.entries(truth.sha256)) assert.equal(createHash('sha256').update(committed(name)).digest('hex'), hash, `${name} matches the hash the builder recorded`);
 });
 
 test('the builder reproduces every file byte for byte', () => {
@@ -28,7 +32,7 @@ test('the builder reproduces every file byte for byte', () => {
   const r = spawnSync(process.execPath, ['scripts/build-order-form-fixture.mjs'], { cwd: root, env: { ...process.env, ORDER_FORM_OUT: out }, encoding: 'utf8' });
   assert.equal(r.status, 0, r.stderr);
   const built = readdirSync(out).sort(); assert.deepEqual(built, [...Object.keys(truth.sha256), 'truth.json'].sort());
-  for (const f of built) assert.ok(readFileSync(path.join(out, f)).equals(read(f)), `${f} is byte-identical`);
+  for (const f of built) assert.ok(readFileSync(path.join(out, f)).equals(committed(f)), `${f} is byte-identical`);
 });
 
 test('the importer reads every tracked change with its original text, under the customer\'s name', async () => {

@@ -13,8 +13,9 @@ import { NOTICE, TOOL_NAMES } from '../server/store/tools.js';
 import { startToolsListener, createTokenStore, toolsHandler } from '../server/tools-listener.js';
 import { parseRendered, MCP_SCRIPT, serveStdio } from '../server/store-mcp.js';
 import { seedFakeStore } from '../server/store/seed.js';
+import { fileURLToPath } from 'node:url';
 
-const SEED = new URL('../data/fixtures/tools-smoke/store-seed.json', import.meta.url).pathname;
+const SEED = fileURLToPath(new URL('../data/fixtures/tools-smoke/store-seed.json', import.meta.url));
 const scope = { documentId: 8, counterparty: 'Quillon Instruments Ltd', actor: 'jane' };
 async function mcpClient(args, env = {}) {
   const client = new Client({ name: 'test', version: '1' });

@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.docx binary
+*.png binary
+*.jpg binary
+*.pdf binary
+*.zip binary
+contract-review/tests/fixtures/old-record/** binary
+*.eml -text

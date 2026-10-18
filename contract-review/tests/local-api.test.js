@@ -7,7 +7,7 @@ import { test, before, after } from 'node:test';
 import assert from 'node:assert/strict';
 import http from 'node:http';
 import { spawn } from 'node:child_process';
-import { mkdtempSync, writeFileSync, chmodSync, readFileSync, existsSync } from 'node:fs';
+import { mkdtempSync, writeFileSync, readFileSync, existsSync } from 'node:fs';
 import { createPrivateKey, createPublicKey } from 'node:crypto';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
@@ -48,15 +48,17 @@ test('checkLocalRequest: Host must be loopback; Origin must be this very origin;
   ok({ host: 'localhost:3000', 'sec-fetch-site': 'cross-site' }, '/help.html');
 });
 
-// One app, started as a lawyer's would be with a signing key in the environment and the Claude route, where `claude`
-// is a stand-in that records the environment it was given and fails.
+// One app, started as a lawyer's would be with a signing key in the environment and the Claude route, where the CLI is
+// a stand-in that records the environment it was given and fails. The stand-in is a Node script named by CLAUDE_BIN,
+// which the app runs with its own Node on every platform (a shell script on PATH does not run on Windows).
 let child, base, port, state, bin, envFile;
 before(async () => {
   state = mkdtempSync(path.join(tmpdir(), 'gcl-local-api-'));
   bin = mkdtempSync(path.join(tmpdir(), 'gcl-claude-stub-'));
   envFile = path.join(state, 'claude-env.txt');
-  writeFileSync(path.join(bin, 'claude'), `#!/bin/sh\nenv > "${envFile}"\necho "stub: not a model" >&2\nexit 1\n`); chmodSync(path.join(bin, 'claude'), 0o755);
-  const env = { ...process.env, PATH: `${bin}${path.delimiter}${process.env.PATH}`, PORT: '0', MARGIN_STATE_DIR: state, GCL_KEYCHAIN: 'file', GCL_STORE: 'off', REVIEW_EXECUTOR: 'claude', REVIEW_RECORD_SIGNING_KEY: SEED, REVIEW_REPLAY_DIR: '', REVIEW_TRACE_DIR: '', REVIEW_TOOLS_SUPPORTED: 'false', ANTHROPIC_API_KEY: '', OPENAI_API_KEY: '', HTTPS_KEY: '', HTTPS_CERT: '' };
+  const stub = path.join(bin, 'claude-stub.mjs');
+  writeFileSync(stub, `import { writeFileSync } from 'node:fs';\nwriteFileSync(${JSON.stringify(envFile)}, Object.entries(process.env).map(([k, v]) => k + '=' + v).join('\\n') + '\\n');\nprocess.stderr.write('stub: not a model\\n');\nprocess.exit(1);\n`);
+  const env = { ...process.env, CLAUDE_BIN: stub, PORT: '0', MARGIN_STATE_DIR: state, GCL_KEYCHAIN: 'file', GCL_STORE: 'off', REVIEW_EXECUTOR: 'claude', REVIEW_RECORD_SIGNING_KEY: SEED, REVIEW_REPLAY_DIR: '', REVIEW_TRACE_DIR: '', REVIEW_TOOLS_SUPPORTED: 'false', ANTHROPIC_API_KEY: '', OPENAI_API_KEY: '', HTTPS_KEY: '', HTTPS_CERT: '' };
   child = spawn(process.execPath, ['server/index.js'], { cwd: root, env, stdio: ['ignore', 'pipe', 'pipe'] });
   let out = '';
   await new Promise((resolve, reject) => {
@@ -98,7 +100,7 @@ test('the record signing key is not in the environment a review hands to the Cla
   assert.ok(existsSync(envFile), 'the stand-in claude ran');
   const seen = readFileSync(envFile, 'utf8');
   assert.doesNotMatch(seen, /REVIEW_RECORD_SIGNING_KEY/); assert.doesNotMatch(seen, new RegExp(SEED));
-  assert.match(seen, /^PATH=/m); // the stand-in really got an environment
+  assert.match(seen, /^PATH=/im); // the stand-in really got an environment (Windows spells it Path)
   const record = await raw('POST', '/api/review-record', { headers: { 'content-type': 'application/json' }, body: JSON.stringify({ document: doc, review: { findings: [] }, outcomes: {}, events: [] }) });
   assert.equal(record.status, 200, record.body);
   const out = JSON.parse(record.body);

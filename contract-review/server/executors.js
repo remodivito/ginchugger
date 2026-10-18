@@ -51,14 +51,19 @@ export function describeExecutor(env = process.env) {
   if (cfg.executor === 'anthropic' && !env.ANTHROPIC_API_KEY) { available = false; reason = 'ANTHROPIC_API_KEY is required for the anthropic executor.'; }
   if (cfg.executor === 'openai' && !(env.OPENAI_API_KEY && cfg.model)) { available = false; reason = 'OPENAI_API_KEY and a model are required for the openai executor.'; }
   if (cfg.executor === 'replay' && !(cfg.replayDir && existsSync(cfg.replayDir))) { available = false; reason = 'REVIEW_REPLAY_DIR must point at a folder of recorded runs.'; }
-  if (cfg.executor === 'claude' && !which('claude')) { available = false, reason = 'The claude CLI is not on PATH.'; }
+  if (cfg.executor === 'claude' && !which(env.CLAUDE_BIN || 'claude')) { available = false, reason = 'The claude CLI is not on PATH.'; }
   if (cfg.executor === 'codex' && !which(env.CODEX_BIN || 'codex')) { available = false, reason = 'The codex CLI is not on PATH.'; }
   if (cfg.executor === 'muse' && !which(env.MUSE_BIN || 'muse')) { available = false, reason = 'The muse CLI is not on PATH.'; }
   if (cfg.executor === 'agy' && !which(env.AGY_BIN || 'agy')) { available = false, reason = 'The agy CLI is not on PATH.'; }
   return { executor: cfg.executor, model: cfg.model, effort: cfg.effort, available, reason };
 }
 
-function which(bin) { if (bin.includes('/')) return existsSync(bin); const r = spawnSync('sh', ['-c', `command -v ${bin}`], { encoding: 'utf8' }); return r.status === 0 && Boolean(r.stdout.trim()); }
+// A path (either separator) must exist; a bare name is looked up on PATH: `where` on Windows (which has no sh), else sh.
+function which(bin) {
+  if (/[\\/]/.test(bin)) return existsSync(bin);
+  const r = process.platform === 'win32' ? spawnSync('where', [bin], { encoding: 'utf8' }) : spawnSync('sh', ['-c', `command -v ${bin}`], { encoding: 'utf8' });
+  return r.status === 0 && Boolean(String(r.stdout || '').trim());
+}
 // API keys never reach a CLI. The Claude CLI's own long-lived token (claude setup-token) is its sign-in, so it stays.
 function cleanEnv(keep = []) { const env = { ...process.env }; for (const k of STRIP) if (!keep.includes(k)) delete env[k]; return env; }
 /** First JSON object in the text. Greedy match first; if the model wrote anything after the object (a second object,

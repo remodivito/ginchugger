@@ -15,7 +15,9 @@ import { writeStoreInit, FILES as INIT_FILES } from '../server/store/compose-ini
 import { storeRoutes } from '../server/store/http.js';
 
 const tmp = () => mkdtempSync(path.join(tmpdir(), 'gcl-store-'));
-const mode600 = file => (statSync(file).mode & 0o777).toString(8);
+// Windows has no POSIX file modes (statSync reports 666 for any writable file), so the mode checks run on macOS and Linux;
+// the rest of each test runs everywhere.
+const assertMode = (file, want, message) => { if (process.platform !== 'win32') assert.equal((statSync(file).mode & 0o777).toString(8), want, message); };
 const res = (body, status = 200) => new Response(JSON.stringify(body), { status, headers: { 'Content-Type': 'application/json' } });
 
 /** A scripted Paperless at the HTTP level the service uses directly (/api/, /api/token/, /api/status/). */
@@ -99,8 +101,8 @@ test('the team-server container\'s store (compose.yml): store-init writes the se
   const env = readFileSync(path.join(dir, ENV_FILE), 'utf8');
   assert.equal(read(INIT_FILES.secretKey), env.match(/PAPERLESS_SECRET_KEY=(\S+)/)[1]);
   assert.equal(read(INIT_FILES.adminPassword), env.match(/PAPERLESS_ADMIN_PASSWORD=(\S+)/)[1]);
-  for (const f of [ENV_FILE, ...Object.values(INIT_FILES)]) assert.equal(mode600(path.join(dir, f)), '600', f);
-  assert.equal((statSync(dir).mode & 0o777).toString(8), '700');
+  for (const f of [ENV_FILE, ...Object.values(INIT_FILES)]) assertMode(path.join(dir, f), '600', f);
+  assertMode(dir, '700');
   assert.deepEqual([read(INIT_FILES.trashCron), read(INIT_FILES.trashDelay)], ['disable', '36500'], 'no trailing newline: Paperless reads the file as the value');
   const key = read(INIT_FILES.secretKey);
   writeFileSync(settingsFile, JSON.stringify({ trash: { purgeAfterDays: 30 } }));
@@ -128,8 +130,10 @@ test('external with the admin password in the store\'s paperless.env (the contai
 });
 
 test('compose.yml: the team server with the store beside it on an internal network, Paperless not published, the same pinned images, trash off by default', () => {
-  const team = readFileSync(new URL('../compose.yml', import.meta.url), 'utf8');
-  const solo = readFileSync(COMPOSE_FILE, 'utf8');
+  // Read as text: a Windows checkout without .gitattributes has CRLF line ends, which the patterns below do not care about.
+  const lf = s => s.replace(/\r\n/g, '\n');
+  const team = lf(readFileSync(new URL('../compose.yml', import.meta.url), 'utf8'));
+  const solo = lf(readFileSync(COMPOSE_FILE, 'utf8'));
   const images = text => [...text.matchAll(/^\s+image: (\S+)$/gm)].map(m => m[1]).filter(i => !i.includes('GCL_IMAGE')).sort();
   assert.deepEqual(images(team), images(solo));
   assert.deepEqual([...team.matchAll(/^\s+ports:/gm)].length, 1, 'only the team server publishes a port');
@@ -187,13 +191,13 @@ test('managed: compose up, secrets 0600, service token saved 0600, base tags, re
   assert.deepEqual(docker.calls, ['available', ['up', 8011, cfg.dataDir, 'gcl-store']]);
   for (const sub of ['data', 'media', 'export', 'consume', 'redisdata']) assert.ok(existsSync(path.join(cfg.dataDir, sub)), sub);
   const envFile = path.join(cfg.dataDir, ENV_FILE);
-  assert.equal(mode600(envFile), '600');
+  assertMode(envFile, '600');
   const env = readFileSync(envFile, 'utf8');
   assert.match(env, new RegExp(`PAPERLESS_ADMIN_USER=${SERVICE_USER}`));
   assert.match(env, /PAPERLESS_SECRET_KEY=\S{40,}/);
   assert.match(env, /PAPERLESS_ADMIN_PASSWORD=\S{20,}/);
   const tokens = path.join(cfg.dataDir, TOKENS_FILE);
-  assert.equal(mode600(tokens), '600');
+  assertMode(tokens, '600');
   assert.deepEqual(JSON.parse(readFileSync(tokens, 'utf8')).service, { username: SERVICE_USER, token: 'tok-1' });
   assert.equal(http.calls.find(c => c.path === '/api/token/').body.username, SERVICE_USER);
   assert.equal(stores.made[0].token, 'tok-1');

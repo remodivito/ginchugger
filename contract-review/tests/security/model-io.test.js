@@ -17,6 +17,7 @@ import { makeToolRouter, prepareAgenticReview, NOTICE } from '../../server/store
 import { askQuestion, reviewDocument } from '../../server/review.js';
 import { runModel } from '../../server/executors.js';
 import { coverageOf } from '../../src/review/model.js';
+import { fileURLToPath } from 'node:url';
 
 const W = 'http://schemas.openxmlformats.org/wordprocessingml/2006/main';
 const esc = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
@@ -61,7 +62,7 @@ test('hidden, white and tiny runs are read as text but the paragraph is marked h
   assert.equal(coverageOf(review, { doc: { paragraphs: [{ id: 'p1', text: 'x' }], warnings: [] }, rules: [] }), null);
 });
 
-const SEED = new URL('../../data/fixtures/tools-smoke/store-seed.json', import.meta.url).pathname;
+const SEED = fileURLToPath(new URL('../../data/fixtures/tools-smoke/store-seed.json', import.meta.url));
 const document = { id: 'd', revision: 1, title: 'NDA', paragraphs: [{ id: 'p3', text: 'Term. The obligations in this Agreement continue for seven years after termination.' }] };
 const playbook = { version: 1, rules: [{ id: 'DUR-01', title: 'Duration', guidance: 'Five years at most.', enabled: true }] };
 const replay = dir => ({ executor: 'replay', model: 'replay', effort: 'medium', replayDir: dir, traceDir: null, toolsSupported: true });

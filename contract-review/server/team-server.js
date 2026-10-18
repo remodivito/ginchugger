@@ -17,6 +17,7 @@ import { createServer as createHttpsServer } from 'node:https';
 import { readFileSync, writeFileSync, existsSync, rmSync, mkdirSync, statSync } from 'node:fs';
 import { X509Certificate, randomBytes } from 'node:crypto';
 import path from 'node:path';
+import { pathToFileURL } from 'node:url';
 import { openLocalRecord } from './record/local.js';
 import { recordRoutes } from './record/http.js';
 import { importPlaybooks } from './record/legacy.js';
@@ -220,4 +221,4 @@ async function main() {
   console.log(`${NAME} ${PACKAGE.version} is ready at https://${parseListen(srv.settings.server.listen).host === '0.0.0.0' ? 'localhost' : parseListen(srv.settings.server.listen).host}:${port}`);
 }
 
-if (process.argv[1] && import.meta.url === new URL(`file://${path.resolve(process.argv[1])}`).href) main();
+if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href) main();

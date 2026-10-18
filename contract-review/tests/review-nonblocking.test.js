@@ -77,7 +77,7 @@ test('the request the model receives is unchanged: the same flags, prompts/revie
   const document = await imported(base);
   assert.equal((await review(base, document)).status, 200);
   const system = readFileSync(path.join(root, 'prompts/review.md'), 'utf8');
-  assert.equal(createHash('sha256').update(system).digest('hex'), REVIEW_MD_SHA256, 'prompts/review.md is frozen with the benchmark');
+  assert.equal(createHash('sha256').update(system).digest('hex'), REVIEW_MD_SHA256, 'prompts/review.md is frozen with the benchmark (byte for byte: a CRLF checkout fails here, as it would change what the model is sent; .gitattributes keeps it LF)');
   const sent = readFileSync(argsFile, 'utf8').trim().split('\n').map(l => JSON.parse(l));
   assert.equal(sent.length, 1);
   assert.deepEqual(sent[0].args, ['-p', '--model', 'stub-model', '--effort', 'low', '--system-prompt', system, '--tools', '', '--setting-sources', '', '--no-session-persistence', '--disable-slash-commands', '--strict-mcp-config', '--permission-prompts', 'none', '--output-format', 'json']);
