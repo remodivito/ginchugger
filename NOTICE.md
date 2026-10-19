@@ -68,6 +68,14 @@ Not copyrightable, credited as a courtesy:
 - Harvey LAB (https://github.com/harveyai/harvey-labs, commit `f93ae2ac2831e65892fea83094cfb50149bc2e59`), MIT, Copyright (c) 2026 Harvey AI: the synthetic "Velantis" NDA negotiation playbook in `contract-review/tests/fixtures/playbooks/velantis-nda-negotiation-playbook.txt` (rendered to text from the task's `.docx`) and the Velantis NDA payload in `contract-review/tests/fixtures/exp008-v1.1/`. Licence text: `contract-review/docs/ports/licences/MIT-harvey-labs.txt`.
 - `contract-review/data/clause-types.json`: the clause types are the CUAD v1 category list (The Atticus Project, Contract Understanding Atticus Dataset; Hendrycks, Burns, Chen and Ball 2021), CC BY 4.0.
 
+## README images
+
+The images in `docs/readme/` are drawn by `tough-eval/v2/charts/render.mjs` from this repository's data and the app's own screenshots. They embed:
+- Icons from Lucide (https://lucide.dev), ISC licence, the same set the app uses (`lucide-react`).
+- Provider logos (Anthropic, DeepSeek, Z.ai, Mistral) from LobeHub icons (`@lobehub/icons-static-svg` 1.95.1, https://github.com/lobehub/lobe-icons), MIT. The logos are their owners' trademarks, used only to identify which model a result belongs to; no endorsement is implied.
+- The Geist and Newsreader typefaces (via `@fontsource`), SIL Open Font License 1.1.
+- Open-model prices for the cost estimates: Munito's listing on models.dev (https://github.com/anomalyco/models.dev/pull/9276), retrieved 19 October 2026; the figures are in `tough-eval/v2/charts/data.json`.
+
 ## Dependencies
 
 npm dependencies keep their own licences (MIT, ISC, Apache-2.0, BSD; the mail consumer uses imapflow 2.1.2 (MIT, Postal Systems OÜ), mailparser 3.9.32 (MIT, Andris Reinman) and @azure/msal-node 7.0.0 (MIT, Microsoft)), all compatible with use inside a GPL-3.0 project; see each package's `LICENSE`.

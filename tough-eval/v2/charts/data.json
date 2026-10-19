@@ -1,0 +1,34 @@
+{
+  "about": "Numbers behind the README charts. Frozen rows match v2/frozen/REPORT.md (checked by data.test.mjs). The GLM 131k row is the declared variant (decision 195), scored by v2/frozen/report.mjs on its run but not part of the frozen report. Seconds and Opus cost are the report's medians over usable reviews; open-model cost is an estimate from extract.mjs: median over successful reviews of (uncached input × input price + cached input × cache-read price + output tokens × output price).",
+  "benchmark": "GinBench v2 layer A, frozen at bench-v2.0-a",
+  "deviations": 28,
+  "agreements": 75,
+  "setups": [
+    { "id": "opus-5.5-product", "name": "Opus 5.5", "tag": "", "provider": "anthropic", "kind": "product", "frozen": true, "misses": 0, "missUpper": 10.2, "falseAlarms": 0.0769, "invented": [0, 78], "allPass": [66, 75], "seconds": 85, "costUsd": 0.3203, "cost": "reported", "outputTokens": 10352 },
+    { "id": "deepseek-v4-flash-product", "name": "DeepSeek V4 Flash", "tag": "", "provider": "deepseek", "kind": "product", "frozen": true, "misses": 0, "missUpper": 10.2, "falseAlarms": 0.1067, "invented": [1, 75], "allPass": [65, 75], "seconds": 307, "costUsd": 0.0115, "cost": "estimate", "outputTokens": 36727 },
+    { "id": "opus-5.5-plain", "name": "Opus 5.5", "tag": "plain prompt", "provider": "anthropic", "kind": "plain", "frozen": true, "misses": 1, "missUpper": 15.8, "falseAlarms": 0, "invented": [0, 78], "allPass": [64, 75], "seconds": 19, "costUsd": 0.155, "cost": "reported", "outputTokens": 1503 },
+    { "id": "glm-5.3-flash-131k", "name": "GLM-5.3 Flash", "tag": "131k", "provider": "zai", "kind": "variant", "frozen": false, "misses": 2, "missUpper": 20.8, "falseAlarms": 0.1154, "invented": [1, 78], "allPass": [57, 75], "seconds": 397, "costUsd": 0.0261, "cost": "estimate", "outputTokens": 49469 },
+    { "id": "glm-5.3-flash-product", "name": "GLM-5.3 Flash", "tag": "", "provider": "zai", "kind": "product", "frozen": true, "misses": 4, "missUpper": 29.8, "falseAlarms": 0.04, "invented": [0, 75], "allPass": [61, 75], "seconds": 380, "costUsd": 0.0253, "cost": "estimate", "outputTokens": 46159 },
+    { "id": "mistral-small-4-product", "name": "Mistral Small 4", "tag": "", "provider": "mistral", "kind": "product", "frozen": true, "misses": 20, "missUpper": 84.9, "falseAlarms": 2.9615, "invented": [13, 78], "allPass": [17, 75], "seconds": 59, "costUsd": 0.0047, "cost": "estimate", "outputTokens": 5636 }
+  ],
+  "byAuthor": {
+    "authors": [["opus", "Opus items", 26], ["glm", "GLM items", 22], ["deepseek", "DeepSeek items", 27]],
+    "rows": [
+      { "id": "opus-5.5-product", "own": "opus", "allPass": [0.885, 0.818, 0.926], "advantage": -0.0369, "interval": [-0.264, 0.1821], "verdict": "not detected" },
+      { "id": "deepseek-v4-flash-product", "own": "deepseek", "allPass": [0.885, 0.864, 0.852], "advantage": -0.0435, "interval": [-0.2476, 0.1536], "verdict": "not detected" },
+      { "id": "opus-5.5-plain", "own": "opus", "allPass": [0.885, 0.864, 0.815], "advantage": null, "interval": null, "verdict": null },
+      { "id": "glm-5.3-flash-product", "own": "glm", "allPass": [0.808, 0.909, 0.741], "advantage": 0.1999, "interval": [0.0147, 0.3716], "verdict": "detected", "note": "reduced item set" },
+      { "id": "mistral-small-4-product", "own": null, "allPass": [0.231, 0.273, 0.185], "advantage": null, "interval": null, "verdict": null }
+    ]
+  },
+  "prices": {
+    "unit": "USD per million tokens",
+    "source": "Munito's listing on models.dev, https://github.com/anomalyco/models.dev/pull/9276 (Munito's own docs and API publish no prices)",
+    "retrieved": "2026-10-19",
+    "models": {
+      "zai-org/glm-5.3-flash": { "input": 0.15, "cacheRead": 0.03, "output": 0.5 },
+      "deepseek-ai/deepseek-v4-flash": { "input": 0.13, "cacheRead": 0.028, "output": 0.28 },
+      "mistralai/mistral-small-4-119b-2603": { "input": 0.16, "cacheRead": 0.016, "output": 0.63 }
+    }
+  }
+}
