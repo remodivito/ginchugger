@@ -1,9 +1,4 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/readme/wordmark-dark.png">
-    <img src="docs/readme/wordmark-light.png" alt="GinChugger" width="380">
-  </picture>
-</p>
+![GinChugger](docs/assets/ginchugger-banner.jpg)
 
 <p align="center">Contract review in Word, against your own playbook, and the benchmark that measures it.</p>
 
